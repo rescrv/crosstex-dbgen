@@ -1930,7 +1930,7 @@
 }
 
 @inproceedings{DBLP:conf/saint/LiuABW10,
-  author    = {Xiaoqing Liu and
+  author    = {Xiaoqing (Frank) Liu and
                Ravi Santosh Arvapally and
                Hojong Baik and
                Rubal Wanchoo},
@@ -4758,7 +4758,7 @@
 
 @inproceedings{DBLP:conf/saint/CerqueiraSNVCMM07,
   author    = {Eduardo Cerqueira and
-               Tiago Sousa and
+               Tiago M. Sousa and
                Augusto Neto and
                Luis Veloso and
                Marília Curado and
@@ -8136,9 +8136,9 @@
 }
 
 @inproceedings{DBLP:conf/saint/ShinKJ05,
-  author    = {Seung-won Shin and
-               Ki-young Kim and
-               Jong-soo Jang},
+  author    = {Seung-Won Shin and
+               Ki-Young Kim and
+               Jong-Soo Jang},
   title     = {D-SAT: Detecting {SYN} Flooding Attack by {Two-Stage} Statistical Approach},
   booktitle = saint,
   year      = 2005,
@@ -9232,7 +9232,7 @@
 
 @inproceedings{DBLP:conf/saint/KimuraNI04,
   author    = {Eizen Kimura and
-               Tateishi Norihiko and
+               Norihiko Tateishi and
                Ken Ishihara},
   title     = {The Design of Virtual Private Network Topology for Migrating to IPv6 World},
   booktitle = saint,
@@ -9327,7 +9327,7 @@
 
 @inproceedings{DBLP:conf/saint/TanakaIYSY04,
   author    = {Satoshi Tanaka and
-               Tomoko Iato and
+               Tomoko Itao and
                Atsushi Yamamoto and
                Tatsuya Suda and
                Shigeki Yamada},

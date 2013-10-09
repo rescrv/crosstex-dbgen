@@ -6314,7 +6314,7 @@
 @inproceedings{DBLP:conf/icdcs/JunAX05,
   author    = {Seung Jun and
                Mustaque Ahamad and
-               Jun Xu},
+               Jun (Jim) Xu},
   title     = {Robust Information Dissemination in Uncooperative Environments},
   booktitle = icdcs,
   year      = 2005,
@@ -13835,7 +13835,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/YeungY95,
-  author    = {K. H. Yeung and
+  author    = {Kai-Hau Yeung and
                Tak-Shing Yum},
   title     = {Selective Broadcast Data Distribution Systems},
   booktitle = icdcs,
@@ -17066,7 +17066,7 @@
 
 @inproceedings{DBLP:conf/icdcs/SchwarzBB90,
   author    = {Thomas J. E. Schwarz and
-               Robert W. Bowdidgem and
+               Robert W. Bowdidge and
                Walter A. Burkhard},
   title     = {{Low-Cost} Comparisons of File Copies},
   booktitle = icdcs,
@@ -17616,7 +17616,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/BelkeirA89,
-  author    = {N. E. Belkeir and
+  author    = {Nasr E. Belkeir and
                Mustaque Ahamad},
   title     = {Low Cost Algorithms for Message Delivery in Dynamic Multicast Groups},
   booktitle = icdcs,
@@ -20948,7 +20948,7 @@
 @inproceedings{DBLP:conf/icdcs/FerravantaMTZ82,
   author    = {A. Ferravanta and
                M. Martelli and
-               F. Tarini and
+               Fabio Tarini and
                P. Zini},
   title     = {Virtual Memory Service in Local Area Network},
   booktitle = icdcs,
@@ -21471,7 +21471,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/EstraillierG82,
-  author    = {P. Estraillier and
+  author    = {Pascal Estraillier and
                Claude Girault},
   title     = {Petri Net Specification of a New Protocol for Controlling a Distributed System Organization},
   booktitle = icdcs,

@@ -64,7 +64,7 @@
 @inproceedings{DBLP:conf/hicss/GuimaraesAGPF13,
   author    = {Cayley Guimaraes and
                Diego R. Antunes and
-               Laura Sánchez Garcia and
+               Laura Sánchez García and
                Letícia M. Peres and
                Sueli Fernandes},
   title     = {Pedagogical Architecture - Internet Artifacts for Bilingualism of the Deaf (Sign Language/Portuguese)},
@@ -2832,10 +2832,10 @@
 
 @inproceedings{DBLP:conf/hicss/HolttinenODFKAS13,
   author    = {H. Holttinen and
-               M. O'Malley and
+               Mark O'Malley and
                J. Dillon and
-               D. Flynn and
-               A. Keane and
+               Damian Flynn and
+               Andrew Keane and
                H. Abildgaard and
                L. Soder},
   title     = {Steps for a Complete Wind Integration Study},
@@ -5848,8 +5848,8 @@
 }
 
 @inproceedings{DBLP:conf/hicss/MarinoviciKGC13,
-  author    = {M. C. Marinovici and
-               H. Kirkham and
+  author    = {M. Cristina Marinovici and
+               Harold Kirkham and
                K. A. Glass and
                L. C. Carlsen},
   title     = {Engineering Quality while Embracing Change: Lessons Learned},
@@ -7101,7 +7101,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/ValRB12,
-  author    = {E. del Val and
+  author    = {Elena del Val Noguera and
                Miguel Rebollo and
                Vicente J. Botti},
   title     = {{Self-Organized} Service Management in Social Systems},
@@ -8346,7 +8346,7 @@
 
 @inproceedings{DBLP:conf/hicss/MathieuC12,
   author    = {Johanna L. Mathieu and
-               Duncan Callaway},
+               Duncan S. Callaway},
   title     = {State Estimation and Control of Heterogeneous Thermostatically Controlled Loads for Load Following},
   booktitle = hicss,
   year      = 2012,
@@ -8465,7 +8465,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/MorrowHRBO12,
-  author    = {K. L. Morrow and
+  author    = {Kate L. Morrow and
                Erich Heine and
                Katherine M. Rogers and
                Rakeshbabu Bobba and
@@ -12107,7 +12107,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/KangP11,
-  author    = {Dong Joo Kang and
+  author    = {Dong-Joo Kang and
                Sunju Park},
   title     = {A Case Study on the Grid Impact of {PHEVs} to Distribution Power System},
   booktitle = hicss,
@@ -13514,9 +13514,9 @@
 }
 
 @inproceedings{DBLP:conf/hicss/BerginHN11,
-  author    = {Richard Bergin and
+  author    = {Richard D. Bergin and
                Bryan J. Hudgens and
-               Mark Nissen},
+               Mark E. Nissen},
   title     = {Examining Work Performance in Immersive Virtual Environments versus {Face-to-Face} Physical Environments through Laboratory Experimentation},
   booktitle = hicss,
   year      = 2011,
@@ -13788,7 +13788,7 @@
 
 @inproceedings{DBLP:conf/hicss/CogburnSV11,
   author    = {Derrick L. Cogburn and
-               Alecia Santuzzi and
+               Alecia M. Santuzzi and
                Fatima K. Espinoza Vasquez},
   title     = {Developing and Validating a {Socio-Technical} Model for Geographically Distributed Collaboration in Global Virtual Teams},
   booktitle = hicss,
@@ -17668,7 +17668,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/CaglayanTDBE10,
-  author    = {Alper Caglayan and
+  author    = {Alper K. Caglayan and
                Mike Toothaker and
                Dan Drapeau and
                Dustin Burke and
@@ -18955,7 +18955,7 @@
 @inproceedings{DBLP:conf/hicss/FarmerHDB10,
   author    = {Chris Farmer and
                Paul Hines and
-               Jonathan Dowds and
+               Jonathan R. Dowds and
                Seth Blumsack},
   title     = {Modeling the Impact of Increasing {PHEV} Loads on the Distribution Infrastructure},
   booktitle = hicss,
@@ -20149,7 +20149,7 @@
   author    = {Brian E. Mennecke and
                Janea L. Triplett and
                Lesya M. Hassall and
-               Zayira Jordan Conde},
+               Zayira Jordán Conde},
   title     = {Embodied Social Presence Theory},
   booktitle = hicss,
   year      = 2010,
@@ -20597,7 +20597,7 @@
 @inproceedings{DBLP:conf/hicss/RoyESDSW10,
   author    = {Sankardas Roy and
                Charles Ellis and
-               Sajjan Shiva and
+               Sajjan G. Shiva and
                Dipankar Dasgupta and
                Vivek Shandilya and
                Qishi Wu},
@@ -21029,7 +21029,7 @@
   author    = {Craig Ulmer and
                Greg Bayer and
                Yung Ryn Choe and
-               Diana Roe},
+               Diana C. Roe},
   title     = {Exploring Data Warehouse Appliances for Mesh Analysis Applications},
   booktitle = hicss,
   year      = 2010,
@@ -28635,7 +28635,7 @@
 
 @inproceedings{DBLP:conf/hicss/AuC08,
   author    = {Richard Au and
-               Peter Croll},
+               Peter R. Croll},
   title     = {{Consumer-Centric} and {Privacy-Preserving} Identity Management for Distributed {E-Health} Systems},
   booktitle = hicss,
   year      = 2008,
@@ -29121,7 +29121,7 @@
 @inproceedings{DBLP:conf/hicss/WarmbrodtSH08,
   author    = {John Warmbrodt and
                Hong Sheng and
-               Richard Hall},
+               Richard H. Hall},
   title     = {Social Network Analysis of Video Bloggers' Community},
   booktitle = hicss,
   year      = 2008,
@@ -44626,7 +44626,7 @@
 @inproceedings{DBLP:conf/hicss/Lingley-PottieWMJ05,
   author    = {Patricia Lingley-Pottie and
                Carolyn R. Watters and
-               Patrick McGrath and
+               Patrick J. McGrath and
                Teresa Janz},
   title     = {Providing Family Help at Home},
   booktitle = hicss,
@@ -44813,7 +44813,7 @@
 @inproceedings{DBLP:conf/hicss/MasseyKR05,
   author    = {Anne P. Massey and
                Vijay Khatri and
-               V. Ramesh},
+               Venkataraman Ramesh},
   title     = {From the Web to the Wireless Web: Technology Readiness and Usability},
   booktitle = hicss,
   year      = 2005,
@@ -50139,7 +50139,7 @@
 
 @inproceedings{DBLP:conf/hicss/McArthurDHM04,
   author    = {Stephen D. J. McArthur and
-               E. M. Davidson and
+               Euan M. Davidson and
                John A. Hossack and
                James R. McDonald},
   title     = {Automating Power System Fault Diagnosis through {Multi-Agent} System Technology},
@@ -56647,7 +56647,7 @@
                Emil Dumitrescu and
                Marc Renaudin and
                Jean-Baptiste Rigaud and
-               Antoine Sirianni},
+               Antoine Siriani},
   title     = {An Approach to the Introduction of Formal Validation in an Asynchronous Circuit Design Flow},
   booktitle = hicss,
   year      = 2003,
@@ -56845,7 +56845,7 @@
 
 @inproceedings{DBLP:conf/hicss/OHaraP03,
   author    = {Kenton O'Hara and
-               Mark Perry},
+               Mark J. Perry},
   title     = {User Centred Opportunities for Supporting Consumer Behaviour Through Handheld and Ubiquitous Computing},
   booktitle = hicss,
   year      = 2003,
@@ -57753,7 +57753,7 @@
 @inproceedings{DBLP:conf/hicss/BookerLMF02,
   author    = {Queen Esther Booker and
                Ana V. Lopez and
-               Michael McQuaid and
+               Michael J. McQuaid and
                Scott Farrar},
   title     = {Advanced Question and Answering Systems for Community Development},
   booktitle = hicss,
@@ -57866,7 +57866,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/RameshD02,
-  author    = {V. Ramesh and
+  author    = {Venkataraman Ramesh and
                Alan R. Dennis},
   title     = {The Object Oriented Team: Lessons for Virtual Teams from Global Software Development},
   booktitle = hicss,
@@ -58549,7 +58549,7 @@
 @inproceedings{DBLP:conf/hicss/EscobarSMO02,
   author    = {Gerardo Escobar and
                Alex M. Stankovic and
-               P. Mattavelli and
+               Paolo Mattavelli and
                Romeo Ortega},
   title     = {On the Nonlinear Control of {TCSC}},
   booktitle = hicss,
@@ -62536,7 +62536,7 @@
 
 @inproceedings{DBLP:conf/hicss/BagirovRYS01,
   author    = {Adil M. Bagirov and
-               Alex Rubinov and
+               Alexander M. Rubinov and
                John Yearwood and
                Andrew Stranieri},
   title     = {A Global Optimization Approach to Classification in Medical Diagnosis and Prognosis},
@@ -64048,7 +64048,7 @@
 
 @inproceedings{DBLP:conf/hicss/HomburgM01,
   author    = {Vincent Homburg and
-               Albert Meijer},
+               Albert Jacob Meijer},
   title     = {Why Would Anybody Like to Share His Knowledge?},
   booktitle = hicss,
   year      = 2001,
@@ -65028,7 +65028,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/McQuaidB01,
-  author    = {Michael McQuaid and
+  author    = {Michael J. McQuaid and
                Queen Esther Booker},
   title     = {Community Development and Technology Minitrack - Introduction},
   booktitle = hicss,
@@ -65402,7 +65402,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/PerryFS01,
-  author    = {M. J. Perry and
+  author    = {Mark J. Perry and
                Renate Fruchter and
                Gabriella Spinelli},
   title     = {Spaces, Traces and Networked Design},
@@ -68944,7 +68944,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/McQuaidBGHLMNRR00,
-  author    = {Michael McQuaid and
+  author    = {Michael J. McQuaid and
                Robert O. Briggs and
                Duffy Gillman and
                Roslin V. Hauck and
@@ -69305,7 +69305,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/PaperRP00,
-  author    = {David P. Paper and
+  author    = {David J. Paper and
                James A. Rodger and
                Parag C. Pendharkar},
   title     = {Development and Initial Testing of a Theoretical Model of Transformation},
@@ -69627,7 +69627,7 @@
 
 @inproceedings{DBLP:conf/hicss/RoussinovM00,
   author    = {Dmitri Roussinov and
-               Michael McQuaid},
+               Michael J. McQuaid},
   title     = {Information Navigation by Clustering and Summarizing Query Results},
   booktitle = hicss,
   year      = 2000,
@@ -74968,8 +74968,8 @@
 @inproceedings{DBLP:conf/hicss/TsengOCLSJ98,
   author    = {Chung-Li Tseng and
                Shmuel S. Oren and
-               C. S. Cheng and
-               C.-A. Li and
+               Carol S. Cheng and
+               Chao-an Li and
                Alva J. Svoboda and
                Raymond B. Johnson},
   title     = {A {Transmission-Constrained} Unit Commitment Method},
@@ -77426,7 +77426,7 @@
 
 @inproceedings{DBLP:conf/hicss/CanfieldRQ98,
   author    = {Kip Canfield and
-               V. Ramesh and
+               Venkataraman Ramesh and
                Steve Quirologico},
   title     = {{Scenario-Based} Analysis of an {Agent-Based} Architecture for Health Care Decision Support Systems},
   booktitle = hicss,

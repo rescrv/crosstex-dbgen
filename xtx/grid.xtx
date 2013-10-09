@@ -1043,7 +1043,7 @@
                Dario Pompili and
                Manish Parashar and
                Marc Gamell and
-               Renato J. Figueiredo},
+               Renato J. O. Figueiredo},
   title     = {Towards energy-efficient reactive thermal management in instrumented datacenters},
   booktitle = grid,
   year      = 2010,
@@ -3427,7 +3427,7 @@
                D. Andreotti and
                C. Bozzi and
                E. Luppi and
-               P. Veronesi and
+               Paolo Veronesi and
                R. J. Barlow and
                M. P. Kelly and
                J. C. Werner and

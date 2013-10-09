@@ -118,6 +118,121 @@
   pages     = {10},
 }
 
+@article{DBLP:journals/tomacs/Owen13,
+  author    = {Art B. Owen},
+  title     = {Better estimation of small sobol' sensitivity indices},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {2},
+  year      = 2013,
+  pages     = {11},
+}
+
+@article{DBLP:journals/tomacs/PerumallaP13,
+  author    = {Kalyan S. Perumalla and
+               Vladimir A. Protopopescu},
+  title     = {Reversible simulations of elastic collisions},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {2},
+  year      = 2013,
+  pages     = {12},
+}
+
+@article{DBLP:journals/tomacs/LiaoPPP13,
+  author    = {Wei-Cherng Liao and
+               Fragkiskos Papadopoulos and
+               Konstantinos Psounis and
+               Constantinos Psomas},
+  title     = {Modeling {BitTorrent-like} systems with many classes of users},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {2},
+  year      = 2013,
+  pages     = {13},
+}
+
+@article{DBLP:journals/tomacs/PetkovRO13,
+  author    = {Vladislav Petkov and
+               Ram Rajagopal and
+               Katia Obraczka},
+  title     = {Characterizing per-application network traffic using entropy},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {2},
+  year      = 2013,
+  pages     = {14},
+}
+
+@article{DBLP:journals/tomacs/Cheng13,
+  author    = {Russell C. H. Cheng},
+  title     = {Fitting Statistical Models of Random Search in Simulation Studies},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {3},
+  year      = 2013,
+  pages     = {15},
+}
+
+@article{DBLP:journals/tomacs/ChiaG13,
+  author    = {Yen Lin Chia and
+               Peter W. Glynn},
+  title     = {Limit Theorems for {Simulation-Based} Optimization via Random Search},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {3},
+  year      = 2013,
+  pages     = {16},
+}
+
+@article{DBLP:journals/tomacs/WangPS13,
+  author    = {Honggang Wang and
+               Raghu Pasupathy and
+               Bruce W. Schmeiser},
+  title     = {{Integer-Ordered} Simulation Optimization using R-SPLINE: Retrospective Search with {Piecewise-Linear} Interpolation and Neighborhood Enumeration},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {3},
+  year      = 2013,
+  pages     = {17},
+}
+
+@article{DBLP:journals/tomacs/CelikTI13,
+  author    = {Turgay Çelik and
+               Bedir Tekinerdogan and
+               Kayhan M. Imre},
+  title     = {Deriving Feasible Deployment Alternatives for Parallel and Distributed Simulation Systems},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {3},
+  year      = 2013,
+  pages     = {18},
+}
+
+@article{DBLP:journals/tomacs/LoLCC13,
+  author    = {Shih-Hsiang Lo and
+               Che-Rung Lee and
+               I-Hsin Chung and
+               Yeh-Ching Chung},
+  title     = {Optimizing Pairwise Box Intersection Checking on {GPUs} for {Large-Scale} Simulations},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {3},
+  year      = 2013,
+  pages     = {19},
+}
+
+@article{DBLP:journals/tomacs/GlynnJ13,
+  author    = {Peter W. Glynn and
+               Sandeep Juneja},
+  title     = {Asymptotic Simulation Efficiency Based on Large Deviations},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {3},
+  year      = 2013,
+  pages     = {20},
+}
+
 @article{DBLP:journals/tomacs/ChenAN12,
   author    = {Xi Chen and
                Bruce E. Ankenman and

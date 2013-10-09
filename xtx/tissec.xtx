@@ -1,5 +1,103 @@
 @include journals-cs
 
+@article{DBLP:journals/tissec/PhilippaertsYMPLW13,
+  author    = {Pieter Philippaerts and
+               Yves Younan and
+               Stijn Muylle and
+               Frank Piessens and
+               Sven Lachmund and
+               Thomas Walter},
+  title     = {CPM: Masking Code Pointers to Prevent Code Injection Attacks},
+  journal   = tissec,
+  volume    = {16},
+  number    = {1},
+  year      = 2013,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tissec/CobbBL13,
+  author    = {William E. Cobb and
+               Rusty O. Baldwin and
+               Eric D. Laspe},
+  title     = {Leakage Mapping: A Systematic Methodology for Assessing the {Side-Channel} Information Leakage of Cryptographic Implementations},
+  journal   = tissec,
+  volume    = {16},
+  number    = {1},
+  year      = 2013,
+  pages     = {2},
+}
+
+@article{DBLP:journals/tissec/BasinJKZ13,
+  author    = {David A. Basin and
+               Vincent Jugé and
+               Felix Klaedtke and
+               Eugen Zalinescu},
+  title     = {Enforceable Security Policies Revisited},
+  journal   = tissec,
+  volume    = {16},
+  number    = {1},
+  year      = 2013,
+  pages     = {3},
+}
+
+@article{DBLP:journals/tissec/CramptonGY13,
+  author    = {Jason Crampton and
+               Gregory Gutin and
+               Anders Yeo},
+  title     = {On the Parameterized Complexity and Kernelization of the Workflow Satisfiability Problem},
+  journal   = tissec,
+  volume    = {16},
+  number    = {1},
+  year      = 2013,
+  pages     = {4},
+}
+
+@article{DBLP:journals/tissec/LeonardHS13,
+  author    = {Thomas Leonard and
+               Martin Hall-May and
+               Mike Surridge},
+  title     = {Modelling Access Propagation in Dynamic Systems},
+  journal   = tissec,
+  volume    = {16},
+  number    = {2},
+  year      = 2013,
+  pages     = {5},
+}
+
+@article{DBLP:journals/tissec/ChengDD13,
+  author    = {Yueqiang Cheng and
+               Xuhua Ding and
+               Robert H. Deng},
+  title     = {DriverGuard: {Virtualization-Based} {Fine-Grained} Protection on I/O Flows},
+  journal   = tissec,
+  volume    = {16},
+  number    = {2},
+  year      = 2013,
+  pages     = {6},
+}
+
+@article{DBLP:journals/tissec/FuL13,
+  author    = {Yangchun Fu and
+               Zhiqiang Lin},
+  title     = {Bridging the Semantic Gap in Virtual Machine Introspection via Online Kernel Data Redirection},
+  journal   = tissec,
+  volume    = {16},
+  number    = {2},
+  year      = 2013,
+  pages     = {7},
+}
+
+@article{DBLP:journals/tissec/SerwaddaP13,
+  author    = {Abdul Serwadda and
+               Vir V. Phoha},
+  title     = {Examining a Large Keystroke Biometrics Dataset for {Statistical-Attack} Openings},
+  journal   = tissec,
+  volume    = {16},
+  number    = {2},
+  year      = 2013,
+  pages     = {8},
+}
+
 @article{DBLP:journals/tissec/FrankBB13,
   author    = {Mario Frank and
                Joachim M. Buhmann and
@@ -3212,7 +3310,7 @@
 }
 
 @article{DBLP:journals/tissec/XuS99,
-  author    = {Jun Xu and
+  author    = {Jun (Jim) Xu and
                Mukesh Singhal},
   title     = {Design of a {High-Performance} {ATM} Firewall},
   journal   = tissec,

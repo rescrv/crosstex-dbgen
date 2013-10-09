@@ -87,6 +87,156 @@
   pages     = {7},
 }
 
+@article{DBLP:journals/tods/SadoghiJ13,
+  author    = {Mohammad Sadoghi and
+               Hans-Arno Jacobsen},
+  title     = {Analysis and optimization for boolean expression indexing},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {8},
+}
+
+@article{DBLP:journals/tods/LiDF13,
+  author    = {Guoliang Li and
+               Dong Deng and
+               Jianhua Feng},
+  title     = {A partition-based method for string similarity joins with edit-distance constraints},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {9},
+}
+
+@article{DBLP:journals/tods/CatalloCFMT13,
+  author    = {Ilio Catallo and
+               Eleonora Ciceri and
+               Piero Fraternali and
+               Davide Martinenghi and
+               Marco Tagliasacchi},
+  title     = {Top-k diversity queries over bounded regions},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/tods/FazzingaFFM13,
+  author    = {Bettina Fazzinga and
+               Sergio Flesca and
+               Filippo Furfaro and
+               Elio Masciari},
+  title     = {{RFID-data} compression for supporting aggregate queries},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {11},
+}
+
+@article{DBLP:journals/tods/PavlouS13,
+  author    = {Kyriacos E. Pavlou and
+               Richard T. Snodgrass},
+  title     = {Generalizing database forensics},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {12},
+}
+
+@article{DBLP:journals/tods/Cheney13,
+  author    = {James Cheney},
+  title     = {Revisiting "forward node-selecting queries over trees"},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {13},
+}
+
+@article{DBLP:journals/tods/BonifatiGMS13,
+  author    = {Angela Bonifati and
+               Martin Hugh Goodfellow and
+               Ioana Manolescu and
+               Domenica Sileo},
+  title     = {Algebraic incremental maintenance of {XML} views},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {14},
+}
+
+@article{DBLP:journals/tods/ColazzoGPS13,
+  author    = {Dario Colazzo and
+               Giorgio Ghelli and
+               Luca Pardini and
+               Carlo Sartiani},
+  title     = {Almost-linear inclusion for {XML} regular expression types},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {15},
+}
+
+@article{DBLP:journals/tods/Qin0XLLW13,
+  author    = {Jianbin Qin and
+               Wei Wang and
+               Chuan Xiao and
+               Yifei Lu and
+               Xuemin Lin and
+               Haixun Wang},
+  title     = {Asymmetric signature schemes for efficient exact edit similarity query processing},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {16},
+}
+
+@article{DBLP:journals/tods/LevandoskiEMK13,
+  author    = {Justin J. Levandoski and
+               Ahmed Eldawy and
+               Mohamed F. Mokbel and
+               Mohamed E. Khalefa},
+  title     = {Flexible and extensible preference evaluation in database systems},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {17},
+}
+
+@article{DBLP:journals/tods/FanWW13,
+  author    = {Wenfei Fan and
+               Xin Wang and
+               Yinghui Wu},
+  title     = {Incremental graph pattern matching},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {18},
+}
+
+@article{DBLP:journals/tods/KarvounarakisGIT13,
+  author    = {Grigoris Karvounarakis and
+               Todd J. Green and
+               Zachary G. Ives and
+               Val Tannen},
+  title     = {Collaborative data sharing via update exchange and provenance},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {19},
+}
+
 @article{DBLP:journals/tods/Graefe12,
   author    = {Goetz Graefe},
   title     = {A survey of B-tree logging and recovery techniques},

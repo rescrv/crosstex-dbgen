@@ -2156,7 +2156,7 @@
 @inproceedings{DBLP:conf/nsdi/BhagwanTCSV04,
   author    = {Ranjita Bhagwan and
                Kiran Tati and
-               Yu-Chung Cheng and
+               Yuchung Cheng and
                Stefan Savage and
                Geoffrey M. Voelker},
   title     = {Total Recall: System Support for Automated Availability Management},

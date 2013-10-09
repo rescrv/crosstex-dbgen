@@ -21,6 +21,32 @@
   pages     = {3-8},
 }
 
+@article{DBLP:journals/sigops/ShraerK13,
+  author    = {Alexander Shraer and
+               Rüdiger Kapitza},
+  title     = {Dagstuhl seminar report: security and dependability for federated cloud platforms, 2012},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {4-5},
+}
+
+@article{DBLP:journals/sigops/BouchenakCCGSS13,
+  author    = {Sara Bouchenak and
+               Gregory Chockler and
+               Hana Chockler and
+               Gabriela Gheorghe and
+               Nuno Santos and
+               Alexander Shraer},
+  title     = {Verifying cloud services: present and future},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {6-19},
+}
+
 @article{DBLP:journals/sigops/JunqueiraKR13,
   author    = {Flavio Paiva Junqueira and
                Ivan Kelly and
@@ -45,6 +71,17 @@
   pages     = {16-21},
 }
 
+@article{DBLP:journals/sigops/CorreiaM13,
+  author    = {Miguel Correia and
+               Neeraj Mittal},
+  title     = {Dependability issues in cloud computing: extended papers from the 1st international workshop on dependability issues in cloud computing - {DISCCO}},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {20-22},
+}
+
 @article{DBLP:journals/sigops/GhitaAT13,
   author    = {Denisa Ghita and
                Katerina J. Argyraki and
@@ -57,6 +94,20 @@
   pages     = {22-26},
 }
 
+@article{DBLP:journals/sigops/JiekakKSSK13,
+  author    = {Steve Jiekak and
+               Anne-Marie Kermarrec and
+               Nicolas Le Scouarnec and
+               Gilles Straub and
+               Alexandre van Kempen},
+  title     = {Regenerating codes: a system perspective},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {23-32},
+}
+
 @article{DBLP:journals/sigops/LudwichF13,
   author    = {Mateus Krepsky Ludwich and
                Antônio Augusto Fröhlich},
@@ -66,6 +117,18 @@
   number    = {1},
   year      = 2013,
   pages     = {28-34},
+}
+
+@article{DBLP:journals/sigops/YazdVM13,
+  author    = {Sara Arbab Yazd and
+               Subbarayan Venkatesan and
+               Neeraj Mittal},
+  title     = {Boosting energy efficiency with mirrored data block replication policy and energy scheduler},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {33-40},
 }
 
 @article{DBLP:journals/sigops/SaFM13,
@@ -80,6 +143,16 @@
   pages     = {35-42},
 }
 
+@article{DBLP:journals/sigops/Taifi13,
+  author    = {Moussa Taifi},
+  title     = {Banking on decoupling: budget-driven sustainability for {HPC} applications on auction-based clouds},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {41-50},
+}
+
 @article{DBLP:journals/sigops/JivanD13,
   author    = {Naser Ezzati Jivan and
                Michel R. Dagenais},
@@ -91,6 +164,18 @@
   pages     = {43-54},
 }
 
+@article{DBLP:journals/sigops/DesnoyersMD13,
+  author    = {Mathieu Desnoyers and
+               Paul E. McKenney and
+               Michel R. Dagenais},
+  title     = {Multi-core systems modeling for formal verification of parallel algorithms},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {51-65},
+}
+
 @article{DBLP:journals/sigops/SaurN13,
   author    = {Karla Saur and
                Iulian Neamtiu},
@@ -100,6 +185,18 @@
   number    = {1},
   year      = 2013,
   pages     = {55-62},
+}
+
+@article{DBLP:journals/sigops/HarjiBB13,
+  author    = {Ashif S. Harji and
+               Peter A. Buhr and
+               Tim Brecht},
+  title     = {Our troubles with Linux Kernel upgrades and why you should care},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {66-72},
 }
 
 @article{DBLP:journals/sigops/DawkinsVS12,
@@ -2740,7 +2837,7 @@
 @article{DBLP:journals/sigops/PellegBHSA08,
   author    = {Dan Pelleg and
                Muli Ben-Yehuda and
-               Richard Harper and
+               Rick Harper and
                Lisa Spainhower and
                Tokunbo O. S. Adeshiyan},
   title     = {Vigilant: out-of-band detection of failures in virtual machines},
@@ -5889,7 +5986,7 @@
   author    = {T. M. Ong and
                T. M. Lim and
                B. S. Lee and
-               C. K. Yeo},
+               Chai Kiat Yeo},
   title     = {Unicorn: voluntary computing over Internet},
   journal   = osr,
   volume    = {36},

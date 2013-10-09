@@ -4537,7 +4537,7 @@
   author    = {K. L. Krause and
                V. Y. Shen and
                Herbert D. Schwetman},
-  title     = {A Task Schedulinh Algorithm for a Multiprogramming Computer System},
+  title     = {A Task Scheduling Algorithm for a Multiprogramming Computer System},
   booktitle = sosp,
   year      = 1973,
   pages     = {112-118},

@@ -355,6 +355,97 @@
   pages     = {383-399},
 }
 
+@article{DBLP:journals/ton/Cheng0CSC13,
+  author    = {Wei Cheng and
+               Nan Zhang and
+               Xiuzhen Cheng and
+               Min Song and
+               Dechang Chen},
+  title     = {{Time-Bounded} Essential Localization for Wireless Sensor Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {400-412},
+}
+
+@article{DBLP:journals/ton/MetnaniJ13,
+  author    = {Ammar Metnani and
+               Brigitte Jaumard},
+  title     = {Stability of {FIPP} p -Cycles Under Dynamic Traffic in {WDM} Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {413-425},
+}
+
+@article{DBLP:journals/ton/ZhangS13,
+  author    = {Xinyu Zhang and
+               Kang G. Shin},
+  title     = {Cooperative Carrier Signaling: Harmonizing Coexisting {WPAN} and {WLAN} Devices},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {426-439},
+}
+
+@article{DBLP:journals/ton/WangLWL13,
+  author    = {Xinbing Wang and
+               Xiaojun Lin and
+               Qingsi Wang and
+               Wentao Luan},
+  title     = {Mobility Increases the Connectivity of Wireless Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {440-454},
+}
+
+@article{DBLP:journals/ton/GelalNPKBKR13,
+  author    = {Ece Gelal and
+               Jianxia Ning and
+               Konstantinos Pelechrinis and
+               Tae-Suk Kim and
+               Ioannis Broustis and
+               Srikanth V. Krishnamurthy and
+               Bhaskar D. Rao},
+  title     = {Topology Control for Effective Interference Cancellation in Multiuser {MIMO} Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {455-468},
+}
+
+@article{DBLP:journals/ton/FrerisHSZ13,
+  author    = {Nikolaos M. Freris and
+               Cheng-Hsin Hsu and
+               Jatinder Pal Singh and
+               Xiaoqing Zhu},
+  title     = {{Distortion-Aware} Scalable Video Streaming to Multinetwork Clients},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {469-481},
+}
+
+@article{DBLP:journals/ton/AltmanABP13,
+  author    = {Eitan Altman and
+               Amar Prakash Azad and
+               Tamer Basar and
+               Francesco De Pellegrini},
+  title     = {Combined Optimal Control of Activation and Transmission in {Delay-Tolerant} Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {482-494},
+}
+
 @article{DBLP:journals/ton/HuangLW13,
   author    = {Po-Kai Huang and
                Xiaojun Lin and
@@ -365,6 +456,31 @@
   number    = {2},
   year      = 2013,
   pages     = {495-508},
+}
+
+@article{DBLP:journals/ton/ZarikoffL13,
+  author    = {Brad W. Zarikoff and
+               Douglas J. Leith},
+  title     = {Measuring Pulsed Interference in 802.11 Links},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {509-521},
+}
+
+@article{DBLP:journals/ton/YangKZCT13,
+  author    = {Lei Yang and
+               Hongseok Kim and
+               Junshan Zhang and
+               Mung Chiang and
+               Chee Wei Tan},
+  title     = {{Pricing-Based} Decentralized Spectrum Access Control in Cognitive Radio Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {522-535},
 }
 
 @article{DBLP:journals/ton/LeeLYRC13,
@@ -379,6 +495,742 @@
   number    = {2},
   year      = 2013,
   pages     = {536-550},
+}
+
+@article{DBLP:journals/ton/LiuK13,
+  author    = {Alex X. Liu and
+               Amir R. Khakpour},
+  title     = {Quantifying and Verifying Reachability for Access Controlled Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {551-565},
+}
+
+@article{DBLP:journals/ton/TanM13,
+  author    = {Bo Tan and
+               Laurent Massoulié},
+  title     = {Optimal Content Placement for {Peer-to-Peer} {Video-on-Demand} Systems},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {566-579},
+}
+
+@article{DBLP:journals/ton/MenascheRLTV13,
+  author    = {Daniel S. Menasché and
+               Antonio Augusto de Aragão Rocha and
+               Bin Li and
+               Donald F. Towsley and
+               Arun Venkataramani},
+  title     = {Content Availability and Bundling in Swarming Systems},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {580-593},
+}
+
+@article{DBLP:journals/ton/RoznerHQZ13,
+  author    = {Eric Rozner and
+               Mi Kyung Han and
+               Lili Qiu and
+               Yin Zhang},
+  title     = {{Model-Driven} Optimization of Opportunistic Routing},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {594-609},
+}
+
+@article{DBLP:journals/ton/ClementiPS13,
+  author    = {Andrea E. F. Clementi and
+               Francesco Pasquale and
+               Riccardo Silvestri},
+  title     = {Opportunistic MANETs: Mobility Can Make Up for Low Transmission Power},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {610-620},
+}
+
+@article{DBLP:journals/ton/WuQZDM13,
+  author    = {Qianhong Wu and
+               Bo Qin and
+               Lei Zhang and
+               Josep Domingo-Ferrer and
+               Jesús A. Manjón},
+  title     = {Fast Transmission to Remote Cooperative Groups: A New Key Management Paradigm},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {621-633},
+}
+
+@article{DBLP:journals/ton/JiJS13,
+  author    = {Bo Ji and
+               Changhee Joo and
+               Ness B. Shroff},
+  title     = {{Throughput-Optimal} Scheduling in Multihop Wireless Networks Without {Per-Flow} Information},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {634-647},
+}
+
+@article{DBLP:journals/ton/HegdeKVSA0K13,
+  author    = {Malati Hegde and
+               P. Kumar and
+               K. R. Vasudev and
+               N. Nambissan Sowmya and
+               S. V. R. Anand and
+               Anurag Kumar and
+               Joy Kuri},
+  title     = {Experiences With a Centralized Scheduling Approach for Performance Management of {IEEE} 802.11 Wireless {LANs}},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {648-662},
+}
+
+@article{DBLP:journals/ton/LamQ13,
+  author    = {Simon S. Lam and
+               Chen Qian},
+  title     = {Geographic Routing in d -Dimensional Spaces With Guaranteed Delivery and Low Stretch},
+  journal   = ton,
+  volume    = {21},
+  number    = {2},
+  year      = 2013,
+  pages     = {663-677},
+}
+
+@article{DBLP:journals/ton/SohTQ13,
+  author    = {De Wen Soh and
+               Wee-Peng Tay and
+               Tony Q. S. Quek},
+  title     = {Randomized Information Dissemination in Dynamic Environments},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {681-691},
+}
+
+@article{DBLP:journals/ton/PefkianakisLL13,
+  author    = {Ioannis Pefkianakis and
+               Suk-Bok Lee and
+               Songwu Lu},
+  title     = {Towards {MIMO-Aware} 802.11n Rate Adaptation},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {692-705},
+}
+
+@article{DBLP:journals/ton/TanCS13,
+  author    = {Chee Wei Tan and
+               Mung Chiang and
+               R. Srikant},
+  title     = {Fast Algorithms and Performance Bounds for Sum Rate Maximization in Wireless Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {706-719},
+}
+
+@article{DBLP:journals/ton/MaYYR13,
+  author    = {Chris Y. T. Ma and
+               David K. Y. Yau and
+               Nung Kwan Yip and
+               Nageswara S. V. Rao},
+  title     = {Privacy Vulnerability of Published Anonymous Mobility Traces},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {720-733},
+}
+
+@article{DBLP:journals/ton/NguyenR13,
+  author    = {Hung X. Nguyen and
+               Matthew Roughan},
+  title     = {Rigorous Statistical Analysis of Internet Loss Measurements},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {734-745},
+}
+
+@article{DBLP:journals/ton/QianZZSJ13,
+  author    = {Dajun Qian and
+               Dong Zheng and
+               Junshan Zhang and
+               Ness B. Shroff and
+               Changhee Joo},
+  title     = {Distributed {CSMA} Algorithms for Link Scheduling in Multihop {MIMO} Networks Under {SINR} Model},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {746-759},
+}
+
+@article{DBLP:journals/ton/RichaSSZ13,
+  author    = {Andréa W. Richa and
+               Christian Scheideler and
+               Stefan Schmid and
+               Jin Zhang},
+  title     = {An Efficient and Fair {MAC} Protocol Robust to Reactive Interference},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {760-771},
+}
+
+@article{DBLP:journals/ton/FangTZCSZZT13,
+  author    = {Ji Fang and
+               Kun Tan and
+               Yuanyang Zhang and
+               Shouyuan Chen and
+               Lixin Shi and
+               Jiansong Zhang and
+               Yongguang Zhang and
+               Zhenhui Tan},
+  title     = {{Fine-Grained} Channel Access in Wireless {LAN}},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {772-787},
+}
+
+@article{DBLP:journals/ton/LalanneM13,
+  author    = {Felipe Lalanne and
+               Stephane Maag},
+  title     = {A Formal {Data-Centric} Approach for Passive Testing of Communication Protocols},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {788-801},
+}
+
+@article{DBLP:journals/ton/ChecconiRV13,
+  author    = {Fabio Checconi and
+               Luigi Rizzo and
+               Paolo Valente},
+  title     = {QFQ: Efficient Packet Scheduling With Tight Guarantees},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {802-816},
+}
+
+@article{DBLP:journals/ton/LiCLZQ13,
+  author    = {Tao Li and
+               Shigang Chen and
+               Wen Luo and
+               Ming Zhang and
+               Yan Qiao},
+  title     = {Spreader Classification Based on Optimal Dynamic Bit Sharing},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {817-830},
+}
+
+@article{DBLP:journals/ton/HuangMNK13,
+  author    = {Longbo Huang and
+               Scott Moeller and
+               Michael J. Neely and
+               Bhaskar Krishnamachari},
+  title     = {{LIFO-Backpressure} Achieves {Near-Optimal} {Utility-Delay} Tradeoff},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {831-844},
+}
+
+@article{DBLP:journals/ton/FernandesMD13,
+  author    = {Natalia Castro Fernandes and
+               Marcelo Duffles Donato Moreira and
+               Otto Carlos Muniz Bandeira Duarte},
+  title     = {An Efficient and Robust Addressing Protocol for Node Autoconfiguration in Ad Hoc Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {845-856},
+}
+
+@article{DBLP:journals/ton/ChenBL13,
+  author    = {Fei Chen and
+               Bezawada Bruhadeshwar and
+               Alex X. Liu},
+  title     = {{Cross-Domain} {Privacy-Preserving} Cooperative Firewall Optimization},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {857-868},
+}
+
+@article{DBLP:journals/ton/PremnathWKPF13,
+  author    = {Sriram Nandha Premnath and
+               Daryl Wasden and
+               Sneha Kumar Kasera and
+               Neal Patwari and
+               Behrouz Farhang-Boroujeny},
+  title     = {Beyond OFDM: {Best-Effort} Dynamic Spectrum Access Using Filterbank Multicarrier},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {869-882},
+}
+
+@article{DBLP:journals/ton/FogueGMCCM13,
+  author    = {Manuel Fogue and
+               Piedad Garrido and
+               Francisco J. Martinez and
+               Juan-Carlos Cano and
+               Carlos Miguel Tavares Calafate and
+               Pietro Manzoni},
+  title     = {An Adaptive System Based on Roadmap Profiling to Enhance Warning Message Dissemination in {VANETs}},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {883-895},
+}
+
+@article{DBLP:journals/ton/ArslanPBSKAP13,
+  author    = {Mustafa Y. Arslan and
+               Konstantinos Pelechrinis and
+               Ioannis Broustis and
+               Shailendra Singh and
+               Srikanth V. Krishnamurthy and
+               Sateesh Addepalli and
+               Konstantina Papagiannaki},
+  title     = {ACORN: An {Auto-Configuration} Framework for 802.11n {WLANs}},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {896-909},
+}
+
+@article{DBLP:journals/ton/HanLL13,
+  author    = {Kai Han and
+               Yang Liu and
+               Jun Luo},
+  title     = {{Duty-Cycle-Aware} {Minimum-Energy} Multicasting in Wireless Sensor Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {910-923},
+}
+
+@article{DBLP:journals/ton/ZhengL13,
+  author    = {Yuanqing Zheng and
+               Mo Li},
+  title     = {Fast Tag Searching Protocol for {Large-Scale} {RFID} Systems},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {924-934},
+}
+
+@article{DBLP:journals/ton/AltmanNSX13,
+  author    = {Eitan Altman and
+               Philippe Nain and
+               Adam Shwartz and
+               Yuedong Xu},
+  title     = {Predicting the Impact of Measures Against P2P Networks: Transient Behavior and Phase Transition},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {935-949},
+}
+
+@article{DBLP:journals/ton/KimBVSSKP13,
+  author    = {Tae-Suk Kim and
+               Ioannis Broustis and
+               Serdar Vural and
+               Dimitris Syrivelis and
+               Shailendra Singh and
+               Srikanth V. Krishnamurthy and
+               Thomas F. La Porta},
+  title     = {Realizing the Benefits of Wireless Network Coding in Multirate Settings},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {950-962},
+}
+
+@article{DBLP:journals/ton/ShenNXT13,
+  author    = {Yilin Shen and
+               Nam P. Nguyen and
+               Ying Xuan and
+               My T. Thai},
+  title     = {On the Discovery of Critical Links and Nodes for Assessing Network Vulnerability},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {963-973},
+}
+
+@article{DBLP:journals/ton/EstanjiniWP13,
+  author    = {Reza Moazzez Estanjini and
+               Jing Wang and
+               Ioannis Ch. Paschalidis},
+  title     = {Scheduling Mobile Nodes for Cooperative Data Transport in Sensor Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {974-989},
+}
+
+@article{DBLP:journals/ton/VissicchioVPCFB13,
+  author    = {Stefano Vissicchio and
+               Laurent Vanbever and
+               Cristel Pelsser and
+               Luca Cittadini and
+               Pierre François and
+               Olivier Bonaventure},
+  title     = {Improving Network Agility With Seamless {BGP} Reconfigurations},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {990-1002},
+}
+
+@article{DBLP:journals/ton/ParisNMC13,
+  author    = {Stefano Paris and
+               Cristina Nita-Rotaru and
+               Fabio Martignon and
+               Antonio Capone},
+  title     = {{Cross-Layer} Metrics for Reliable Routing in Wireless Mesh Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {3},
+  year      = 2013,
+  pages     = {1003-1016},
+}
+
+@article{DBLP:journals/ton/HuangDM13,
+  author    = {Kaidi D. Huang and
+               Ken R. Duffy and
+               David Malone},
+  title     = {H-RCA: 802.11 {Collision-Aware} Rate Control},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1021-1034},
+}
+
+@article{DBLP:journals/ton/SenZGSBA13,
+  author    = {Sayandeep Sen and
+               Tan Zhang and
+               Syed Gilani and
+               Shreesha Srinath and
+               Suman Banerjee and
+               Sateesh Addepalli},
+  title     = {Design and Implementation of an "Approximate" Communication System for Wireless Media Applications},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1035-1048},
+}
+
+@article{DBLP:journals/ton/SrivastavaK13,
+  author    = {Rahul Srivastava and
+               Can Emre Koksal},
+  title     = {Basic Performance Limits and Tradeoffs in {Energy-Harvesting} Sensor Nodes With Finite Data and Energy Storage},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1049-1062},
+}
+
+@article{DBLP:journals/ton/GhaderiS13,
+  author    = {Javad Ghaderi and
+               R. Srikant},
+  title     = {The Impact of Access Probabilities on the Delay Performance of {Q-CSMA} Algorithms in Wireless Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1063-1075},
+}
+
+@article{DBLP:journals/ton/KhakpourL13,
+  author    = {Amir R. Khakpour and
+               Alex X. Liu},
+  title     = {An {Information-Theoretical} Approach to {High-Speed} Flow Nature Identification},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1076-1089},
+}
+
+@article{DBLP:journals/ton/WangLL13,
+  author    = {Xiaoming Wang and
+               Xiaoyong Li and
+               Dmitri Loguinov},
+  title     = {Modeling {Residual-Geometric} Flow Sampling},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1090-1103},
+}
+
+@article{DBLP:journals/ton/LeeH13,
+  author    = {Tsern-Huei Lee and
+               Nai-Lun Huang},
+  title     = {A {Pattern-Matching} Scheme With High Throughput Performance and Low Memory Requirement},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1104-1116},
+}
+
+@article{DBLP:journals/ton/HuangN13,
+  author    = {Longbo Huang and
+               Michael J. Neely},
+  title     = {Utility Optimal Scheduling in {Energy-Harvesting} Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1117-1130},
+}
+
+@article{DBLP:journals/ton/KarbasiO13,
+  author    = {Amin Karbasi and
+               Sewoong Oh},
+  title     = {Robust Localization From Incomplete Local Information},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1131-1144},
+}
+
+@article{DBLP:journals/ton/Lopez-PerezCVC13,
+  author    = {David López-Pérez and
+               Xiaoli Chu and
+               Athanasios V. Vasilakos and
+               Holger Claussen},
+  title     = {On Distributed and Coordinated Resource Allocation for Interference Mitigation in {Self-Organizing} {LTE} Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1145-1158},
+}
+
+@article{DBLP:journals/ton/SarkarG13,
+  author    = {Rik Sarkar and
+               Jie Gao},
+  title     = {Differential Forms for Target Tracking and Aggregate Queries in Distributed Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1159-1172},
+}
+
+@article{DBLP:journals/ton/GuanMY13,
+  author    = {Zhangyu Guan and
+               Tommaso Melodia and
+               Dongfeng Yuan},
+  title     = {Jointly Optimal Rate Control and Relay Selection for Cooperative Wireless Video Streaming},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1173-1186},
+}
+
+@article{DBLP:journals/ton/ZhangCJFM13,
+  author    = {Liang Zhang and
+               Shigang Chen and
+               Ying Jian and
+               Yuguang Fang and
+               Zhen Mo},
+  title     = {Maximizing Lifetime Vector in Wireless Sensor Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1187-1200},
+}
+
+@article{DBLP:journals/ton/ChangSLH13,
+  author    = {Yeim-Kuan Chang and
+               Cheng-Chien Su and
+               Yung-Chieh Lin and
+               Sun-Yuan Hsieh},
+  title     = {Efficient {Gray-Code-Based} Range Encoding Schemes for Packet Classification in {TCAM}},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1201-1214},
+}
+
+@article{DBLP:journals/ton/WuTSRLLJ13,
+  author    = {Xinzhou Wu and
+               Saurabha Tavildar and
+               Sanjay Shakkottai and
+               Tom Richardson and
+               Junyi Li and
+               Rajiv Laroia and
+               Aleksandar Jovicic},
+  title     = {FlashLinQ: A Synchronous Distributed Scheduler for {Peer-to-Peer} Ad Hoc Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1215-1228},
+}
+
+@article{DBLP:journals/ton/HsuKCL13,
+  author    = {Chih-Cheng Hsu and
+               Ming-Shing Kuo and
+               Cheng-Fu Chou and
+               Kate Ching-Ju Lin},
+  title     = {The Elimination of {Spatial-Temporal} Uncertainty in Underwater Sensor Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1229-1242},
+}
+
+@article{DBLP:journals/ton/ZhangBXH13,
+  author    = {Zhenghao Zhang and
+               Steven Bronson and
+               Jin Xie and
+               Wei Hu},
+  title     = {Employing the {One-Sender-Multiple-Receiver} Technique in Wireless {LANs}},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1243-1255},
+}
+
+@article{DBLP:journals/ton/LakshminarayanaE13,
+  author    = {Subhash Lakshminarayana and
+               Atilla Eryilmaz},
+  title     = {Multirate Multicasting With Intralayer Network Coding},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1256-1269},
+}
+
+@article{DBLP:journals/ton/JiC13,
+  author    = {Shouling Ji and
+               Zhipeng Cai},
+  title     = {Distributed Data Collection in {Large-Scale} Asynchronous Wireless Sensor Networks Under the Generalized Physical Interference Model},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1270-1283},
+}
+
+@article{DBLP:journals/ton/HimuraFCBAE13,
+  author    = {Yosuke Himura and
+               Kensuke Fukuda and
+               Kenjiro Cho and
+               Pierre Borgnat and
+               Patrice Abry and
+               Hiroshi Esaki},
+  title     = {Synoptic Graphlet: Bridging the Gap Between Supervised and Unsupervised Profiling of {Host-Level} Network Traffic},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1284-1297},
+}
+
+@article{DBLP:journals/ton/DuffyBL13,
+  author    = {Ken R. Duffy and
+               Charles Bordenave and
+               Douglas J. Leith},
+  title     = {Decentralized Constraint Satisfaction},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1298-1308},
+}
+
+@article{DBLP:journals/ton/VehelR13,
+  author    = {Jacques Lévy Véhel and
+               Michal Rams},
+  title     = {Large Deviation Multifractal Analysis of a Class of Additive Processes With Correlated Nonstationary Increments},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1309-1321},
+}
+
+@article{DBLP:journals/ton/CaragiannisFM13,
+  author    = {Ioannis Caragiannis and
+               Michele Flammini and
+               Luca Moscardelli},
+  title     = {An Exponential Improvement on the {MST} Heuristic for Minimum Energy Broadcasting in Ad Hoc Wireless Networks},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1322-1331},
+}
+
+@article{DBLP:journals/ton/GalluccioMP13,
+  author    = {Laura Galluccio and
+               Giacomo Morabito and
+               Sergio Palazzo},
+  title     = {{GEographic} Multicast (GEM) for Dense Wireless Networks: Protocol Design and Performance Analysis},
+  journal   = ton,
+  volume    = {21},
+  number    = {4},
+  year      = 2013,
+  pages     = {1332-1346},
 }
 
 @article{DBLP:journals/ton/CharbonneauV12,
@@ -2878,7 +3730,7 @@
 
 @article{DBLP:journals/ton/HuaXLZ11,
   author    = {Nan Hua and
-               Jun Xu and
+               Jun (Jim) Xu and
                Bill Lin and
                Haiquan (Chuck) Zhao},
   title     = {BRICK: a novel exact active statistics counter architecture},
@@ -5755,7 +6607,7 @@
 }
 
 @article{DBLP:journals/ton/HuangDM10,
-  author    = {K. D. Huang and
+  author    = {Kaidi D. Huang and
                Ken R. Duffy and
                David Malone},
   title     = {On the Validity of {IEEE} 802.11 {MAC} Modeling Hypotheses},
@@ -8756,9 +9608,9 @@
 
 @article{DBLP:journals/ton/SungXLL08,
   author    = {Minho Sung and
-               Jun Xu and
+               Jun (Jim) Xu and
                Jun Li and
-               Li Li},
+               Erran L. Li},
   title     = {Large-scale {IP} traceback in high-speed internet: practical techniques and information-theoretic foundation},
   journal   = ton,
   volume    = {16},
@@ -9486,7 +10338,7 @@
 @article{DBLP:journals/ton/BejeranoHL07,
   author    = {Yigal Bejerano and
                Seung-Jae Han and
-               Li Li},
+               Erran L. Li},
   title     = {Fairness and load balancing in wireless {LANs} using association control},
   journal   = ton,
   volume    = {15},
@@ -11827,7 +12679,7 @@
 }
 
 @article{DBLP:journals/ton/XuL05,
-  author    = {Jun Xu and
+  author    = {Jun (Jim) Xu and
                Richard J. Lipton},
   title     = {On fundamental tradeoffs between delay bounds and computational complexity in packet scheduling algorithms},
   journal   = ton,
@@ -16175,8 +17027,8 @@
 }
 
 @article{DBLP:journals/ton/SiwkoR01,
-  author    = {J. Siwko and
-               I. Rubin},
+  author    = {John Siwko and
+               Izhak Rubin},
   title     = {Connection admission control for capacity-varying networks with stochastic capacity change times},
   journal   = ton,
   volume    = {9},

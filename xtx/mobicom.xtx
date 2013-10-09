@@ -1977,7 +1977,7 @@
   author    = {Benjamin R. Hamilton and
                Xiaoli Ma and
                Qi Zhao and
-               Jun Xu},
+               Jun (Jim) Xu},
   title     = {ACES: adaptive clock estimation and synchronization using Kalman filtering},
   booktitle = mobicom,
   year      = 2008,

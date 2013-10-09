@@ -1,5 +1,122 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/vldb/KerenSABSS13,
+  author    = {Daniel Keren and
+               Guy Sagy and
+               Amir Abboud and
+               David Ben-David and
+               Izchak Sharfman and
+               Assaf Schuster},
+  title     = {{Safe-Zones} for Monitoring Distributed Streams},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/vldb/BoleyKKSS13,
+  author    = {Mario Boley and
+               Michael Kamp and
+               Daniel Keren and
+               Assaf Schuster and
+               Izchak Sharfman},
+  title     = {{Communication-Efficient} Distributed Online Prediction using Dynamic Model Synchronizations},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/vldb/GabelKS13,
+  author    = {Moshe Gabel and
+               Daniel Keren and
+               Assaf Schuster},
+  title     = {Communication-efficient Outlier Detection for Scale-out Systems},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/vldb/HeinzeJPGJF13,
+  author    = {Thomas Heinze and
+               Yuanzhen Ji and
+               Yinying Pan and
+               Franz Josef Grueneberger and
+               Zbigniew Jerzak and
+               Christof Fetzer},
+  title     = {Elastic Complex Event Processing under Varying Query Load},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/vldb/GrunbergerHF13,
+  author    = {Franz Josef Grünberger and
+               Thomas Heinze and
+               Pascal Felber},
+  title     = {Adaptive Selective Replication for Complex Event Processing Systems},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/vldb/SpyropoulosK13,
+  author    = {Vasilis Spyropoulos and
+               Yannis Kotidis},
+  title     = {Dynamic Partitioning of Big Hierarchical Graphs},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/vldb/LabouseurOH13,
+  author    = {Alan G. Labouseur and
+               Paul W. Olsen and
+               Jeong-Hyon Hwang},
+  title     = {Scalable and Robust Management of Dynamic Graph Data},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/vldb/SattlerB13,
+  author    = {Kai-Uwe Sattler and
+               Felix Beier},
+  title     = {Towards Elastic Stream Processing: Patterns and Infrastructure},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {49-54},
+}
+
+@inproceedings{DBLP:conf/vldb/Akioka13,
+  author    = {Sayaka Akioka},
+  title     = {Task Graphs of Stream Mining Algorithms},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {55-60},
+}
+
+@inproceedings{DBLP:conf/vldb/KoppMPM13,
+  author    = {Christine Kopp and
+               Michael Mock and
+               Odysseas Papapetrou and
+               Michael May},
+  title     = {Large-scale Online Mobility Monitoring with Exponential Histograms},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {61-66},
+}
+
+@inproceedings{DBLP:conf/vldb/SongGHZZ13,
+  author    = {Leyi Song and
+               Xueqing Gong and
+               Xiaofeng He and
+               Rong Zhang and
+               Aoying Zhou},
+  title     = {{Multi-Stage} Malicious Click Detection on Large Scale Web Advertising Data},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {67-72},
+}
+
 @inproceedings{DBLP:conf/vldb/AlbrechtN09,
   author    = {Alexander Albrecht and
                Felix Naumann},
@@ -20079,7 +20196,7 @@
                T. Li and
                S. Wan and
                Y. Wang and
-               M. Papa and
+               Maria Pia Papa and
                Elisa Bertino},
   title     = {Development of a Multimedia Information System for an Office Environment},
   booktitle = vldb,

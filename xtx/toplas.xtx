@@ -1,5 +1,99 @@
 @include journals-cs
 
+@article{DBLP:journals/toplas/Palsberg13,
+  author    = {Jens Palsberg},
+  title     = {Editorial},
+  journal   = toplas,
+  volume    = {35},
+  number    = {1},
+  year      = 2013,
+  pages     = {1},
+}
+
+@article{DBLP:journals/toplas/RossbergD13,
+  author    = {Andreas Rossberg and
+               Derek Dreyer},
+  title     = {Mixin' Up the {ML} Module System},
+  journal   = toplas,
+  volume    = {35},
+  number    = {1},
+  year      = 2013,
+  pages     = {2},
+}
+
+@article{DBLP:journals/toplas/NandivadaSZS13,
+  author    = {V. Krishna Nandivada and
+               Jun Shirako and
+               Jisheng Zhao and
+               Vivek Sarkar},
+  title     = {A Transformation Framework for Optimizing {Task-Parallel} Programs},
+  journal   = toplas,
+  volume    = {35},
+  number    = {1},
+  year      = 2013,
+  pages     = {3},
+}
+
+@article{DBLP:journals/toplas/LimR13,
+  author    = {Junghee Lim and
+               Thomas W. Reps},
+  title     = {TSL: A System for Generating Abstract Interpreters and its Application to {Machine-Code} Analysis},
+  journal   = toplas,
+  volume    = {35},
+  number    = {1},
+  year      = 2013,
+  pages     = {4},
+}
+
+@article{DBLP:journals/toplas/Staiger-Stohr13,
+  author    = {Stefan Staiger-Stöhr},
+  title     = {Practical Integrated Analysis of Pointers, Dataflow and Control Flow},
+  journal   = toplas,
+  volume    = {35},
+  number    = {1},
+  year      = 2013,
+  pages     = {5},
+}
+
+@article{DBLP:journals/toplas/NanevskiBG13,
+  author    = {Aleksandar Nanevski and
+               Anindya Banerjee and
+               Deepak Garg},
+  title     = {Dependent Type Theory for Verification of Information Flow and Access Control Policies},
+  journal   = toplas,
+  volume    = {35},
+  number    = {2},
+  year      = 2013,
+  pages     = {6},
+}
+
+@article{DBLP:journals/toplas/BinkleyGHIKL13,
+  author    = {David Binkley and
+               Nicolas Gold and
+               Mark Harman and
+               Syed S. Islam and
+               Jens Krinke and
+               Zheng Li},
+  title     = {Efficient Identification of Linchpin Vertices in Dependence Clusters},
+  journal   = toplas,
+  volume    = {35},
+  number    = {2},
+  year      = 2013,
+  pages     = {7},
+}
+
+@article{DBLP:journals/toplas/BotincanDJ13,
+  author    = {Matko Botincan and
+               Mike Dodds and
+               Suresh Jagannathan},
+  title     = {{Proof-Directed} Parallelization Synthesis by Separation Logic},
+  journal   = toplas,
+  volume    = {35},
+  number    = {2},
+  year      = 2013,
+  pages     = {8},
+}
+
 @article{DBLP:journals/toplas/Palsberg12,
   author    = {Jens Palsberg},
   title     = {Editorial},
@@ -2491,7 +2585,7 @@
 @article{DBLP:journals/toplas/MoreauDJ05,
   author    = {Luc Moreau and
                Peter Dickman and
-               Richard Jones},
+               Richard E. Jones},
   title     = {Birrell's distributed reference listing revisited},
   journal   = toplas,
   volume    = {27},

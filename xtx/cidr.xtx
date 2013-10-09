@@ -1,5 +1,584 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cidr/0001MV13,
+  author    = {Jianjun Chen and
+               Ashwin Machanavajjhala and
+               George Varghese},
+  title     = {Scalable Social Coordination with Group Constraints using Enmeshed Queries},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/0002KK13,
+  author    = {Sudip Roy and
+               Lucja Kot and
+               Christoph Koch},
+  title     = {Quantum Databases},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/AnciauxBBNPP13,
+  author    = {Nicolas Anciaux and
+               Philippe Bonnet and
+               Luc Bouganim and
+               Benjamin Nguyen and
+               Iulian Sandu Popa and
+               Philippe Pucheral},
+  title     = {Trusted Cells: A Sea Change for Personal Data Services},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/AndersonABBCKNPRZ13,
+  author    = {Michael Anderson and
+               Dolan Antenucci and
+               Victor Bittorf and
+               Matthew Burgess and
+               Michael J. Cafarella and
+               Arun Kumar and
+               Feng Niu and
+               Yongjoo Park and
+               Christopher Ré and
+               Ce Zhang},
+  title     = {Brainwash: A Data System for Feature Engineering},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/ArasuBEKKRV13,
+  author    = {Arvind Arasu and
+               Spyros Blanas and
+               Ken Eguro and
+               Raghav Kaushik and
+               Donald Kossmann and
+               Ravishankar Ramamurthy and
+               Ramarathnam Venkatesan},
+  title     = {Orthogonal Security with Cipherbase},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Athanassoulis13,
+  author    = {Manos Athanassoulis},
+  title     = {Solid State Storage & {DBMS}},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Bailis13,
+  author    = {Peter Bailis},
+  title     = {HAT, not CAP: Highly Available Transactions for Everybody},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/BarahmandG13,
+  author    = {Sumita Barahmand and
+               Shahram Ghandeharizadeh},
+  title     = {BG: A Benchmark to Evaluate Interactive Social Networking Actions},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/BedathurBPTW13,
+  author    = {Srikanta J. Bedathur and
+               Klaus Berberich and
+               Ioannis Patlakas and
+               Peter Triantafillou and
+               Gerhard Weikum},
+  title     = {D-Hive: Data Bees Pollinating RDF, Text, and Time},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Bernstein13,
+  author    = {Philip A. Bernstein},
+  title     = {Transactional Middleware Reconsidered},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/BhowmickCZ13,
+  author    = {Sourav S. Bhowmick and
+               Byron Choi and
+               Shuigeng Zhou},
+  title     = {VOGUE: Towards A Visual Interaction-aware Graph Query Processing Framework},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/BjorlingBBD13,
+  author    = {Matias Bjørling and
+               Philippe Bonnet and
+               Luc Bouganim and
+               Niv Dayan},
+  title     = {The Necessary Death of the Block Device Interface},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/CaoCLWW13,
+  author    = {Zhao Cao and
+               Shimin Chen and
+               Feifei Li and
+               Min Wang and
+               Xiaoyang Sean Wang},
+  title     = {LogKV: Exploiting {Key-Value} Stores for Log Processing},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Caruso13,
+  author    = {Mike Caruso},
+  title     = {Big Data Complex Data},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/CetintemelCDDDKPZ13,
+  author    = {Ugur Çetintemel and
+               Mitch Cherniack and
+               Justin DeBrabant and
+               Yanlei Diao and
+               Kyriaki Dimitriadou and
+               Alexander Kalinin and
+               Olga Papaemmanouil and
+               Stanley B. Zdonik},
+  title     = {Query Steering for Interactive Data Exploration},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/ChenHTCL13,
+  author    = {Cheng Chen and
+               Bingsheng He and
+               Xueyan Tang and
+               Changbing Chen and
+               Yubao Liu},
+  title     = {Green Databases Through Integration of Renewable Energy},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/CheungAMSM13,
+  author    = {Alvin Cheung and
+               Owen Arden and
+               Samuel Madden and
+               Armando Solar-Lezama and
+               Andrew C. Myers},
+  title     = {StatusQuo: Making Familiar Abstractions Perform Using Program Analysis},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/CohenEK13,
+  author    = {Sara Cohen and
+               Lior Ebel and
+               Benny Kimelfeld},
+  title     = {A Social Network Database that Learns How to Answer Queries},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Demartini13,
+  author    = {Gianluca Demartini},
+  title     = {Pick-A-Crowd: Tell me what you like, and I'll tell you what to do},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/DemartiniTKF13,
+  author    = {Gianluca Demartini and
+               Beth Trushkowsky and
+               Tim Kraska and
+               Michael J. Franklin},
+  title     = {CrowdQ: Crowdsourced Query Understanding},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/DeutchIMT13,
+  author    = {Daniel Deutch and
+               Zachary G. Ives and
+               Tova Milo and
+               Val Tannen},
+  title     = {Caravan: Provisioning for {What-If} Analysis},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Diao13,
+  author    = {Yanlei Diao},
+  title     = {A Science Fiction Talk},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Dittrich13,
+  author    = {Jens Dittrich},
+  title     = {Say No! No! and No!},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Fekete13,
+  author    = {Alan Fekete},
+  title     = {Managing Personal Goal Information},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Gehrke13,
+  author    = {Johannes Gehrke},
+  title     = {Big Data Pipelines},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Ghandeharizadeh13,
+  author    = {Shahram Ghandeharizadeh},
+  title     = {Cache Augmented {SQL} (CASQL) Systems},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/GicevaSSAR13,
+  author    = {Jana Giceva and
+               Tudor-Ioan Salomie and
+               Adrian Schüpbach and
+               Gustavo Alonso and
+               Timothy Roscoe},
+  title     = {COD: Database / Operating System {Co-Design}},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Halevy13,
+  author    = {Alon Y. Halevy},
+  title     = {Data Publishing and Sharing using Fusion Tables},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/HellandH13,
+  author    = {Pat Helland and
+               Don Haderle},
+  title     = {Engagements: Building Eventually {ACiD} Business Transactions},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/IdreosL13,
+  author    = {Stratos Idreos and
+               Erietta Liarou},
+  title     = {dbTouch: Analytics at your Fingertips},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Jafarpour13,
+  author    = {Hojjat Jafarpour},
+  title     = {Quantcast File System (QFS)},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/JefferySDPBG13,
+  author    = {Shawn R. Jeffery and
+               Liwen Sun and
+               Matt DeLand and
+               Nick Pendar and
+               Rick Barber and
+               Andrew Galdi},
+  title     = {Arnold: Declarative {Crowd-Machine} Data Integration},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/JindalQD13,
+  author    = {Alekh Jindal and
+               Jorge-Arnulfo Quiané-Ruiz and
+               Jens Dittrich},
+  title     = {WWHow! Freeing Data Storage from Cages},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/JindalSDKB13,
+  author    = {Alekh Jindal and
+               Felix Schuhknecht and
+               Jens Dittrich and
+               Karen Khachatryan and
+               Alexander Bunte},
+  title     = {How Achaeans Would Construct Columns in Troy},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/JohnsonP13,
+  author    = {Ryan Johnson and
+               Ippokratis Pandis},
+  title     = {The bionic {DBMS} is coming, but what will it look like?},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/KissingerSHL13,
+  author    = {Thomas Kissinger and
+               Benjamin Schlegel and
+               Dirk Habich and
+               Wolfgang Lehner},
+  title     = {QPPT: Query Processing on Prefix Trees},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Koch13,
+  author    = {Christoph Koch},
+  title     = {Abstraction without regret in data management systems},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/KoutrikaS13,
+  author    = {Georgia Koutrika and
+               Alkis Simitsis},
+  title     = {Mirror mirror on the wall, which query's fairest of them all?},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/KraskaTDGFJ13,
+  author    = {Tim Kraska and
+               Ameet Talwalkar and
+               John C. Duchi and
+               Rean Griffith and
+               Michael J. Franklin and
+               Michael I. Jordan},
+  title     = {MLbase: A Distributed Machine-learning System},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/LiNN13,
+  author    = {Jiexing Li and
+               Rimma V. Nehme and
+               Jeffrey F. Naughton},
+  title     = {Toward Progress Indicators on Steroids for Big Data Systems},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/LiPMRL13,
+  author    = {Yinan Li and
+               Ippokratis Pandis and
+               René Müller and
+               Vijayshankar Raman and
+               Guy M. Lohman},
+  title     = {{NUMA-aware} algorithms: the case of data shuffling},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/LimHB13,
+  author    = {Harold Lim and
+               Yuzhang Han and
+               Shivnath Babu},
+  title     = {How to Fit when No One Size Fits},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Mani13,
+  author    = {Murali Mani},
+  title     = {Using Fully Homomorphic Encryption to Enable Secure Database as a Service},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/McSherryMII13,
+  author    = {Frank McSherry and
+               Derek Gordon Murray and
+               Rebecca Isaacs and
+               Michael Isard},
+  title     = {Differential Dataflow},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/MozafariCM13,
+  author    = {Barzan Mozafari and
+               Carlo Curino and
+               Samuel Madden},
+  title     = {DBSeer: Resource and Performance Prediction for Building a Next Generation Database Cloud},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/MuheK013,
+  author    = {Henrik Mühe and
+               Alfons Kemper and
+               Thomas Neumann},
+  title     = {Executing {Long-Running} Transactions in {Synchronization-Free} Main Memory Database Systems},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Nandi13,
+  author    = {Arnab Nandi},
+  title     = {Keyboards, R.I.P},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Nandi13a,
+  author    = {Arnab Nandi},
+  title     = {Querying Without Keyboards},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/NarasayyaDSCC13,
+  author    = {Vivek R. Narasayya and
+               Sudipto Das and
+               Manoj Syamala and
+               Badrish Chandramouli and
+               Surajit Chaudhuri},
+  title     = {SQLVM: Performance Isolation in {Multi-Tenant} Relational {Database-as-a-Service}},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/NawabAA13,
+  author    = {Faisal Nawab and
+               Divyakant Agrawal and
+               Amr El Abbadi},
+  title     = {Message Futures: Fast Commitment of Transactions in Multi-datacenter Environments},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Nehme13,
+  author    = {Rimma V. Nehme},
+  title     = {Unlocking Cool in Databases (and {CS} in general)},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/RothT13,
+  author    = {Mary Roth and
+               Wang-Chiew Tan},
+  title     = {Data Integration and Data Exchange: It's Really About Time},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/SellamK13,
+  author    = {Thibault Sellam and
+               Martin L. Kersten},
+  title     = {Meet Charles, big data query advisor},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Stonebraker13,
+  author    = {Mike Stonebraker},
+  title     = {We are Under Attack; by the least publishable unit},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/StonebrakerBIBCZPX13,
+  author    = {Michael Stonebraker and
+               Daniel Bruckner and
+               Ihab F. Ilyas and
+               George Beskales and
+               Mitch Cherniack and
+               Stanley B. Zdonik and
+               Alexander Pagan and
+               Shan Xu},
+  title     = {Data Curation at Scale: The Data Tamer System},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Stoyanovich13,
+  author    = {Julia Stoyanovich},
+  title     = {Understanding the Structure of Ranked Data},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/StoyanovichADJM13,
+  author    = {Julia Stoyanovich and
+               Sihem Amer-Yahia and
+               Susan B. Davidson and
+               Marie Jacob and
+               Tova Milo},
+  title     = {Understanding Local Structure in Ranked Datasets},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Toga13,
+  author    = {Arthur W. Toga},
+  title     = {The Informatics of Large Multisite Brain Mapping Projects},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Tozun13,
+  author    = {Pinar Tözün},
+  title     = {A Case for Thread Migration},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/UpadhyayaABHKRS13,
+  author    = {Prasang Upadhyaya and
+               Nick R. Anderson and
+               Magdalena Balazinska and
+               Bill Howe and
+               Raghav Kaushik and
+               Ravishankar Ramamurthy and
+               Dan Suciu},
+  title     = {Stop That Query! The Need for Managing Data Use},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Varghese13,
+  author    = {George Varghese},
+  title     = {We Don't Need No Stinking Databases in Genomics},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Wang13,
+  author    = {Daisy Zhe Wang},
+  title     = {A Probabilistic Knowledge Base System},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/WangXDG13,
+  author    = {Guozhang Wang and
+               Wenlei Xie and
+               Alan J. Demers and
+               Johannes Gehrke},
+  title     = {Asynchronous {Large-Scale} Graph Processing Made Easy},
+  booktitle = cidr,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/cidr/Xin13,
+  author    = {Reynold Xin},
+  title     = {Beating State-of-the-art By -10000%},
+  booktitle = cidr,
+  year      = 2013,
+}
+
 @inproceedings{DBLP:conf/cidr/BonnetB11,
   author    = {Philippe Bonnet and
                Luc Bouganim},
@@ -330,7 +909,7 @@
 @inproceedings{DBLP:conf/cidr/BakerBCFKLLLLY11,
   author    = {Jason Baker and
                Chris Bond and
-               James Corbett and
+               James C. Corbett and
                J. J. Furman and
                Andrey Khorlin and
                James Larson and

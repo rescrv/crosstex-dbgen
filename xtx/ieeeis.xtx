@@ -1,5 +1,26 @@
 @include journals-cs
 
+@article{DBLP:journals/expert/Zeng13a,
+  author    = {Daniel Zeng},
+  title     = {Social Computing: An {AI} Perspective},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {2-5},
+}
+
+@article{DBLP:journals/expert/ZengL13,
+  author    = {Daniel Zeng and
+               Robert Lusch},
+  title     = {Big Data Analytics: Perspective Shifting from Transactions to Ecosystems},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {2-5},
+}
+
 @article{DBLP:journals/expert/Zeng13,
   author    = {Daniel Zeng},
   title     = {Editorial Reflections and Planning for the Future},
@@ -10,6 +31,20 @@
   pages     = {4-5},
 }
 
+@article{DBLP:journals/expert/CambriaSLWH13a,
+  author    = {Erik Cambria and
+               Björn Schuller and
+               Bing Liu and
+               Haixun Wang and
+               Catherine Havasi},
+  title     = {Statistical Approaches to {Concept-Level} Sentiment Analysis},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {6-9},
+}
+
 @article{DBLP:journals/expert/Lawton13,
   author    = {George Lawton},
   title     = {In the News},
@@ -18,6 +53,43 @@
   number    = {1},
   year      = 2013,
   pages     = {6-11},
+}
+
+@article{DBLP:journals/expert/Lawton13a,
+  author    = {George Lawton},
+  title     = {In the News},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {6-11},
+}
+
+@article{DBLP:journals/expert/XiaZHC13,
+  author    = {Rui Xia and
+               Chengqing Zong and
+               Xuelei Hu and
+               Erik Cambria},
+  title     = {Feature Ensemble Plus Sample Selection: Domain Adaptation for Sentiment Classification},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {10-18},
+}
+
+@article{DBLP:journals/expert/CambriaSLWH13,
+  author    = {Erik Cambria and
+               Björn Schuller and
+               Bing Liu and
+               Haixun Wang and
+               Catherine Havasi},
+  title     = {{Knowledge-Based} Approaches to {Concept-Level} Sentiment Analysis},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {12-14},
 }
 
 @article{DBLP:journals/expert/PatelTSL13,
@@ -33,10 +105,23 @@
   pages     = {12-15},
 }
 
+@article{DBLP:journals/expert/CambriaSXH13,
+  author    = {Erik Cambria and
+               Björn Schuller and
+               Yunqing Xia and
+               Catherine Havasi},
+  title     = {New Avenues in Opinion Mining and Sentiment Analysis},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {15-21},
+}
+
 @article{DBLP:journals/expert/PatelDMBG13,
   author    = {Jitu Patel and
                Michael C. Dorneich and
-               David Mott and
+               David H. Mott and
                Ali Bahrami and
                Cheryl Giammanco},
   title     = {Improving Coalition Planning by Making Plans Alive},
@@ -45,6 +130,31 @@
   number    = {1},
   year      = 2013,
   pages     = {17-25},
+}
+
+@article{DBLP:journals/expert/Garcia-MoyaAL13,
+  author    = {Lisette García-Moya and
+               Henry Anaya-Sánchez and
+               Rafael Berlanga Llavori},
+  title     = {Retrieving Product Features and Opinions from Customer Reviews},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {19-27},
+}
+
+@article{DBLP:journals/expert/TsaiWTH13,
+  author    = {Angela Charng-Rurng Tsai and
+               Chi-En Wu and
+               Richard Tzong-Han Tsai and
+               Jane Yung-jen Hsu},
+  title     = {Building a {Concept-Level} Sentiment Dictionary Based on Commonsense Knowledge},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {22-30},
 }
 
 @article{DBLP:journals/expert/GiammancoMKBPPX13,
@@ -63,6 +173,33 @@
   pages     = {26-33},
 }
 
+@article{DBLP:journals/expert/FabbrizioAG13,
+  author    = {Giuseppe Di Fabbrizio and
+               Ahmet Aker and
+               Robert J. Gaizauskas},
+  title     = {Summarizing Online Reviews Using Aspect Rating Distributions and Language Modeling},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {28-37},
+}
+
+@article{DBLP:journals/expert/PoriaGHHDB13,
+  author    = {Soujanya Poria and
+               Alexander F. Gelbukh and
+               Amir Hussain and
+               Newton Howard and
+               Dipankar Das and
+               Sivaji Bandyopadhyay},
+  title     = {Enhanced {SenticNet} with Affective Labels for {Concept-Based} Opinion Mining},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {31-38},
+}
+
 @article{DBLP:journals/expert/UszokBBRHF13,
   author    = {Andrzej Uszok and
                Larry Bunch and
@@ -78,6 +215,30 @@
   pages     = {34-41},
 }
 
+@article{DBLP:journals/expert/Perez-RosasMM13,
+  author    = {Verónica Pérez-Rosas and
+               Rada Mihalcea and
+               Louis-Philippe Morency},
+  title     = {Multimodal Sentiment Analysis of Spanish Online Videos},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {38-45},
+}
+
+@article{DBLP:journals/expert/WeichselbraunGS13,
+  author    = {Albert Weichselbraun and
+               Stefan Gindl and
+               Arno Scharl},
+  title     = {Extracting and Grounding Contextualized Sentiment Lexicons},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {39-46},
+}
+
 @article{DBLP:journals/expert/KomendaVCP13,
   author    = {Antonín Komenda and
                Jirí Vokrínek and
@@ -91,6 +252,33 @@
   pages     = {42-49},
 }
 
+@article{DBLP:journals/expert/WollmerWKSSSM13,
+  author    = {Martin Wöllmer and
+               Felix Weninger and
+               Tobias Knaup and
+               Björn Schuller and
+               Congkai Sun and
+               Kenji Sagae and
+               Louis-Philippe Morency},
+  title     = {{YouTube} Movie Reviews: Sentiment Analysis in an {Audio-Visual} Context},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {46-53},
+}
+
+@article{DBLP:journals/expert/HungL13,
+  author    = {Chihli Hung and
+               Hao-Kai Lin},
+  title     = {Using Objective Words in {SentiWordNet} to Improve {Word-of-Mouth} Sentiment Classification},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {47-54},
+}
+
 @article{DBLP:journals/expert/SmartS13,
   author    = {Paul R. Smart and
                Katia P. Sycara},
@@ -100,6 +288,31 @@
   number    = {1},
   year      = 2013,
   pages     = {50-56},
+}
+
+@article{DBLP:journals/expert/BradshawHWJ13,
+  author    = {Jeffrey M. Bradshaw and
+               Robert R. Hoffman and
+               David D. Woods and
+               Matthew Johnson},
+  title     = {The Seven Deadly Myths of "Autonomous Systems"},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {54-61},
+}
+
+@article{DBLP:journals/expert/BoscoPB13,
+  author    = {Cristina Bosco and
+               Viviana Patti and
+               Andrea Bolioli},
+  title     = {Developing Corpora for Sentiment Analysis: The Case of Irony and {Senti-TUT}},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {55-63},
 }
 
 @article{DBLP:journals/expert/PreeceNMPSP13,
@@ -115,6 +328,19 @@
   number    = {1},
   year      = 2013,
   pages     = {57-63},
+}
+
+@article{DBLP:journals/expert/LuLSS13,
+  author    = {Rongxing Lu and
+               Xiaodong Lin and
+               Zhiguo Shi and
+               Xuemin (Sherman) Shen},
+  title     = {A Lightweight Conditional {Privacy-Preservation} Protocol for Vehicular {Traffic-Monitoring} Systems},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {62-65},
 }
 
 @article{DBLP:journals/expert/SuriULBBFHCSG13,
@@ -134,6 +360,45 @@
   number    = {1},
   year      = 2013,
   pages     = {64-71},
+}
+
+@article{DBLP:journals/expert/GarridoO13,
+  author    = {Antonio Garrido and
+               Eva Onaindia},
+  title     = {Assembling Learning Objects for Personalized Learning: An {AI} Planning Perspective},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {64-73},
+}
+
+@article{DBLP:journals/expert/KongLYLZX13,
+  author    = {Qing-Jie Kong and
+               Lefei Li and
+               Bing Yan and
+               Shu Lin and
+               Fenghua Zhu and
+               Gang Xiong},
+  title     = {Developing Parallel Control and Management for Urban Traffic Systems},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {66-69},
+}
+
+@article{DBLP:journals/expert/KayRDK13,
+  author    = {Judy Kay and
+               Peter Reimann and
+               Elliot Diebold and
+               Bob Kummerfeld},
+  title     = {MOOCs: So Many Learners, So Much Potential},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {70-77},
 }
 
 @article{DBLP:journals/expert/ZengLWC13,
@@ -161,6 +426,28 @@
   pages     = {78-82},
 }
 
+@article{DBLP:journals/expert/Goel13,
+  author    = {Ashok K. Goel},
+  title     = {Biologically Inspired Design: A New Program for Computational Sustainability},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {80-84},
+}
+
+@article{DBLP:journals/expert/HarrensteinMW13,
+  author    = {Paul Harrenstein and
+               David Manlove and
+               Michael Wooldridge},
+  title     = {The Joy of Matching},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {81-85},
+}
+
 @article{DBLP:journals/expert/HoffmanJBU13,
   author    = {Robert R. Hoffman and
                Matthew Johnson and
@@ -172,6 +459,56 @@
   number    = {1},
   year      = 2013,
   pages     = {84-88},
+}
+
+@article{DBLP:journals/expert/FadlullahNKUSY13,
+  author    = {Zubair Md. Fadlullah and
+               Hiroki Nishiyama and
+               Nei Kato and
+               Hirotaka Ujikawa and
+               Ken-Ichi Suzuki and
+               Naoto Yoshimoto},
+  title     = {Smart {FiWi} Networks: Challenges and Solutions for {QoS} and Green Communications},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {86-91},
+}
+
+@article{DBLP:journals/expert/Neill13,
+  author    = {Daniel B. Neill},
+  title     = {Using Artificial Intelligence to Improve Hospital Inpatient Care},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {92-95},
+}
+
+@article{DBLP:journals/expert/OLeary13,
+  author    = {Daniel E. O'Leary},
+  title     = {Artificial Intelligence and Big Data},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {96-99},
+}
+
+@article{DBLP:journals/expert/TiropanisHSRCH13,
+  author    = {Thanassis Tiropanis and
+               Wendy Hall and
+               Nigel Shadbolt and
+               David De Roure and
+               Noshir S. Contractor and
+               Jim Hendler},
+  title     = {The Web Science Observatory},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {2},
+  year      = 2013,
+  pages     = {100-104},
 }
 
 @article{DBLP:journals/expert/Wang12e,
@@ -3574,7 +3911,7 @@
   author    = {Richard J. Doyle and
                Erick Dupuis and
                Mitsushige Oda and
-               Jean-Claude Piedbeouf and
+               Jean-Claude Piedboeuf and
                Gianfranco Visentin},
   title     = {Progress on AI, Robotics, and Automation in Space: A Report from {i-SAIRAS} 08},
   journal   = ieeeis,
@@ -5610,7 +5947,7 @@
   author    = {Longbing Cao and
                Chengqi Zhang and
                Qiang Yang and
-               David Bell and
+               David A. Bell and
                Michail Vlachos and
                Bahar Taneri and
                Eamonn J. Keogh and
@@ -13034,7 +13371,7 @@
   author    = {Richard J. Doyle and
                Melvin Montemerio and
                Ichiro Nakatani and
-               Jean-Claude Piedbeouf and
+               Jean-Claude Piedboeuf and
                Peter Putz},
   title     = {{AI} in Space: An international forum for Space {AI} and Robotics},
   journal   = ieeeis,

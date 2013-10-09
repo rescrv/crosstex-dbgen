@@ -114,7 +114,7 @@
 
 @inproceedings{DBLP:conf/imc/HuHP12,
   author    = {Zi Hu and
-               John Heidemann and
+               John S. Heidemann and
                Yuri Pradkin},
   title     = {Towards geolocation of millions of {IP} addresses},
   booktitle = imc,
@@ -1174,7 +1174,7 @@
 
 @inproceedings{DBLP:conf/imc/CaiHKW10,
   author    = {Xue Cai and
-               John Heidemann and
+               John S. Heidemann and
                Balachander Krishnamurthy and
                Walter Willinger},
   title     = {Towards an {AS-to-organization} map},
@@ -1272,7 +1272,7 @@
                Junlan Feng and
                Zihui Ge and
                Jia Wang and
-               Jun Xu and
+               Jun (Jim) Xu and
                Jennifer Yates},
   title     = {Listen to me if you can: tracking user experience of mobile network on social media},
   booktitle = imc,
@@ -1415,7 +1415,7 @@
 
 @inproceedings{DBLP:conf/imc/FanH10,
   author    = {Xun Fan and
-               John Heidemann},
+               John S. Heidemann},
   title     = {Selecting representative {IP} addresses for internet topology studies},
   booktitle = imc,
   year      = 2010,
@@ -1445,7 +1445,7 @@
 
 @inproceedings{DBLP:conf/imc/QuanH10,
   author    = {Lin Quan and
-               John Heidemann},
+               John S. Heidemann},
   title     = {On the characteristics and reasons of long-lived internet flows},
   booktitle = imc,
   year      = 2010,
@@ -1480,7 +1480,7 @@
                Zihui Ge and
                Dan Pei and
                Jia Wang and
-               Jun Xu},
+               Jun (Jim) Xu},
   title     = {What happened in my network: mining network events from router syslogs},
   booktitle = imc,
   year      = 2010,
@@ -2591,7 +2591,7 @@
                Mitsunori Ogihara and
                Oliver Spatscheck and
                Jia Wang and
-               Jun Xu},
+               Jun (Jim) Xu},
   title     = {A data streaming algorithm for estimating entropies of od flows},
   booktitle = imc,
   year      = 2007,

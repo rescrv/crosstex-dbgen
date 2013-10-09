@@ -1,5 +1,186 @@
 @include journals-cs
 
+@article{DBLP:journals/network/0001LL13,
+  author    = {Bo Li and
+               Baochun Li and
+               Fangming Liu},
+  title     = {Cloud and data center performance [Guest Editorial]},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/CaiYZY13,
+  author    = {Yueping Cai and
+               Yao Yan and
+               Zhenghao Zhang and
+               Yuanyuan Yang},
+  title     = {Survey on converged data center networks with {DCB} and FCoE: standards and protocols},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/ChenJWL13,
+  author    = {Min Chen and
+               Hai Jin and
+               Yonggang Wen and
+               Victor C. M. Leung},
+  title     = {Enabling technologies for future data center networking: a primer},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/Cheng13a,
+  author    = {Yu Cheng},
+  title     = {New books and multimedia},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/LiYRLH13,
+  author    = {Ming Li and
+               Shucheng Yu and
+               Kui Ren and
+               Wenjing Lou and
+               Y. Thomas Hou},
+  title     = {Toward privacy-assured and searchable cloud data storage services},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/LiuKV13,
+  author    = {Chi Harold Liu and
+               Andreas Kind and
+               Athanasios V. Vasilakos},
+  title     = {Sketching the data center network traffic},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/NguyenK13,
+  author    = {Diep N. Nguyen and
+               Marwan Krunz},
+  title     = {Cooperative {MIMO} in wireless networks: recent developments and challenges},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/SakanoFTNNAKTKKK13,
+  author    = {Toshikazu Sakano and
+               Zubair Md. Fadlullah and
+               Ngo Duc Thuan and
+               Hiroki Nishiyama and
+               Masataka Nakazawa and
+               Fumiyuki Adachi and
+               Nei Kato and
+               Atsushi Takahara and
+               Tomoaki Kumagai and
+               Hiromichi Kasahara and
+               Shigeki Kurihara},
+  title     = {Disaster-resilient networking: a new vision based on movable and deployable resource units},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/SheaLNC13,
+  author    = {Ryan Shea and
+               Jiangchuan Liu and
+               Edith C. H. Ngai and
+               Yong Cui},
+  title     = {Cloud gaming: architecture and performance},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/Shen13b,
+  author    = {Xuemin Shen},
+  title     = {Open call [Editor's Note]},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/ThotaBCMS13,
+  author    = {Saigopal Thota and
+               Partha Bhaumik and
+               Pulak Chowdhury and
+               Biswanath Mukherjee and
+               Suman Sarkar},
+  title     = {Exploiting wireless connectivity for robustness in {WOBAN}},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/YanHDSQ13,
+  author    = {Ye Yan and
+               Rose Qingyang Hu and
+               Sajal K. Das and
+               Hamid Sharif and
+               Yi Qian},
+  title     = {An efficient security protocol for advanced metering infrastructure in smart grid},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/ZhangRL13,
+  author    = {Jiao Zhang and
+               Fengyuan Ren and
+               Chuang Lin},
+  title     = {Survey on transport control in data center networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {4},
+  year      = 2013,
+  pages     = {1-0},
+}
+
+@article{DBLP:journals/network/RenZHP13,
+  author    = {Kui Ren and
+               Haojin Zhu and
+               Zhu Han and
+               Radha Poovendran},
+  title     = {Security in cognitive radio networks [Guest Editorial]},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {3},
+  year      = 2013,
+  pages     = {2},
+}
+
 @article{DBLP:journals/network/Shen13,
   author    = {Xuemin Shen},
   title     = {Editor's note},
@@ -44,6 +225,19 @@
   pages     = {4},
 }
 
+@article{DBLP:journals/network/TanJPM13,
+  author    = {Kefeng Tan and
+               Shraboni Jana and
+               Parth H. Pathak and
+               Prasant Mohapatra},
+  title     = {On insider misbehavior detection in cognitive radio networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {3},
+  year      = 2013,
+  pages     = {4-9},
+}
+
 @article{DBLP:journals/network/VaidyaMM13,
   author    = {Binod Vaidya and
                Dimitrios Makrakis and
@@ -83,6 +277,17 @@
   pages     = {8-14},
 }
 
+@article{DBLP:journals/network/PietroO13,
+  author    = {Roberto Di Pietro and
+               Gabriele Oligeri},
+  title     = {Jamming mitigation in cognitive radio networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {3},
+  year      = 2013,
+  pages     = {10-15},
+}
+
 @article{DBLP:journals/network/CaoZLG13,
   author    = {Huayang Cao and
                Peidong Zhu and
@@ -109,6 +314,19 @@
   pages     = {14-21},
 }
 
+@article{DBLP:journals/network/Bian0DL13,
+  author    = {Kaigui Bian and
+               Jung-Min Park and
+               Xiaojiang Du and
+               Xiaoming Li},
+  title     = {Enabling fair spectrum sharing: mitigating selfish misbehaviors in spectrum contention},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {3},
+  year      = 2013,
+  pages     = {16-21},
+}
+
 @article{DBLP:journals/network/AminSH13,
   author    = {Saurabh Amin and
                Galina A. Schwartz and
@@ -119,6 +337,19 @@
   number    = {1},
   year      = 2013,
   pages     = {19-24},
+}
+
+@article{DBLP:journals/network/ChenSXB13,
+  author    = {Changlong Chen and
+               Min Song and
+               Chunsheng Xin and
+               Jonathan D. Backens},
+  title     = {A game-theoretical anti-jamming scheme for cognitive radio networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {3},
+  year      = 2013,
+  pages     = {22-27},
 }
 
 @article{DBLP:journals/network/SunGLLXZS13,
@@ -162,6 +393,18 @@
   pages     = {28-33},
 }
 
+@article{DBLP:journals/network/ShuQC13,
+  author    = {Zhihui Shu and
+               Yi Qian and
+               Song Ci},
+  title     = {On physical layer security for cognitive radio networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {3},
+  year      = 2013,
+  pages     = {28-33},
+}
+
 @article{DBLP:journals/network/CristofaroS13,
   author    = {Emiliano De Cristofaro and
                Claudio Soriente},
@@ -171,6 +414,19 @@
   number    = {1},
   year      = 2013,
   pages     = {32-36},
+}
+
+@article{DBLP:journals/network/WenLZZ13,
+  author    = {Hong Wen and
+               Shaoqian Li and
+               Xiping Zhu and
+               Liang Zhou},
+  title     = {A framework of the {PHY-layer} approach to defense against security threats in cognitive radio networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {3},
+  year      = 2013,
+  pages     = {34-39},
 }
 
 @article{DBLP:journals/network/KoliosFP13,
@@ -196,6 +452,17 @@
   pages     = {37-44},
 }
 
+@article{DBLP:journals/network/ZhangL13,
+  author    = {Yan Zhang and
+               Loukas Lazos},
+  title     = {Vulnerabilities of cognitive radio {MAC} protocols and countermeasures},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {3},
+  year      = 2013,
+  pages     = {40-45},
+}
+
 @article{DBLP:journals/network/ShinCKC13,
   author    = {Yeonchul Shin and
                Munhwan Choi and
@@ -218,6 +485,32 @@
   number    = {1},
   year      = 2013,
   pages     = {45-51},
+}
+
+@article{DBLP:journals/network/JoHKI13,
+  author    = {Minho Jo and
+               Longzhe Han and
+               Do-Hoon Kim and
+               Hoh Peter In},
+  title     = {Selfish attacks and detection in cognitive radio {Ad-Hoc} networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {3},
+  year      = 2013,
+  pages     = {46-50},
+}
+
+@article{DBLP:journals/network/FadlullahNKF13,
+  author    = {Zubair Md. Fadlullah and
+               Hiroki Nishiyama and
+               Nei Kato and
+               Mostafa Fouda},
+  title     = {Intrusion detection system (IDS) for combating attacks against cognitive radio networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {3},
+  year      = 2013,
+  pages     = {51-55},
 }
 
 @article{DBLP:journals/network/VadrevuTGMM13,
@@ -539,7 +832,7 @@
 
 @article{DBLP:journals/network/HuTW12,
   author    = {Guoqiang Hu and
-               Wee Peng Tay and
+               Wee-Peng Tay and
                Yonggang Wen},
   title     = {Cloud robotics: architecture, challenges and applications},
   journal   = ieeenetwork,
@@ -1807,7 +2100,7 @@
 
 @article{DBLP:journals/network/CalleRSVM10,
   author    = {Eusebi Calle and
-               J. Ripoll and
+               Jordi Ripoll and
                Juan Segovia and
                Pere Vilà and
                Marc Manzano},
@@ -5230,7 +5523,7 @@
 
 @article{DBLP:journals/network/WongYL04,
   author    = {Kin Yeung Wong and
-               Kai Hau Yeung and
+               Kai-Hau Yeung and
                Kwok-Fai Law},
   title     = {Site-based mapping for parallel proxy servers with fewer {TCP} connections},
   journal   = ieeenetwork,

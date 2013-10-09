@@ -4,7 +4,7 @@
   author    = {Prateek Bhakta and
                Sarah Miracle and
                Dana Randall and
-               Amanda Streib},
+               Amanda Pascoe Streib},
   title     = {Mixing Times of Markov Chains for {Self-Organizing} Lists and Biased Permutations},
   booktitle = soda,
   year      = 2013,
@@ -745,7 +745,7 @@
 
 @inproceedings{DBLP:conf/soda/DadushK13,
   author    = {Daniel Dadush and
-               Gabor Kun},
+               Gábor Kun},
   title     = {Lattice Sparsification and the Approximate Closest Vector Problem},
   booktitle = soda,
   year      = 2013,
@@ -878,8 +878,8 @@
 }
 
 @inproceedings{DBLP:conf/soda/LagerkvistJNZ13,
-  author    = {Victor Lagerkvist and
-               Peter Jonsson and
+  author    = {Peter Jonsson and
+               Victor Lagerkvist and
                Gustav Nordh and
                Bruno Zanuttini},
   title     = {Complexity of {SAT} Problems, Clone Theory and the Exponential Time Hypothesis},
@@ -3127,7 +3127,7 @@
 
 @inproceedings{DBLP:conf/soda/ChandrasekaranKMV11,
   author    = {Karthekeyan Chandrasekaran and
-               Richard Karp and
+               Richard M. Karp and
                Erick Moreno-Centeno and
                Santosh Vempala},
   title     = {Algorithms for Implicit Hitting Set Problems},
@@ -6054,7 +6054,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/GolinXY09,
-  author    = {Mordecai Golin and
+  author    = {Mordecai J. Golin and
                Xiaoming Xu and
                Jiajin Yu},
   title     = {A generic top-down dynamic-programming approach to prefix-free coding},
@@ -11196,7 +11196,7 @@
                Michel X. Goemans and
                Éva Tardos and
                David P. Williamson},
-  title     = {Approximating the smallest k-edge connected spanning subgraph by {LP-rounding}},
+  title     = {Approximating the smallest k},
   booktitle = soda,
   year      = 2005,
   pages     = {562-571},
@@ -17253,7 +17253,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/LanctotLY00,
-  author    = {J. Kevin Lanctot and
+  author    = {J. Kevin Lanctôt and
                Ming Li and
                En-Hui Yang},
   title     = {Estimating {DNA} sequence entropy},
@@ -18608,7 +18608,7 @@
 }
 
 @inproceedings{DBLP:conf/soda/LanctotLMWZ99,
-  author    = {J. Kevin Lanctot and
+  author    = {J. Kevin Lanctôt and
                Ming Li and
                Bin Ma and
                Shaojiu Wang and

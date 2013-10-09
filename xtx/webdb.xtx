@@ -1,5 +1,104 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/webdb/Doan13,
+  author    = {AnHai Doan},
+  title     = {Badger: Toward Crowdsourcing the Building of Structured Knowledge Bases},
+  booktitle = webdb,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/webdb/ChasseurLP13,
+  author    = {Craig Chasseur and
+               Yinan Li and
+               Jignesh M. Patel},
+  title     = {Enabling {JSON} Document Stores in Relational Systems},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/webdb/SherkhonovM13,
+  author    = {Evgeny Sherkhonov and
+               Maarten Marx},
+  title     = {Containment for Tree Patterns with Attribute Value Comparisons},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/webdb/BonevaCS13,
+  author    = {Iovka Boneva and
+               Radu Ciucanu and
+               Slawek Staworko},
+  title     = {Simple Schemas for Unordered {XML}},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/webdb/Barbosa13,
+  author    = {Luciano Barbosa},
+  title     = {Mining Enterprise Websites for Association Thesaurus Construction},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/webdb/PolychronopoulosADGP13,
+  author    = {Vassilis Polychronopoulos and
+               Luca de Alfaro and
+               James Davis and
+               Hector Garcia-Molina and
+               Neoklis Polyzotis},
+  title     = {{Human-Powered} Top-k Lists},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/webdb/AliL13,
+  author    = {Muneeb Ali and
+               Andrea S. LaPaugh},
+  title     = {Enabling {Author-Centric} Ranking of Web Content},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/webdb/AgarwalBKUZ13,
+  author    = {Sumit Agarwal and
+               Daniel Bellinger and
+               Oliver Kennedy and
+               Ankur Upadhyay and
+               Lukasz Ziarek},
+  title     = {Monadic Logs for Collaborative Web Applications},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/webdb/AbbassiLX13,
+  author    = {Zeinab Abbassi and
+               Laks V. S. Lakshmanan and
+               Min Xie},
+  title     = {Fair Recommendations for Online Barter Exchange Networks},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/webdb/AntenucciCLRS13,
+  author    = {Dolan Antenucci and
+               Michael J. Cafarella and
+               Margaret Levenstein and
+               Christopher Ré and
+               Matthew Shapiro},
+  title     = {Ringtail: Feature Selection For Easier Nowcasting},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {49-54},
+}
+
 @inproceedings{DBLP:conf/webdb/KashyapH12,
   author    = {Abhijith Kashyap and
                Vagelis Hristidis},
@@ -231,7 +330,7 @@
 }
 
 @inproceedings{DBLP:conf/webdb/Bizer10,
-  author    = {Chris Bizer},
+  author    = {Christian Bizer},
   title     = {Web of Linked Data - A global public data space on the Web},
   booktitle = webdb,
   year      = 2010,

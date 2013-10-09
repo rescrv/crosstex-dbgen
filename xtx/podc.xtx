@@ -1,5 +1,559 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/podc/Merritt13,
+  author    = {Michael Merritt},
+  title     = {Plenary talk},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/podc/Lynch13,
+  author    = {Nancy A. Lynch},
+  title     = {Athena lecture: distributed computing theory for wireless networks and mobile systems},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/podc/Snir13,
+  author    = {Marc Snir},
+  title     = {Programming models for extreme-scale computing},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/podc/HadzilacosT13,
+  author    = {Vassos Hadzilacos and
+               Sam Toueg},
+  title     = {On deterministic abortable objects},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {4-12},
+}
+
+@inproceedings{DBLP:conf/podc/BrownER13,
+  author    = {Trevor Brown and
+               Faith Ellen and
+               Eric Ruppert},
+  title     = {Pragmatic primitives for non-blocking data structures},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {13-22},
+}
+
+@inproceedings{DBLP:conf/podc/OshmanS13,
+  author    = {Rotem Oshman and
+               Nir Shavit},
+  title     = {The SkipTrie: low-depth concurrent search without rebalancing},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {23-32},
+}
+
+@inproceedings{DBLP:conf/podc/Chechik13,
+  author    = {Shiri Chechik},
+  title     = {Compact routing schemes with improved stretch},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {33-41},
+}
+
+@inproceedings{DBLP:conf/podc/Lenzen13,
+  author    = {Christoph Lenzen},
+  title     = {Optimal deterministic routing and sorting on the congested clique},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {42-50},
+}
+
+@inproceedings{DBLP:conf/podc/FinemanNW13,
+  author    = {Jeremy T. Fineman and
+               Calvin C. Newport and
+               Tonghe Wang},
+  title     = {Brief announcement: fair maximal independent sets in trees},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {51-53},
+}
+
+@inproceedings{DBLP:conf/podc/HoeferS13,
+  author    = {Martin Hoefer and
+               Thomas Sauerwald},
+  title     = {Brief announcement: threshold load balancing in networks},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {54-56},
+}
+
+@inproceedings{DBLP:conf/podc/Braud-SantoniGH13,
+  author    = {Nicolas Braud-Santoni and
+               Rachid Guerraoui and
+               Florian Huc},
+  title     = {Fast byzantine agreement},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {57-64},
+}
+
+@inproceedings{DBLP:conf/podc/VaidyaG13,
+  author    = {Nitin H. Vaidya and
+               Vijay K. Garg},
+  title     = {Byzantine vector consensus in complete graphs},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {65-73},
+}
+
+@inproceedings{DBLP:conf/podc/AugustinePR13,
+  author    = {John Augustine and
+               Gopal Pandurangan and
+               Peter Robinson},
+  title     = {Fast byzantine agreement in dynamic networks},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {74-83},
+}
+
+@inproceedings{DBLP:conf/podc/KowalskiM13,
+  author    = {Dariusz R. Kowalski and
+               Achour Mostéfaoui},
+  title     = {Synchronous byzantine agreement with nearly a cubic number of communication bits: synchronous byzantine agreement with nearly a cubic number of communication bits},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {84-91},
+}
+
+@inproceedings{DBLP:conf/podc/DieudonnePV13,
+  author    = {Yoann Dieudonné and
+               Andrzej Pelc and
+               Vincent Villain},
+  title     = {How to meet asynchronously at polynomial cost},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {92-99},
+}
+
+@inproceedings{DBLP:conf/podc/KuttenPPRT13,
+  author    = {Shay Kutten and
+               Gopal Pandurangan and
+               David Peleg and
+               Peter Robinson and
+               Amitabh Trehan},
+  title     = {On the complexity of universal leader election},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {100-109},
+}
+
+@inproceedings{DBLP:conf/podc/0001G13,
+  author    = {Rachit Agarwal and
+               Philip Brighten Godfrey},
+  title     = {Brief announcement: a simple stretch 2 distance oracle},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {110-112},
+}
+
+@inproceedings{DBLP:conf/podc/CastanedaGM13,
+  author    = {Armando Castañeda and
+               Yannai A. Gonczarowski and
+               Yoram Moses},
+  title     = {Brief announcement: pareto optimal solutions to consensus and set consensus},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {113-115},
+}
+
+@inproceedings{DBLP:conf/podc/DavtyanKS13,
+  author    = {Seda Davtyan and
+               Kishori M. Konwar and
+               Alexander A. Shvartsman},
+  title     = {Brief announcement: self-stabilizing resource discovery algorithm},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {116-118},
+}
+
+@inproceedings{DBLP:conf/podc/JohnKSVW13,
+  author    = {Annu John and
+               Igor Konnov and
+               Ulrich Schmid and
+               Helmut Veith and
+               Josef Widder},
+  title     = {Brief announcement: parameterized model checking of fault-tolerant distributed algorithms by abstraction},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {119-121},
+}
+
+@inproceedings{DBLP:conf/podc/0021TH13,
+  author    = {Lu Zhang and
+               Xueyan Tang and
+               Bingsheng He},
+  title     = {Brief announcement: on minimum interaction time for continuous distributed interactive computing},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {122-124},
+}
+
+@inproceedings{DBLP:conf/podc/BlinT13,
+  author    = {Lélia Blin and
+               Sébastien Tixeuil},
+  title     = {Brief announcement: deterministic self-stabilizing leader election with O(log log n)-bits},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {125-127},
+}
+
+@inproceedings{DBLP:conf/podc/KarlinKSZ13,
+  author    = {Josh R. Karlin and
+               Joud Khoury and
+               Jared Saia and
+               Mahdi Zamani},
+  title     = {Brief announcement: scalable anonymous communication with byzantine adversary},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {128-130},
+}
+
+@inproceedings{DBLP:conf/podc/JohnsonD13,
+  author    = {Samuel D. Johnson and
+               Raissa M. D'Souza},
+  title     = {Brief announcement: brokerage and closure in a strategic model of social capital},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {131-133},
+}
+
+@inproceedings{DBLP:conf/podc/WhitlockSS13,
+  author    = {Sam Whitlock and
+               Colin Scott and
+               Scott Shenker},
+  title     = {Brief announcement: techniques for programmatically troubleshooting distributed systems},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {134-136},
+}
+
+@inproceedings{DBLP:conf/podc/EmekW13,
+  author    = {Yuval Emek and
+               Roger Wattenhofer},
+  title     = {Stone age distributed computing},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {137-146},
+}
+
+@inproceedings{DBLP:conf/podc/ScottJ013,
+  author    = {Alex Scott and
+               Peter Jeavons and
+               Lei Xu},
+  title     = {Feedback from nature: an optimal distributed algorithm for maximal independent set selection},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {147-156},
+}
+
+@inproceedings{DBLP:conf/podc/FraigniaudGKS13,
+  author    = {Pierre Fraigniaud and
+               Mika Göös and
+               Amos Korman and
+               Jukka Suomela},
+  title     = {What can be decided locally without identifiers?},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {157-165},
+}
+
+@inproceedings{DBLP:conf/podc/RaynalS13,
+  author    = {Michel Raynal and
+               Julien Stainer},
+  title     = {Synchrony weakened by message adversaries vs asynchrony restricted by failure detectors},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {166-175},
+}
+
+@inproceedings{DBLP:conf/podc/GuerraouiHK13,
+  author    = {Rachid Guerraoui and
+               Florian Huc and
+               Anne-Marie Kermarrec},
+  title     = {Highly dynamic distributed computing with byzantine failures},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {176-183},
+}
+
+@inproceedings{DBLP:conf/podc/ChenVJ13,
+  author    = {Chen Chen and
+               Roman Vitenberg and
+               Hans-Arno Jacobsen},
+  title     = {Brief announcement: constructing fault-tolerant overlay networks for topic-based publish/subscribe},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {184-186},
+}
+
+@inproceedings{DBLP:conf/podc/KingS13,
+  author    = {Valerie King and
+               Jared Saia},
+  title     = {Brief announcement: byzantine agreement with a strong adversary in polynomial expected time},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {187-189},
+}
+
+@inproceedings{DBLP:conf/podc/AttiyaCHP13,
+  author    = {Hagit Attiya and
+               Armando Castañeda and
+               Maurice Herlihy and
+               Ami Paz},
+  title     = {Upper bound on the complexity of solving hard renaming},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {190-199},
+}
+
+@inproceedings{DBLP:conf/podc/AlistarhAGW13,
+  author    = {Dan Alistarh and
+               James Aspnes and
+               George Giakkoupis and
+               Philipp Woelfel},
+  title     = {Randomized loose renaming in O(log log n) time},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {200-209},
+}
+
+@inproceedings{DBLP:conf/podc/DenysyukR13,
+  author    = {Oksana Denysyuk and
+               Luís Rodrigues},
+  title     = {Byzantine renaming in synchronous systems with t<N},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {210-219},
+}
+
+@inproceedings{DBLP:conf/podc/AttiyaHL13,
+  author    = {Hagit Attiya and
+               Danny Hendler and
+               Smadar Levy},
+  title     = {An O(1)-barriers optimal {RMRs} mutual exclusion algorithm: extended abstract},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {220-229},
+}
+
+@inproceedings{DBLP:conf/podc/LvM13,
+  author    = {Yuezhou Lv and
+               Thomas Moscibroda},
+  title     = {Fair and resilient incentive tree mechanisms},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {230-239},
+}
+
+@inproceedings{DBLP:conf/podc/WongA13,
+  author    = {Edmund L. Wong and
+               Lorenzo Alvisi},
+  title     = {What's a little collusion between friends?},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {240-249},
+}
+
+@inproceedings{DBLP:conf/podc/AgathangelouGM13,
+  author    = {Chrysovalandis Agathangelou and
+               Chryssis Georgiou and
+               Marios Mavronicolas},
+  title     = {A distributed algorithm for gathering many fat mobile robots in the plane},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {250-259},
+}
+
+@inproceedings{DBLP:conf/podc/ZhuIHM13,
+  author    = {Ji Zhu and
+               Stratis Ioannidis and
+               Nidhi Hegde and
+               Laurent Massoulié},
+  title     = {Stable and scalable universal swarms},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {260-269},
+}
+
+@inproceedings{DBLP:conf/podc/DolevL13,
+  author    = {Danny Dolev and
+               Christoph Lenzen},
+  title     = {Early-deciding consensus is expensive},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {270-279},
+}
+
+@inproceedings{DBLP:conf/podc/LewkoL13,
+  author    = {Allison B. Lewko and
+               Mark Lewko},
+  title     = {On the complexity of asynchronous agreement against powerful adversaries},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {280-289},
+}
+
+@inproceedings{DBLP:conf/podc/DuboisG13,
+  author    = {Swan Dubois and
+               Rachid Guerraoui},
+  title     = {Introducing speculation in self-stabilization: an application to mutual exclusion},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {290-298},
+}
+
+@inproceedings{DBLP:conf/podc/AvniSS13,
+  author    = {Hillel Avni and
+               Nir Shavit and
+               Adi Suissa},
+  title     = {Leaplist: lessons learned in designing tm-supported range queries},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {299-308},
+}
+
+@inproceedings{DBLP:conf/podc/AttiyaGHR13,
+  author    = {Hagit Attiya and
+               Alexey Gotsman and
+               Sandeep Hans and
+               Noam Rinetzky},
+  title     = {A programming language perspective on transactional memory consistency},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {309-318},
+}
+
+@inproceedings{DBLP:conf/podc/GorelikH13,
+  author    = {Michael Gorelik and
+               Danny Hendler},
+  title     = {Brief announcement: an asymmetric flat-combining based queue algorithm},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {319-321},
+}
+
+@inproceedings{DBLP:conf/podc/AghazadehGW13,
+  author    = {Zahra Aghazadeh and
+               Wojciech M. Golab and
+               Philipp Woelfel},
+  title     = {Brief announcement: resettable objects and efficient memory reclamation for concurrent algorithms},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {322-324},
+}
+
+@inproceedings{DBLP:conf/podc/GhaffariHK13,
+  author    = {Mohsen Ghaffari and
+               Bernhard Haeupler and
+               Majid Khabbazian},
+  title     = {Randomized broadcast in radio networks with collision detection},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {325-334},
+}
+
+@inproceedings{DBLP:conf/podc/DaumGGKN13,
+  author    = {Sebastian Daum and
+               Mohsen Ghaffari and
+               Seth Gilbert and
+               Fabian Kuhn and
+               Calvin C. Newport},
+  title     = {Maximal independent sets in multichannel radio networks},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {335-344},
+}
+
+@inproceedings{DBLP:conf/podc/GhaffariLN13,
+  author    = {Mohsen Ghaffari and
+               Nancy A. Lynch and
+               Calvin C. Newport},
+  title     = {The cost of radio network broadcast for different models of unreliable links},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {345-354},
+}
+
+@inproceedings{DBLP:conf/podc/BodlaenderHM13,
+  author    = {Marijke H. L. Bodlaender and
+               Magnús M. Halldórsson and
+               Pradipta Mitra},
+  title     = {Connectivity and aggregation in multihop wireless networks},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {355-364},
+}
+
+@inproceedings{DBLP:conf/podc/KlasingKPS13,
+  author    = {Ralf Klasing and
+               Adrian Kosowski and
+               Dominik Pajak and
+               Thomas Sauerwald},
+  title     = {The multi-agent rotor-router on the ring: a deterministic alternative to parallel random walks},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {365-374},
+}
+
+@inproceedings{DBLP:conf/podc/LenzenP13,
+  author    = {Christoph Lenzen and
+               David Peleg},
+  title     = {Efficient distributed source detection with limited bandwidth},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {375-382},
+}
+
+@inproceedings{DBLP:conf/podc/HesariKKPNOS13,
+  author    = {Mohsen Eftekhari Hesari and
+               Evangelos Kranakis and
+               Danny Krizanc and
+               Oscar Morales Ponce and
+               Lata Narayanan and
+               Jaroslav Opatrny and
+               Sunil M. Shende},
+  title     = {Distributed algorithms for barrier coverage using relocatable sensors},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {383-392},
+}
+
+@inproceedings{DBLP:conf/podc/XuAG13,
+  author    = {Gang Xu and
+               George T. Amariucai and
+               Yong Guan},
+  title     = {Delegation of computation with verification outsourcing: curious verifiers},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {393-402},
+}
+
+@inproceedings{DBLP:conf/podc/Newport13,
+  author    = {Calvin C. Newport},
+  title     = {Brief announcement: a shorter and stronger proof of an Ω(d log(n/d)) lower bound for broadcast in radio networks},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {403-405},
+}
+
+@inproceedings{DBLP:conf/podc/Wawrzyniak13,
+  author    = {Wojciech Wawrzyniak},
+  title     = {Brief announcement: a local approximation algorithm for {MDS} problem in anonymous planar networks},
+  booktitle = podc,
+  year      = 2013,
+  pages     = {406-408},
+}
+
 @inproceedings{DBLP:conf/podc/Aspnes12,
   author    = {James Aspnes},
   title     = {Faster randomized consensus with an oblivious adversary},

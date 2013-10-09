@@ -69,6 +69,7 @@
 @workshop{webdb,
   shortname = "WebDB Workshop",
   longname  = "International Workshop on the Web and Databases",
+  [year=2013] address=NYC, month=jun,
   [year=2012] address=Scottsdale, month=may,
   [year=2011] address=Athens, month=jun,
   [year=2010] address=Indianapolis, month=jun,

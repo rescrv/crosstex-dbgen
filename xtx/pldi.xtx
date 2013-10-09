@@ -1,5 +1,522 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/pldi/Larus13,
+  author    = {James R. Larus},
+  title     = {Look up!: your future is in the cloud},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/pldi/CheungSM13,
+  author    = {Alvin Cheung and
+               Armando Solar-Lezama and
+               Samuel Madden},
+  title     = {Optimizing database-backed applications with query synthesis},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/pldi/SinghGS13,
+  author    = {Rishabh Singh and
+               Sumit Gulwani and
+               Armando Solar-Lezama},
+  title     = {Automated feedback generation for introductory programming assignments},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/pldi/GveroKKP13,
+  author    = {Tihomir Gvero and
+               Viktor Kuncak and
+               Ivan Kuraj and
+               Ruzica Piskac},
+  title     = {Complete completion using types and weights},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {27-38},
+}
+
+@inproceedings{DBLP:conf/pldi/JohnsonOZA13,
+  author    = {Nick P. Johnson and
+               Taewook Oh and
+               Ayal Zaks and
+               David I. August},
+  title     = {Fast condensation of the program dependence graph},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {39-50},
+}
+
+@inproceedings{DBLP:conf/pldi/ElwazeerAKSB13,
+  author    = {Khaled Elwazeer and
+               Kapil Anand and
+               Aparna Kotha and
+               Matthew Smithson and
+               Rajeev Barua},
+  title     = {Scalable variable and data type detection in a binary rewriter},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {51-60},
+}
+
+@inproceedings{DBLP:conf/pldi/RajaramNSE13,
+  author    = {Bharghava Rajaram and
+               Vijay Nagarajan and
+               Susmit Sarkar and
+               Marco Elver},
+  title     = {Fast {RMWs} for TSO: semantics and implementation},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {61-72},
+}
+
+@inproceedings{DBLP:conf/pldi/GordonEG13,
+  author    = {Colin S. Gordon and
+               Michael D. Ernst and
+               Dan Grossman},
+  title     = {Rely-guarantee references for refinement types over aliased mutable data},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {73-84},
+}
+
+@inproceedings{DBLP:conf/pldi/Titzer13,
+  author    = {Ben Titzer},
+  title     = {Harmonizing classes, functions, tuples, and type parameters in virgil iii},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {85-94},
+}
+
+@inproceedings{DBLP:conf/pldi/BurckhardtFHMMTK13,
+  author    = {Sebastian Burckhardt and
+               Manuel Fähndrich and
+               Peli de Halleux and
+               Sean McDirmid and
+               Michal Moskal and
+               Nikolai Tillmann and
+               Jun Kato},
+  title     = {It's alive! continuous feedback in {UI} programming},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {95-104},
+}
+
+@inproceedings{DBLP:conf/pldi/DeVitoHAHV13,
+  author    = {Zachary DeVito and
+               James Hegarty and
+               Alex Aiken and
+               Pat Hanrahan and
+               Jan Vitek},
+  title     = {Terra: a multi-stage language for high-performance computing},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {105-116},
+}
+
+@inproceedings{DBLP:conf/pldi/LiTCS13,
+  author    = {Jiajia Li and
+               Guangming Tan and
+               Mingyu Chen and
+               Ninghui Sun},
+  title     = {SMAT: an input adaptive auto-tuner for sparse matrix-vector multiplication},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {117-126},
+}
+
+@inproceedings{DBLP:conf/pldi/KongVSFPS13,
+  author    = {Martin Kong and
+               Richard Veras and
+               Kevin Stock and
+               Franz Franchetti and
+               Louis-Noël Pouchet and
+               P. Sadayappan},
+  title     = {When polyhedral transformations meet {SIMD} code generation},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {127-138},
+}
+
+@inproceedings{DBLP:conf/pldi/Schneider13,
+  author    = {Fred B. Schneider},
+  title     = {Programming languages in security: keynote},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {139-140},
+}
+
+@inproceedings{DBLP:conf/pldi/HuangZD13,
+  author    = {Jeff Huang and
+               Charles Zhang and
+               Julian Dolby},
+  title     = {CLAP: recording local executions to reproduce concurrency failures},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {141-152},
+}
+
+@inproceedings{DBLP:conf/pldi/ElmasBNS13,
+  author    = {Tayfun Elmas and
+               Jacob Burnim and
+               George C. Necula and
+               Koushik Sen},
+  title     = {CONCURRIT: a domain specific language for reproducing concurrency bugs},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {153-164},
+}
+
+@inproceedings{DBLP:conf/pldi/SchaferSDT13,
+  author    = {Max Schäfer and
+               Manu Sridharan and
+               Julian Dolby and
+               Frank Tip},
+  title     = {Dynamic determinacy analysis},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {165-174},
+}
+
+@inproceedings{DBLP:conf/pldi/ZhaoNMZ13,
+  author    = {Jianzhou Zhao and
+               Santosh Nagarakatte and
+               Milo M. K. Martin and
+               Steve Zdancewic},
+  title     = {Formal verification of {SSA-based} optimizations for {LLVM}},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {175-186},
+}
+
+@inproceedings{DBLP:conf/pldi/MorissetPN13,
+  author    = {Robin Morisset and
+               Pankaj Pawan and
+               Francesco Zappa Nardelli},
+  title     = {Compiler testing via a theory of sound optimisations in the C11/C++11 memory model},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {187-196},
+}
+
+@inproceedings{DBLP:conf/pldi/ChenGZWFER13,
+  author    = {Yang Chen and
+               Alex Groce and
+               Chaoqiang Zhang and
+               Weng-Keen Wong and
+               Xiaoli Fern and
+               Eric Eide and
+               John Regehr},
+  title     = {Taming compiler fuzzers},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {197-208},
+}
+
+@inproceedings{DBLP:conf/pldi/BlackshearL13,
+  author    = {Sam Blackshear and
+               Shuvendu K. Lahiri},
+  title     = {Almost-correct specifications: a modular semantic framework for assigning confidence to warnings},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {209-218},
+}
+
+@inproceedings{DBLP:conf/pldi/CookK13,
+  author    = {Byron Cook and
+               Eric Koskinen},
+  title     = {Reasoning about nondeterminism in programs},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {219-230},
+}
+
+@inproceedings{DBLP:conf/pldi/Qiu0SM13,
+  author    = {Xiaokang Qiu and
+               Pranav Garg and
+               Andrei Stefanescu and
+               Parthasarathy Madhusudan},
+  title     = {Natural proofs for structure, data, and separation},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {231-242},
+}
+
+@inproceedings{DBLP:conf/pldi/YuKL13,
+  author    = {Hongtao Yu and
+               Hou-Jen Ko and
+               Zhiyuan Li},
+  title     = {General data structure expansion for multi-threading},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {243-252},
+}
+
+@inproceedings{DBLP:conf/pldi/HungG13,
+  author    = {Wei-Lun Hung and
+               Vijay K. Garg},
+  title     = {AutoSynch: an automatic-signal monitor based on predicate tagging},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {253-262},
+}
+
+@inproceedings{DBLP:conf/pldi/Golan-GuetaRSY13,
+  author    = {Guy Golan-Gueta and
+               G. Ramalingam and
+               Mooly Sagiv and
+               Eran Yahav},
+  title     = {Concurrent libraries with foresight},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {263-274},
+}
+
+@inproceedings{DBLP:conf/pldi/BlackshearCS13,
+  author    = {Sam Blackshear and
+               Bor-Yuh Evan Chang and
+               Manu Sridharan},
+  title     = {Thresher: precise refutations for heap reachability},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {275-286},
+}
+
+@inproceedings{DBLP:conf/pldi/UdupaRDMMA13,
+  author    = {Abhishek Udupa and
+               Arun Raghavan and
+               Jyotirmoy V. Deshmukh and
+               Sela Mador-Haim and
+               Milo M. K. Martin and
+               Rajeev Alur},
+  title     = {TRANSIT: specifying protocols with concolic snippets},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {287-296},
+}
+
+@inproceedings{DBLP:conf/pldi/GaoSBMBL13,
+  author    = {Tiejun Gao and
+               Karin Strauss and
+               Stephen M. Blackburn and
+               Kathryn S. McKinley and
+               Doug Burger and
+               James R. Larus},
+  title     = {Using managed runtime systems to tolerate holes in wearable memories},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {297-308},
+}
+
+@inproceedings{DBLP:conf/pldi/CohenP13,
+  author    = {Nachshon Cohen and
+               Erez Petrank},
+  title     = {Limitations of partial compaction: towards practical bounds},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {309-320},
+}
+
+@inproceedings{DBLP:conf/pldi/DesaiGJQRZ13,
+  author    = {Ankush Desai and
+               Vivek Gupta and
+               Ethan K. Jackson and
+               Shaz Qadeer and
+               Sriram K. Rajamani and
+               Damien Zufferey},
+  title     = {P: safe asynchronous event-driven programming},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {321-332},
+}
+
+@inproceedings{DBLP:conf/pldi/GreenLRSV13,
+  author    = {Alexander S. Green and
+               Peter LeFanu Lumsdaine and
+               Neil J. Ross and
+               Peter Selinger and
+               Benoît Valiron},
+  title     = {Quipper: a scalable quantum programming language},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {333-342},
+}
+
+@inproceedings{DBLP:conf/pldi/IsradisaikulM13,
+  author    = {Chinawat Isradisaikul and
+               Andrew C. Myers},
+  title     = {Reconciling exhaustive pattern matching with objects},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {343-354},
+}
+
+@inproceedings{DBLP:conf/pldi/BoddenTRBBM13,
+  author    = {Eric Bodden and
+               Társis Tolêdo and
+               Márcio Ribeiro and
+               Claus Brabrand and
+               Paulo Borba and
+               Mira Mezini},
+  title     = {SPLLIFT: statically analyzing software product lines in minutes instead of years},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {355-364},
+}
+
+@inproceedings{DBLP:conf/pldi/ZhangNY13,
+  author    = {Xin Zhang and
+               Mayur Naik and
+               Hongseok Yang},
+  title     = {Finding optimum abstractions in parametric dataflow analysis},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {365-376},
+}
+
+@inproceedings{DBLP:conf/pldi/ApinisSV13,
+  author    = {Kalmer Apinis and
+               Helmut Seidl and
+               Vesal Vojdani},
+  title     = {How to combine widening and narrowing for non-monotonic systems of equations},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {377-386},
+}
+
+@inproceedings{DBLP:conf/pldi/SwamyWSCL13,
+  author    = {Nikhil Swamy and
+               Joel Weinberger and
+               Cole Schlesinger and
+               Juan Chen and
+               Benjamin Livshits},
+  title     = {Verifying higher-order programs with the dijkstra monad},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {387-398},
+}
+
+@inproceedings{DBLP:conf/pldi/SergeyDMMDCP13,
+  author    = {Ilya Sergey and
+               Dominique Devriese and
+               Matthew Might and
+               Jan Midtgaard and
+               David Darais and
+               Dave Clarke and
+               Frank Piessens},
+  title     = {Monadic abstract interpreters},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {399-410},
+}
+
+@inproceedings{DBLP:conf/pldi/CzaplickiC13,
+  author    = {Evan Czaplicki and
+               Stephen Chong},
+  title     = {Asynchronous functional reactive programming for {GUIs}},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {411-422},
+}
+
+@inproceedings{DBLP:conf/pldi/KastrinisS13,
+  author    = {George Kastrinis and
+               Yannis Smaragdakis},
+  title     = {Hybrid context-sensitivity for points-to analysis},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {423-434},
+}
+
+@inproceedings{DBLP:conf/pldi/ZhangLYS13,
+  author    = {Qirun Zhang and
+               Michael R. Lyu and
+               Hao Yuan and
+               Zhendong Su},
+  title     = {Fast algorithms for {Dyck-CFL-reachability} with applications to alias analysis},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {435-446},
+}
+
+@inproceedings{DBLP:conf/pldi/SankaranarayananCG13,
+  author    = {Sriram Sankaranarayanan and
+               Aleksandar Chakarov and
+               Sumit Gulwani},
+  title     = {Static analysis for probabilistic programs: inferring whole program properties from finitely many paths},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {447-458},
+}
+
+@inproceedings{DBLP:conf/pldi/LiangF13,
+  author    = {Hongjin Liang and
+               Xinyu Feng},
+  title     = {Modular verification of linearizability with non-fixed linearization points},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {459-470},
+}
+
+@inproceedings{DBLP:conf/pldi/SewellMK13,
+  author    = {Thomas Arthur Leck Sewell and
+               Magnus O. Myreen and
+               Gerwin Klein},
+  title     = {Translation validation for a verified {OS} kernel},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {471-482},
+}
+
+@inproceedings{DBLP:conf/pldi/GuhaRF13,
+  author    = {Arjun Guha and
+               Mark Reitblatt and
+               Nate Foster},
+  title     = {Machine-verified network controllers},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {483-494},
+}
+
+@inproceedings{DBLP:conf/pldi/NowatzkiSCSER13,
+  author    = {Tony Nowatzki and
+               Michael Sartin-Tarm and
+               Lorenzo De Carli and
+               Karthikeyan Sankaralingam and
+               Cristian Estan and
+               Behnam Robatmili},
+  title     = {A general constraint-centric scheduling framework for spatial architectures},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {495-506},
+}
+
+@inproceedings{DBLP:conf/pldi/LifflanderKK13,
+  author    = {Jonathan Lifflander and
+               Sriram Krishnamoorthy and
+               Laxmikant V. Kalé},
+  title     = {Steal Tree: low-overhead tracing of work stealing schedulers},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {507-518},
+}
+
+@inproceedings{DBLP:conf/pldi/Ragan-KelleyBAPDA13,
+  author    = {Jonathan Ragan-Kelley and
+               Connelly Barnes and
+               Andrew Adams and
+               Sylvain Paris and
+               Frédo Durand and
+               Saman P. Amarasinghe},
+  title     = {Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {519-530},
+}
+
 @inproceedings{DBLP:conf/pldi/DubachCRBF12,
   author    = {Christophe Dubach and
                Perry Cheng and

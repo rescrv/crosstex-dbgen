@@ -1,5 +1,1069 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sigcomm/Peterson13,
+  author    = {Larry Peterson},
+  title     = {Zen and the art of network architecture},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JainKMOPSVWZZZHSV13,
+  author    = {Sushant Jain and
+               Alok Kumar and
+               Subhasree Mandal and
+               Joon Ong and
+               Leon Poutievski and
+               Arjun Singh and
+               Subbaiah Venkata and
+               Jim Wanderer and
+               Junlan Zhou and
+               Min Zhu and
+               Jon Zolla and
+               Urs Hölzle and
+               Stephen Stuart and
+               Amin Vahdat},
+  title     = {B4: experience with a globally-deployed software defined wan},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HongKMZGNW13,
+  author    = {Chi-Yao Hong and
+               Srikanth Kandula and
+               Ratul Mahajan and
+               Ming Zhang and
+               Vijay Gill and
+               Mohan Nanduri and
+               Roger Wattenhofer},
+  title     = {Achieving high utilization with software-driven {WAN}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/sigcomm/QaziTCMSY13,
+  author    = {Zafar Ayyub Qazi and
+               Cheng-Chun Tu and
+               Luis Chiang and
+               Rui Miao and
+               Vyas Sekar and
+               Minlan Yu},
+  title     = {{SIMPLE-fying} middlebox policy enforcement using {SDN}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {27-38},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuPTGWS13,
+  author    = {Vincent Liu and
+               Aaron N. Parks and
+               Vamsi Talla and
+               Shyamnath Gollakota and
+               David Wetherall and
+               Joshua R. Smith},
+  title     = {Ambient backscatter: wireless communication out of thin air},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {39-50},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangK13,
+  author    = {Jue Wang and
+               Dina Katabi},
+  title     = {Dude, where's my card?: {RFID} positioning that works with multipath and non-line of sight},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {51-62},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NandakumarCPV13,
+  author    = {Rajalakshmi Nandakumar and
+               Krishna Kant Chintalapudi and
+               Venkata N. Padmanabhan and
+               Ramarathnam Venkatesan},
+  title     = {Dhwani: secure peer-to-peer acoustic {NFC}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {63-74},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AdibK13,
+  author    = {Fadel Adib and
+               Dina Katabi},
+  title     = {See through walls with WiFi!},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {75-86},
+}
+
+@inproceedings{DBLP:conf/sigcomm/VoellmyWYFH13,
+  author    = {Andreas Voellmy and
+               Junchang Wang and
+               Y. Richard Yang and
+               Bryan Ford and
+               Paul Hudak},
+  title     = {Maple: simplifying {SDN} programming using algorithmic policies},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {87-98},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BosshartGKVMIMH13,
+  author    = {Pat Bosshart and
+               Glen Gibb and
+               Hun-Seok Kim and
+               George Varghese and
+               Nick McKeown and
+               Martin Izzard and
+               Fernando A. Mujica and
+               Mark Horowitz},
+  title     = {Forwarding metamorphosis: fast programmable match-action processing in hardware for {SDN}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {99-110},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RetvariTKMH13,
+  author    = {Gábor Rétvári and
+               János Tapolcai and
+               Attila Korösi and
+               András Majdán and
+               Zalán Heszberger},
+  title     = {Compressing {IP} forwarding tables: towards entropy bounds and beyond},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {111-122},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WinsteinB13,
+  author    = {Keith Winstein and
+               Hari Balakrishnan},
+  title     = {{TCP} ex machina: computer-generated congestion control},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {123-134},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HanGAS13,
+  author    = {Dongsu Han and
+               Robert Grandl and
+               Aditya Akella and
+               Srinivasan Seshan},
+  title     = {FCP: a flexible transport framework for accommodating diversity},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {135-146},
+}
+
+@inproceedings{DBLP:conf/sigcomm/FayazbakhshLTGKMNSS13,
+  author    = {Seyed Kaveh Fayazbakhsh and
+               Yin Lin and
+               Amin Tootoonchian and
+               Ali Ghodsi and
+               Teemu Koponen and
+               Bruce M. Maggs and
+               K. C. Ng and
+               Vyas Sekar and
+               Scott Shenker},
+  title     = {Less pain, most of the gain: incrementally deployable {ICN}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {147-158},
+}
+
+@inproceedings{DBLP:conf/sigcomm/FlachDTRCCJHKG13,
+  author    = {Tobias Flach and
+               Nandita Dukkipati and
+               Andreas Terzis and
+               Barath Raghavan and
+               Neal Cardwell and
+               Yuchung Cheng and
+               Ankur Jain and
+               Shuai Hao and
+               Ethan Katz-Bassett and
+               Ramesh Govindan},
+  title     = {Reducing web latency: the virtue of gentle aggression},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {159-170},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LychevGS13,
+  author    = {Robert Lychev and
+               Sharon Goldberg and
+               Michael Schapira},
+  title     = {{BGP} security in partial deployment: is the juice worth the squeeze?},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {171-182},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JavedCCKAK13,
+  author    = {Umar Javed and
+               Ítalo Cunha and
+               David R. Choffnes and
+               Ethan Katz-Bassett and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy},
+  title     = {PoiRoot: investigating the root cause of interdomain path changes},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {183-194},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AngelW13,
+  author    = {Sebastian Angel and
+               Michael Walfish},
+  title     = {Verifiable auctions for online ad exchanges},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {195-206},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PatelBYMGMKKZWKK13,
+  author    = {Parveen Patel and
+               Deepak Bansal and
+               Lihua Yuan and
+               Ashwin Murthy and
+               Albert G. Greenberg and
+               David A. Maltz and
+               Randy Kern and
+               Hemant Kumar and
+               Marios Zikos and
+               Hongyu Wu and
+               Changhoon Kim and
+               Naveen Karri},
+  title     = {Ananta: cloud scale load balancing},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {207-218},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JalapartiBKMRY13,
+  author    = {Virajith Jalaparti and
+               Peter Bodík and
+               Srikanth Kandula and
+               Ishai Menache and
+               Mikhail Rybalkin and
+               Chenyu Yan},
+  title     = {Speeding up distributed request-response workflows},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {219-230},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChowdhuryKS13,
+  author    = {Mosharaf Chowdhury and
+               Srikanth Kandula and
+               Ion Stoica},
+  title     = {Leveraging endpoint flexibility in data-intensive clusters},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {231-242},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenMSZ13,
+  author    = {Yingying Chen and
+               Ratul Mahajan and
+               Baskar Sridharan and
+               Zhi-Li Zhang},
+  title     = {A provider-side view of web search response time},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {243-254},
+}
+
+@inproceedings{DBLP:conf/sigcomm/QuanHP13,
+  author    = {Lin Quan and
+               John S. Heidemann and
+               Yuri Pradkin},
+  title     = {Trinocular: understanding internet reliability through adaptive probing},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {255-266},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GaoYCPGJD13,
+  author    = {Hongyu Gao and
+               Vinod Yegneswaran and
+               Yan Chen and
+               Phillip A. Porras and
+               Shalini Ghosh and
+               Jian Jiang and
+               Hai-Xin Duan},
+  title     = {An empirical reexamination of global {DNS} behavior},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {267-278},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XiaSLINZK13,
+  author    = {Ning Xia and
+               Han Hee Song and
+               Yong Liao and
+               Marios Iliofotou and
+               Antonio Nucci and
+               Zhi-Li Zhang and
+               Aleksandar Kuzmanovic},
+  title     = {Mosaic: quantifying privacy leakage in mobile networks},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {279-290},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HanLPPAKW13,
+  author    = {Seungyeop Han and
+               Vincent Liu and
+               Qifan Pu and
+               Simon Peter and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy and
+               David Wetherall},
+  title     = {Expressive privacy control with pseudonyms},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {291-302},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Le-BlondCZDBF13,
+  author    = {Stevens Le-Blond and
+               David R. Choffnes and
+               Wenxuan Zhou and
+               Peter Druschel and
+               Hitesh Ballani and
+               Paul Francis},
+  title     = {Towards efficient traffic-analysis resistant anonymity networks},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {303-314},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenAF13,
+  author    = {Ruichuan Chen and
+               Istemi Ekin Akkus and
+               Paul Francis},
+  title     = {SplitX: high-performance private analytics},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {315-326},
+}
+
+@inproceedings{DBLP:conf/sigcomm/FergusonGLFK13,
+  author    = {Andrew D. Ferguson and
+               Arjun Guha and
+               Chen Liang and
+               Rodrigo Fonseca and
+               Shriram Krishnamurthi},
+  title     = {Participatory networking: an {API} for application control of {SDNs}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {327-338},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BalachandranSASSZ13,
+  author    = {Athula Balachandran and
+               Vyas Sekar and
+               Aditya Akella and
+               Srinivasan Seshan and
+               Ion Stoica and
+               Hui Zhang},
+  title     = {Developing a predictive model of quality of experience for internet video},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {339-350},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PopaYBMTS13,
+  author    = {Lucian Popa and
+               Praveen Yalagandula and
+               Sujata Banerjee and
+               Jeffrey C. Mogul and
+               Yoshio Turner and
+               Jose Renato Santos},
+  title     = {ElasticSwitch: practical work-conserving bandwidth guarantees for cloud computing},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {351-362},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HuangQGZXMSS13,
+  author    = {Junxian Huang and
+               Feng Qian and
+               Yihua Guo and
+               Yuanyuan Zhou and
+               Qiang Xu and
+               Zhuoqing Morley Mao and
+               Subhabrata Sen and
+               Oliver Spatscheck},
+  title     = {An in-depth study of LTE: effect of network protocol and application behavior on performance},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {363-374},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BharadiaMK13,
+  author    = {Dinesh Bharadia and
+               Emily McMilin and
+               Sachin Katti},
+  title     = {Full duplex radios},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {375-386},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KumarCGK13,
+  author    = {Swarun Kumar and
+               Diego Cifuentes and
+               Shyamnath Gollakota and
+               Dina Katabi},
+  title     = {Bringing cross-layer {MIMO} to today's wireless {LANs}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {387-398},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YangLYFTHZZ13,
+  author    = {Qing Yang and
+               Xiaoxiao Li and
+               Hongyi Yao and
+               Ji Fang and
+               Kun Tan and
+               Wenjun Hu and
+               Jiansong Zhang and
+               Yongguang Zhang},
+  title     = {BigStation: enabling scalable real-time signal processingin large mu-mimo systems},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {399-410},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuWZYWM13,
+  author    = {Hongqiang Harry Liu and
+               Xin Wu and
+               Ming Zhang and
+               Lihua Yuan and
+               Roger Wattenhofer and
+               David A. Maltz},
+  title     = {zUpdate: updating data center networks with zero loss},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {411-422},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CrisanBCMG13,
+  author    = {Daniel Crisan and
+               Robert Birke and
+               Gilles Cressier and
+               Cyriel Minkenberg and
+               Mitchell Gusat},
+  title     = {Got loss?: get zOVN!},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {423-434},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AlizadehYSKMPS13,
+  author    = {Mohammad Alizadeh and
+               Shuang Yang and
+               Milad Sharif and
+               Sachin Katti and
+               Nick McKeown and
+               Balaji Prabhakar and
+               Scott Shenker},
+  title     = {pFabric: minimal near-optimal datacenter transport},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {435-446},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PorterSFFSRFPV13,
+  author    = {George Porter and
+               Richard D. Strong and
+               Nathan Farrington and
+               Alex Forencich and
+               Pang-Chen Sun and
+               Tajana Rosing and
+               Yeshaiahu Fainman and
+               George Papen and
+               Amin Vahdat},
+  title     = {Integrating microsecond circuit switching into the data center},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {447-458},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BiscuitwalaBLPRCHLM13,
+  author    = {Kanak Biscuitwala and
+               Willem Bult and
+               Mathias Lécuyer and
+               T. J. Purtell and
+               Madeline K. B. Ross and
+               Augustin Chaintreau and
+               Chris Haseman and
+               Monica S. Lam and
+               Susan E. McGregor},
+  title     = {Dispatch: secure, resilient mobile reporting},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {459-460},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BiswasCRZW13,
+  author    = {Trisha Biswas and
+               Asit Chakraborti and
+               Ravishankar Ravindran and
+               Xinwen Zhang and
+               Guoqiang Wang},
+  title     = {Contextualized information-centric home network},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {461-462},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenCLLOS13,
+  author    = {Yuanfang Chen and
+               Noël Crespi and
+               Lin Lv and
+               Mingchu Li and
+               Antonio M. Ortiz and
+               Lei Shu},
+  title     = {Locating using prior information: wireless indoor localization algorithm},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {463-464},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DietrichRP13,
+  author    = {David Dietrich and
+               Amr Rizk and
+               Panagiotis Papadimitriou},
+  title     = {AutoEmbed: automated multi-provider virtual network embedding},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {465-466},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GemberGKA13,
+  author    = {Aaron Gember and
+               Robert Grandl and
+               Junaid Khalid and
+               Aditya Akella},
+  title     = {Design and implementation of a framework for software-defined middlebox networking},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {467-468},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KellerRP13,
+  author    = {Matthias Keller and
+               Christoph Robbert and
+               Manuel Peuster},
+  title     = {An evaluation testbed for adaptive, topology-aware deployment of elastic applications},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {469-470},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Knight13,
+  author    = {Simon Knight},
+  title     = {Automated configuration and measurement of emulated networks with {AutoNetkit}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {471-472},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LevinCSF13,
+  author    = {Dan Levin and
+               Marco Canini and
+               Stefan Schmid and
+               Anja Feldmann},
+  title     = {Incremental {SDN} deployment in enterprise networks},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {473-474},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LinHKMKAWB13,
+  author    = {Pingping Lin and
+               Jonathan Hart and
+               Umesh Krishnaswamy and
+               Tetsuya Murakami and
+               Masayoshi Kobayashi and
+               Ali Al-Shabibi and
+               Kuang-Ching Wang and
+               Jun Bi},
+  title     = {Seamless interworking of {SDN} and {IP}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {475-476},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuZWWSYWS13,
+  author    = {Bo Liu and
+               Baokang Zhao and
+               Ziling Wei and
+               Chunqing Wu and
+               Jinshu Su and
+               Wanrong Yu and
+               Fei Wang and
+               Shihai Sun},
+  title     = {Qphone: a quantum security {VoIP} phone},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {477-478},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuLLGS13,
+  author    = {Yang Liu and
+               Jiahe Liu and
+               Ting Liu and
+               Xiaohong Guan and
+               Yanan Sun},
+  title     = {Security risks evaluation toolbox for smart grid devices},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {479-480},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NemethSCG13,
+  author    = {Felician Németh and
+               Balázs Sonkoly and
+               Levente Csikor and
+               András Gulyás},
+  title     = {A large-scale multipath playground for experimenters and early adopters},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {481-482},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NSRT13,
+  author    = {Shankaranarayanan P. N. and
+               Ashiwan Sivakumar and
+               Sanjay G. Rao and
+               Mohit Tawarmalani},
+  title     = {D-tunes: self tuning datastores for geo-distributed interactive applications},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {483-484},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PuJG13,
+  author    = {Qifan Pu and
+               Siyu Jiang and
+               Shyamnath Gollakota},
+  title     = {Whole-home gesture recognition using wireless signals},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {485-486},
+}
+
+@inproceedings{DBLP:conf/sigcomm/QaziLJBAN13,
+  author    = {Zafar Ayyub Qazi and
+               Jeongkeun Lee and
+               Tao Jin and
+               Gowtham Bellala and
+               Manfred Arndt and
+               Guevara Noubir},
+  title     = {Application-awareness in {SDN}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {487-488},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RoversoEH13,
+  author    = {Roberto Roverso and
+               Sameh El-Ansary and
+               Mikael Högqvist},
+  title     = {On {HTTP} live streaming in large enterprises},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {489-490},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SharmaSCPD13,
+  author    = {Sachin Sharma and
+               Dimitri Staessens and
+               Didier Colle and
+               Mario Pickavet and
+               Piet Demeester},
+  title     = {Automatic configuration of routing control platforms in {OpenFlow} networks},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {491-492},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SinghBFHMMPS13,
+  author    = {Rayman Preet Singh and
+               A. J. Bernheim Brush and
+               Evgeni Filippov and
+               Danny Huang and
+               Ratul Mahajan and
+               Khurshed Mazhar and
+               Amar Phanishayee and
+               Arjmand Samuel},
+  title     = {HomeLab: a platform for conducting experiments with connected devices in the home},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {493-494},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SoNOS13,
+  author    = {Won So and
+               Ashok Narayanan and
+               David Oran and
+               Mark Stapp},
+  title     = {Named data networking on a router: forwarding at 20gbps and beyond},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {495-496},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XueMC13,
+  author    = {Lei Xue and
+               Ricky K. P. Mok and
+               Rocky K. C. Chang},
+  title     = {OMware: an open measurement ware for stable residential broadband measurement},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {497-498},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YinSWGLLYGL13,
+  author    = {Jianxiong Yin and
+               Peng Sun and
+               Yonggang Wen and
+               Haigang Gong and
+               Ming Liu and
+               Xuelong Li and
+               Haipeng You and
+               Jinqi Gao and
+               Cynthia Lin},
+  title     = {Cloud3DView: an interactive tool for cloud data center operations},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {499-500},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AwaraJK13,
+  author    = {Karim Awara and
+               Hani Jamjoom and
+               Panos Kalnis},
+  title     = {To 4, 000 compute nodes and beyond: network-aware vertex placement in large-scale graph processing systems},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {501-502},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CalderMZKYP13,
+  author    = {Matt Calder and
+               Rui Miao and
+               Kyriakos Zarifis and
+               Ethan Katz-Bassett and
+               Minlan Yu and
+               Jitendra Padhye},
+  title     = {Don't drop, detour!},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {503-504},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenLW13,
+  author    = {Bo-Si Chen and
+               Kate Ching-Ju Lin and
+               Hung-Yu Wei},
+  title     = {Harnessing receive diversity in distributed multi-user {MIMO} networks},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {505-506},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GrosvenorSM13,
+  author    = {Matthew P. Grosvenor and
+               Malte Schwarzkopf and
+               Andrew W. Moore},
+  title     = {R2D2: bufferless, switchless data center networks using commodity ethernet hardware},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {507-508},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HuaLF13,
+  author    = {Yu Hua and
+               Xue Liu and
+               Dan Feng},
+  title     = {Smart in-network deduplication for storage-aware {SDN}},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {509-510},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HuangLLPLL13,
+  author    = {He Huang and
+               Xiangke Liao and
+               Shanshan Li and
+               Shaoliang Peng and
+               Xiaodong Liu and
+               Bin Lin},
+  title     = {The architecture and traffic management of wireless collaborated hybrid data center network},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {511-512},
+}
+
+@inproceedings{DBLP:conf/sigcomm/IonZS13,
+  author    = {Mihaela Ion and
+               Jianqing Zhang and
+               Eve M. Schooler},
+  title     = {Toward content-centric privacy in ICN: attribute-based encryption and routing},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {513-514},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JiangB13,
+  author    = {Xiaoke Jiang and
+               Jun Bi},
+  title     = {Interest set mechanism to improve the transport of named data networking},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {515-516},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuLSJZ13,
+  author    = {Zhongjin Liu and
+               Yong Li and
+               Li Su and
+               Depeng Jin and
+               Lieguang Zeng},
+  title     = {M2cloud: software defined multi-site data center network control framework for multi-tenant},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {517-518},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MaiRCMPW13,
+  author    = {Luo Mai and
+               Lukas Rupprecht and
+               Paolo Costa and
+               Matteo Migliavacca and
+               Peter Pietzuch and
+               Alexander L. Wolf},
+  title     = {Supporting application-specific in-network processing in data centres},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {519-520},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MingXW13,
+  author    = {Zhongxing Ming and
+               Mingwei Xu and
+               Dan Wang},
+  title     = {In-network caching assisted wireless {AP} storage management: challenges and algorithms},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {521-522},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PupatwibulBB13,
+  author    = {Pakawat Pupatwibul and
+               Ameen Banjar and
+               Robin Braun},
+  title     = {Using {DAIM} as a reactive interpreter for openflow networks to enable autonomic functionality},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {523-524},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RoyF13,
+  author    = {Swati Roy and
+               Nick Feamster},
+  title     = {Characterizing correlated latency anomalies in broadband access networks},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {525-526},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RuchanskyP13,
+  author    = {Natali Ruchansky and
+               Davide Proserpio},
+  title     = {A (not) {NICE} way to verify the openflow switch specification: formal modelling of the openflow switch using alloy},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {527-528},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ShenLC13,
+  author    = {Wei-Liang Shen and
+               Kate Ching-Ju Lin and
+               Ming-Syan Chen},
+  title     = {An empirical study of analog channel feedback},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {529-530},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Wang013,
+  author    = {Kai Wang and
+               Jun Li},
+  title     = {Towards fast regular expression matching in practice},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {531-532},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangBK13,
+  author    = {Liang Wang and
+               Suzan Bayhan and
+               Jussi Kangasharju},
+  title     = {Cooperation policies for efficient in-network caching},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {533-534},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangBW13,
+  author    = {Sen Wang and
+               Jun Bi and
+               Jianping Wu},
+  title     = {Collaborative caching based on hash-routing for information-centric networking},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {535-536},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangWLZZ13,
+  author    = {Tianyi Wang and
+               Gang Wang and
+               Xing Li and
+               Haitao Zheng and
+               Ben Y. Zhao},
+  title     = {Characterizing and detecting malicious crowdsourcing},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {537-538},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangCL13,
+  author    = {Xiang Wang and
+               Chang Chen and
+               Jun Li},
+  title     = {Replication free rule grouping for packet classification},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {539-540},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WetteK13,
+  author    = {Philip Wette and
+               Holger Karl},
+  title     = {Which flows are hiding behind my wildcard rule?: adding packet sampling to openflow},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {541-542},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WooKK13,
+  author    = {Jiyoung Woo and
+               Ah Reum Kang and
+               Huy Kang Kim},
+  title     = {The contagion of malicious behaviors in online games},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {543-544},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WuBPKM13,
+  author    = {Zhe Wu and
+               Michael Butkiewicz and
+               Dorian Perkins and
+               Ethan Katz-Bassett and
+               Harsha V. Madhyastha},
+  title     = {CSPAN: cost-effective geo-replicated storage spanning multiple cloud services},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {545-546},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XiaTLSLX13,
+  author    = {Wenfeng Xia and
+               Tina Tsou and
+               Diego R. Lopez and
+               Qiong Sun and
+               Felix Lu and
+               Haiyong Xie},
+  title     = {A software defined approach to unified IPv6 transition},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {547-548},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YangLJSMZ13,
+  author    = {Mao Yang and
+               Yong Li and
+               Depeng Jin and
+               Li Su and
+               Shaowu Ma and
+               Lieguang Zeng},
+  title     = {OpenRAN: a software-defined ran architecture via virtualization},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {549-550},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YenCCYCH13,
+  author    = {Yu-Chuan Yen and
+               Cing-yu Chu and
+               Chien-Nan Chen and
+               Su-Ling Yeh and
+               Hao-Hua Chu and
+               Polly Huang},
+  title     = {Exponential quantization: user-centric rate control for skype calls},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {551-552},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangBW13,
+  author    = {Baobao Zhang and
+               Jun Bi and
+               Jianping Wu},
+  title     = {Making intra-domain traffic engineering resistant to failures},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {553-554},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Zhang13,
+  author    = {Jingwei Zhang},
+  title     = {Greedy forwarding for mobile social networks embedded in hyperbolic spaces},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {555-556},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangWW13,
+  author    = {Liang Zhang and
+               Weijie Wu and
+               Dan Wang},
+  title     = {The effectiveness of time dependent pricing in controlling usage incentives in wireless data network},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {557-558},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangNLG13,
+  author    = {Xinggong Zhang and
+               Tong Niu and
+               Feng Lao and
+               Zongming Guo},
+  title     = {Topology-aware content-centric networking},
+  booktitle = sigcomm,
+  year      = 2013,
+  pages     = {559-560},
+}
+
 @inproceedings{DBLP:conf/sigcomm/GhodsiSZS12,
   author    = {Ali Ghodsi and
                Vyas Sekar and
@@ -1859,7 +2923,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/CaiH10,
   author    = {Xue Cai and
-               John Heidemann},
+               John S. Heidemann},
   title     = {Understanding block-level address usage in the visible internet},
   booktitle = sigcomm,
   year      = 2010,
@@ -2755,7 +3819,7 @@
                Rick Weber and
                Hari Balakrishnan and
                John V. Guttag and
-               Bruce V. Maggs},
+               Bruce M. Maggs},
   title     = {Cutting the electric bill for internet-scale systems},
   booktitle = sigcomm,
   year      = 2009,
@@ -3385,7 +4449,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/ChengAVBCSSV07,
-  author    = {Yu-Chung Cheng and
+  author    = {Yuchung Cheng and
                Mikhail Afanasyev and
                Patrick Verkaik and
                Péter Benkö and
@@ -3800,7 +4864,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/ChengBBSVS06,
-  author    = {Yu-Chung Cheng and
+  author    = {Yuchung Cheng and
                John Bellardo and
                Péter Benkö and
                Alex C. Snoeren and
@@ -5356,7 +6420,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/XuL02,
-  author    = {Jun Xu and
+  author    = {Jun (Jim) Xu and
                Richard J. Lipton},
   title     = {On fundamental tradeoffs between delay bounds and computational complexity in packet scheduling algorithms},
   booktitle = sigcomm,
@@ -7173,7 +8237,7 @@
                John Lumley and
                David Banks and
                Costas Calamvokis and
-               C. Dalton},
+               Chris Dalton},
   title     = {{User-Space} Protocols Deliver High Performance to Applications on a {Low-Cost} Gb/s {LAN}},
   booktitle = sigcomm,
   year      = 1994,

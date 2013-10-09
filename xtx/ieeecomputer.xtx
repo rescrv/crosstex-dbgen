@@ -30,6 +30,26 @@
   pages     = {6-7},
 }
 
+@article{DBLP:journals/computer/Severance13e,
+  author    = {Charles Severance},
+  title     = {Gordon Bell: Building Blocks of Computing},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {6-7},
+}
+
+@article{DBLP:journals/computer/Severance13f,
+  author    = {Charles Severance},
+  title     = {Katie Hafner: The Origins of the Internet},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {6-7},
+}
+
 @article{DBLP:journals/computer/Severance13c,
   author    = {Charles Severance},
   title     = {Larry Smarr: Building Mosaic},
@@ -40,6 +60,26 @@
   pages     = {6-8},
 }
 
+@article{DBLP:journals/computer/Severance13g,
+  author    = {Charles Severance},
+  title     = {Len Kleinrock: The Theory of Packets [Computing Conversations]},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {6-8},
+}
+
+@article{DBLP:journals/computer/Severance13d,
+  author    = {Charles Severance},
+  title     = {Bob Metcalfe: Ethernet at Forty},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {6-9},
+}
+
 @article{DBLP:journals/computer/Severance13a,
   author    = {Charles Severance},
   title     = {Mitchell Baker: The Mozilla Foundation},
@@ -48,6 +88,16 @@
   number    = {2},
   year      = 2013,
   pages     = {7-9},
+}
+
+@article{DBLP:journals/computer/Holmes13d,
+  author    = {W. Neville Holmes},
+  title     = {32 & 16 Years Ago},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {8-9},
 }
 
 @article{DBLP:journals/computer/GaffC13,
@@ -71,6 +121,27 @@
   pages     = {8-10},
 }
 
+@article{DBLP:journals/computer/Gaff13a,
+  author    = {Brian M. Gaff},
+  title     = {Are You Exhausted by Your First Sale?},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {9-11},
+}
+
+@article{DBLP:journals/computer/GaffD13,
+  author    = {Brian M. Gaff and
+               Joanna M. Dombrowski},
+  title     = {Ten Things to Know about Applying for {Non-US} Patents},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {9-11},
+}
+
 @article{DBLP:journals/computer/GaffL13,
   author    = {Brian M. Gaff and
                Ralph A. Loren},
@@ -80,6 +151,26 @@
   number    = {4},
   year      = 2013,
   pages     = {9-11},
+}
+
+@article{DBLP:journals/computer/Gaff13,
+  author    = {Brian M. Gaff},
+  title     = {Who Invents What},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/computer/Ortiz13,
+  author    = {Sixto Ortiz},
+  title     = {{Software-Defined} Networking: On the Verge of a Breakthrough?},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {10-12},
 }
 
 @article{DBLP:journals/computer/GaffHC13,
@@ -124,12 +215,72 @@
   pages     = {12-13},
 }
 
+@article{DBLP:journals/computer/Holmes13c,
+  author    = {W. Neville Holmes},
+  title     = {32 & 16 Years Ago},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {12-13},
+}
+
+@article{DBLP:journals/computer/Holmes13e,
+  author    = {W. Neville Holmes},
+  title     = {32 & 16 Years Ago},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {12-13},
+}
+
+@article{DBLP:journals/computer/Holmes13b,
+  author    = {W. Neville Holmes},
+  title     = {32 & 16 Years Ago},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {13-14},
+}
+
+@article{DBLP:journals/computer/Severance13h,
+  author    = {Charles Severance},
+  title     = {John C. Hollar: History of Computing},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {13-14},
+}
+
+@article{DBLP:journals/computer/Garber13j,
+  author    = {Lee Garber},
+  title     = {News Briefs},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {13-15},
+}
+
 @article{DBLP:journals/computer/Garber13e,
   author    = {Lee Garber},
   title     = {Analytics Goes on Location with New Approaches},
   journal   = ieeecomputer,
   volume    = {46},
   number    = {4},
+  year      = 2013,
+  pages     = {14-17},
+}
+
+@article{DBLP:journals/computer/Garber13k,
+  author    = {Lee Garber},
+  title     = {The Lowly {API} Is Ready to Step Front and Center},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
   year      = 2013,
   pages     = {14-17},
 }
@@ -144,6 +295,16 @@
   pages     = {14-17},
 }
 
+@article{DBLP:journals/computer/Garber13h,
+  author    = {Lee Garber},
+  title     = {Game Accessibility: Enabling Everyone to Play},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {14-18},
+}
+
 @article{DBLP:journals/computer/GaffLD13,
   author    = {Brian M. Gaff and
                Ralph A. Loren and
@@ -156,6 +317,16 @@
   pages     = {15-17},
 }
 
+@article{DBLP:journals/computer/Leavitt13b,
+  author    = {Neal Leavitt},
+  title     = {Hybrid Clouds Move to the Forefront},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {15-18},
+}
+
 @article{DBLP:journals/computer/Garber13b,
   author    = {Lee Garber},
   title     = {{GPUs} Go Mobile},
@@ -164,6 +335,27 @@
   number    = {2},
   year      = 2013,
   pages     = {16-19},
+}
+
+@article{DBLP:journals/computer/Gaff13b,
+  author    = {Brian M. Gaff},
+  title     = {The Troll under the Bridge},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {17-19},
+}
+
+@article{DBLP:journals/computer/GaffD13a,
+  author    = {Brian M. Gaff and
+               Alyssa Harvey Dawson},
+  title     = {Working with Your Legal Department},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {17-19},
 }
 
 @article{DBLP:journals/computer/Garber13d,
@@ -186,6 +378,57 @@
   pages     = {18-20},
 }
 
+@article{DBLP:journals/computer/Garber13l,
+  author    = {Lee Garber},
+  title     = {News Briefs},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {18-20},
+}
+
+@article{DBLP:journals/computer/Garber13g,
+  author    = {Lee Garber},
+  title     = {News Briefs},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {19-21},
+}
+
+@article{DBLP:journals/computer/Garber13i,
+  author    = {Lee Garber},
+  title     = {News Briefs},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {19-21},
+}
+
+@article{DBLP:journals/computer/Holmes13f,
+  author    = {W. Neville Holmes},
+  title     = {32 & 16 Years Ago},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {20-21},
+}
+
+@article{DBLP:journals/computer/StreitB13,
+  author    = {Marc Streit and
+               Oliver Bimber},
+  title     = {Visual Analytics: Seeking the Unknown},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {20-21},
+}
+
 @article{DBLP:journals/computer/Garber13c,
   author    = {Lee Garber},
   title     = {News Briefs},
@@ -204,6 +447,18 @@
   number    = {1},
   year      = 2013,
   pages     = {20-23},
+}
+
+@article{DBLP:journals/computer/AtwoodCS13,
+  author    = {Greg Atwood and
+               Soo-Ik Chae and
+               Simon S. Y. Shim},
+  title     = {{Next-Generation} Memory [Guest editors' introduction]},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {21-22},
 }
 
 @article{DBLP:journals/computer/PreyW13,
@@ -227,6 +482,59 @@
   number    = {4},
   year      = 2013,
   pages     = {22-23},
+}
+
+@article{DBLP:journals/computer/MichaelM13,
+  author    = {Katina Michael and
+               Keith W. Miller},
+  title     = {Big Data: New Opportunities and New Challenges [Guest editors' introduction]},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {22-24},
+}
+
+@article{DBLP:journals/computer/RhyneC13,
+  author    = {Theresa-Marie Rhyne and
+               Min Chen},
+  title     = {{Cutting-Edge} Research in Visualization},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {22-24},
+}
+
+@article{DBLP:journals/computer/Leavitt13c,
+  author    = {Neal Leavitt},
+  title     = {Storage Challenge: Where Will All That Big Data Go?},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {22-25},
+}
+
+@article{DBLP:journals/computer/Fekete13,
+  author    = {Jean-Daniel Fekete},
+  title     = {Visual Analytics Infrastructures: From Data Management to Exploration},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {22-29},
+}
+
+@article{DBLP:journals/computer/LiQ13,
+  author    = {Yan Li and
+               Khandker Quader},
+  title     = {{NAND} Flash Memory: Challenges and Opportunities},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {23-29},
 }
 
 @article{DBLP:journals/computer/FekiKBT13,
@@ -274,6 +582,27 @@
   pages     = {24-29},
 }
 
+@article{DBLP:journals/computer/Hemerly13,
+  author    = {Jess Hemerly},
+  title     = {Public Policy Considerations for {Data-Driven} Innovation},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {25-31},
+}
+
+@article{DBLP:journals/computer/MajumderS13,
+  author    = {Aditi Majumder and
+               Behzad Sajadi},
+  title     = {Large Area Displays: The Changing Face of Visualization},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {26-33},
+}
+
 @article{DBLP:journals/computer/HodgesTVSBF13,
   author    = {Steve Hodges and
                Stuart Taylor and
@@ -302,6 +631,30 @@
   pages     = {28-35},
 }
 
+@article{DBLP:journals/computer/GuzdialS13,
+  author    = {Mark Guzdial and
+               Betsy James DiSalvo},
+  title     = {Computing Education: Beyond the Classroom},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {30-31},
+}
+
+@article{DBLP:journals/computer/SongJBC13,
+  author    = {Yoon-Jong Song and
+               Gitae Jeong and
+               In-Gyu Baek and
+               Jungdal Choi},
+  title     = {What Lies Ahead for {Resistance-Based} Memory Technologies?},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {30-36},
+}
+
 @article{DBLP:journals/computer/WhitneyGGMS13,
   author    = {Telle Whitney and
                Denise Gammal and
@@ -325,6 +678,57 @@
   number    = {4},
   year      = 2013,
   pages     = {30-37},
+}
+
+@article{DBLP:journals/computer/GorgKLS13,
+  author    = {Carsten Görg and
+               Youn ah Kang and
+               Zhicheng Liu and
+               John T. Stasko},
+  title     = {Visual Analytics Support for Intelligence Analysis},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {30-38},
+}
+
+@article{DBLP:journals/computer/KnobelsdorfV13,
+  author    = {Maria Knobelsdorf and
+               Jan Vahrenhold},
+  title     = {Addressing the Full Range of Students: Challenges in K-12 Computer Science Education},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {32-37},
+}
+
+@article{DBLP:journals/computer/Tallon13,
+  author    = {Paul P. Tallon},
+  title     = {Corporate Governance of Big Data: Perspectives on Value, Risk, and Cost},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {32-38},
+}
+
+@article{DBLP:journals/computer/ChildsGSMMSKB13,
+  author    = {Hank Childs and
+               Berk Geveci and
+               William J. Schroeder and
+               Jeremy S. Meredith and
+               Kenneth Moreland and
+               Christopher Sewell and
+               Torsten Kuhlen and
+               E. Wes Bethel},
+  title     = {Research Challenges for Visualization Software},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {34-42},
 }
 
 @article{DBLP:journals/computer/RoggenTLFMC13,
@@ -365,6 +769,27 @@
   pages     = {38-41},
 }
 
+@article{DBLP:journals/computer/Peppler13,
+  author    = {Kylie A. Peppler},
+  title     = {{STEAM-Powered} Computing Education: Using {E-Textiles} to Integrate the Arts and {STEM}},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {38-43},
+}
+
+@article{DBLP:journals/computer/HuffmanJ13,
+  author    = {Amber Huffman and
+               Dale Juenemann},
+  title     = {The Nonvolatile Memory Transformation of Client Storage},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {38-44},
+}
+
 @article{DBLP:journals/computer/Paredes-OlivaBS13,
   author    = {Ignasi Paredes-Oliva and
                Pere Barlet-Ros and
@@ -377,6 +802,35 @@
   pages     = {38-44},
 }
 
+@article{DBLP:journals/computer/MaM13,
+  author    = {Kwan-Liu Ma and
+               Chris Muelder},
+  title     = {{Large-Scale} Graph Visualization and Analytics},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {39-46},
+}
+
+@article{DBLP:journals/computer/PittBNRRSLFS13,
+  author    = {Jeremy Pitt and
+               Aikaterini Bourazeri and
+               Andrzej Nowak and
+               Magdalena Roszczynska-Kurasinska and
+               Agnieszka Rychwalska and
+               Inmaculada Rodríguez Santiago and
+               Maite López-Sánchez and
+               Monica Florea and
+               Mihai Sanduleac},
+  title     = {Transforming Big Data into Collective Awareness},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {40-45},
+}
+
 @article{DBLP:journals/computer/StephensonD13,
   author    = {Chris Stephenson and
                Rebecca Dovi},
@@ -386,6 +840,38 @@
   number    = {3},
   year      = 2013,
   pages     = {42-46},
+}
+
+@article{DBLP:journals/computer/KosaraM13,
+  author    = {Robert Kosara and
+               Jock D. Mackinlay},
+  title     = {Storytelling: The Next Step for Visualization},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {44-50},
+}
+
+@article{DBLP:journals/computer/FincherK13,
+  author    = {Sally Fincher and
+               Daniel Knox},
+  title     = {The Porous Classroom: Professional Practices in the Computing Curriculum},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {44-51},
+}
+
+@article{DBLP:journals/computer/Badam13,
+  author    = {Anirudh Badam},
+  title     = {How Persistent Memory Will Change Software Systems},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {45-51},
 }
 
 @article{DBLP:journals/computer/LeePB13,
@@ -412,6 +898,17 @@
   pages     = {46-53},
 }
 
+@article{DBLP:journals/computer/WiganC13,
+  author    = {Marcus R. Wigan and
+               Roger Clarke},
+  title     = {Big Data's Big Unintended Consequences},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {46-53},
+}
+
 @article{DBLP:journals/computer/RikakisKL13,
   author    = {Thanassis Rikakis and
                Aisling Kelliher and
@@ -422,6 +919,19 @@
   number    = {1},
   year      = 2013,
   pages     = {46-54},
+}
+
+@article{DBLP:journals/computer/KeimKRS13,
+  author    = {Daniel A. Keim and
+               Milos Krstajic and
+               Christian Rohrdantz and
+               Tobias Schreck},
+  title     = {{Real-Time} Visual Analytics for Text Streams},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {47-55},
 }
 
 @article{DBLP:journals/computer/EneyLMR13,
@@ -437,6 +947,17 @@
   pages     = {48-51},
 }
 
+@article{DBLP:journals/computer/KeefeI13,
+  author    = {Daniel F. Keefe and
+               Tobias Isenberg},
+  title     = {Reimagining the Scientific Visualization Interaction Paradigm},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {51-57},
+}
+
 @article{DBLP:journals/computer/CohoonCS13,
   author    = {James P. Cohoon and
                Joanne McGrath Cohoon and
@@ -447,6 +968,27 @@
   number    = {3},
   year      = 2013,
   pages     = {52-55},
+}
+
+@article{DBLP:journals/computer/Brennan13,
+  author    = {Karen Brennan},
+  title     = {Learning Computing through Creating and Connecting},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {52-59},
+}
+
+@article{DBLP:journals/computer/SwansonC13,
+  author    = {Steven Swanson and
+               Adrian M. Caulfield},
+  title     = {Refactor, Reduce, Recycle: Restructuring the I/O Stack for the Future of Storage},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {52-59},
 }
 
 @article{DBLP:journals/computer/KortuemBSRP13,
@@ -461,6 +1003,16 @@
   number    = {2},
   year      = 2013,
   pages     = {53-61},
+}
+
+@article{DBLP:journals/computer/McGregor13,
+  author    = {Carolyn McGregor},
+  title     = {Big Data in Neonatal Intensive Care},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {54-59},
 }
 
 @article{DBLP:journals/computer/RashidBRMGW13,
@@ -488,6 +1040,16 @@
   pages     = {56-58},
 }
 
+@article{DBLP:journals/computer/Wijk13,
+  author    = {Jarke J. van Wijk},
+  title     = {Evaluation: A Challenge for Visual Analytics},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {56-60},
+}
+
 @article{DBLP:journals/computer/SharkeyS13,
   author    = {Noel E. Sharkey and
                Amanda J. C. Sharkey},
@@ -499,6 +1061,18 @@
   pages     = {56-64},
 }
 
+@article{DBLP:journals/computer/ShneidermanPH13,
+  author    = {Ben Shneiderman and
+               Catherine Plaisant and
+               Bradford W. Hesse},
+  title     = {Improving Healthcare with Interactive Visualization},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {58-66},
+}
+
 @article{DBLP:journals/computer/Kumar13,
   author    = {Deepak Kumar},
   title     = {Serving Women with a Purposeful Vision},
@@ -507,6 +1081,41 @@
   number    = {3},
   year      = 2013,
   pages     = {60-61},
+}
+
+@article{DBLP:journals/computer/TewD13,
+  author    = {Allison Elliott Tew and
+               Brian Dorn},
+  title     = {The Case for Validated Tools in Computer Science Education Research},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {60-66},
+}
+
+@article{DBLP:journals/computer/AnthonysamyGR13,
+  author    = {Pauline Anthonysamy and
+               Phil Greenwood and
+               Awais Rashid},
+  title     = {Social Networking Privacy: Understanding the Disconnect from Policy to Controls},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {60-67},
+}
+
+@article{DBLP:journals/computer/LiuTC13,
+  author    = {Kaiping Liu and
+               Hee Beng Kuan Tan and
+               Xu Chen},
+  title     = {Binary Code Analysis},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {60-68},
 }
 
 @article{DBLP:journals/computer/Schnabel13,
@@ -541,6 +1150,19 @@
   number    = {2},
   year      = 2013,
   pages     = {62-68},
+}
+
+@article{DBLP:journals/computer/CookCTK13,
+  author    = {Diane J. Cook and
+               Aaron S. Crandall and
+               Brian L. Thomas and
+               Narayanan Chatapuram Krishnan},
+  title     = {CASAS: A Smart Home in a Box},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {62-69},
 }
 
 @article{DBLP:journals/computer/Starbird13,
@@ -584,6 +1206,18 @@
   pages     = {66-68},
 }
 
+@article{DBLP:journals/computer/EwingGR13,
+  author    = {E. Thomas Ewing and
+               Samah Gad and
+               Naren Ramakrishnan},
+  title     = {Gaining Insights into Epidemics by Mining Historical Newspapers},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {68-72},
+}
+
 @article{DBLP:journals/computer/RahwanDRNMVJC13,
   author    = {Iyad Rahwan and
                Sohan Dsouza and
@@ -599,6 +1233,53 @@
   number    = {4},
   year      = 2013,
   pages     = {68-75},
+}
+
+@article{DBLP:journals/computer/SchreckK13,
+  author    = {Tobias Schreck and
+               Daniel A. Keim},
+  title     = {Visual Analysis of Social Media Data},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {68-75},
+}
+
+@article{DBLP:journals/computer/WilliamsBDPWSMPSSBCKPWSSKEPGCBPKPM13,
+  author    = {Dean N. Williams and
+               Peer-Timo Bremer and
+               Charles M. Doutriaux and
+               John Patchett and
+               Sean Williams and
+               Galen M. Shipman and
+               Ross Miller and
+               David Pugmire and
+               Brian Smith and
+               Chad A. Steed and
+               E. Wes Bethel and
+               Hank Childs and
+               Harinarayan Krishnan and
+               Prabhat and
+               Michael Wehner and
+               Cláudio T. Silva and
+               Emanuele Santos and
+               David Koop and
+               Tommy Ellqvist and
+               Jorge Poco and
+               Berk Geveci and
+               Aashish Chaudhary and
+               Andy Bauer and
+               Alexander Pletzer and
+               Dave Kindig and
+               Gerald Potter and
+               Thomas P. Maxwell},
+  title     = {Ultrascale Visualization of Climate Data},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {68-76},
 }
 
 @article{DBLP:journals/computer/LiuSC13,
@@ -624,6 +1305,32 @@
   pages     = {69-77},
 }
 
+@article{DBLP:journals/computer/HovenGOBL13,
+  author    = {Elise van den Hoven and
+               Evelien van de Garde-Perik and
+               Serge Offermans and
+               Koen van Boerdonk and
+               Kars-Michiel H. Lenssen},
+  title     = {Moving Tangible Interaction Systems to the Next Level},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {70-76},
+}
+
+@article{DBLP:journals/computer/ZidenbergKW13,
+  author    = {Tsahee Zidenberg and
+               Isaac Keslassy and
+               Uri C. Weiser},
+  title     = {Optimal Resource Allocation with {MultiAmdahl}},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {70-77},
+}
+
 @article{DBLP:journals/computer/Varshney13,
   author    = {Upkar Varshney},
   title     = {A Smart Approach to Medication Management},
@@ -632,6 +1339,32 @@
   number    = {1},
   year      = 2013,
   pages     = {71-76},
+}
+
+@article{DBLP:journals/computer/HenzeSSPM13,
+  author    = {Niels Henze and
+               Alireza Sahami Shirazi and
+               Albrecht Schmidt and
+               Martin Pielot and
+               Florian Michahelles},
+  title     = {Empirical Research through Ubiquitous Data Collection},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {74-76},
+}
+
+@article{DBLP:journals/computer/LiLH13,
+  author    = {Qing Li and
+               Chris Larsen and
+               Tim van der Horst},
+  title     = {IPv6: A Catalyst and Evasion Tool for Botnets and Malware Delivery Networks},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {76-82},
 }
 
 @article{DBLP:journals/computer/MaDDZ13,
@@ -663,6 +1396,16 @@
   pages     = {76-84},
 }
 
+@article{DBLP:journals/computer/Brechner13,
+  author    = {Eric Brechner},
+  title     = {Getting Diagonal on the Xbox One Trifecta},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {77-78},
+}
+
 @article{DBLP:journals/computer/Murugesan13,
   author    = {San Murugesan},
   title     = {Cloud Computing: The New Normal?},
@@ -671,6 +1414,40 @@
   number    = {1},
   year      = 2013,
   pages     = {77-79},
+}
+
+@article{DBLP:journals/computer/Johnson13c,
+  author    = {Brian David Johnson},
+  title     = {From {NASA}},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {78-81},
+}
+
+@article{DBLP:journals/computer/Repenning13,
+  author    = {Alexander Repenning},
+  title     = {Making Programming Accessible and Exciting},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {78-81},
+}
+
+@article{DBLP:journals/computer/NiuPSTL13,
+  author    = {Jianwei Niu and
+               Jing Peng and
+               Lei Shu and
+               Chao Tong and
+               Wanjiun Liao},
+  title     = {An Empirical Study of a Chinese Online Social {Network-Renren}},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {78-84},
 }
 
 @article{DBLP:journals/computer/HangZS13,
@@ -685,6 +1462,16 @@
   pages     = {78-85},
 }
 
+@article{DBLP:journals/computer/OGorman13,
+  author    = {Lawrence O'Gorman},
+  title     = {Putting a Kinder Face on Public Cameras},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {79-81},
+}
+
 @article{DBLP:journals/computer/Johnson13,
   author    = {Brian David Johnson},
   title     = {When Science Fiction and Science Fact Meet},
@@ -693,6 +1480,37 @@
   number    = {1},
   year      = 2013,
   pages     = {80-82},
+}
+
+@article{DBLP:journals/computer/Sobel13,
+  author    = {Ann E. K. Sobel},
+  title     = {The Modern Educator},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {82-83},
+}
+
+@article{DBLP:journals/computer/VassevH13,
+  author    = {Emil Vassev and
+               Mike Hinchey},
+  title     = {Autonomy Requirements Engineering},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {82-84},
+}
+
+@article{DBLP:journals/computer/Witman13,
+  author    = {Paul Witman},
+  title     = {Social Media for Social Value},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {82-85},
 }
 
 @article{DBLP:journals/computer/Cameron13,
@@ -713,6 +1531,30 @@
   number    = {4},
   year      = 2013,
   pages     = {83-85},
+}
+
+@article{DBLP:journals/computer/Michael13,
+  author    = {James Bret Michael},
+  title     = {Empowering Users through Secure {On-Demand} Data Provisioning},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {84-85},
+}
+
+@article{DBLP:journals/computer/SzczepanskiHBMA13,
+  author    = {Amy F. Szczepanski and
+               Jian Huang and
+               Troy Baer and
+               Yashema C. Mack and
+               Sean Ahern},
+  title     = {Data Analysis and Visualization in {High-Performance} Computing},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {84-92},
 }
 
 @article{DBLP:journals/computer/HallR13,
@@ -736,6 +1578,27 @@
   pages     = {85-88},
 }
 
+@article{DBLP:journals/computer/HartmannW13,
+  author    = {Björn Hartmann and
+               Paul K. Wright},
+  title     = {Designing Bespoke Interactive Devices},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {85-89},
+}
+
+@article{DBLP:journals/computer/Holzmann13,
+  author    = {Gerard J. Holzmann},
+  title     = {A {Three-Step} Program for Recovering Hackers},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {86-88},
+}
+
 @article{DBLP:journals/computer/ElmqvistI13,
   author    = {Niklas Elmqvist and
                Pourang Irani},
@@ -756,6 +1619,27 @@
   number    = {3},
   year      = 2013,
   pages     = {86-89},
+}
+
+@article{DBLP:journals/computer/Berghel13c,
+  author    = {Hal Berghel},
+  title     = {Through the {PRISM} Darkly},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {86-90},
+}
+
+@article{DBLP:journals/computer/CostaF13,
+  author    = {Rogério Luís de Carvalho Costa and
+               Pedro Furtado},
+  title     = {Providing Quality of Experience for Users: The Next {DBMS} Challenge},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {86-93},
 }
 
 @article{DBLP:journals/computer/Lutz13,
@@ -799,6 +1683,21 @@
   pages     = {90-93},
 }
 
+@article{DBLP:journals/computer/FiauxSBNRE13,
+  author    = {Patrick Fiaux and
+               Maoyuan Sun and
+               Lauren Bradel and
+               Chris North and
+               Naren Ramakrishnan and
+               Alex Endert},
+  title     = {Bixplorer: Visual Analytics with Biclusters},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {90-94},
+}
+
 @article{DBLP:journals/computer/DewriT13,
   author    = {Rinku Dewri and
                Ramakrishna Thurimella},
@@ -808,6 +1707,26 @@
   number    = {2},
   year      = 2013,
   pages     = {91-93},
+}
+
+@article{DBLP:journals/computer/Stansberry13,
+  author    = {Matt Stansberry},
+  title     = {The Future of Green IT: Solving the Accountability Issue},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {91-93},
+}
+
+@article{DBLP:journals/computer/Berghel13b,
+  author    = {Hal Berghel},
+  title     = {Computing Technology and Survivable Journalism},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {93-97},
 }
 
 @article{DBLP:journals/computer/FerraioloGJ13,
@@ -822,12 +1741,33 @@
   pages     = {94-96},
 }
 
+@article{DBLP:journals/computer/KhanM13,
+  author    = {Khaled M. Khan and
+               Qutaibah M. Malluhi},
+  title     = {Trust in Cloud Services: Providing More Controls to Clients},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
+  year      = 2013,
+  pages     = {94-96},
+}
+
 @article{DBLP:journals/computer/Pace13,
   author    = {Jason Pace},
   title     = {The Ways We Play, Part 1: From {PCs} to Consoles to Mobile Phones},
   journal   = ieeecomputer,
   volume    = {46},
   number    = {2},
+  year      = 2013,
+  pages     = {94-96},
+}
+
+@article{DBLP:journals/computer/Ricanek13,
+  author    = {Karl Ricanek},
+  title     = {The Next Biometric Challenge: Medical Alterations},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
   year      = 2013,
   pages     = {94-96},
 }
@@ -841,6 +1781,16 @@
   number    = {3},
   year      = 2013,
   pages     = {94-96},
+}
+
+@article{DBLP:journals/computer/Wilson13,
+  author    = {Cameron Wilson},
+  title     = {What's Up Next for Code.org?},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {95-97},
 }
 
 @article{DBLP:journals/computer/Berghel13a,
@@ -861,6 +1811,26 @@
   number    = {4},
   year      = 2013,
   pages     = {97-99},
+}
+
+@article{DBLP:journals/computer/Cohen13,
+  author    = {Beth Cohen},
+  title     = {PaaS: New Opportunities for Cloud Application Development},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {97-100},
+}
+
+@article{DBLP:journals/computer/Talia13,
+  author    = {Domenico Talia},
+  title     = {Clouds for Scalable Big Data Analytics},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {98-101},
 }
 
 @article{DBLP:journals/computer/MorenoSCS13,
@@ -886,6 +1856,50 @@
   pages     = {100-103},
 }
 
+@article{DBLP:journals/computer/Johnson13d,
+  author    = {Brian David Johnson},
+  title     = {That Copernican Moment},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {101-103},
+}
+
+@article{DBLP:journals/computer/PoursaberiYGSW13,
+  author    = {Ahmad Poursaberi and
+               Svetlana N. Yanushkevich and
+               Marina L. Gavrilova and
+               Vlad P. Shmerko and
+               Patrick S. P. Wang},
+  title     = {Situational Awareness through Biometrics},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {102-104},
+}
+
+@article{DBLP:journals/computer/Grier13f,
+  author    = {David Alan Grier},
+  title     = {The Comfort Zone},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {6},
+  year      = 2013,
+  pages     = {104},
+}
+
+@article{DBLP:journals/computer/Berghel13d,
+  author    = {Hal Berghel},
+  title     = {Toxic Cookies},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {104-107},
+}
+
 @article{DBLP:journals/computer/Johnson13a,
   author    = {Brian David Johnson},
   title     = {Jimmy: The Robot That Changed It All},
@@ -894,6 +1908,16 @@
   number    = {3},
   year      = 2013,
   pages     = {104-107},
+}
+
+@article{DBLP:journals/computer/Johnson13b,
+  author    = {Brian David Johnson},
+  title     = {Secret Science Fiction},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {105-107},
 }
 
 @article{DBLP:journals/computer/Grier13a,
@@ -906,12 +1930,32 @@
   pages     = {108},
 }
 
+@article{DBLP:journals/computer/Turner13,
+  author    = {Joseph Turner},
+  title     = {Power Management as Choice Architecture},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {108-111},
+}
+
 @article{DBLP:journals/computer/Grier13b,
   author    = {David Alan Grier},
   title     = {The Ethical Dimension},
   journal   = ieeecomputer,
   volume    = {46},
   number    = {2},
+  year      = 2013,
+  pages     = {112},
+}
+
+@article{DBLP:journals/computer/Grier13g,
+  author    = {David Alan Grier},
+  title     = {{Short-Term} Loan},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {7},
   year      = 2013,
   pages     = {112},
 }
@@ -934,6 +1978,36 @@
   number    = {3},
   year      = 2013,
   pages     = {124},
+}
+
+@article{DBLP:journals/computer/Grier13e,
+  author    = {David Alan Grier},
+  title     = {Working in Conference},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {5},
+  year      = 2013,
+  pages     = {124},
+}
+
+@article{DBLP:journals/computer/Grier13i,
+  author    = {David Alan Grier},
+  title     = {For the Common Good},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {9},
+  year      = 2013,
+  pages     = {124},
+}
+
+@article{DBLP:journals/computer/Grier13h,
+  author    = {David Alan Grier},
+  title     = {The Tenor of Our Times},
+  journal   = ieeecomputer,
+  volume    = {46},
+  number    = {8},
+  year      = 2013,
+  pages     = {128},
 }
 
 @article{DBLP:journals/computer/Severance12b,
@@ -3010,7 +4084,7 @@
                Aditya Johri and
                Naren Ramakrishnan and
                G. Alan Wang and
-               Ann McKenna},
+               Ann F. McKenna},
   title     = {Portfolio Mining},
   journal   = ieeecomputer,
   volume    = {45},
@@ -5821,7 +6895,7 @@
 }
 
 @article{DBLP:journals/computer/Leavitt10b,
-  author    = {Nean Leavitt},
+  author    = {Neal Leavitt},
   title     = {{Network-Usage} Changes Push Internet Traffic to the Edge},
   journal   = ieeecomputer,
   volume    = {43},
@@ -7775,7 +8849,7 @@
 }
 
 @article{DBLP:journals/computer/Holmes10f,
-  author    = {N. Holmes},
+  author    = {W. Neville Holmes},
   title     = {Some Social Aspects of Computers and Numbers},
   journal   = ieeecomputer,
   volume    = {43},
@@ -7894,7 +8968,7 @@
   title     = {Computer Highlights Society Magazines},
   journal   = ieeecomputer,
   volume    = {42},
-  number    = {11},
+  number    = {12},
   year      = 2009,
   pages     = {4-5},
 }
@@ -11897,8 +12971,8 @@
 }
 
 @article{DBLP:journals/computer/PinninghoffCA08,
-  author    = {Maria Pinninghoff and
-               Ricardo Contreras and
+  author    = {M. Angélica Pinninghoff and
+               Ricardo Contreras Arriagada and
                John Atkinson},
   title     = {Using Genetic Algorithms to Model Road Networks},
   journal   = ieeecomputer,
@@ -46764,7 +47838,7 @@
 @article{DBLP:journals/computer/AllenMR89,
   author    = {Peter K. Allen and
                Paul Michelman and
-               Kenneth Roberts},
+               Kenneth S. Roberts},
   title     = {An Intelligent Grasping System},
   journal   = ieeecomputer,
   volume    = {22},

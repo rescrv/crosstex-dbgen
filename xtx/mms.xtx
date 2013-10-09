@@ -170,10 +170,10 @@
 @article{DBLP:journals/mms/Garrido-CantosCMLCGW13,
   author    = {Rosario Garrido-Cantos and
                Jan De Cock and
-               J. L. Martínez and
+               José Luis Martínez and
                Sebastiaan Van Leuven and
                Pedro Cuenca and
-               A. Garrido and
+               Antonio Garrido and
                Rik Van de Walle},
   title     = {On the impact of the {GOP} size in a temporal H.264/{AVC-to-SVC} transcoder in baseline and main profile},
   journal   = mms,
@@ -181,6 +181,205 @@
   number    = {2},
   year      = 2013,
   pages     = {163-177},
+}
+
+@article{DBLP:journals/mms/ShirmohammadiGA13,
+  author    = {Shervin Shirmohammadi and
+               Carsten Griwodz and
+               Grenville Armitage},
+  title     = {Guest editorial for special issue on network and systems support for games},
+  journal   = mms,
+  volume    = {19},
+  number    = {3},
+  year      = 2013,
+  pages     = {179-181},
+}
+
+@article{DBLP:journals/mms/ZhuWG13,
+  author    = {Meng Zhu and
+               Alf Inge Wang and
+               Hong Guo},
+  title     = {From 101 to nnn: a review and a classification of computer game architectures},
+  journal   = mms,
+  volume    = {19},
+  number    = {3},
+  year      = 2013,
+  pages     = {183-197},
+}
+
+@article{DBLP:journals/mms/SuznjevicM13,
+  author    = {Mirko Suznjevic and
+               Maja Matijasevic},
+  title     = {Player behavior and traffic characterization for MMORPGs: a survey},
+  journal   = mms,
+  volume    = {19},
+  number    = {3},
+  year      = 2013,
+  pages     = {199-220},
+}
+
+@article{DBLP:journals/mms/CricentiB13,
+  author    = {Antonio L. Cricenti and
+               Philip Branch},
+  title     = {The {Ex-Gaussian} distribution as a model of first-person shooter game traffic},
+  journal   = mms,
+  volume    = {19},
+  number    = {3},
+  year      = 2013,
+  pages     = {221-229},
+}
+
+@article{DBLP:journals/mms/SuznjevicSM13,
+  author    = {Mirko Suznjevic and
+               Ivana Stupar and
+               Maja Matijasevic},
+  title     = {A model and software architecture for {MMORPG} traffic generation based on player behavior},
+  journal   = mms,
+  volume    = {19},
+  number    = {3},
+  year      = 2013,
+  pages     = {231-253},
+}
+
+@article{DBLP:journals/mms/YahyaviHK13,
+  author    = {Amir Yahyavi and
+               Kévin Huguenin and
+               Bettina Kemme},
+  title     = {Interest modeling in games: the case of dead reckoning},
+  journal   = mms,
+  volume    = {19},
+  number    = {3},
+  year      = 2013,
+  pages     = {255-270},
+}
+
+@article{DBLP:journals/mms/SaveryG13,
+  author    = {Cheryl Savery and
+               T. C. Nicholas Graham},
+  title     = {Timelines: simplifying the programming of lag compensation for the next generation of networked games},
+  journal   = mms,
+  volume    = {19},
+  number    = {3},
+  year      = 2013,
+  pages     = {271-287},
+}
+
+@article{DBLP:journals/mms/SilvaE13,
+  author    = {Juan M. Silva and
+               Abdulmotaleb El-Saddik},
+  title     = {Exertion interfaces for computer videogames using smartphones as input controllers},
+  journal   = mms,
+  volume    = {19},
+  number    = {3},
+  year      = 2013,
+  pages     = {289-302},
+}
+
+@article{DBLP:journals/mms/PittmanG13,
+  author    = {Daniel Pittman and
+               Chris GauthierDickey},
+  title     = {Match+Guardian: a secure peer-to-peer trading card game protocol},
+  journal   = mms,
+  volume    = {19},
+  number    = {3},
+  year      = 2013,
+  pages     = {303-314},
+}
+
+@article{DBLP:journals/mms/Chu13,
+  author    = {Chung-Hua Chu},
+  title     = {Super-resolution image reconstruction for mobile devices},
+  journal   = mms,
+  volume    = {19},
+  number    = {4},
+  year      = 2013,
+  pages     = {315-337},
+}
+
+@article{DBLP:journals/mms/SinghS13,
+  author    = {Chandan Singh and
+               Pooja Sharma},
+  title     = {Performance analysis of various local and global shape descriptors for image retrieval},
+  journal   = mms,
+  volume    = {19},
+  number    = {4},
+  year      = 2013,
+  pages     = {339-357},
+}
+
+@article{DBLP:journals/mms/LiuWWWB13,
+  author    = {Zhang Liu and
+               Chaokun Wang and
+               Jianmin Wang and
+               Hao Wang and
+               Yiyuan Bai},
+  title     = {Adaptive music resizing with stretching, cropping and insertion - A generic content-aware music resizing framework},
+  journal   = mms,
+  volume    = {19},
+  number    = {4},
+  year      = 2013,
+  pages     = {359-380},
+}
+
+@article{DBLP:journals/mms/YehWM13,
+  author    = {Jun-Bin Yeh and
+               Chung-Hsien Wu and
+               Shi-Xin Mai},
+  title     = {Multiple visual concept discovery using concept-based visual word clustering},
+  journal   = mms,
+  volume    = {19},
+  number    = {4},
+  year      = 2013,
+  pages     = {381-393},
+}
+
+@article{DBLP:journals/mms/ZhaiPX13,
+  author    = {Xiaohua Zhai and
+               Yuxin Peng and
+               Jianguo Xiao},
+  title     = {Cross-media retrieval by intra-media and inter-media correlation mining},
+  journal   = mms,
+  volume    = {19},
+  number    = {5},
+  year      = 2013,
+  pages     = {395-406},
+}
+
+@article{DBLP:journals/mms/XuM13,
+  author    = {Wei Xu and
+               Jane Mulligan},
+  title     = {Panoramic video stitching from commodity {HDTV} cameras},
+  journal   = mms,
+  volume    = {19},
+  number    = {5},
+  year      = 2013,
+  pages     = {407-426},
+}
+
+@article{DBLP:journals/mms/FabroB13,
+  author    = {Manfred del Fabro and
+               László Böszörményi},
+  title     = {State-of-the-art and future challenges in video scene detection: a survey},
+  journal   = mms,
+  volume    = {19},
+  number    = {5},
+  year      = 2013,
+  pages     = {427-454},
+}
+
+@article{DBLP:journals/mms/JoveskiMSMPD13,
+  author    = {Bojan Joveski and
+               Mihai Mitrea and
+               Pieter Simoens and
+               Iain James Marshall and
+               Françoise J. Prêteux and
+               Bart Dhoedt},
+  title     = {Semantic multimedia remote display for mobile thin clients},
+  journal   = mms,
+  volume    = {19},
+  number    = {5},
+  year      = 2013,
+  pages     = {455-474},
 }
 
 @article{DBLP:journals/mms/Angelides12,
@@ -387,7 +586,7 @@
 
 @article{DBLP:journals/mms/NaikSA12,
   author    = {Mitesh Naik and
-               M. Sigdel and
+               Madhav Sigdel and
                Ramazan Savas Aygün},
   title     = {Spatio-temporal querying recurrent multimedia databases using a semantic sequence state graph},
   journal   = mms,

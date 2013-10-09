@@ -1,5 +1,17 @@
 @include journals-cs
 
+@article{DBLP:journals/ccr/SchlampCB13,
+  author    = {Johann Schlamp and
+               Georg Carle and
+               Ernst W. Biersack},
+  title     = {A forensic case study on as hijacking: the attacker's perspective},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {5-12},
+}
+
 @article{DBLP:journals/ccr/LeeL13,
   author    = {Yeonhee Lee and
                Youngseok Lee},
@@ -9,6 +21,29 @@
   number    = {1},
   year      = 2013,
   pages     = {5-13},
+}
+
+@article{DBLP:journals/ccr/CallahanAR13,
+  author    = {Thomas Callahan and
+               Mark Allman and
+               Michael Rabinovich},
+  title     = {On modern {DNS} behavior and properties},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {7-15},
+}
+
+@article{DBLP:journals/ccr/WuM13,
+  author    = {Zhe Wu and
+               Harsha V. Madhyastha},
+  title     = {Understanding the latency benefits of multi-cloud webservice deployments},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {13-20},
 }
 
 @article{DBLP:journals/ccr/LiuAW13,
@@ -23,6 +58,30 @@
   pages     = {14-21},
 }
 
+@article{DBLP:journals/ccr/KhanKKC13,
+  author    = {Akmal Khan and
+               Hyunchul Kim and
+               Taekyoung Kwon and
+               Yanghee Choi},
+  title     = {A comparative study on {IP} prefixes and their origin ases in {BGP} and the {IRR}},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {16-24},
+}
+
+@article{DBLP:journals/ccr/LiangL13,
+  author    = {Yao Liang and
+               Rui Liu},
+  title     = {Routing topology inference for wireless sensor networks},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {21-28},
+}
+
 @article{DBLP:journals/ccr/BeverlyA13,
   author    = {Robert Beverly and
                Mark Allman},
@@ -34,6 +93,32 @@
   pages     = {22-29},
 }
 
+@article{DBLP:journals/ccr/AbdelberiCKU13,
+  author    = {Chaabane Abdelberi and
+               Emiliano De Cristofaro and
+               Mohamed Ali Kâafar and
+               Ersin Uzun},
+  title     = {Privacy in content-oriented networking: threats and countermeasures},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {25-33},
+}
+
+@article{DBLP:journals/ccr/SimoncelliDGN13,
+  author    = {Davide Simoncelli and
+               Maurizio Dusi and
+               Francesco Gringoli and
+               Saverio Niccolini},
+  title     = {Stream-monitoring with blockmon: convergence of network measurements and data analytics platforms},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {29-36},
+}
+
 @article{DBLP:journals/ccr/Allman13,
   author    = {Mark Allman},
   title     = {Comments on bufferbloat},
@@ -42,6 +127,36 @@
   number    = {1},
   year      = 2013,
   pages     = {30-37},
+}
+
+@article{DBLP:journals/ccr/FrankPLSFMRUW13,
+  author    = {Benjamin Frank and
+               Ingmar Poese and
+               Yin Lin and
+               Georgios Smaragdakis and
+               Anja Feldmann and
+               Bruce M. Maggs and
+               Jannis Rake and
+               Steve Uhlig and
+               Rick Weber},
+  title     = {Pushing {CDN-ISP} collaboration to the limit},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {34-44},
+}
+
+@article{DBLP:journals/ccr/SaucezID13,
+  author    = {Damien Saucez and
+               Luigi Iannone and
+               Benoit Donnet},
+  title     = {A first measurement look at the deployment and evolution of thelocator/id separation protocol},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {37-43},
 }
 
 @article{DBLP:journals/ccr/Godfrey13,
@@ -63,6 +178,31 @@
   number    = {1},
   year      = 2013,
   pages     = {43-45},
+}
+
+@article{DBLP:journals/ccr/PelechrinisKWZ13,
+  author    = {Konstantinos Pelechrinis and
+               Prashant Krishnamurthy and
+               Martin B. H. Weiss and
+               Taieb Znati},
+  title     = {Cognitive radio networks: realistic or not?},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {44-51},
+}
+
+@article{DBLP:journals/ccr/BassoMM13,
+  author    = {Simone Basso and
+               Michela Meo and
+               Juan Carlos De Martin},
+  title     = {Strengthening measurements from the edges: application-level packet loss rate estimation},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {45-51},
 }
 
 @article{DBLP:journals/ccr/ArslanYG13,
@@ -88,6 +228,32 @@
   pages     = {51-55},
 }
 
+@article{DBLP:journals/ccr/SathiaseelanC13a,
+  author    = {Arjuna Sathiaseelan and
+               Jon Crowcroft},
+  title     = {LCD-Net: lowest cost denominator networking},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {52-57},
+}
+
+@article{DBLP:journals/ccr/WangXBNSS13,
+  author    = {Howard Wang and
+               Yiting Xia and
+               Keren Bergman and
+               T. S. Eugene Ng and
+               Sambit Sahu and
+               Kunwadee Sripanidkulchai},
+  title     = {Rethinking the physical layer of data center networks of the next decade: using optics to enable efficient *-cast connectivity},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {52-58},
+}
+
 @article{DBLP:journals/ccr/RexfordZ13,
   author    = {Jennifer Rexford and
                Pamela Zave},
@@ -97,6 +263,186 @@
   number    = {1},
   year      = 2013,
   pages     = {56-59},
+}
+
+@article{DBLP:journals/ccr/BagnuloEBTW13,
+  author    = {Marcelo Bagnulo and
+               Philip Eardley and
+               Trevor Burbridge and
+               Brian Trammell and
+               Rolf Winter},
+  title     = {Standardizing large-scale measurement platforms},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {58-63},
+}
+
+@article{DBLP:journals/ccr/BianchiDCB13,
+  author    = {Giuseppe Bianchi and
+               Andrea Detti and
+               Alberto Caponi and
+               Nicola Blefari-Melazzi},
+  title     = {Check before storing: what is the performance price of content integrity verification in {LRU} caching?},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {59-67},
+}
+
+@article{DBLP:journals/ccr/Perez-CostaFKQSSSV13,
+  author    = {Xavier Pérez Costa and
+               Andreas Festag and
+               Hans-Joerg Kolbe and
+               Jürgen Quittek and
+               Stefan Schmid and
+               Martin Stiemerling and
+               Joerg Swetina and
+               Hans van der Veen},
+  title     = {Latest trends in telecommunication standards},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {64-71},
+}
+
+@article{DBLP:journals/ccr/BraemBBRFNBPGVKNBTM13,
+  author    = {Bart Braem and
+               Chris Blondia and
+               Christoph Barz and
+               Henning Rogge and
+               Felix Freitag and
+               Leandro Navarro and
+               Joseph Bonicioli and
+               Stavros Papathanasiou and
+               Pau Escrich Garcia and
+               Roger Baig Viñas and
+               Aaron L. Kaplan and
+               Axel Neumann and
+               Ivan Vilata i Balaguer and
+               Blaine Tatum and
+               Malcolm Matson},
+  title     = {A case for research with and on community networks},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {68-73},
+}
+
+@article{DBLP:journals/ccr/Partridge13,
+  author    = {Craig Partridge},
+  title     = {An informal history of {ACM} {SIGCOMM} computer communication review 1970-2012},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {72-73},
+}
+
+@article{DBLP:journals/ccr/KaafarBD13,
+  author    = {Mohamed Ali Kâafar and
+               Shlomo Berkovsky and
+               Benoit Donnet},
+  title     = {On the potential of recommendation technologies for efficient content delivery networks},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {74-77},
+}
+
+@article{DBLP:journals/ccr/CalvoGTLMMB13,
+  author    = {Fernando Garcia Calvo and
+               Javier Lucendo de Gregorio and
+               Fernando Soto de Toro and
+               Joaquin Munoz Lopez and
+               Teo Mayo Muniz and
+               José María Miranda and
+               Oscar Gavilan Ballesteros},
+  title     = {Highlights of consumer electronics show (ces) 2013},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {74-78},
+}
+
+@article{DBLP:journals/ccr/Allman13a,
+  author    = {Mark Allman},
+  title     = {On changing the culture of empirical internet assessment},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {78-83},
+}
+
+@article{DBLP:journals/ccr/GuerinB13,
+  author    = {Roch Guérin and
+               Olivier Bonaventure},
+  title     = {Introducing short papers at conext 2013},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {79},
+}
+
+@article{DBLP:journals/ccr/BurnettF13,
+  author    = {Sam Burnett and
+               Nick Feamster},
+  title     = {Making sense of internet censorship: a new frontier for internet measurement},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {84-89},
+}
+
+@article{DBLP:journals/ccr/Mogul13,
+  author    = {Jeffrey C. Mogul},
+  title     = {Towards more constructive reviewing of {SIGCOMM} papers},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {90-94},
+}
+
+@article{DBLP:journals/ccr/claffyC13,
+  author    = {kc claffy and
+               David Clark},
+  title     = {Workshop on internet economics (WIE2012) report},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {95-100},
+}
+
+@article{DBLP:journals/ccr/claffy13,
+  author    = {kc claffy},
+  title     = {The 5th workshop on active internet measurements (AIMS-5) report},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {101-107},
+}
+
+@article{DBLP:journals/ccr/GassS13,
+  author    = {Richard Charles Gass and
+               Damien Saucez},
+  title     = {Notes from an internet chair: offloading network servicesto the cloud for a low budget conference wirelesssolution},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {108-110},
 }
 
 @article{DBLP:journals/ccr/LamRPVV12,
@@ -841,9 +1187,9 @@
 }
 
 @article{DBLP:journals/ccr/ChenCYCH12,
-  author    = {Chien-nan Chen and
+  author    = {Chien-Nan Chen and
                Cing-yu Chu and
-               Su-ling Yeh and
+               Su-Ling Yeh and
                Hao-Hua Chu and
                Polly Huang},
   title     = {Measuring the perceptual quality of Skype sources},
@@ -1161,7 +1507,7 @@
 }
 
 @article{DBLP:journals/ccr/VaqueroRB11,
-  author    = {Luis M. Vaquero and
+  author    = {Luis Miguel Vaquero and
                Luis Rodero-Merino and
                Rajkumar Buyya},
   title     = {Dynamically scaling applications in the cloud},
@@ -8672,7 +9018,7 @@
 }
 
 @article{DBLP:journals/ccr/Heidemann97,
-  author    = {John Heidemann},
+  author    = {John S. Heidemann},
   title     = {Performance interactions between {P-HTTP} and {TCP} implementations},
   journal   = ccr,
   volume    = {27},

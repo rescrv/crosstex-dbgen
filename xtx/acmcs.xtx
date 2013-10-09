@@ -141,6 +141,401 @@
   pages     = {24},
 }
 
+@article{DBLP:journals/csur/ManshaeiZABH13,
+  author    = {Mohammad Hossein Manshaei and
+               Quanyan Zhu and
+               Tansu Alpcan and
+               Tamer Basar and
+               Jean-Pierre Hubaux},
+  title     = {Game theory meets network security and privacy},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {25},
+}
+
+@article{DBLP:journals/csur/StanierW13,
+  author    = {James Stanier and
+               Des Watson},
+  title     = {Intermediate representations in imperative compilers: A survey},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {26},
+}
+
+@article{DBLP:journals/csur/HoseinitabatabaeiGT13,
+  author    = {Seyed Amir Hoseinitabatabaei and
+               Alexander Gluhak and
+               Rahim Tafazolli},
+  title     = {A survey on smartphone-based systems for opportunistic user context recognition},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {27},
+}
+
+@article{DBLP:journals/csur/ColomboP13,
+  author    = {Christian Colombo and
+               Gordon J. Pace},
+  title     = {Recovery within long-running transactions},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {28},
+}
+
+@article{DBLP:journals/csur/ZilberbergWT13,
+  author    = {Omer Zilberberg and
+               Shlomo Weiss and
+               Sivan Toledo},
+  title     = {Phase-change memory: An architectural perspective},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {29},
+}
+
+@article{DBLP:journals/csur/GomesIPFM13,
+  author    = {João V. P. Gomes and
+               Pedro R. M. Inácio and
+               Manuela Pereira and
+               Mário M. Freire and
+               Paulo P. Monteiro},
+  title     = {Detection and classification of peer-to-peer traffic: A survey},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {30},
+}
+
+@article{DBLP:journals/csur/SerbanVKB13,
+  author    = {Floarea Serban and
+               Joaquin Vanschoren and
+               Jörg-Uwe Kietz and
+               Abraham Bernstein},
+  title     = {A survey of intelligent assistants for data analysis},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {31},
+}
+
+@article{DBLP:journals/csur/ZangG13,
+  author    = {Wei Zang and
+               Ann Gordon-Ross},
+  title     = {A survey on cache tuning from a power/energy perspective},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {32},
+}
+
+@article{DBLP:journals/csur/BostoenMB13,
+  author    = {Tom Bostoen and
+               Sape J. Mullender and
+               Yolande Berbers},
+  title     = {Power-reduction techniques for data-center storage systems},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {33},
+}
+
+@article{DBLP:journals/csur/DionisioBG13,
+  author    = {John David N. Dionisio and
+               William G. Burns III and
+               Richard Gilbert},
+  title     = {3D Virtual worlds and the metaverse: Current status and future possibilities},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {34},
+}
+
+@article{DBLP:journals/csur/CrepinsekLM13,
+  author    = {Matej Crepinsek and
+               Shih-Hsi Liu and
+               Marjan Mernik},
+  title     = {Exploration and exploitation in evolutionary algorithms: A survey},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {35},
+}
+
+@article{DBLP:journals/csur/CarvalhoM13,
+  author    = {Leandro Silva Galvão De Carvalho and
+               Edjair De Souza Mota},
+  title     = {Survey on application-layer mechanisms for speech quality adaptation in {VoIP}},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {36},
+}
+
+@article{DBLP:journals/csur/GrehantDJ13,
+  author    = {Xavier Grehant and
+               Isabelle M. Demeure and
+               Sverre Jarp},
+  title     = {A survey of task mapping on production grids},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {37},
+}
+
+@article{DBLP:journals/csur/KiasariJL13,
+  author    = {Abbas Eslami Kiasari and
+               Axel Jantsch and
+               Zhonghai Lu},
+  title     = {Mathematical formalisms for performance evaluation of networks-on-chip},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {38},
+}
+
+@article{DBLP:journals/csur/NewellDN13,
+  author    = {Andrew Newell and
+               Jing Dong and
+               Cristina Nita-Rotaru},
+  title     = {On the practicality of cryptographic defences against pollution attacks in wireless network coding},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {39},
+}
+
+@article{DBLP:journals/csur/PekBB13,
+  author    = {Gábor Pék and
+               Levente Buttyán and
+               Boldizsár Bencsáth},
+  title     = {A survey of security issues in hardware virtualization},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {3},
+  year      = 2013,
+  pages     = {40},
+}
+
+@article{DBLP:journals/csur/BossuetGGFG13,
+  author    = {Lilian Bossuet and
+               Michael Grand and
+               Lubos Gaspar and
+               Viktor Fischer and
+               Guy Gogniat},
+  title     = {Architectures of flexible symmetric key crypto engines - a survey: From hardware coprocessor to multi-crypto-processor system on chip},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {41},
+}
+
+@article{DBLP:journals/csur/ParentSRAABDGMPTY13,
+  author    = {Christine Parent and
+               Stefano Spaccapietra and
+               Chiara Renso and
+               Gennady L. Andrienko and
+               Natalia V. Andrienko and
+               Vania Bogorny and
+               Maria Luisa Damiani and
+               Aris Gkoulalas-Divanis and
+               José Antônio Fernandes de Macêdo and
+               Nikos Pelekis and
+               Yannis Theodoridis and
+               Zhixian Yan},
+  title     = {Semantic trajectories modeling and analysis},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {42},
+}
+
+@article{DBLP:journals/csur/XieKS13,
+  author    = {Jierui Xie and
+               Stephen Kelley and
+               Boleslaw K. Szymanski},
+  title     = {Overlapping community detection in networks: The state-of-the-art and comparative study},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {43},
+}
+
+@article{DBLP:journals/csur/LiuHCSNW13,
+  author    = {Jiajun Liu and
+               Zi Huang and
+               HongYun Cai and
+               Heng Tao Shen and
+               Chong-Wah Ngo and
+               Wei Wang},
+  title     = {Near-duplicate video retrieval: Current research and future trends},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {44},
+}
+
+@article{DBLP:journals/csur/Rodriguez-GomezMG13,
+  author    = {Rafael Rodríguez-Gómez and
+               Gabriel Maciá-Fernández and
+               Pedro García-Teodoro},
+  title     = {Survey and taxonomy of botnet research through life-cycle},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {45},
+}
+
+@article{DBLP:journals/csur/BasuFSNWG13,
+  author    = {Anirban Basu and
+               Simon Fleming and
+               James Stanier and
+               Stephen Naicken and
+               Ian Wakeman and
+               Vijay K. Gurbani},
+  title     = {The state of peer-to-peer network simulators},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {46},
+}
+
+@article{DBLP:journals/csur/SherchanNP13,
+  author    = {Wanita Sherchan and
+               Surya Nepal and
+               Cécile Paris},
+  title     = {A survey of trust in social networks},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {47},
+}
+
+@article{DBLP:journals/csur/KalayappanS13,
+  author    = {Rajshekar Kalayappan and
+               Smruti R. Sarangi},
+  title     = {A survey of checker architectures},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {48},
+}
+
+@article{DBLP:journals/csur/ChangVWL13,
+  author    = {Jian Chang and
+               Krishna K. Venkatasubramanian and
+               Andrew G. West and
+               Insup Lee},
+  title     = {Analyzing and defending against web-based malware},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {49},
+}
+
+@article{DBLP:journals/csur/BenoitCRS13,
+  author    = {Anne Benoit and
+               Ümit V. Çatalyürek and
+               Yves Robert and
+               Erik Saule},
+  title     = {A survey of pipelined workflow scheduling: Models and algorithms},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {50},
+}
+
+@article{DBLP:journals/csur/HubauxTH13,
+  author    = {Arnaud Hubaux and
+               Thein Than Tun and
+               Patrick Heymans},
+  title     = {Separation of concerns in feature diagram languages: A systematic survey},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {51},
+}
+
+@article{DBLP:journals/csur/BainomugishaCCMM13,
+  author    = {Engineer Bainomugisha and
+               Andoni Lombide Carreton and
+               Tom Van Cutsem and
+               Stijn Mostinckx and
+               Wolfgang De Meuter},
+  title     = {A survey on reactive programming},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {52},
+}
+
+@article{DBLP:journals/csur/AndroutsopoulosCHKT13,
+  author    = {Kelly Androutsopoulos and
+               David Clark and
+               Mark Harman and
+               Jens Krinke and
+               Laurence Tratt},
+  title     = {State-based model slicing: A survey},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {53},
+}
+
+@article{DBLP:journals/csur/IglesiasMJV13,
+  author    = {Daniel Lázaro Iglesias and
+               Joan Manuel Marquès and
+               Josep Jorba and
+               Xavier Vilajosana},
+  title     = {Decentralized resource discovery mechanisms for distributed computing in peer-to-peer environments},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {54},
+}
+
+@article{DBLP:journals/csur/ShaulT13,
+  author    = {Levi Shaul and
+               Doron Tauber},
+  title     = {Critical success factors in enterprise resource planning systems: Review of the last decade},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {55},
+}
+
 @article{DBLP:journals/csur/CarpinetoR12,
   author    = {Claudio Carpineto and
                Giovanni Romano},
@@ -9076,7 +9471,7 @@
 
 @article{DBLP:journals/csur/ChenLGKP94,
   author    = {Peter M. Chen and
-               Edward L. Lee and
+               Edward K. Lee and
                Garth A. Gibson and
                Randy H. Katz and
                David A. Patterson},
@@ -12060,7 +12455,7 @@
 }
 
 @article{DBLP:journals/csur/YauF77,
-  author    = {S. S. Yau and
+  author    = {Stephen S. Yau and
                H. S. Fung},
   title     = {Associative Processor Architecture - A Survey},
   journal   = acmcs,

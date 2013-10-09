@@ -40,6 +40,96 @@
   pages     = {3},
 }
 
+@article{DBLP:journals/tocs/JayaramEJ13,
+  author    = {K. R. Jayaram and
+               Patrick Eugster and
+               Chamikara Jayalath},
+  title     = {Parametric {Content-Based} Publish/Subscribe},
+  journal   = tocs,
+  volume    = {31},
+  number    = {2},
+  year      = 2013,
+  pages     = {4},
+}
+
+@article{DBLP:journals/tocs/SmaldoneGHIS13,
+  author    = {Stephen Smaldone and
+               Benjamin Gilbert and
+               Jan Harkes and
+               Liviu Iftode and
+               Mahadev Satyanarayanan},
+  title     = {Optimizing Storage Performance for {VM-Based} Mobile Computing},
+  journal   = tocs,
+  volume    = {31},
+  number    = {2},
+  year      = 2013,
+  pages     = {5},
+}
+
+@article{DBLP:journals/tocs/LeeABXLBA13,
+  author    = {Yunsup Lee and
+               Rimas Avizienis and
+               Alex Bishara and
+               Richard Xia and
+               Derek Lockhart and
+               Christopher Batten and
+               Krste Asanovic},
+  title     = {Exploring the Tradeoffs between Programmability and Efficiency in {Data-Parallel} Accelerators},
+  journal   = tocs,
+  volume    = {31},
+  number    = {3},
+  year      = 2013,
+  pages     = {6},
+}
+
+@article{DBLP:journals/tocs/GamageKXK13,
+  author    = {Sahan Gamage and
+               Ramana Rao Kompella and
+               Dongyan Xu and
+               Ardalan Kangarlou},
+  title     = {Protocol Responsibility Offloading to Improve {TCP} Throughput in Virtualized Environments},
+  journal   = tocs,
+  volume    = {31},
+  number    = {3},
+  year      = 2013,
+  pages     = {7},
+}
+
+@article{DBLP:journals/tocs/CorbettDEFFFGGHHHKKLLMMNQRRSSTWW13,
+  author    = {James C. Corbett and
+               Jeffrey Dean and
+               Michael Epstein and
+               Andrew Fikes and
+               Christopher Frost and
+               J. J. Furman and
+               Sanjay Ghemawat and
+               Andrey Gubarev and
+               Christopher Heiser and
+               Peter Hochschild and
+               Wilson C. Hsieh and
+               Sebastian Kanthak and
+               Eugene Kogan and
+               Hongyi Li and
+               Alexander Lloyd and
+               Sergey Melnik and
+               David Mwaura and
+               David Nagle and
+               Sean Quinlan and
+               Rajesh Rao and
+               Lindsay Rolig and
+               Yasushi Saito and
+               Michal Szymaniak and
+               Christopher Taylor and
+               Ruth Wang and
+               Dale Woodford},
+  title     = {Spanner: Google's Globally Distributed Database},
+  journal   = tocs,
+  volume    = {31},
+  number    = {3},
+  year      = 2013,
+  pages     = {8},
+}
+
 @article{DBLP:journals/tocs/Mowry12,
   author    = {Todd C. Mowry},
   title     = {Introduction to Special Issue {APLOS} 2011},

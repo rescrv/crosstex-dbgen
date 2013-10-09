@@ -4032,7 +4032,7 @@
 }
 
 @inproceedings{DBLP:conf/cikm/McCreadieMOGJ12,
-  author    = {Richard M. C. McCreadie and
+  author    = {Richard McCreadie and
                Craig Macdonald and
                Iadh Ounis and
                Jim Giles and
@@ -6072,7 +6072,7 @@
 
 @inproceedings{DBLP:conf/cikm/PobleteGMJ11,
   author    = {Barbara Poblete and
-               Ruth Garcia and
+               Ruth Olimpia Garcia Gavilanes and
                Marcelo Mendoza and
                Alejandro Jaimes},
   title     = {Do all birds tweet the same?: characterizing twitter around the world},
@@ -7371,7 +7371,7 @@
   author    = {Scott Sanner and
                Shengbo Guo and
                Thore Graepel and
-               Sadegh Kharazmi and
+               Seyedeh Sadegh Kharazmi and
                Sarvnaz Karimi},
   title     = {Diverse retrieval via greedy optimization of expected 1-call@k in a latent subtopic relevance model},
   booktitle = cikm,
@@ -9014,7 +9014,7 @@
 
 @inproceedings{DBLP:conf/cikm/SantosMP11,
   author    = {Rodrygo L. T. Santos and
-               Richard M. C. McCreadie and
+               Richard McCreadie and
                Vassilis Plachouras},
   title     = {Large-scale information retrieval experimentation with terrier},
   booktitle = cikm,
@@ -18105,7 +18105,7 @@
   author    = {Maxim Kormilitsin and
                Rada Chirkova and
                Yahya Fathi and
-               Matthias Stallmann},
+               Matthias F. Stallmann},
   title     = {View and index selection for query-performance improvement: quality-centered algorithms and heuristics},
   booktitle = cikm,
   year      = 2008,

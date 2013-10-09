@@ -518,6 +518,1180 @@
   pages     = {762-774},
 }
 
+@article{DBLP:journals/scp/AlpuenteJKR13,
+  author    = {María Alpuente and
+               Christophe Joubert and
+               Stefan Kowalewski and
+               Marco Roveri},
+  title     = {Preface to the special section on Formal Methods for Industrial Critical Systems ({FMICS} 2009 + {FMICS} 2010)},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {775-777},
+}
+
+@article{DBLP:journals/scp/EvangelistaK13,
+  author    = {Sami Evangelista and
+               Lars Michael Kristensen},
+  title     = {Dynamic state space partitioning for external memory state space exploration},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {778-795},
+}
+
+@article{DBLP:journals/scp/AlmeidaBPV13,
+  author    = {José Bacelar Almeida and
+               Manuel Barbosa and
+               Jorge Sousa Pinto and
+               Bárbara Vieira},
+  title     = {Formal verification of side-channel countermeasures using self-composition},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {796-812},
+}
+
+@article{DBLP:journals/scp/GoodloeM13,
+  author    = {Alwyn Goodloe and
+               César A. Muñoz},
+  title     = {Compositional verification of a communication protocol for a remotely operated aircraft},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {813-827},
+}
+
+@article{DBLP:journals/scp/FerrariFMGT13,
+  author    = {Alessio Ferrari and
+               Alessandro Fantechi and
+               Gianluca Magnani and
+               Daniele Grasso and
+               Matteo Tempestini},
+  title     = {The Metrô Rio case study},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {828-842},
+}
+
+@article{DBLP:journals/scp/MateescuS13,
+  author    = {Radu Mateescu and
+               Wendelin Serwe},
+  title     = {Model checking and performance evaluation with {CADP} illustrated on shared-memory mutual exclusion protocols},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {843-861},
+}
+
+@article{DBLP:journals/scp/BrauerKK13,
+  author    = {Jörg Brauer and
+               Andy King and
+               Stefan Kowalewski},
+  title     = {Abstract interpretation of microcontroller code: Intervals meet congruences},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {862-883},
+}
+
+@article{DBLP:journals/scp/IliasovTLRVIL13,
+  author    = {Alexei Iliasov and
+               Elena Troubitsyna and
+               Linas Laibinis and
+               Alexander Romanovsky and
+               Kimmo Varpaaniemi and
+               Dubravka Ilic and
+               Timo Latvala},
+  title     = {Developing mode-rich satellite software by refinement in {Event-B}},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {884-905},
+}
+
+@article{DBLP:journals/scp/Ancona13,
+  author    = {Davide Ancona},
+  title     = {Preface to the special section on {Object-Oriented} Programming and Systems ({OOPS} 2009), a special track at the 24th {ACM} Symposium on Applied Computing},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {906},
+}
+
+@article{DBLP:journals/scp/BettiniCD13,
+  author    = {Lorenzo Bettini and
+               Sara Capecchi and
+               Ferruccio Damiani},
+  title     = {On flexible dynamic trait replacement for Java-like languages},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {907-932},
+}
+
+@article{DBLP:journals/scp/SaitoI13,
+  author    = {Chieri Saito and
+               Atsushi Igarashi},
+  title     = {Matching {MyType} to subtyping},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {933-952},
+}
+
+@article{DBLP:journals/scp/LievensH13,
+  author    = {David Lievens and
+               William Harrison},
+  title     = {Abstraction over implementation structure with symmetrically encapsulated multimethods},
+  journal   = scp,
+  volume    = {78},
+  number    = {7},
+  year      = 2013,
+  pages     = {953-968},
+}
+
+@article{DBLP:journals/scp/SeinturierB13,
+  author    = {Lionel Seinturier and
+               Mark van den Brand},
+  title     = {Preface to the special section on software evolution, adaptability, and maintenance},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {969-970},
+}
+
+@article{DBLP:journals/scp/GoeminneM13,
+  author    = {Mathieu Goeminne and
+               Tom Mens},
+  title     = {A comparison of identity merge algorithms for software repositories},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {971-986},
+}
+
+@article{DBLP:journals/scp/AutiliBI13,
+  author    = {Marco Autili and
+               Paolo Di Benedetto and
+               Paola Inverardi},
+  title     = {A hybrid approach for resource-based comparison of adaptable Java applications},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {987-1009},
+}
+
+@article{DBLP:journals/scp/LagunaC13,
+  author    = {Miguel A. Laguna and
+               Yania Crespo},
+  title     = {A systematic mapping study on software product line evolution: From legacy system reengineering to product line refactoring},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1010-1034},
+}
+
+@article{DBLP:journals/scp/MosserB13,
+  author    = {Sébastien Mosser and
+               Mireille Blay-Fornarino},
+  title     = {"Adore", a logical meta-model supporting business process evolution},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1035-1054},
+}
+
+@article{DBLP:journals/scp/LavalABD13,
+  author    = {Jannik Laval and
+               Nicolas Anquetil and
+               Usman Bhatti and
+               Stéphane Ducasse},
+  title     = {oZone: Layer identification in the presence of cyclic dependencies},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1055-1072},
+}
+
+@article{DBLP:journals/scp/NavasBP13,
+  author    = {Juan F. Navas and
+               Jean-Philippe Babau and
+               Jacques Pulou},
+  title     = {Reconciling run-time evolution and resource-constrained embedded systems through a component-based development framework},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1073-1098},
+}
+
+@article{DBLP:journals/scp/PirzadehSHAS13,
+  author    = {Heidar Pirzadeh and
+               Sara Shanian and
+               Abdelwahab Hamou-Lhadj and
+               Luay Alawneh and
+               Arya Shafiee},
+  title     = {Stratified sampling of execution traces: Execution phases serving as strata},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1099-1118},
+}
+
+@article{DBLP:journals/scp/SantosS13,
+  author    = {André Santos and
+               João Saraiva},
+  title     = {Special section on the Brazilian Symposium on Programming Languages},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1119-1120},
+}
+
+@article{DBLP:journals/scp/MartinezP13,
+  author    = {Mónica Martínez and
+               Alberto Pardo},
+  title     = {A shortcut fusion approach to accumulations},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1121-1136},
+}
+
+@article{DBLP:journals/scp/RebeloLLCMO13,
+  author    = {Henrique Rebêlo and
+               Ricardo Massa Ferreira Lima and
+               Gary T. Leavens and
+               Márcio Cornélio and
+               Alexandre Mota and
+               César A. L. Oliveira},
+  title     = {Optimizing generated aspect-oriented assertion checking code for {JML} using program transformations: An empirical study},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1137-1156},
+}
+
+@article{DBLP:journals/scp/RubboPN13,
+  author    = {Fernando Barden Rubbo and
+               Eduardo Kessler Piveta and
+               Daltro José Nunes},
+  title     = {Inference rules for generic code migration of aspect-oriented programs},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1157-1175},
+}
+
+@article{DBLP:journals/scp/ShiX13,
+  author    = {Rui Shi and
+               Hongwei Xi},
+  title     = {A linear type system for multicore programming in {ATS}},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1176-1192},
+}
+
+@article{DBLP:journals/scp/MataPF13,
+  author    = {Leonardo Luiz Padovani da Mata and
+               Fernando Magno Quintão Pereira and
+               Renato Ferreira},
+  title     = {Automatic parallelization of canonical loops},
+  journal   = scp,
+  volume    = {78},
+  number    = {8},
+  year      = 2013,
+  pages     = {1193-1206},
+}
+
+@article{DBLP:journals/scp/Bergstra13,
+  author    = {Jan A. Bergstra},
+  title     = {Editorial},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1207},
+}
+
+@article{DBLP:journals/scp/Berry13,
+  author    = {Daniel M. Berry},
+  title     = {The essential similarity and differences between mathematical modeling and programming},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1208-1211},
+}
+
+@article{DBLP:journals/scp/MraihiLJDM13,
+  author    = {Olfa Mraihi and
+               Asma Louhichi and
+               Lamia Labed Jilani and
+               Jules Desharnais and
+               Ali Mili},
+  title     = {Invariant assertions, invariant relations, and invariant functions},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1212-1239},
+}
+
+@article{DBLP:journals/scp/HalderC13,
+  author    = {Raju Halder and
+               Agostino Cortesi},
+  title     = {Abstract program slicing on dependence condition graphs},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1240-1263},
+}
+
+@article{DBLP:journals/scp/YangHNN13,
+  author    = {Fan Yang and
+               Chris Hankin and
+               Flemming Nielson and
+               Hanne Riis Nielson},
+  title     = {Predictive access control for distributed computation},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1264-1277},
+}
+
+@article{DBLP:journals/scp/AstefanoaeiBDM13,
+  author    = {Lacramioara Astefanoaei and
+               Frank S. de Boer and
+               Mehdi Dastani and
+               John-Jules Ch. Meyer},
+  title     = {A weakest precondition calculus for {BUnity}},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1278-1293},
+}
+
+@article{DBLP:journals/scp/LinH13,
+  author    = {Che-Sheng Lin and
+               Gwan-Hwan Hwang},
+  title     = {State-cover testing for nondeterministic terminating concurrent programs with an infinite number of synchronization sequences},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1294-1323},
+}
+
+@article{DBLP:journals/scp/BonsangueCGLRS13,
+  author    = {Marcello M. Bonsangue and
+               Georgiana Caltais and
+               Eugen-Ioan Goriac and
+               Dorel Lucanu and
+               Jan J. M. M. Rutten and
+               Alexandra Silva},
+  title     = {Automatic equivalence proofs for non-deterministic coalgebras},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1324-1345},
+}
+
+@article{DBLP:journals/scp/SantoneVV13,
+  author    = {Antonella Santone and
+               Gigliola Vaglini and
+               Maria Luisa Villani},
+  title     = {Incremental construction of systems: An efficient characterization of the lacking sub-system},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1346-1367},
+}
+
+@article{DBLP:journals/scp/KwiatkowskiV13,
+  author    = {Lukasz Kwiatkowski and
+               Chris Verhoef},
+  title     = {Recovering management information from source code},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1368-1406},
+}
+
+@article{DBLP:journals/scp/Hadar13,
+  author    = {Irit Hadar},
+  title     = {When intuition and logic clash: The case of the object-oriented paradigm},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1407-1426},
+}
+
+@article{DBLP:journals/scp/AlbertGG13,
+  author    = {Elvira Albert and
+               Samir Genaim and
+               Miguel Gómez-Zamalloa},
+  title     = {Heap space analysis for garbage collected languages},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1427-1448},
+}
+
+@article{DBLP:journals/scp/SuttonM13,
+  author    = {Andrew Sutton and
+               Jonathan I. Maletic},
+  title     = {Emulating C++0x concepts},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1449-1469},
+}
+
+@article{DBLP:journals/scp/PoroorJ13,
+  author    = {Jayaraj Poroor and
+               Bharat Jayaraman},
+  title     = {Modeling mobile stateful channels in ππZ},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1470-1489},
+}
+
+@article{DBLP:journals/scp/Eugster13,
+  author    = {Patrick Eugster},
+  title     = {Safe uniform proxies for Java},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1490-1520},
+}
+
+@article{DBLP:journals/scp/Hesselink13,
+  author    = {Wim H. Hesselink},
+  title     = {Complete assertional proof rules for progress under weak and strong fairness},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1521-1537},
+}
+
+@article{DBLP:journals/scp/LegerTD13,
+  author    = {Paul Leger and
+               Éric Tanter and
+               Rémi Douence},
+  title     = {Modular and flexible causality control on the Web},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1538-1558},
+}
+
+@article{DBLP:journals/scp/AtoofianBC13,
+  author    = {Ehsan Atoofian and
+               Amirali Baniasadi and
+               Yvonne Coady},
+  title     = {ARV-ALA: Improving performance of software transactional memory through adaptive read and write policies},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1559-1571},
+}
+
+@article{DBLP:journals/scp/MuJLZW13,
+  author    = {Kedian Mu and
+               Zhi Jin and
+               Weiru Liu and
+               Didar Zowghi and
+               Bo Wei},
+  title     = {Measuring the significance of inconsistency in the Viewpoints framework},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1572-1599},
+}
+
+@article{DBLP:journals/scp/SinkovicsP13,
+  author    = {Ábel Sinkovics and
+               Zoltán Porkoláb},
+  title     = {Implementing monads for C++ template metaprograms},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1600-1621},
+}
+
+@article{DBLP:journals/scp/Hesselink13a,
+  author    = {Wim H. Hesselink},
+  title     = {Mechanical verification of Lamport's Bakery algorithm},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1622-1638},
+}
+
+@article{DBLP:journals/scp/FerrariRM13,
+  author    = {Fabiano Cutigi Ferrari and
+               Awais Rashid and
+               José Carlos Maldonado},
+  title     = {Towards the practical mutation testing of {AspectJ} programs},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1639-1662},
+}
+
+@article{DBLP:journals/scp/GrantCS13,
+  author    = {Scott Grant and
+               James R. Cordy and
+               David B. Skillicorn},
+  title     = {Using heuristics to estimate an appropriate number of latent topics in source code analysis},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1663-1678},
+}
+
+@article{DBLP:journals/scp/YingYFD13,
+  author    = {Mingsheng Ying and
+               Nengkun Yu and
+               Yuan Feng and
+               Runyao Duan},
+  title     = {Verification of quantum programs},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1679-1700},
+}
+
+@article{DBLP:journals/scp/OhY13,
+  author    = {Hakjoo Oh and
+               Kwangkeun Yi},
+  title     = {Access-based abstract memory localization in static analysis},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1701-1727},
+}
+
+@article{DBLP:journals/scp/DamG13,
+  author    = {Hoa Khanh Dam and
+               Aditya Ghose},
+  title     = {Supporting change impact analysis for intelligent agent systems},
+  journal   = scp,
+  volume    = {78},
+  number    = {9},
+  year      = 2013,
+  pages     = {1728-1750},
+}
+
+@article{DBLP:journals/scp/Vinju13,
+  author    = {Jurgen J. Vinju},
+  title     = {Preface to the special section on Language Descriptions Tools and Applications (LDTA'08 & '09)},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1751},
+}
+
+@article{DBLP:journals/scp/SloaneKV13,
+  author    = {Anthony M. Sloane and
+               Lennart C. L. Kats and
+               Eelco Visser},
+  title     = {A pure embedding of attribute grammars},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1752-1769},
+}
+
+@article{DBLP:journals/scp/LammelTK13,
+  author    = {Ralf Lämmel and
+               Simon J. Thompson and
+               Markus Kaiser},
+  title     = {Programming errors in traversal programs over structured data},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1770-1808},
+}
+
+@article{DBLP:journals/scp/SoderbergEHM13,
+  author    = {Emma Söderberg and
+               Torbjörn Ekman and
+               Görel Hedin and
+               Eva Magnusson},
+  title     = {Extensible intraprocedural flow analysis at the abstract syntax tree level},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1809-1827},
+}
+
+@article{DBLP:journals/scp/ScottJ13,
+  author    = {Elizabeth Scott and
+               Adrian Johnstone},
+  title     = {{GLL} parse-tree generation},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1828-1844},
+}
+
+@article{DBLP:journals/scp/AndersenBC13,
+  author    = {Jacob Andersen and
+               Claus Brabrand and
+               David Raymond Christiansen},
+  title     = {Banana Algebra: Compositional syntactic language extension},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1845-1870},
+}
+
+@article{DBLP:journals/scp/ChilowiczDR13,
+  author    = {Michel Chilowicz and
+               Étienne Duris and
+               Gilles Roussel},
+  title     = {Viewing functions as token sequences to highlight similarities in source code},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1871-1891},
+}
+
+@article{DBLP:journals/scp/Lopez-de-IpinaOB13,
+  author    = {Diego López-de-Ipiña and
+               Sergio F. Ochoa and
+               José Bravo},
+  title     = {Preface to the special section on Software Engineering Aspects of Ubiquitous Computing and Ambient Intelligence ({UCAmI} 2011)},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1892-1894},
+}
+
+@article{DBLP:journals/scp/Ruiz-LopezNRGC13,
+  author    = {Tomás Ruiz-López and
+               Manuel Noguera and
+               María José Rodríguez-Fórtiz and
+               José Luis Garrido and
+               Lawrence Chung},
+  title     = {REUBI: A Requirements Engineering method for ubiquitous systems},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1895-1911},
+}
+
+@article{DBLP:journals/scp/ChabridonCAT13,
+  author    = {Sophie Chabridon and
+               Denis Conan and
+               Zied Abid and
+               Chantal Taconet},
+  title     = {Building ubiquitous {QoC-aware} applications through model-driven software engineering},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1912-1929},
+}
+
+@article{DBLP:journals/scp/CatalaPMMN13,
+  author    = {Alejandro Catalá and
+               Patricia Pons and
+               Javier Jaén Martínez and
+               José A. Mocholí and
+               Elena Navarro},
+  title     = {A meta-model for dataflow-based rules in smart environments: Evaluating user comprehension and performance},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1930-1950},
+}
+
+@article{DBLP:journals/scp/RooverSADM13,
+  author    = {Coen De Roover and
+               Christophe Scholliers and
+               Wouter Amerijckx and
+               Theo D'Hondt and
+               Wolfgang De Meuter},
+  title     = {CrimeSPOT: A language and runtime for developing active wireless sensor network applications},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1951-1970},
+}
+
+@article{DBLP:journals/scp/Paz-LopezVBVD13,
+  author    = {Alejandro Paz-Lopez and
+               Gervasio Varela and
+               J. A. Becerra and
+               Santiago Vazquez-Rodriguez and
+               Richard J. Duro},
+  title     = {Towards ubiquity in ambient intelligence: User-guided component mobility in the HI3 architecture},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1971-1986},
+}
+
+@article{DBLP:journals/scp/GilSVP13,
+  author    = {Miriam Gil and
+               Estefanía Serral and
+               Pedro Valderas and
+               Vicente Pelechano},
+  title     = {Designing for user attention: A method for supporting unobtrusive routine tasks},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {1987-2008},
+}
+
+@article{DBLP:journals/scp/Rodriguez-CoviliO13,
+  author    = {Juan Rodríguez-Covili and
+               Sergio F. Ochoa},
+  title     = {A lightweight and distributed middleware to provide presence awareness in mobile ubiquitous systems},
+  journal   = scp,
+  volume    = {78},
+  number    = {10},
+  year      = 2013,
+  pages     = {2009-2025},
+}
+
+@article{DBLP:journals/scp/Desharnais13,
+  author    = {Jules Desharnais},
+  title     = {Mathematics of Program Construction (selected papers from {MPC} 2010)},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2027-2028},
+}
+
+@article{DBLP:journals/scp/Backhouse0F13,
+  author    = {Roland Carl Backhouse and
+               Wei Chen and
+               João F. Ferreira},
+  title     = {The algorithmics of solitaire-like games},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2029-2046},
+}
+
+@article{DBLP:journals/scp/DongolH13,
+  author    = {Brijesh Dongol and
+               Ian J. Hayes},
+  title     = {Deriving real-time action systems in a sampling logic},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2047-2063},
+}
+
+@article{DBLP:journals/scp/Guttmann13,
+  author    = {Walter Guttmann},
+  title     = {Extended designs algebraically},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2064-2085},
+}
+
+@article{DBLP:journals/scp/HayesDM13,
+  author    = {Ian J. Hayes and
+               Steve Dunne and
+               Larissa Meinicke},
+  title     = {Linking Unifying Theories of Program refinement},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2086-2107},
+}
+
+@article{DBLP:journals/scp/Hinze13,
+  author    = {Ralf Hinze},
+  title     = {Adjoint folds and unfolds - An extended study},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2108-2159},
+}
+
+@article{DBLP:journals/scp/MacedoO13,
+  author    = {Hugo Daniel Macedo and
+               José Nuno Oliveira},
+  title     = {Typing linear algebra: A biproduct-oriented approach},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2160-2191},
+}
+
+@article{DBLP:journals/scp/NiquiR13,
+  author    = {Milad Niqui and
+               Jan J. M. M. Rutten},
+  title     = {Stream processing coalgebraically},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2192-2215},
+}
+
+@article{DBLP:journals/scp/WangGMH13,
+  author    = {Meng Wang and
+               Jeremy Gibbons and
+               Kazutaka Matsuda and
+               Zhenjiang Hu},
+  title     = {Refactoring pattern matching},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2216-2242},
+}
+
+@article{DBLP:journals/scp/AbascalG13,
+  author    = {Julio Abascal and
+               Nestor Garay-Vitoria},
+  title     = {Special section on methodological development of interactive systems from Interacción 2011},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2243-2244},
+}
+
+@article{DBLP:journals/scp/Condori-FernandezPBVP13,
+  author    = {Nelly Condori-Fernández and
+               José Ignacio Panach and
+               Arthur Iwan Baars and
+               Tanja E. J. Vos and
+               Oscar Pastor},
+  title     = {An empirical approach for evaluating the usability of model-driven tools},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2245-2258},
+}
+
+@article{DBLP:journals/scp/MartinezLVG13,
+  author    = {Jose Figueroa Martinez and
+               Víctor López-Jaquero and
+               Francisco Luis Gutiérrez Vela and
+               Pascual González},
+  title     = {Enriching {UsiXML} language to support awareness requirements},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2259-2267},
+}
+
+@article{DBLP:journals/scp/LosadaUF13,
+  author    = {Begoña Losada and
+               Maite Urretavizcaya and
+               Isabel Fernández-Castro},
+  title     = {A guide to agile development of interactive software with a "User Objectives"-driven methodology},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2268-2281},
+}
+
+@article{DBLP:journals/scp/RojasM13,
+  author    = {Luis A. Rojas and
+               José A. Macías},
+  title     = {Bridging the gap between information architecture analysis and software engineering in interactive web application development},
+  journal   = scp,
+  volume    = {78},
+  number    = {11},
+  year      = 2013,
+  pages     = {2282-2291},
+}
+
+@article{DBLP:journals/scp/BoschL13,
+  author    = {Jan Bosch and
+               Jaejoon Lee},
+  title     = {Software product lines ({SPLC} 2010)},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2293-2294},
+}
+
+@article{DBLP:journals/scp/KaratasOD13,
+  author    = {Ahmet Serkan Karatas and
+               Halit Oguztüzün and
+               Ali H. Dogru},
+  title     = {From extended feature models to constraint logic programming},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2295-2312},
+}
+
+@article{DBLP:journals/scp/HartmannKMRTY13,
+  author    = {Herman Hartmann and
+               Mila Keren and
+               Aart A. J. Matsinger and
+               Julia Rubin and
+               Tim Trew and
+               Tali Yatzkar-Haham},
+  title     = {Using {MDA} for integration of heterogeneous components in software supply chains},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2313-2330},
+}
+
+@article{DBLP:journals/scp/UbayashiNH13,
+  author    = {Naoyasu Ubayashi and
+               Shin Nakajima and
+               Masayuki Hirayama},
+  title     = {Context-dependent product line engineering with lightweight formal approaches},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2331-2346},
+}
+
+@article{DBLP:journals/scp/EklundG13,
+  author    = {Ulrik Eklund and
+               Håkan Gustavsson},
+  title     = {Architecting automotive product lines: Industrial practice},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2347-2359},
+}
+
+@article{DBLP:journals/scp/GanesanLMBSMKVM13,
+  author    = {Dharmalingam Ganesan and
+               Mikael Lindvall and
+               David McComas and
+               Maureen Bartholomew and
+               Steve Slegel and
+               Barbara Medina and
+               René L. Krikhaar and
+               Chris Verhoef and
+               Lisa P. Montgomery},
+  title     = {An analysis of unit tests of a flight software product line},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2360-2380},
+}
+
+@article{DBLP:journals/scp/MarinhoAWVMRTFDLA13,
+  author    = {Fabiana Gomes Marinho and
+               Rossana M. C. Andrade and
+               Cláudia Werner and
+               Windson Viana and
+               Marcio E. F. Maia and
+               Lincoln S. Rocha and
+               Eldânae Teixeira and
+               João Bosco Ferreira Filho and
+               Valéria Lelli Leitão Dantas and
+               Fabrício Lima and
+               Saulo B. de Aguiar},
+  title     = {MobiLine: A Nested Software Product Line for the domain of mobile and context-aware applications},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2381-2398},
+}
+
+@article{DBLP:journals/scp/CetinaGFP13,
+  author    = {Carlos Cetina and
+               Pau Giner and
+               Joan Fons and
+               Vicente Pelechano},
+  title     = {Prototyping Dynamic Software Product Lines to evaluate run-time reconfigurations},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2399-2413},
+}
+
+@article{DBLP:journals/scp/HeuerSBKLP13,
+  author    = {André Heuer and
+               Vanessa Stricker and
+               Christof J. Budnik and
+               Sascha Konrad and
+               Kim Lauenroth and
+               Klaus Pohl},
+  title     = {Defining variability in activity diagrams and Petri nets},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2414-2432},
+}
+
+@article{DBLP:journals/scp/ArbabS13,
+  author    = {Farhad Arbab and
+               Marjan Sirjani},
+  title     = {Fundamentals of Software Engineering (selected papers of {FSEN} 2011)},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2433-2434},
+}
+
+@article{DBLP:journals/scp/HwongKKLW13,
+  author    = {Yi-Ling Hwong and
+               Jeroen J. A. Keiren and
+               Vincent J. J. Kusters and
+               Sander J. J. Leemans and
+               Tim A. C. Willemse},
+  title     = {Formalising and analysing the control software of the Compact Muon Solenoid Experiment at the Large Hadron Collider},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2435-2452},
+}
+
+@article{DBLP:journals/scp/KimST13,
+  author    = {Minyoung Kim and
+               Mark-Oliver Stehr and
+               Carolyn L. Talcott},
+  title     = {A distributed logic for Networked {Cyber-Physical} Systems},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2453-2467},
+}
+
+@article{DBLP:journals/scp/AcetoFFIP13,
+  author    = {Luca Aceto and
+               Ignacio Fábregas and
+               David de Frutos-Escrig and
+               Anna Ingólfsdóttir and
+               Miguel Palomino},
+  title     = {On the specification of modal systems: A comparison of three frameworks},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2468-2487},
+}
+
+@article{DBLP:journals/scp/LambertzM13,
+  author    = {Christian Lambertz and
+               Mila E. Majster-Cederbaum},
+  title     = {Efficient deadlock analysis of component-based software architectures},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2488-2510},
+}
+
+@article{DBLP:journals/scp/HansenSS13,
+  author    = {Hallstein Asheim Hansen and
+               Gerardo Schneider and
+               Martin Steffen},
+  title     = {Reachability analysis of complex planar hybrid systems},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2511-2536},
+}
+
+@article{DBLP:journals/scp/DengH13,
+  author    = {Yuxin Deng and
+               Matthew Hennessy},
+  title     = {Compositional reasoning for weighted Markov decision processes},
+  journal   = scp,
+  volume    = {78},
+  number    = {12},
+  year      = 2013,
+  pages     = {2537-2579},
+}
+
 @article{DBLP:journals/scp/MengS12,
   author    = {Sun Meng and
                Bernhard Schätz},
@@ -1002,7 +2176,7 @@
 }
 
 @article{DBLP:journals/scp/HamzaC12,
-  author    = {H. Hamza and
+  author    = {Hamza Hamza and
                Steve Counsell},
   title     = {{Region-Based} {RTSJ} Memory Management: State of the art},
   journal   = scp,

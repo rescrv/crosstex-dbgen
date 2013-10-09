@@ -11,12 +11,52 @@
   pages     = {10},
 }
 
+@article{DBLP:journals/queue/Kamp13,
+  author    = {Poul-Henning Kamp},
+  title     = {More Encryption Is Not the Solution},
+  journal   = queue,
+  volume    = {11},
+  number    = {7},
+  year      = 2013,
+  pages     = {10},
+}
+
 @article{DBLP:journals/queue/Neville-Neil13,
   author    = {George Neville-Neil},
   title     = {Divided by Division},
   journal   = queue,
   volume    = {11},
   number    = {1},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil13b,
+  author    = {George Neville-Neil},
+  title     = {Cherry-picking and the Scientific Method},
+  journal   = queue,
+  volume    = {11},
+  number    = {4},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil13c,
+  author    = {George Neville-Neil},
+  title     = {The Naming of Hosts is a Difficult Matter},
+  journal   = queue,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil13d,
+  author    = {George Neville-Neil},
+  title     = {A Lesson in Resource Management},
+  journal   = queue,
+  volume    = {11},
+  number    = {8},
   year      = 2013,
   pages     = {10},
 }
@@ -31,12 +71,62 @@
   pages     = {10},
 }
 
+@article{DBLP:journals/queue/X13a,
+  author    = {},
+  title     = {Queue Portrait: Kate Matsudaira},
+  journal   = queue,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Geer13,
+  author    = {Dan Geer},
+  title     = {Resolved: the Internet Is No Place for Critical Infrastructure},
+  journal   = queue,
+  volume    = {11},
+  number    = {4},
+  year      = 2013,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Hull13,
+  author    = {Sean Hull},
+  title     = {20 Obstacles to Scalability},
+  journal   = queue,
+  volume    = {11},
+  number    = {7},
+  year      = 2013,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/McKenney13,
+  author    = {Paul E. McKenney},
+  title     = {Structured Deferral: Synchronization via Procrastination},
+  journal   = queue,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {20},
+}
+
 @article{DBLP:journals/queue/Neville-Neil13a,
   author    = {George Neville-Neil},
   title     = {Swamped by Automation},
   journal   = queue,
   volume    = {11},
   number    = {2},
+  year      = 2013,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Tseitlin13,
+  author    = {Ariel Tseitlin},
+  title     = {The Antifragile Organization},
+  journal   = queue,
+  volume    = {11},
+  number    = {6},
   year      = 2013,
   pages     = {20},
 }
@@ -51,6 +141,26 @@
   pages     = {20},
 }
 
+@article{DBLP:journals/queue/Cavage13,
+  author    = {Mark Cavage},
+  title     = {There's Just No Getting around It: You're Building a Distributed System},
+  journal   = queue,
+  volume    = {11},
+  number    = {4},
+  year      = 2013,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Desnoyers13,
+  author    = {Mathieu Desnoyers},
+  title     = {Proving the Correctness of Nonblocking Data Structures},
+  journal   = queue,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {30},
+}
+
 @article{DBLP:journals/queue/KumarNR13,
   author    = {Arun Kumar and
                Feng Niu and
@@ -59,6 +169,16 @@
   journal   = queue,
   volume    = {11},
   number    = {1},
+  year      = 2013,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/X13b,
+  author    = {},
+  title     = {Queue Portrait: Nicholas Zakas},
+  journal   = queue,
+  volume    = {11},
+  number    = {7},
   year      = 2013,
   pages     = {30},
 }
@@ -85,6 +205,27 @@
   pages     = {40},
 }
 
+@article{DBLP:journals/queue/HsuS13,
+  author    = {Bill Hsu and
+               Marc Sosnick-Pérez},
+  title     = {Realtime {GPU} Audio},
+  journal   = queue,
+  volume    = {11},
+  number    = {4},
+  year      = 2013,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Lameter13,
+  author    = {Christoph Lameter},
+  title     = {{NUMA} ({Non-Uniform} Memory Access): An Overview},
+  journal   = queue,
+  volume    = {11},
+  number    = {7},
+  year      = 2013,
+  pages     = {40},
+}
+
 @article{DBLP:journals/queue/Matsudaira13,
   author    = {Kate Matsudaira},
   title     = {Making the Mobile Web Faster},
@@ -93,6 +234,16 @@
   number    = {1},
   year      = 2013,
   pages     = {40},
+}
+
+@article{DBLP:journals/queue/Michael13,
+  author    = {Maged M. Michael},
+  title     = {The Balancing Act of Choosing Nonblocking Features},
+  journal   = queue,
+  volume    = {11},
+  number    = {7},
+  year      = 2013,
+  pages     = {50},
 }
 
 @article{DBLP:journals/queue/X13,
@@ -4039,7 +4190,7 @@
 }
 
 @article{DBLP:journals/queue/Jovanovic06,
-  author    = {Vladan Jovanovic},
+  author    = {Vladan M. Jovanovic},
   title     = {Review of "Refactoring Databases: Evolutionary Database Design by Scott Ambler and Pramodkumar Sadalage, " {Addison-Wesley} Professional, 2006, ISBN: 0321293533},
   journal   = queue,
   volume    = {4},

@@ -1010,6 +1010,751 @@
   pages     = {981-991},
 }
 
+@article{DBLP:journals/jsac/BasuGPLSY13,
+  author    = {Prithwish Basu and
+               Richard J. Gibbens and
+               Thomas F. La Porta and
+               Ching-Yung Lin and
+               Ananthram Swami and
+               Eiko Yoneki},
+  title     = {Guest Editorial: Network science},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {993-996},
+}
+
+@article{DBLP:journals/jsac/DinhT13,
+  author    = {Thang N. Dinh and
+               My T. Thai},
+  title     = {Community Detection in {Scale-Free} Networks: Approximation Algorithms for Maximizing Modularity},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {997-1006},
+}
+
+@article{DBLP:journals/jsac/SalehiR13,
+  author    = {Mostafa Salehi and
+               Hamid R. Rabiee},
+  title     = {A Measurement Framework for Directed Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1007-1016},
+}
+
+@article{DBLP:journals/jsac/MuraiRTW13,
+  author    = {Fabricio Murai and
+               Bruno F. Ribeiro and
+               Don Towsley and
+               Pinghui Wang},
+  title     = {On Set Size Distribution Estimation and the Characterization of Large Networks via Sampling},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1017-1025},
+}
+
+@article{DBLP:journals/jsac/WangKAA13,
+  author    = {Dong Wang and
+               Lance M. Kaplan and
+               Tarek F. Abdelzaher and
+               Charu C. Aggarwal},
+  title     = {On Credibility Estimation Tradeoffs in Assured Social Sensing},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1026-1037},
+}
+
+@article{DBLP:journals/jsac/YaganQZC13,
+  author    = {Osman Yagan and
+               Dajun Qian and
+               Junshan Zhang and
+               Douglas Cochran},
+  title     = {Conjoining Speeds up Information Diffusion in Overlaying {Social-Physical} Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1038-1048},
+}
+
+@article{DBLP:journals/jsac/WeiVPNFF13,
+  author    = {Xuetao Wei and
+               Nicholas Valler and
+               B. Aditya Prakash and
+               Iulian Neamtiu and
+               Michalis Faloutsos and
+               Christos Faloutsos},
+  title     = {Competing Memes Propagation on Networks: A Network Science Perspective},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1049-1060},
+}
+
+@article{DBLP:journals/jsac/ShiJJ13,
+  author    = {Guodong Shi and
+               Mikael Johansson and
+               Karl Henrik Johansson},
+  title     = {How Agreement and Disagreement Evolve over Random Dynamic Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1061-1071},
+}
+
+@article{DBLP:journals/jsac/LiSSZ13,
+  author    = {Lin Li and
+               Anna Scaglione and
+               Ananthram Swami and
+               Qing Zhao},
+  title     = {Consensus, Polarization and Clustering of Opinions in Social Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1072-1083},
+}
+
+@article{DBLP:journals/jsac/NguyenZ13,
+  author    = {Huy Nguyen and
+               Rong Zheng},
+  title     = {On Budgeted Influence Maximization in Social Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1084-1094},
+}
+
+@article{DBLP:journals/jsac/Varshney13,
+  author    = {Lav R. Varshney},
+  title     = {The Wiring Economy Principle for Designing Inference Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1095-1104},
+}
+
+@article{DBLP:journals/jsac/MontiMTL13,
+  author    = {Massimo Monti and
+               Thomas Meyer and
+               Christian F. Tschudin and
+               Marco Luise},
+  title     = {Stability and Sensitivity Analysis of {Traffic-Shaping} Algorithms Inspired by Chemical Engineering},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1105-1114},
+}
+
+@article{DBLP:journals/jsac/ZhangS13a,
+  author    = {Yu Zhang and
+               Mihaela van der Schaar},
+  title     = {Strategic Networks: Information Dissemination and Link Formation Among {Self-Interested} Agents},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1115-1123},
+}
+
+@article{DBLP:journals/jsac/YangAM13,
+  author    = {Shusen Yang and
+               Usman Adeel and
+               Julie A. McCann},
+  title     = {Selfish Mules: Social Profit Maximization in Sparse Sensornets using {Rationally-Selfish} Human Relays},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1124-1134},
+}
+
+@article{DBLP:journals/jsac/WeiZVMLL13,
+  author    = {Guiyi Wei and
+               Ping Zhu and
+               Athanasios V. Vasilakos and
+               Yuxin Mao and
+               Jun Luo and
+               Yun Ling},
+  title     = {Cooperation Dynamics on Collaborative Social Networks of Heterogeneous Population},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1135-1146},
+}
+
+@article{DBLP:journals/jsac/LiuLCS13,
+  author    = {Yujing Liu and
+               Xiapu Luo and
+               Rocky K. C. Chang and
+               Jinshu Su},
+  title     = {Characterizing {Inter-Domain} Rerouting by Betweenness Centrality after Disruptive Events},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1147-1157},
+}
+
+@article{DBLP:journals/jsac/BeckmanCHKMMPSV13,
+  author    = {Richard J. Beckman and
+               Karthik Channakeshava and
+               Fei Huang and
+               Junwhan Kim and
+               Achla Marathe and
+               Madhav V. Marathe and
+               Guanhong Pei and
+               Sudip Saha and
+               Anil Kumar S. Vullikanti},
+  title     = {Integrated {Multi-Network} Modeling Environment for Spectrum Management},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {6},
+  year      = 2013,
+  pages     = {1158-1168},
+}
+
+@article{DBLP:journals/jsac/GolmieSLYST13,
+  author    = {Nada Golmie and
+               Anna Scaglione and
+               Lutz Lampe and
+               Edmund Yeh and
+               Sean Smith and
+               Lang Tong},
+  title     = {Guest Editorial: Smart Grid Communications},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1169-1171},
+}
+
+@article{DBLP:journals/jsac/LinNE13,
+  author    = {Jing Lin and
+               Marcel Nassar and
+               Brian L. Evans},
+  title     = {Impulsive Noise Mitigation in Powerline Communications Using Sparse Bayesian Learning},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1172-1183},
+}
+
+@article{DBLP:journals/jsac/LiS13,
+  author    = {Xiao Li and
+               Anna Scaglione},
+  title     = {Robust Decentralized State Estimation and Tracking for Power Systems via Network Gossiping},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1184-1194},
+}
+
+@article{DBLP:journals/jsac/LeeGG13,
+  author    = {Eun-Kyu Lee and
+               Rajit Gadh and
+               Mario Gerla},
+  title     = {Energy Service Interface: Accessing to Customer Energy Resources for Smart Grid Interoperation},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1195-1204},
+}
+
+@article{DBLP:journals/jsac/GanuSAHSKSHK13,
+  author    = {Tanuja Ganu and
+               Deva P. Seetharam and
+               Vijay Arya and
+               Jagabondhu Hazra and
+               Deeksha Sinha and
+               Rajesh Kunnath and
+               Liyanage Chandratilake De Silva and
+               Saiful A. Husain and
+               Shivkumar Kalyanaraman},
+  title     = {nPlug: An Autonomous Peak Load Controller},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1205-1218},
+}
+
+@article{DBLP:journals/jsac/KimRSL13,
+  author    = {Byung-Gook Kim and
+               Shaolei Ren and
+               Mihaela van der Schaar and
+               Jang-Won Lee},
+  title     = {Bidirectional Energy Trading and Residential Load Scheduling with Electric Vehicles in the Smart Grid},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1219-1234},
+}
+
+@article{DBLP:journals/jsac/BayramMDG13,
+  author    = {I. Safak Bayram and
+               George Michailidis and
+               Michael Devetsikiotis and
+               Fabrizio Granelli},
+  title     = {Electric Power Allocation in a Network of Fast Charging Stations},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1235-1246},
+}
+
+@article{DBLP:journals/jsac/GkatzikisKS13,
+  author    = {Lazaros Gkatzikis and
+               Iordanis Koutsopoulos and
+               Theodoros Salonidis},
+  title     = {The Role of Aggregators in Smart Grid Demand Response Markets},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1247-1257},
+}
+
+@article{DBLP:journals/jsac/ChenSS13,
+  author    = {Shengbo Chen and
+               Ness B. Shroff and
+               Prasun Sinha},
+  title     = {Heterogeneous Delay Tolerant Task Scheduling and Energy Management in the Smart Grid with Renewable Energy},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1258-1267},
+}
+
+@article{DBLP:journals/jsac/QianZHW13,
+  author    = {Li Ping Qian and
+               Ying Jun (Angela) Zhang and
+               Jianwei Huang and
+               Yuan Wu},
+  title     = {Demand Response Management via {Real-Time} Electricity Price Control in Smart Grids},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1268-1280},
+}
+
+@article{DBLP:journals/jsac/MishraISKZ13,
+  author    = {Aditya Kumar Mishra and
+               David E. Irwin and
+               Prashant J. Shenoy and
+               Jim Kurose and
+               Ting Zhu},
+  title     = {GreenCharge: Managing {RenewableEnergy} in Smart Buildings},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1281-1293},
+}
+
+@article{DBLP:journals/jsac/KimT13,
+  author    = {Jinsub Kim and
+               Lang Tong},
+  title     = {On Topology Attack of a Smart Grid: Undetectable Attacks and Countermeasures},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1294-1305},
+}
+
+@article{DBLP:journals/jsac/OzayEYKP13,
+  author    = {Mete Ozay and
+               Inaki Esnaola and
+               Fatos T. Yarman-Vural and
+               Sanjeev R. Kulkarni and
+               H. Vincent Poor},
+  title     = {Sparse Attack Construction and State Estimation in the Smart Grid: Centralized and Distributed Models},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1306-1318},
+}
+
+@article{DBLP:journals/jsac/McLaughlinHFBZ13,
+  author    = {Stephen McLaughlin and
+               Brett Holbert and
+               Ahmed Fawaz and
+               Robin Berthier and
+               Saman A. Zonouz},
+  title     = {A {Multi-Sensor} Energy Theft Detection Framework for Advanced Metering Infrastructures},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1319-1330},
+}
+
+@article{DBLP:journals/jsac/TanGP13,
+  author    = {Onur Tan and
+               Deniz Gündüz and
+               H. Vincent Poor},
+  title     = {Increasing Smart Meter Privacy Through Energy Harvesting and Storage Devices},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1331-1341},
+}
+
+@article{DBLP:journals/jsac/RottondiVK13,
+  author    = {Cristina Rottondi and
+               Giacomo Verticale and
+               Christoph Krauss},
+  title     = {Distributed {Privacy-Preserving} Aggregation of Metering Data in Smart Grids},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1342-1354},
+}
+
+@article{DBLP:journals/jsac/KakhbodT13,
+  author    = {Ali Kakhbod and
+               Demosthenis Teneketzis},
+  title     = {Correction to "An Efficient Game Form for {Multi-Rate} Multicast Service Provisioning"},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {7},
+  year      = 2013,
+  pages     = {1355-1356},
+}
+
+@article{DBLP:journals/jsac/HuaBGRS13,
+  author    = {Yingbo Hua and
+               Daniel W. Bliss and
+               Saeed Gazor and
+               Yue Rong and
+               Youngchul Sung},
+  title     = {Guest Editorial: Theories and Methods for Advanced Wireless Relays - Issue {II}},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1361-1367},
+}
+
+@article{DBLP:journals/jsac/HernaezCS13,
+  author    = {Mikel Hernaez and
+               Pedro M. Crespo and
+               Javier Del Ser},
+  title     = {On the Design of a Novel Joint {Network-Channel} Coding Scheme for the Multiple Access Relay Channel},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1368-1378},
+}
+
+@article{DBLP:journals/jsac/ShiML13,
+  author    = {Xiaomeng Shi and
+               Muriel Médard and
+               Daniel Enrique Lucani},
+  title     = {Whether and Where to Code in the Wireless Packet Erasure Relay Channel},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1379-1389},
+}
+
+@article{DBLP:journals/jsac/DuXSM13,
+  author    = {Jinfeng Du and
+               Ming Xiao and
+               Mikael Skoglund and
+               Muriel Médard},
+  title     = {Wireless Multicast Relay Networks with {Limited-Rate} {Source-Conferencing}},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1390-1401},
+}
+
+@article{DBLP:journals/jsac/Azmi0YM13,
+  author    = {Marwan H. Azmi and
+               Jun Li and
+               Jinhong Yuan and
+               Robert A. Malaney},
+  title     = {{LDPC} Codes for Soft {Decode-and-Forward} in {Half-Duplex} Relay Channels},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1402-1413},
+}
+
+@article{DBLP:journals/jsac/KimC13,
+  author    = {Sang Wu Kim and
+               Young Jin Chun},
+  title     = {{Reliability-Rate} Tradeoff in {Large-Scale} Multiple Access Relay Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1414-1422},
+}
+
+@article{DBLP:journals/jsac/NagpalWJTN13,
+  author    = {Vinayak Nagpal and
+               I-Hsiang Wang and
+               Milos Jorgovanovic and
+               David Tse and
+               Borivoje Nikolic},
+  title     = {Coding and System Design for {Quantize-Map-and-Forward} Relaying},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1423-1435},
+}
+
+@article{DBLP:journals/jsac/Abou-Rjeily13,
+  author    = {Chadi Abou-Rjeily},
+  title     = {A {Symbol-by-Symbol} Cooperative Diversity Scheme for {Relay-Assisted} {UWB} Communications with {PPM}},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1436-1445},
+}
+
+@article{DBLP:journals/jsac/WuZY13,
+  author    = {Xiaofu Wu and
+               Chunming Zhao and
+               Xiaohu You},
+  title     = {Joint {LDPC} and {Physical-Layer} Network Coding for Asynchronous {Bi-Directional} Relaying},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1446-1454},
+}
+
+@article{DBLP:journals/jsac/Lehmann13,
+  author    = {Frederic Lehmann},
+  title     = {Joint Channel Estimation and Decoding for {Trellis-Coded} {MIMO} {Two-Way} Relay Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1455-1468},
+}
+
+@article{DBLP:journals/jsac/Huang0C13,
+  author    = {Chuan Huang and
+               Rui Zhang and
+               Shuguang Cui},
+  title     = {Throughput Maximization for the Gaussian Relay Channel with Energy Harvesting Constraints},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1469-1479},
+}
+
+@article{DBLP:journals/jsac/YanHW13,
+  author    = {Yang Yan and
+               Jianwei Huang and
+               Jing Wang},
+  title     = {Dynamic Bargaining for {Relay-Based} Cooperative Spectrum Sharing},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1480-1493},
+}
+
+@article{DBLP:journals/jsac/HoTS13,
+  author    = {Chin Keong Ho and
+               Peng Hui Tan and
+               Sumei Sun},
+  title     = {{Energy-Efficient} Relaying over Multiple Slots with Causal {CSI}},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1494-1505},
+}
+
+@article{DBLP:journals/jsac/SagduyuBG13,
+  author    = {Yalin Evren Sagduyu and
+               Randall A. Berry and
+               Dongning Guo},
+  title     = {Throughput and Stability for {Relay-Assisted} Wireless Broadcast with Network Coding},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1506-1516},
+}
+
+@article{DBLP:journals/jsac/AtapattuJJT13,
+  author    = {Saman Atapattu and
+               Yindi Jing and
+               Hai Jiang and
+               Chintha Tellambura},
+  title     = {Relay Selection and Performance Analysis in {Multiple-User} Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1517-1529},
+}
+
+@article{DBLP:journals/jsac/ZlatanovSP13,
+  author    = {Nikola Zlatanov and
+               Robert Schober and
+               Petar Popovski},
+  title     = {{Buffer-Aided} Relaying with Adaptive Link Selection},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1530-1542},
+}
+
+@article{DBLP:journals/jsac/ZaidiGMS13,
+  author    = {Syed Ali Raza Zaidi and
+               Mounir Ghogho and
+               Desmond C. McLernon and
+               Ananthram Swami},
+  title     = {Achievable Spatial Throughput in {Multi-Antenna} Cognitive Underlay Networks with {Multi-Hop} Relaying},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1543-1558},
+}
+
+@article{DBLP:journals/jsac/CastiglioneSNZ13,
+  author    = {Paolo Castiglione and
+               Stefano Savazzi and
+               Monica Nicoli and
+               Thomas Zemen},
+  title     = {Partner Selection in {Indoor-to-Outdoor} Cooperative Networks: An Experimental Study},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1559-1571},
+}
+
+@article{DBLP:journals/jsac/ZhangLW13,
+  author    = {Shengli Zhang and
+               Soung Chang Liew and
+               Hui Wang},
+  title     = {Blind Known Interference Cancellation},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1572-1582},
+}
+
+@article{DBLP:journals/jsac/LinLT13,
+  author    = {Cen Lin and
+               Yuan Liu and
+               Meixia Tao},
+  title     = {{Cross-Layer} Optimization of {Two-Way} Relaying for Statistical {QoS} Guarantees},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1583-1596},
+}
+
+@article{DBLP:journals/jsac/GuoO13a,
+  author    = {Weisi Guo and
+               Tim O'Farrell},
+  title     = {Relay Deployment in Cellular Networks: Planning and Optimization},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1597-1606},
+}
+
+@article{DBLP:journals/jsac/DevarKRK13,
+  author    = {SendilRamKumar Devar and
+               K. S. Karthik and
+               Bhaskar Ramamurthi and
+               R. David Koilpillai},
+  title     = {Downlink Throughput Enhancement of a Cellular Network using {Two-Hop} {User-Deployable} Indoor Relays},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1607-1617},
+}
+
+@article{DBLP:journals/jsac/FiroozC0L13,
+  author    = {Mohammad Hamed Firooz and
+               Zhiyong Chen and
+               Sumit Roy and
+               Hui Liu},
+  title     = {Wireless Network Coding via Modified 802.11 MAC/PHY: Design and Implementation on {SDR}},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1618-1628},
+}
+
+@article{DBLP:journals/jsac/NazirSASC13,
+  author    = {Sajid Nazir and
+               Vladimir Stankovic and
+               Hani Attar and
+               Lina Stankovic and
+               Samuel Cheng},
+  title     = {{Relay-Assisted} Rateless Layered Multiple Description Video Delivery},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1629-1637},
+}
+
+@article{DBLP:journals/jsac/AhmedKJ13,
+  author    = {Nadeem Ahmed and
+               Salil S. Kanhere and
+               Sanjay Jha},
+  title     = {Utilizing Link Characterization for Improving the Performance of Aerial Wireless Sensor Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {8},
+  year      = 2013,
+  pages     = {1639-1649},
+}
+
 @article{DBLP:journals/jsac/AttarBDPZ12,
   author    = {Alireza Attar and
                Tamer Basar and
@@ -14946,8 +15691,8 @@
 }
 
 @article{DBLP:journals/jsac/DasV06,
-  author    = {S. Das and
-               H. Viswanathan},
+  author    = {Suman Das and
+               Harish Viswanathan},
   title     = {A comparison of reverse link access schemes for next-generation cellular systems},
   journal   = ieeesac,
   volume    = {24},
@@ -15151,7 +15896,7 @@
 }
 
 @article{DBLP:journals/jsac/KokkalisMKK06,
-  author    = {N. V. Kokkalis and
+  author    = {Nikos V. Kokkalis and
                P. Takis Mathiopoulos and
                George K. Karagiannidis and
                Christos S. Koukourlis},
@@ -15432,7 +16177,7 @@
 
 @article{DBLP:journals/jsac/GoemansLMT06,
   author    = {Michel X. Goemans and
-               Li Li and
+               Erran L. Li and
                Vahab S. Mirrokni and
                Marina Thottan},
   title     = {Market sharing games applied to content distribution in ad hoc networks},
@@ -16245,7 +16990,7 @@
 
 @article{DBLP:journals/jsac/ZhaoXK06,
   author    = {Qi Zhao and
-               Jun Xu and
+               Jun (Jim) Xu and
                Abhishek Kumar},
   title     = {Detection of Super Sources and Destinations in {High-Speed} Networks: Algorithms, Analysis and Evaluation},
   journal   = ieeesac,
@@ -17174,7 +17919,7 @@
 }
 
 @article{DBLP:journals/jsac/LiBCG05,
-  author    = {Li Li and
+  author    = {Erran L. Li and
                Milind M. Buddhikot and
                Chandra Chekuri and
                Katherine Guo},
@@ -17595,7 +18340,7 @@
 }
 
 @article{DBLP:journals/jsac/WanCK05,
-  author    = {C.-Y. Wan and
+  author    = {Chieh-Yih Wan and
                Andrew T. Campbell and
                Lakshman Krishnamurthy},
   title     = {Pump-slowly, fetch-quickly (PSFQ): a reliable transport protocol for sensor networks},
@@ -18007,7 +18752,7 @@
                H. Nakamura and
                K. Kanamoto and
                Shunsuke Ohkouchi and
-               Y. Watanabe and
+               Yoshinori Watanabe and
                K. Inoue and
                Kiyoshi Asakawa},
   title     = {Fabrication and characterization of photonic crystal-based symmetric {Mach-Zehnder} (PC-SMZ) structures based on {GaAs} membrane slab waveguides},
@@ -19331,7 +20076,7 @@
 }
 
 @article{DBLP:journals/jsac/XuKY04,
-  author    = {Jun Xu and
+  author    = {Jun (Jim) Xu and
                Abhishek Kumar and
                Xingxing Yu},
   title     = {On the fundamental tradeoffs between routing table size and network diameter in peer-to-peer networks},
@@ -19483,7 +20228,7 @@
 
 @article{DBLP:journals/jsac/HowarthISC04,
   author    = {Michael P. Howarth and
-               S. Iyengar and
+               Sunil Iyengar and
                Zhili Sun and
                Haitham S. Cruickshank},
   title     = {Dynamics of key management in secure satellite multicast},
@@ -20315,7 +21060,7 @@
 }
 
 @article{DBLP:journals/jsac/Brayer04,
-  author    = {K. Brayer},
+  author    = {Kenneth Brayer},
   title     = {Achieving timely message delivery quality-of-service in fixed and variable connectivity distributed routing networks},
   journal   = ieeesac,
   volume    = {22},
@@ -22699,7 +23444,7 @@
 }
 
 @article{DBLP:journals/jsac/WhiteRSK03,
-  author    = {I. M. White and
+  author    = {Ian M. White and
                Matthew S. Rogge and
                K. Shrikhande and
                Leonid G. Kazovsky},
@@ -23257,7 +24002,7 @@
 @article{DBLP:journals/jsac/WakanaT01,
   author    = {Huan-Bang Li and
                Hiromitsu Wakana and
-               M. Tanaka},
+               Masato Tanaka},
   title     = {Block-coded modulation and multiple block-coded modulation with Viterbi decoding for fading channels},
   journal   = ieeesac,
   volume    = {19},
@@ -23368,7 +24113,7 @@
 }
 
 @article{DBLP:journals/jsac/BloghCH01,
-  author    = {J. S. Blogh and
+  author    = {Jonathan S. Blogh and
                Peter J. Cherriman and
                Lajos Hanzo},
   title     = {Adaptive antenna array assisted dynamic channel allocation techniques},
@@ -23380,7 +24125,7 @@
 }
 
 @article{DBLP:journals/jsac/BloghCH01a,
-  author    = {J. S. Blogh and
+  author    = {Jonathan S. Blogh and
                Peter J. Cherriman and
                Lajos Hanzo},
   title     = {Dynamic channel allocation techniques using adaptive modulation and adaptive antennas},
@@ -23442,7 +24187,7 @@
 @article{DBLP:journals/jsac/FrigonLC01,
   author    = {Jean-François Frigon and
                Victor C. M. Leung and
-               H. Chan Bun Chan},
+               Henry Chan Bun Chan},
   title     = {Dynamic reservation {TDMA} protocol for wireless {ATM} networks},
   journal   = ieeesac,
   volume    = {19},
@@ -27165,7 +27910,7 @@
 }
 
 @article{DBLP:journals/jsac/TanakaHSA00,
-  author    = {S. Tanaka and
+  author    = {Shinya Tanaka and
                Atsushi Harada and
                Mamoru Sawahashi and
                Fumiyuki Adachi},
@@ -27395,9 +28140,9 @@
 }
 
 @article{DBLP:journals/jsac/BalachandranNV00,
-  author    = {K. Balachandran and
-               S. Nanda and
-               S. Vitebsky},
+  author    = {Krishna Balachandran and
+               Sanjiv Nanda and
+               Stanislav Vitebskiy},
   title     = {Design of a medium access control feedback mechanism for cellular {TDMA} packet data systems},
   journal   = ieeesac,
   volume    = {18},
@@ -27682,7 +28427,7 @@
 
 @article{DBLP:journals/jsac/ShrikhandeWWGRFAK00,
   author    = {K. Shrikhande and
-               I. M. White and
+               Ian M. White and
                D. Wonglumsom and
                S. M. Gemelos and
                Matthew S. Rogge and
@@ -29211,7 +29956,7 @@
 }
 
 @article{DBLP:journals/jsac/KoshyS97,
-  author    = {B. J. Koshy and
+  author    = {B. John Koshy and
                P. M. Shankar},
   title     = {Efficient Modeling and Evaluation of {Fiber-Fed} Microcellular Networks in a Land Mobile Channel Using a {GMSK} Modem Scheme},
   journal   = ieeesac,
@@ -32109,7 +32854,7 @@
 
 @article{DBLP:journals/jsac/KrinskyHL95,
   author    = {D. M. Krinsky and
-               A. H. Haddad and
+               Abraham H. Haddad and
                C. C. Lee},
   title     = {An Adaptive {Direct-Sequence} {Spread-Spectrum} Receiver for Burst Type Interference},
   journal   = ieeesac,
@@ -32524,7 +33269,7 @@
 }
 
 @article{DBLP:journals/jsac/KwakL95,
-  author    = {Kyung S. Kwak and
+  author    = {Kyung Sup Kwak and
                Kwang Jae Lim},
   title     = {A Modified {PDAMA} Protocol for Mobile Satellite Communication Systems},
   journal   = ieeesac,
@@ -32695,7 +33440,7 @@
 }
 
 @article{DBLP:journals/jsac/Gagliardi95,
-  author    = {R. M. Gagliardi},
+  author    = {Robert M. Gagliardi},
   title     = {{Pulse-Coded} Multiple Access in Space Optical Communications},
   journal   = ieeesac,
   volume    = {13},
@@ -35643,7 +36388,7 @@
 }
 
 @article{DBLP:journals/jsac/Abramson92,
-  author    = {Norman Abramson},
+  author    = {Norman M. Abramson},
   title     = {Fundamentals of Packet Multiple Access for Satellite Networks},
   journal   = ieeesac,
   volume    = {10},

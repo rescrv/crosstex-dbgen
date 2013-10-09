@@ -10920,7 +10920,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/DijkG92,
-  author    = {G. J. W. van Dijk and
+  author    = {Gerardus Johannes Wichardus van Dijk and
                M. J. van Gils},
   title     = {Efficient Process Migration in the {EMPS} Multiprocessor System},
   booktitle = ipps,
@@ -12177,7 +12177,7 @@
   author    = {Lakshman Prasad and
                S. Sitharama Iyengar and
                Rangasami L. Kashyap and
-               R. N. Madan},
+               Rabinder N. Madan},
   title     = {Functional Characterization of Sensor Integration in Distributed Sensor Networks},
   booktitle = ipps,
   year      = 1991,

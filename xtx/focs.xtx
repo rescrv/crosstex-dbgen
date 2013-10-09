@@ -4955,7 +4955,7 @@
 
 @inproceedings{DBLP:conf/focs/Valiant06,
   author    = {Leslie G. Valiant},
-  title     = {Accidental Algorthims},
+  title     = {Accidental Algorithms},
   booktitle = focs,
   year      = 2006,
   pages     = {509-517},
@@ -24622,7 +24622,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/AblowYT67,
-  author    = {C. M. Ablow and
+  author    = {Clarence M. Ablow and
                Michael Yoeli and
                James Turner},
   title     = {Irreducible Decompositions of Transformation Graphs by Assignment Techniques},
@@ -24710,7 +24710,7 @@
 
 @inproceedings{DBLP:conf/focs/YoeliA66,
   author    = {Michael Yoeli and
-               C. M. Ablow},
+               Clarence M. Ablow},
   title     = {Subdirect Decompositions of Transformation Graphs},
   booktitle = focs,
   year      = 1966,
@@ -25530,7 +25530,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/Hazeltine62,
-  author    = {B. Hazeltine},
+  author    = {Barrett Hazeltine},
   title     = {A procedure for obtaining an economical asynchronous sequential circuit directly from a set of regular expressions},
   booktitle = focs,
   year      = 1962,

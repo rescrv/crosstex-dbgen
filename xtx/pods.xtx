@@ -1,5 +1,375 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sigmod/Rupprecht13,
+  author    = {Lukas Rupprecht},
+  title     = {Exploiting in-network processing for big data management},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/pods/CalvaneseGM13,
+  author    = {Diego Calvanese and
+               Giuseppe De Giacomo and
+               Marco Montali},
+  title     = {Foundations of data-aware process analysis: a database theory perspective},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/sigmod/Du13,
+  author    = {Jiang Du},
+  title     = {DeepSea: self-adaptive data partitioning and replication in scalable distributed data systems},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/sigmod/Heimel13,
+  author    = {Max Heimel},
+  title     = {Designing a database system for modern processing architectures},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/pods/KimelfeldK13,
+  author    = {Benny Kimelfeld and
+               Phokion G. Kolaitis},
+  title     = {The complexity of mining maximal frequent subgraphs},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/sigmod/Ciucanu13,
+  author    = {Radu Ciucanu},
+  title     = {Learning queries for relational, semi-structured, and graph databases},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/sigmod/Kargin13,
+  author    = {Yagiz Kargin},
+  title     = {Turning scientists into data explorers},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/pods/Gottlob13,
+  author    = {Georg Gottlob},
+  title     = {Deciding monotone duality and identifying frequent itemsets in quadratic logspace},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {25-36},
+}
+
+@inproceedings{DBLP:conf/sigmod/Guille13,
+  author    = {Adrien Guille},
+  title     = {Information diffusion in online social networks},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/sigmod/Das13,
+  author    = {Mahashweta Das},
+  title     = {Exploratory mining of collaborative social content},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/pods/FaginKRV13,
+  author    = {Ronald Fagin and
+               Benny Kimelfeld and
+               Frederick Reiss and
+               Stijn Vansummeren},
+  title     = {Spanners: a formal framework for information extraction},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {37-48},
+}
+
+@inproceedings{DBLP:conf/sigmod/Hoffart13,
+  author    = {Johannes Hoffart},
+  title     = {Discovering and disambiguating named entities in text},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/sigmod/Tsatsanifos13,
+  author    = {George Tsatsanifos},
+  title     = {The tantalizing new prospect of index-based diversified retrieval},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {49-54},
+}
+
+@inproceedings{DBLP:conf/pods/AbouziedAPHS13,
+  author    = {Azza Abouzied and
+               Dana Angluin and
+               Christos H. Papadimitriou and
+               Joseph M. Hellerstein and
+               Avi Silberschatz},
+  title     = {Learning and verifying quantified boolean queries by example},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {49-60},
+}
+
+@inproceedings{DBLP:conf/sigmod/Song13,
+  author    = {Jingkuan Song},
+  title     = {Effective hashing for large-scale multimedia search},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {55-60},
+}
+
+@inproceedings{DBLP:conf/pods/BenediktMG13,
+  author    = {Michael Benedikt and
+               Tova Milo and
+               Dirk Van Gucht},
+  title     = {The {ACM} {PODS} Alberto O. Mendelzon test-of-time award 2013},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {61-62},
+}
+
+@inproceedings{DBLP:conf/sigmod/Tang13,
+  author    = {Mingwang Tang},
+  title     = {Efficient and scalable monitoring and summarization of large probabilistic data},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {61-66},
+}
+
+@inproceedings{DBLP:conf/pods/BojanczykST13,
+  author    = {Mikolaj Bojanczyk and
+               Luc Segoufin and
+               Szymon Torunczyk},
+  title     = {Verification of database-driven systems via amalgamation},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {63-74},
+}
+
+@inproceedings{DBLP:conf/sigmod/Seufert13,
+  author    = {Stephan Seufert},
+  title     = {RDF-4G: algorithmic building blocks for large-scale graph analytics},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {67-72},
+}
+
+@inproceedings{DBLP:conf/pods/GheerbrantLS13,
+  author    = {Amélie Gheerbrant and
+               Leonid Libkin and
+               Cristina Sirangelo},
+  title     = {When is naive evaluation possible?},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {75-86},
+}
+
+@inproceedings{DBLP:conf/pods/Indyk13,
+  author    = {Piotr Indyk},
+  title     = {Sketching via hashing: from heavy hitters to compressed sensing to sparse fourier transform},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {87-90},
+}
+
+@inproceedings{DBLP:conf/pods/AbiteboulV13,
+  author    = {Serge Abiteboul and
+               Victor Vianu},
+  title     = {Collaborative data-driven workflows: think global, act local},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {91-102},
+}
+
+@inproceedings{DBLP:conf/pods/Kejlberg-RasmussenTTTY13,
+  author    = {Casper Kejlberg-Rasmussen and
+               Yufei Tao and
+               Konstantinos Tsakalidis and
+               Kostas Tsichlas and
+               Jeonghun Yoon},
+  title     = {I/O-efficient planar range skyline and attrition priority queues},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {103-114},
+}
+
+@inproceedings{DBLP:conf/pods/AgarwalAHPYZ13,
+  author    = {Pankaj K. Agarwal and
+               Boris Aronov and
+               Sariel Har-Peled and
+               Jeff M. Phillips and
+               Ke Yi and
+               Wuzhou Zhang},
+  title     = {Nearest neighbor searching under uncertainty {II}},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {115-126},
+}
+
+@inproceedings{DBLP:conf/pods/GogaczM13,
+  author    = {Tomasz Gogacz and
+               Jerzy Marcinkowski},
+  title     = {On the BDD/{FC} conjecture},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {127-138},
+}
+
+@inproceedings{DBLP:conf/pods/AmelootBW13,
+  author    = {Tom J. Ameloot and
+               Jan Van den Bussche and
+               Emmanuel Waller},
+  title     = {On the expressive power of update primitives},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {139-150},
+}
+
+@inproceedings{DBLP:conf/pods/RudolphK13,
+  author    = {Sebastian Rudolph and
+               Markus Krötzsch},
+  title     = {Flag & check: data access with monadically defined queries},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {151-162},
+}
+
+@inproceedings{DBLP:conf/pods/HaririCGDM13,
+  author    = {Babak Bagheri Hariri and
+               Diego Calvanese and
+               Giuseppe De Giacomo and
+               Alin Deutsch and
+               Marco Montali},
+  title     = {Verification of relational data-centric dynamic systems with external services},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {163-174},
+}
+
+@inproceedings{DBLP:conf/pods/Baeza13,
+  author    = {Pablo Barceló Baeza},
+  title     = {Querying graph databases},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {175-188},
+}
+
+@inproceedings{DBLP:conf/pods/Wijsen13,
+  author    = {Jef Wijsen},
+  title     = {Charting the tractability frontier of certain conjunctive query answering},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {189-200},
+}
+
+@inproceedings{DBLP:conf/pods/LibkinRV13,
+  author    = {Leonid Libkin and
+               Juan L. Reutter and
+               Domagoj Vrgoc},
+  title     = {Trial for RDF: adapting graph query languages for {RDF} data},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {201-212},
+}
+
+@inproceedings{DBLP:conf/pods/BienvenuCLW13,
+  author    = {Meghyn Bienvenu and
+               Balder ten Cate and
+               Carsten Lutz and
+               Frank Wolter},
+  title     = {Ontology-based data access: a study through disjunctive datalog, CSP, and {MMSNP}},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {213-224},
+}
+
+@inproceedings{DBLP:conf/pods/HernichKLG13,
+  author    = {André Hernich and
+               Clemens Kupke and
+               Thomas Lukasiewicz and
+               Georg Gottlob},
+  title     = {Well-founded semantics for extended datalog and ontological reasoning},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {225-236},
+}
+
+@inproceedings{DBLP:conf/pods/BaezaRV13,
+  author    = {Pablo Barceló Baeza and
+               Miguel Romero and
+               Moshe Y. Vardi},
+  title     = {Semantic acyclicity on graph databases},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {237-248},
+}
+
+@inproceedings{DBLP:conf/pods/Figueira13,
+  author    = {Diego Figueira},
+  title     = {On {XPath} with transitive axes and data tests},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {249-260},
+}
+
+@inproceedings{DBLP:conf/pods/BaganBG13,
+  author    = {Guillaume Bagan and
+               Angela Bonifati and
+               Benoît Groz},
+  title     = {A trichotomy for regular simple path queries on graphs},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {261-272},
+}
+
+@inproceedings{DBLP:conf/pods/BeameKS13,
+  author    = {Paul Beame and
+               Paraschos Koutris and
+               Dan Suciu},
+  title     = {Communication steps for parallel query processing},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {273-284},
+}
+
+@inproceedings{DBLP:conf/pods/Wong13,
+  author    = {Limsoon Wong},
+  title     = {A dichotomy in the intensional expressive power of nested relational calculi augmented with aggregate functions and a powerset operator},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {285-296},
+}
+
+@inproceedings{DBLP:conf/pods/KazanaS13,
+  author    = {Wojciech Kazana and
+               Luc Segoufin},
+  title     = {Enumeration of first-order queries on classes of structures with bounded expansion},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {297-308},
+}
+
+@inproceedings{DBLP:conf/pods/ChenM13,
+  author    = {Hubie Chen and
+               Moritz Müller},
+  title     = {The fine classification of conjunctive queries and parameterized logarithmic space complexity},
+  booktitle = pods,
+  year      = 2013,
+  pages     = {309-320},
+}
+
 @inproceedings{DBLP:conf/sigmod/Keogh12,
   author    = {Eamonn J. Keogh},
   title     = {Getting your acceptance rate to 80%: a checklist for publishing},
@@ -2177,7 +2547,7 @@
   author    = {Qi Zhao and
                Mitsunori Ogihara and
                Haixun Wang and
-               Jun Xu},
+               Jun (Jim) Xu},
   title     = {Finding global icebergs over distributed data sets},
   booktitle = pods,
   year      = 2006,

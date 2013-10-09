@@ -1339,6 +1339,996 @@
   pages     = {1256-1266},
 }
 
+@article{DBLP:journals/tpds/ChenSSLH13,
+  author    = {Hao Chen and
+               Lin Shi and
+               Jianhua Sun and
+               Kenli Li and
+               Ligang He},
+  title     = {A Fast {RPC} System for Virtual Machines},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1267-1276},
+}
+
+@article{DBLP:journals/tpds/QianLNN13,
+  author    = {Chen Qian and
+               Yunhuai Liu and
+               Raymond Hoilun Ngan and
+               Lionel M. Ni},
+  title     = {ASAP: Scalable Collision Arbitration for Large {RFID} Systems},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1277-1288},
+}
+
+@article{DBLP:journals/tpds/WangWH13,
+  author    = {Lu Wang and
+               Kaishun Wu and
+               Mounir Hamdi},
+  title     = {Attached-RTS: Eliminating an Exposed Terminal Problem in Wireless Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1289-1299},
+}
+
+@article{DBLP:journals/tpds/WuXYCLN13,
+  author    = {Kaishun Wu and
+               Jiang Xiao and
+               Youwen Yi and
+               Dihu Chen and
+               Xiaonan Luo and
+               Lionel M. Ni},
+  title     = {{CSI-Based} Indoor Localization},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1300-1309},
+}
+
+@article{DBLP:journals/tpds/0003JLZ13,
+  author    = {Yu Gu and
+               Yusheng Ji and
+               Jie Li and
+               Baohua Zhao},
+  title     = {ESWC: Efficient Scheduling for the Mobile Sink in Wireless Sensor Networks with Delay Constraint},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1310-1320},
+}
+
+@article{DBLP:journals/tpds/LiuNZHXY13,
+  author    = {Hong Liu and
+               Huansheng Ning and
+               Yan Zhang and
+               Daojing He and
+               Qingxu Xiong and
+               Laurence T. Yang},
+  title     = {{Grouping-Proofs-Based} Authentication Protocol for Distributed {RFID} Systems},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1321-1330},
+}
+
+@article{DBLP:journals/tpds/TsakalozosRD13,
+  author    = {Konstantinos Tsakalozos and
+               Mema Roussopoulos and
+               Alex Delis},
+  title     = {{Hint-Based} Execution of Workloads in Clouds with Nefeli},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1331-1340},
+}
+
+@article{DBLP:journals/tpds/LiMSS13,
+  author    = {Xu Li and
+               Nathalie Mitton and
+               Isabelle Simplot-Ryl and
+               David Simplot-Ryl},
+  title     = {Hypocomb: {Bounded-Degree} Localized Geometric Planar Graphs for Wireless Ad Hoc Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1341-1354},
+}
+
+@article{DBLP:journals/tpds/GuoHLYLW13,
+  author    = {Deke Guo and
+               Yuan He and
+               Yunhao Liu and
+               Panlong Yang and
+               Xiang-Yang Li and
+               Xin Wang},
+  title     = {Link Scheduling for Exploiting Spatial Reuse in Multihop {MIMO} Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1355-1365},
+}
+
+@article{DBLP:journals/tpds/BeloglazovB13,
+  author    = {Anton Beloglazov and
+               Rajkumar Buyya},
+  title     = {Managing Overloaded Hosts for Dynamic Consolidation of Virtual Machines in Cloud Data Centers under Quality of Service Constraints},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1366-1379},
+}
+
+@article{DBLP:journals/tpds/WangL13,
+  author    = {Hao Wang and
+               Bill Lin},
+  title     = {{Per-Flow} Queue Management with Succinct Priority Indexing Structures for High Speed Packet Scheduling},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1380-1389},
+}
+
+@article{DBLP:journals/tpds/ZhuLLZ13,
+  author    = {Yanmin Zhu and
+               Xuemei Liu and
+               Minglu Li and
+               Qian Zhang},
+  title     = {POVA: Traffic Light Sensing with Probe Vehicles},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1390-1400},
+}
+
+@article{DBLP:journals/tpds/XieTXH13,
+  author    = {Yi Xie and
+               S. Tang and
+               Y. Xiang and
+               J. Hu},
+  title     = {Resisting Web {Proxy-Based} {HTTP} Attacks by Temporal and Spatial Locality Behavior},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1401-1410},
+}
+
+@article{DBLP:journals/tpds/SammanHG13,
+  author    = {Faizal Arya Samman and
+               Thomas Hollstein and
+               Manfred Glesner},
+  title     = {Runtime Contention and {Bandwidth-Aware} Adaptive Routing Selection Strategies for {Networks-on-Chip}},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1411-1421},
+}
+
+@article{DBLP:journals/tpds/ElwhishiHNS13a,
+  author    = {Ahmed Elwhishi and
+               Pin-Han Ho and
+               K. Naik and
+               Basem Shihada},
+  title     = {{Self-Adaptive} Contention Aware Routing Protocol for Intermittently Connected Mobile Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1422-1435},
+}
+
+@article{DBLP:journals/tpds/WangLLLY13,
+  author    = {Jiliang Wang and
+               Zhenjiang Li and
+               Mo Li and
+               Yunhao Liu and
+               Zheng Yang},
+  title     = {Sensor Network Navigation without Locations},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1436-1446},
+}
+
+@article{DBLP:journals/tpds/ZhuravlevSBFP13,
+  author    = {Sergey Zhuravlev and
+               Juan Carlos Saez and
+               Sergey Blagodurov and
+               Alexandra Fedorova and
+               Manuel Prieto},
+  title     = {Survey of {Energy-Cognizant} Scheduling Techniques},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1447-1464},
+}
+
+@article{DBLP:journals/tpds/Fajardo-DelgadoFB13,
+  author    = {Daniel Fajardo-Delgado and
+               José Alberto Fernández-Zepeda and
+               Anu G. Bourgeois},
+  title     = {The Bodyguard Allocation Problem},
+  journal   = tpds,
+  volume    = {24},
+  number    = {7},
+  year      = 2013,
+  pages     = {1465-1478},
+}
+
+@article{DBLP:journals/tpds/ChenC13,
+  author    = {Chi-Yeh Chen and
+               Chih-Ping Chu},
+  title     = {A 3.42-Approximation Algorithm for Scheduling Malleable Tasks under Precedence Constraints},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1479-1488},
+}
+
+@article{DBLP:journals/tpds/PaternaAB13,
+  author    = {Francesco Paterna and
+               Andrea Acquaviva and
+               Luca Benini},
+  title     = {{Aging-Aware} {Energy-Efficient} Workload Allocation for Mobile Multimedia Platforms},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1489-1499},
+}
+
+@article{DBLP:journals/tpds/WanHHCLX13,
+  author    = {Shenggang Wan and
+               Xubin He and
+               Jianzhong Huang and
+               Qiang Cao and
+               Shiyi Li and
+               Changsheng Xie},
+  title     = {An Efficient {Penalty-Aware} Cache to Improve the Performance of {Parity-Based} Disk Arrays under Faulty Conditions},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1500-1513},
+}
+
+@article{DBLP:journals/tpds/ZhaoX13,
+  author    = {Weiyi Zhao and
+               Jiang Xie},
+  title     = {DoMaIN: A Novel Dynamic Location Management Solution for {Internet-Based} Infrastructure Wireless Mesh Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1514-1524},
+}
+
+@article{DBLP:journals/tpds/ChouIH13,
+  author    = {Chun Tung Chou and
+               Aleksandar Ignjatovic and
+               Wen Hu},
+  title     = {Efficient Computation of Robust Average of Compressive Sensing Data in Wireless Sensor Networks in the Presence of Sensor Faults},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1525-1534},
+}
+
+@article{DBLP:journals/tpds/ChampionYZDXL13,
+  author    = {Adam C. Champion and
+               Zhimin Yang and
+               Boying Zhang and
+               Jiangpeng Dai and
+               Dong Xuan and
+               Du Li},
+  title     = {E-SmallTalker: A Distributed Mobile System for Social Networking in Physical Proximity},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1535-1545},
+}
+
+@article{DBLP:journals/tpds/Yang0CML13,
+  author    = {Yiling Yang and
+               Yu Huang and
+               Jiannong Cao and
+               Xiaoxing Ma and
+               Jian Lu},
+  title     = {Formal Specification and Runtime Detection of Dynamic Properties in Asynchronous Pervasive Computing Environments},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1546-1555},
+}
+
+@article{DBLP:journals/tpds/Al-KiswanyGR13,
+  author    = {Samer Al-Kiswany and
+               Abdullah Gharaibeh and
+               Matei Ripeanu},
+  title     = {{GPUs} as Storage System Accelerators},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1556-1566},
+}
+
+@article{DBLP:journals/tpds/XuSYY13,
+  author    = {Bin Xu and
+               Guodong Sun and
+               Ran Yu and
+               Zheng Yang},
+  title     = {{High-Accuracy} {TDOA-Based} Localization without Time Synchronization},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1567-1576},
+}
+
+@article{DBLP:journals/tpds/WangWXCLC13,
+  author    = {Xiaodong Wang and
+               Xiaorui Wang and
+               Guoliang Xing and
+               Jinzhu Chen and
+               Cheng-Xian Lin and
+               Yixin Chen},
+  title     = {Intelligent Sensor Placement for Hot Server Detection in Data Centers},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1577-1588},
+}
+
+@article{DBLP:journals/tpds/PapadakisFMR13,
+  author    = {Harris Papadakis and
+               Paraskevi Fragopoulou and
+               Evangelos P. Markatos and
+               Mema Roussopoulos},
+  title     = {ITA: Innocuous Topology Awareness for Unstructured P2P Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1589-1601},
+}
+
+@article{DBLP:journals/tpds/KohlhoffPA13,
+  author    = {Kai J. Kohlhoff and
+               Vijay S. Pande and
+               Russ B. Altman},
+  title     = {{K-Means} for Parallel Architectures Using {All-Prefix-Sum} Sorting and Updating Steps},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1602-1612},
+}
+
+@article{DBLP:journals/tpds/KurzakLFD13,
+  author    = {Jakub Kurzak and
+               Piotr Luszczek and
+               Mathieu Faverge and
+               Jack Dongarra},
+  title     = {{LU} Factorization with Partial Pivoting for a Multicore System with Accelerators},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1613-1621},
+}
+
+@article{DBLP:journals/tpds/HuangZX13,
+  author    = {Zhibin Huang and
+               Mingfa Zhu and
+               Limin Xiao},
+  title     = {LvtPPP: {Live-Time} Protected Pseudopartitioning of Multicore Shared Caches},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1622-1632},
+}
+
+@article{DBLP:journals/tpds/WenZZXZJ13,
+  author    = {Sheng Wen and
+               Wei Zhou and
+               Jun Zhang and
+               Yang Xiang and
+               Wanlei Zhou and
+               Weijia Jia},
+  title     = {Modeling Propagation Dynamics of Social Network Worms},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1633-1643},
+}
+
+@article{DBLP:journals/tpds/Tse13,
+  author    = {Savio S. H. Tse},
+  title     = {Online Balancing Two Independent Criteria upon Placements and Deletions},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1644-1650},
+}
+
+@article{DBLP:journals/tpds/GregoriLM13,
+  author    = {Enrico Gregori and
+               Luciano Lenzini and
+               Simone Mainardi},
+  title     = {Parallel $(k)$-Clique Community Detection on {Large-Scale} Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1651-1660},
+}
+
+@article{DBLP:journals/tpds/XieHHC13,
+  author    = {Miao Xie and
+               Jiankun Hu and
+               Song Han and
+               Hsiao-Hwa Chen},
+  title     = {Scalable Hypergrid {k-NN-Based} Online Anomaly Detection in Wireless Sensor Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1661-1670},
+}
+
+@article{DBLP:journals/tpds/JiangZW13,
+  author    = {Yichuan Jiang and
+               Yifeng Zhou and
+               Wanyuan Wang},
+  title     = {Task Allocation for Undependable Multiagent Systems in Social Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1671-1681},
+}
+
+@article{DBLP:journals/tpds/CaiL13,
+  author    = {Qing-Chao Cai and
+               Kwok-Tung Lo},
+  title     = {Two Blocks Are Enough: On the Feasibility of Using Network Coding to Ameliorate the Content Availability of {BitTorrent} Swarms},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1682-1694},
+}
+
+@article{DBLP:journals/tpds/WangW13,
+  author    = {Yefu Wang and
+               Xiaorui Wang},
+  title     = {Virtual Batching: Request Batching for Server Energy Conservation in Virtualized Data Centers},
+  journal   = tpds,
+  volume    = {24},
+  number    = {8},
+  year      = 2013,
+  pages     = {1695-1705},
+}
+
+@article{DBLP:journals/tpds/WangY013,
+  author    = {Yunsheng Wang and
+               Wei-Shih Yang and
+               Jie Wu},
+  title     = {Analysis of a {Hypercube-Based} Social Feature Multipath Routing in Delay Tolerant Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1706-1716},
+}
+
+@article{DBLP:journals/tpds/YangJ13,
+  author    = {Kan Yang and
+               Xiaohua Jia},
+  title     = {An Efficient and Secure Dynamic Auditing Protocol for Data Storage in Cloud Computing},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1717-1726},
+}
+
+@article{DBLP:journals/tpds/TangYLG13,
+  author    = {Bin Tang and
+               Baoliu Ye and
+               Sanglu Lu and
+               Song Guo},
+  title     = {{Coding-Aware} {Proportional-Fair} Scheduling in {OFDMA} Relay Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1727-1740},
+}
+
+@article{DBLP:journals/tpds/LiQKRZXD13,
+  author    = {Yantao Li and
+               Xin Qi and
+               Matthew Keally and
+               Zhen Ren and
+               Gang Zhou and
+               Di Xiao and
+               Shaojiang Deng},
+  title     = {Communication Energy Modeling and Optimization through Joint Packet Size Analysis of {BSN} and {WiFi} Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1741-1751},
+}
+
+@article{DBLP:journals/tpds/BandaraJ13,
+  author    = {H. M. N. Dilum Bandara and
+               Anura P. Jayasumana},
+  title     = {{Community-Based} Caching for Enhanced Lookup Performance in P2P Systems},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1752-1762},
+}
+
+@article{DBLP:journals/tpds/LiuJBTWLC13,
+  author    = {Wenping Liu and
+               Hongbo Jiang and
+               Xiang Bai and
+               Guang Tan and
+               Chonggang Wang and
+               Wenyu Liu and
+               Kechao Cai},
+  title     = {Distance {Transform-Based} Skeleton Extraction and Its Applications in Sensor Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1763-1772},
+}
+
+@article{DBLP:journals/tpds/YiLW13,
+  author    = {Xun Yi and
+               San Ling and
+               Huaxiong Wang},
+  title     = {Efficient {Two-Server} {Password-Only} Authenticated Key Exchange},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1773-1782},
+}
+
+@article{DBLP:journals/tpds/LiuCLD13,
+  author    = {Hai Liu and
+               Xiaowen Chu and
+               Yiu-Wing Leung and
+               Rui Du},
+  title     = {{Minimum-Cost} Sensor Placement for Required Lifetime in Wireless {Sensor-Target} Surveillance Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1783-1796},
+}
+
+@article{DBLP:journals/tpds/MartelliB13,
+  author    = {Francesca Martelli and
+               Maurizio A. Bonuccelli},
+  title     = {Minimum Message Waiting Time Scheduling in Distributed Systems},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1797-1806},
+}
+
+@article{DBLP:journals/tpds/XieHXYTW13,
+  author    = {Yi Xie and
+               Jiankun Hu and
+               Yang Xiang and
+               Shui Yu and
+               Shensheng Tang and
+               Yu Wang},
+  title     = {Modeling Oscillation Behavior of Network Traffic by Nested Hidden Markov Model with Variable {State-Duration}},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1807-1817},
+}
+
+@article{DBLP:journals/tpds/HuangA13,
+  author    = {Miaoqing Huang and
+               David L. Andrews},
+  title     = {Modular Design of Fully Pipelined Reduction Circuits on {FPGAs}},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1818-1826},
+}
+
+@article{DBLP:journals/tpds/LiangRJX13,
+  author    = {Weifa Liang and
+               Xiaojiang Ren and
+               Xiaohua Jia and
+               Xu Xu},
+  title     = {Monitoring Quality Maximization through Fair Rate Allocation in Harvesting Sensor Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1827-1840},
+}
+
+@article{DBLP:journals/tpds/MontiBV13,
+  author    = {Henry M. Monti and
+               Ali Raza Butt and
+               Sudharshan S. Vazhkudai},
+  title     = {On Timely Staging of {HPC} Job Input Data},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1841-1851},
+}
+
+@article{DBLP:journals/tpds/DehnaviFGG13,
+  author    = {Maryam Mehri Dehnavi and
+               David M. Fernandez and
+               Jean-Luc Gaudiot and
+               Dennis D. Giannacopoulos},
+  title     = {Parallel Sparse Approximate Inverse Preconditioning on Graphic Processing Units},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1852-1862},
+}
+
+@article{DBLP:journals/tpds/PantaJCCV13,
+  author    = {Rajesh Krishna Panta and
+               Rittwik Jana and
+               Fan Cheng and
+               Yih-Farn Robin Chen and
+               Vinay A. Vaishampayan},
+  title     = {Phoenix: Storage Using an Autonomous Mobile Infrastructure},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1863-1873},
+}
+
+@article{DBLP:journals/tpds/LiuWZCYZ13,
+  author    = {Xiaocheng Liu and
+               Chen Wang and
+               Bing Bing Zhou and
+               Junliang Chen and
+               Ting Yang and
+               Albert Y. Zomaya},
+  title     = {{Priority-Based} Consolidation of Parallel Workloads in the Cloud},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1874-1883},
+}
+
+@article{DBLP:journals/tpds/ZhangGGW13,
+  author    = {Yanfeng Zhang and
+               Qinxin Gao and
+               Lixin Gao and
+               Cuirong Wang},
+  title     = {PrIter: A Distributed Framework for Prioritizing Iterative Computations},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1884-1893},
+}
+
+@article{DBLP:journals/tpds/WangLX13,
+  author    = {Hao Wang and
+               Bill Lin and
+               Jun Jim Xu},
+  title     = {Robust Statistics Counter Arrays with Interleaved Memories},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1894-1907},
+}
+
+@article{DBLP:journals/tpds/TianDLR13,
+  author    = {Ye Tian and
+               Ratan Dey and
+               Yong Liu and
+               Keith W. Ross},
+  title     = {Topology Mapping and Geolocating for China's Internet},
+  journal   = tpds,
+  volume    = {24},
+  number    = {9},
+  year      = 2013,
+  pages     = {1908-1917},
+}
+
+@article{DBLP:journals/tpds/Escudero-SahuquilloGQFD13,
+  author    = {Jesús Escudero-Sahuquillo and
+               Pedro Javier García and
+               Francisco J. Quiles and
+               Jose Flich and
+               José Duato},
+  title     = {An Effective and Feasible Congestion Management Technique for {High-Performance} {MINs} with {Tag-Based} Distributed Routing},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {1918-1929},
+}
+
+@article{DBLP:journals/tpds/KarakasisGKGK13,
+  author    = {Vasileios Karakasis and
+               Theodoros Gkountouvas and
+               Kornilios Kourtis and
+               Georgios I. Goumas and
+               Nectarios Koziris},
+  title     = {An Extended Compression Format for the Optimization of Sparse {Matrix-Vector} Multiplication},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {1930-1940},
+}
+
+@article{DBLP:journals/tpds/XuSZ13,
+  author    = {Mingsen Xu and
+               Wen-Zhan Song and
+               Yichuan Zhao},
+  title     = {Collaborative Data Collection with Opportunistic Network Erasure Coding},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {1941-1950},
+}
+
+@article{DBLP:journals/tpds/ChengLH13,
+  author    = {Chia-Wen Cheng and
+               Chia-Wei Lee and
+               Sun-Yuan Hsieh},
+  title     = {Conditional {Edge-Fault} Hamiltonicity of Cartesian Product Graphs},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {1951-1960},
+}
+
+@article{DBLP:journals/tpds/QinLC13,
+  author    = {Zhengrui Qin and
+               Qun Li and
+               Mooi Choo Chuah},
+  title     = {Defending against Unidentifiable Attacks in Electric Power Grids},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {1961-1971},
+}
+
+@article{DBLP:journals/tpds/YangNW13,
+  author    = {Zhipeng Yang and
+               Ting Ning and
+               Hongyi Wu},
+  title     = {Distributed Data Query in Intermittently Connected Passive {RFID} Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {1972-1982},
+}
+
+@article{DBLP:journals/tpds/LiuHLWLL13,
+  author    = {Yunhao Liu and
+               Yuan He and
+               Mo Li and
+               Jiliang Wang and
+               Kebin Liu and
+               Xiang-Yang Li},
+  title     = {Does Wireless Sensor Network Scale? A Measurement Study on {GreenOrbs}},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {1983-1993},
+}
+
+@article{DBLP:journals/tpds/GaetaG13,
+  author    = {Rossano Gaeta and
+               Marco Grangetto},
+  title     = {Identification of Malicious Nodes in {Peer-to-Peer} Streaming: A Belief {Propagation-Based} Technique},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {1994-2003},
+}
+
+@article{DBLP:journals/tpds/GomesIPFM13,
+  author    = {João V. P. Gomes and
+               Pedro R. M. Inácio and
+               Manuela Pereira and
+               Mário M. Freire and
+               Paulo P. Monteiro},
+  title     = {Identification of {Peer-to-Peer} {VoIP} Sessions Using Entropy and Codec Properties},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2004-2014},
+}
+
+@article{DBLP:journals/tpds/KhreishahK013,
+  author    = {Abdallah Khreishah and
+               Issa Khalil and
+               Jie Wu},
+  title     = {Low Complexity and Provably Efficient Algorithm for Joint Inter and Intrasession Network Coding in Wireless Networks},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2015-2024},
+}
+
+@article{DBLP:journals/tpds/WangWLXG13,
+  author    = {Jin Wang and
+               Jianping Wang and
+               Kejie Lu and
+               Bin Xiao and
+               Naijie Gu},
+  title     = {Modeling and Optimal Design of Linear Network Coding for Secure Unicast with Multiple Streams},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2025-2035},
+}
+
+@article{DBLP:journals/tpds/WuSSZ13,
+  author    = {Yanbo Wu and
+               Quan Z. Sheng and
+               Hong Shen and
+               Sherali Zeadally},
+  title     = {Modeling Object Flows from Distributed and Federated {RFID} Data Streams for Efficient Tracking and Tracing},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2036-2045},
+}
+
+@article{DBLP:journals/tpds/XuLSR13,
+  author    = {Yin Xu and
+               Ben Leong and
+               Daryl Seah and
+               Ali Razeen},
+  title     = {mPath: {High-Bandwidth} Data Transfers with Massively Multipath Source Routing},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2046-2059},
+}
+
+@article{DBLP:journals/tpds/YanLSQ13,
+  author    = {Zhiwei Yan and
+               Jong-Hyouk Lee and
+               Sean Shen and
+               Chunming Qiao},
+  title     = {Novel {Branching-Router-Based} Multicast Routing Protocol with Mobility Support},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2060-2068},
+}
+
+@article{DBLP:journals/tpds/XueHZHL13,
+  author    = {Guangtao Xue and
+               Qi He and
+               Hongzi Zhu and
+               Tian He and
+               Yunhuai Liu},
+  title     = {{Sociality-Aware} Access Point Selection in Enterprise Wireless {LANs}},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2069-2078},
+}
+
+@article{DBLP:journals/tpds/PeiM13,
+  author    = {Yuanteng Pei and
+               Matt W. Mutka},
+  title     = {STARS: Static Relays for Remote Sensing in Multirobot {Real-Time} Search and Monitoring},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2079-2089},
+}
+
+@article{DBLP:journals/tpds/BruneoDLS13,
+  author    = {Dario Bruneo and
+               Salvatore Distefano and
+               Francesco Longo and
+               Marco Scarpa},
+  title     = {Stochastic Evaluation of {QoS} in {Service-Based} Systems},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2090-2099},
+}
+
+@article{DBLP:journals/tpds/LiangZZP13,
+  author    = {Qilian Liang and
+               Baoju Zhang and
+               Chenglin Zhao and
+               Yiming Pi},
+  title     = {{TDoA} for Passive Localization: Underwater versus Terrestrial Environment},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2100-2108},
+}
+
+@article{DBLP:journals/tpds/ChenLHW13,
+  author    = {Kun-Chih Chen and
+               Shu-Yen Lin and
+               Hui-Shun Hung and
+               An-Yeu Andy Wu},
+  title     = {{Topology-Aware} Adaptive Routing for Nonstationary Irregular Mesh in Throttled 3D {NoC} Systems},
+  journal   = tpds,
+  volume    = {24},
+  number    = {10},
+  year      = 2013,
+  pages     = {2109-2120},
+}
+
 @article{DBLP:journals/tpds/Stojmenovic12,
   author    = {Ivan Stojmenovic},
   title     = {Editor's Note},
@@ -1968,7 +2958,7 @@
 
 @article{DBLP:journals/tpds/AlekeishE12,
   author    = {Khaled Alekeish and
-               Paul Ezhilchelvan},
+               Paul D. Ezhilchelvan},
   title     = {Consensus in Sparse, Mobile Ad Hoc Networks},
   journal   = tpds,
   volume    = {23},
@@ -17594,7 +18584,7 @@
 
 @article{DBLP:journals/tpds/SungX03,
   author    = {Minho Sung and
-               Jun Xu},
+               Jun (Jim) Xu},
   title     = {{IP} {Traceback-Based} Intelligent Packet Filtering: A Novel Technique for Defending against Internet {DDoS} Attacks},
   journal   = tpds,
   volume    = {14},
