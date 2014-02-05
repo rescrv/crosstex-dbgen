@@ -1,5 +1,525 @@
 @include journals-cs
 
+@article{DBLP:journals/cacm/McGettrick14,
+  author    = {Andrew D. McGettrick},
+  title     = {Education, always},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Vardi14,
+  author    = {Moshe Y. Vardi},
+  title     = {Scalable conferences},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Cerf14,
+  author    = {Vinton G. Cerf},
+  title     = {Virtual reality redux},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Cerf14a,
+  author    = {Vinton G. Cerf},
+  title     = {Cognitive implants},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/X14,
+  author    = {},
+  title     = {Nominees for elections and report of the {ACM} nominating committee},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {8},
+}
+
+@article{DBLP:journals/cacm/X14c,
+  author    = {},
+  title     = {Contribute more than algorithmic speculation},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {9},
+}
+
+@article{DBLP:journals/cacm/X14a,
+  author    = {},
+  title     = {{ACM's} FY13 annual report},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {9-14},
+}
+
+@article{DBLP:journals/cacm/Guo14,
+  author    = {Philip Guo},
+  title     = {Clarifying human-computer interaction},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {10-11},
+}
+
+@article{DBLP:journals/cacm/Monroe14,
+  author    = {Don Monroe},
+  title     = {A new type of mathematics?},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {13-15},
+}
+
+@article{DBLP:journals/cacm/X14b,
+  author    = {},
+  title     = {U.S. does not control the internet},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {16-17},
+}
+
+@article{DBLP:journals/cacm/Shein14,
+  author    = {Esther Shein},
+  title     = {Should everybody learn to code?},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {16-18},
+}
+
+@article{DBLP:journals/cacm/GuzdialA14,
+  author    = {Mark Guzdial and
+               Joel C. Adams},
+  title     = {{MOOCs} need more work; so do {CS} graduates},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {18-19},
+}
+
+@article{DBLP:journals/cacm/Greengard14,
+  author    = {Samuel Greengard},
+  title     = {Computational photography comes into focus},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {19-21},
+}
+
+@article{DBLP:journals/cacm/Anthes14,
+  author    = {Gary Anthes},
+  title     = {French team invents faster code-breaking algorithm},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {21-23},
+}
+
+@article{DBLP:journals/cacm/Staff14,
+  author    = {},
+  title     = {{ACM} fellows inducted},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {22},
+}
+
+@article{DBLP:journals/cacm/Geller14,
+  author    = {Tom Geller},
+  title     = {How do you feel?: your computer knows},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {24-26},
+}
+
+@article{DBLP:journals/cacm/BurleyEG14,
+  author    = {Diana L. Burley and
+               Jon Eisenberg and
+               Seymour E. Goodman},
+  title     = {Would cybersecurity professionalization help address the cybersecurity crisis?},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {24-27},
+}
+
+@article{DBLP:journals/cacm/Hyman14,
+  author    = {Paul Hyman},
+  title     = {'Peace technologies' enable eyewitness reporting when disasters strike},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {27-29},
+}
+
+@article{DBLP:journals/cacm/Bell14a,
+  author    = {Tim Bell},
+  title     = {Establishing a nationwide {CS} curriculum in New Zealand high schools},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {28-30},
+}
+
+@article{DBLP:journals/cacm/Cusumano14,
+  author    = {Michael A. Cusumano},
+  title     = {The legacy of Steve Ballmer},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {30-32},
+}
+
+@article{DBLP:journals/cacm/YoungL14,
+  author    = {William Young and
+               Nancy G. Leveson},
+  title     = {An integrated approach to safety and security based on systems theory},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {31-35},
+}
+
+@article{DBLP:journals/cacm/Yoo14,
+  author    = {Christopher S. Yoo},
+  title     = {Toward a closer integration of law and computer science},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {33-35},
+}
+
+@article{DBLP:journals/cacm/Neville-Neil14,
+  author    = {George V. Neville-Neil},
+  title     = {Bugs and bragging rights},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {36-37},
+}
+
+@article{DBLP:journals/cacm/Haigh14,
+  author    = {Thomas Haigh},
+  title     = {Actually, Turing did not invent the computer},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {36-41},
+}
+
+@article{DBLP:journals/cacm/CeccagnoliFHW14,
+  author    = {Marco Ceccagnoli and
+               Chris Forman and
+               Peng Huang and
+               D. J. Wu},
+  title     = {Digital platforms: when is participation valuable?},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {38-39},
+}
+
+@article{DBLP:journals/cacm/Andriole14,
+  author    = {Stephen J. Andriole},
+  title     = {Ready technology},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {40-42},
+}
+
+@article{DBLP:journals/cacm/Armour14,
+  author    = {Phillip G. Armour},
+  title     = {Estimation is not evil},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {42-43},
+}
+
+@article{DBLP:journals/cacm/Terry14,
+  author    = {Doug Terry},
+  title     = {Publish now, judge later},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {44-46},
+}
+
+@article{DBLP:journals/cacm/PrasadNC14,
+  author    = {Kiran Prasad and
+               Kelly Norton and
+               Terry Coatta},
+  title     = {Node at LinkedIn: the pursuit of thinner, lighter, faster},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {44-51},
+}
+
+@article{DBLP:journals/cacm/Bell14,
+  author    = {Alex E. Bell},
+  title     = {The software inferno},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {48-53},
+}
+
+@article{DBLP:journals/cacm/Kamp14,
+  author    = {Poul-Henning Kamp},
+  title     = {Center wheel for success},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {52-54},
+}
+
+@article{DBLP:journals/cacm/Lango14,
+  author    = {Jason Lango},
+  title     = {Toward software-defined {SLAs}},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {54-60},
+}
+
+@article{DBLP:journals/cacm/HensleySN14,
+  author    = {Zachary Hensley and
+               Jibonananda Sanyal and
+               Joshua R. New},
+  title     = {Provenance in sensor data management},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {55-62},
+}
+
+@article{DBLP:journals/cacm/MadhavapeddyS14,
+  author    = {Anil Madhavapeddy and
+               David J. Scott},
+  title     = {Unikernels: the rise of the virtual library operating system},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {61-69},
+}
+
+@article{DBLP:journals/cacm/Holzmann14,
+  author    = {Gerard J. Holzmann},
+  title     = {Mars code},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {64-73},
+}
+
+@article{DBLP:journals/cacm/OHaraGSPVMCCRDC14,
+  author    = {Kenton O'Hara and
+               Gerardo Gonzalez and
+               Abigail Sellen and
+               Graeme P. Penney and
+               Andreas Varnavas and
+               Helena M. Mentis and
+               Antonio Criminisi and
+               Robert Corish and
+               Mark Rouncefield and
+               Neville Dastur and
+               Tom Carrell},
+  title     = {Touchless interaction in surgery},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {70-77},
+}
+
+@article{DBLP:journals/cacm/AvgerinosCRSWB14,
+  author    = {Thanassis Avgerinos and
+               Sang Kil Cha and
+               Alexandre Rebert and
+               Edward J. Schwartz and
+               Maverick Woo and
+               David Brumley},
+  title     = {Automatic exploit generation},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {74-84},
+}
+
+@article{DBLP:journals/cacm/LiVR14,
+  author    = {Jessica Pu Li and
+               Arun Vishwanath and
+               H. Raghav Rao},
+  title     = {Retweeting the Fukushima nuclear radiation disaster},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {78-85},
+}
+
+@article{DBLP:journals/cacm/MicaliR14,
+  author    = {Silvio Micali and
+               Michael O. Rabin},
+  title     = {Cryptography miracles, secure auctions, matching problem verification},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {85-93},
+}
+
+@article{DBLP:journals/cacm/GramoliG14,
+  author    = {Vincent Gramoli and
+               Rachid Guerraoui},
+  title     = {Democratizing transactional programming},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {86-93},
+}
+
+@article{DBLP:journals/cacm/HuangBR14,
+  author    = {Xuedong Huang and
+               James Baker and
+               Raj Reddy},
+  title     = {A historical perspective of speech recognition},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {94-103},
+}
+
+@article{DBLP:journals/cacm/WilhelmG14,
+  author    = {Reinhard Wilhelm and
+               Daniel Grund},
+  title     = {Computation takes time, but how much?},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {94-103},
+}
+
+@article{DBLP:journals/cacm/Iyer14,
+  author    = {Subramanian S. Iyer},
+  title     = {Silicon stress: technical perspective},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {106},
+}
+
+@article{DBLP:journals/cacm/Mahoney14,
+  author    = {Michael W. Mahoney},
+  title     = {A new spin on an old algorithm: technical perspective},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {106},
+}
+
+@article{DBLP:journals/cacm/BallardDHS14,
+  author    = {Grey Ballard and
+               James Demmel and
+               Olga Holtz and
+               Oded Schwartz},
+  title     = {Communication costs of Strassen's matrix multiplication},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {107-114},
+}
+
+@article{DBLP:journals/cacm/JungMPL14,
+  author    = {Moongon Jung and
+               Joydeep Mitra and
+               David Z. Pan and
+               Sung Kyu Lim},
+  title     = {{TSV} stress-aware full-chip mechanical reliability analysis and optimization for 3D {IC}},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {107-115},
+}
+
+@article{DBLP:journals/cacm/Winkler14,
+  author    = {Peter Winkler},
+  title     = {Puzzled: Lowest Number Wins},
+  journal   = cacm,
+  volume    = {57},
+  number    = {2},
+  year      = 2014,
+  pages     = {120},
+}
+
+@article{DBLP:journals/cacm/Shostak14,
+  author    = {G. Seth Shostak},
+  title     = {Future tense},
+  journal   = cacm,
+  volume    = {57},
+  number    = {1},
+  year      = 2014,
+  pages     = {128},
+}
+
 @article{DBLP:journals/cacm/Altman13,
   author    = {Erik R. Altman},
   title     = {{SGB} fortifies global {SIG} community},
@@ -28,6 +548,16 @@
   journal   = cacm,
   volume    = {56},
   number    = {4},
+  year      = 2013,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/Ozsu13,
+  author    = {M. Tamer Özsu},
+  title     = {{ACM} books to launch},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
   year      = 2013,
   pages     = {5},
 }
@@ -82,6 +612,16 @@
   pages     = {5},
 }
 
+@article{DBLP:journals/cacm/Vardi13e,
+  author    = {Moshe Y. Vardi},
+  title     = {The end of the American network},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {5},
+}
+
 @article{DBLP:journals/cacm/VardiV13,
   author    = {Moshe Y. Vardi and
                Victor Vianu},
@@ -89,6 +629,16 @@
   journal   = cacm,
   volume    = {56},
   number    = {8},
+  year      = 2013,
+  pages     = {5},
+}
+
+@article{DBLP:journals/cacm/White13,
+  author    = {John White},
+  title     = {On the future of {ACM}},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
   year      = 2013,
   pages     = {5},
 }
@@ -183,6 +733,36 @@
   pages     = {7},
 }
 
+@article{DBLP:journals/cacm/Cerf13i,
+  author    = {Vinton G. Cerf},
+  title     = {Revisiting the tragedy of the commons},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Cerf13j,
+  author    = {Vinton G. Cerf},
+  title     = {Heidelberg Laureate Forum},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Cerf13k,
+  author    = {Vinton G. Cerf},
+  title     = {Software at scale},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {7},
+}
+
 @article{DBLP:journals/cacm/Meyer13,
   author    = {Bertrand Meyer},
   title     = {When reviews do more than sting},
@@ -243,6 +823,36 @@
   pages     = {8-9},
 }
 
+@article{DBLP:journals/cacm/X13k,
+  author    = {},
+  title     = {Deep accountability, beyond even liability},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {8-9},
+}
+
+@article{DBLP:journals/cacm/X13l,
+  author    = {},
+  title     = {Microprocessor architectures follow markets and silicon},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {8-9},
+}
+
+@article{DBLP:journals/cacm/X13m,
+  author    = {},
+  title     = {Free the digital natives},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {8-9},
+}
+
 @article{DBLP:journals/cacm/Delman13,
   author    = {Scott E. Delman},
   title     = {An open access partnership},
@@ -283,12 +893,33 @@
   pages     = {10-11},
 }
 
+@article{DBLP:journals/cacm/GuzdialB13,
+  author    = {Mark Guzdial and
+               Valerie Barr},
+  title     = {The lure of live coding; the attraction of small data},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {10-11},
+}
+
 @article{DBLP:journals/cacm/Hong13,
   author    = {Jason Hong},
   title     = {Ph.D. students must break away from undergraduate mentality},
   journal   = cacm,
   volume    = {56},
   number    = {7},
+  year      = 2013,
+  pages     = {10-11},
+}
+
+@article{DBLP:journals/cacm/Hong13a,
+  author    = {Jason Hong},
+  title     = {Considering privacy issues in the context of Google glass},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
   year      = 2013,
   pages     = {10-11},
 }
@@ -356,6 +987,16 @@
   pages     = {11-15},
 }
 
+@article{DBLP:journals/cacm/Guo13a,
+  author    = {Philip Guo},
+  title     = {Helping scientists, engineers to work up to 100 times faster},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {12-13},
+}
+
 @article{DBLP:journals/cacm/GuzdialR13,
   author    = {Mark Guzdial and
                Daniel Reed},
@@ -377,6 +1018,16 @@
   pages     = {12-13},
 }
 
+@article{DBLP:journals/cacm/Mone13c,
+  author    = {Gregory Mone},
+  title     = {Future-proof encryption},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {12-14},
+}
+
 @article{DBLP:journals/cacm/Anthes13a,
   author    = {Gary Anthes},
   title     = {Deep learning comes of age},
@@ -393,6 +1044,16 @@
   journal   = cacm,
   volume    = {56},
   number    = {9},
+  year      = 2013,
+  pages     = {13-15},
+}
+
+@article{DBLP:journals/cacm/Edwards13a,
+  author    = {Chris Edwards},
+  title     = {Life points the way to a new template for chipmaking},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
   year      = 2013,
   pages     = {13-15},
 }
@@ -448,12 +1109,32 @@
   pages     = {14-16},
 }
 
+@article{DBLP:journals/cacm/Savage13e,
+  author    = {Neil Savage},
+  title     = {More than a mouse},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {15-16},
+}
+
 @article{DBLP:journals/cacm/Subbaraman13,
   author    = {Nidhi Subbaraman},
   title     = {Artificial connections},
   journal   = cacm,
   volume    = {56},
   number    = {4},
+  year      = 2013,
+  pages     = {15-17},
+}
+
+@article{DBLP:journals/cacm/Wright13c,
+  author    = {Alex Wright},
+  title     = {Tuning in to graphene},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
   year      = 2013,
   pages     = {15-17},
 }
@@ -486,6 +1167,16 @@
   number    = {1},
   year      = 2013,
   pages     = {16-17},
+}
+
+@article{DBLP:journals/cacm/Greengard13d,
+  author    = {Samuel Greengard},
+  title     = {Seeing the big picture},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {16-18},
 }
 
 @article{DBLP:journals/cacm/Wright13b,
@@ -528,6 +1219,16 @@
   pages     = {17-19},
 }
 
+@article{DBLP:journals/cacm/Kirkpatrick13a,
+  author    = {Keith Kirkpatrick},
+  title     = {Legal issues with robots},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {17-19},
+}
+
 @article{DBLP:journals/cacm/Wright13a,
   author    = {Alex Wright},
   title     = {Proving grounds},
@@ -544,6 +1245,16 @@
   journal   = cacm,
   volume    = {56},
   number    = {4},
+  year      = 2013,
+  pages     = {18-20},
+}
+
+@article{DBLP:journals/cacm/Geller13,
+  author    = {Tom Geller},
+  title     = {Making the internet safe for gadgets},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
   year      = 2013,
   pages     = {18-20},
 }
@@ -566,6 +1277,16 @@
   number    = {6},
   year      = 2013,
   pages     = {18-20},
+}
+
+@article{DBLP:journals/cacm/Frenkel13,
+  author    = {Karen A. Frenkel},
+  title     = {{CS} enrollments rise ... at the expense of the humanities?},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {19-21},
 }
 
 @article{DBLP:journals/cacm/Hyman13c,
@@ -618,6 +1339,17 @@
   pages     = {20-22},
 }
 
+@article{DBLP:journals/cacm/MulliganB13,
+  author    = {Deirdre K. Mulligan and
+               Kenneth A. Bamberger},
+  title     = {What regulators can do to advance privacy through design},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {20-22},
+}
+
 @article{DBLP:journals/cacm/Shein13a,
   author    = {Esther Shein},
   title     = {Ephemeral data},
@@ -644,6 +1376,16 @@
   journal   = cacm,
   volume    = {56},
   number    = {4},
+  year      = 2013,
+  pages     = {21-23},
+}
+
+@article{DBLP:journals/cacm/Hyman13d,
+  author    = {Paul Hyman},
+  title     = {Software helps linguists reconstruct, decipher ancient languages},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
   year      = 2013,
   pages     = {21-23},
 }
@@ -679,6 +1421,16 @@
   pages     = {22-24},
 }
 
+@article{DBLP:journals/cacm/Heeks13,
+  author    = {Richard Heeks},
+  title     = {Information technology impact sourcing},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {22-25},
+}
+
 @article{DBLP:journals/cacm/Hyman13a,
   author    = {Paul Hyman},
   title     = {'Small data' enabled prediction of Obama's win, say economists},
@@ -699,12 +1451,32 @@
   pages     = {23-25},
 }
 
+@article{DBLP:journals/cacm/Samuelson13b,
+  author    = {Pamela Samuelson},
+  title     = {Is software patentable?},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {23-25},
+}
+
 @article{DBLP:journals/cacm/DiDio13,
   author    = {Laura DiDio},
   title     = {Remembering Douglas Engelbart},
   journal   = cacm,
   volume    = {56},
   number    = {9},
+  year      = 2013,
+  pages     = {24-25},
+}
+
+@article{DBLP:journals/cacm/Underwood13,
+  author    = {Sarah Underwood},
+  title     = {The Alan Turing Year leaves a rich legacy},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
   year      = 2013,
   pages     = {24-25},
 }
@@ -770,6 +1542,16 @@
   pages     = {26-27},
 }
 
+@article{DBLP:journals/cacm/Anderson13a,
+  author    = {David Anderson},
+  title     = {Patrick Blackett: providing 'white heat' to the British computing revolution},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {26-28},
+}
+
 @article{DBLP:journals/cacm/Cusumano13a,
   author    = {Michael A. Cusumano},
   title     = {Are the costs of 'free' too high in online education?},
@@ -788,6 +1570,27 @@
   number    = {5},
   year      = 2013,
   pages     = {26-28},
+}
+
+@article{DBLP:journals/cacm/MichaelM13,
+  author    = {Katina Michael and
+               M. G. Michael},
+  title     = {No limits to watching?},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {26-28},
+}
+
+@article{DBLP:journals/cacm/Cusumano13b,
+  author    = {Michael A. Cusumano},
+  title     = {Evaluating a startup venture},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {26-29},
 }
 
 @article{DBLP:journals/cacm/HoodHM13,
@@ -854,6 +1657,16 @@
   pages     = {28-31},
 }
 
+@article{DBLP:journals/cacm/Alstyne13,
+  author    = {Marshall W. Van Alstyne},
+  title     = {Why not immortality?},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {29-31},
+}
+
 @article{DBLP:journals/cacm/Anderson13,
   author    = {David Anderson},
   title     = {Max Newman: forgotten man of early British computing},
@@ -872,6 +1685,26 @@
   number    = {8},
   year      = 2013,
   pages     = {29-31},
+}
+
+@article{DBLP:journals/cacm/Denning13d,
+  author    = {Peter J. Denning},
+  title     = {Design thinking},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {29-31},
+}
+
+@article{DBLP:journals/cacm/Armour13b,
+  author    = {Phillip G. Armour},
+  title     = {When faster is slower},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {30-32},
 }
 
 @article{DBLP:journals/cacm/Best13,
@@ -956,6 +1789,26 @@
   pages     = {32-33},
 }
 
+@article{DBLP:journals/cacm/Neville-Neil13e,
+  author    = {George V. Neville-Neil},
+  title     = {A lesson in resource management},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {32-33},
+}
+
+@article{DBLP:journals/cacm/Wilson13,
+  author    = {Cameron Wilson},
+  title     = {Making computer science count},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {32-33},
+}
+
 @article{DBLP:journals/cacm/Guzdial13,
   author    = {Mark Guzdial},
   title     = {Human-centered computing: a new degree for Licklider's world},
@@ -996,6 +1849,16 @@
   pages     = {33-34},
 }
 
+@article{DBLP:journals/cacm/Neville-Neil13d,
+  author    = {George V. Neville-Neil},
+  title     = {The naming of hosts is a difficult matter},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {33-34},
+}
+
 @article{DBLP:journals/cacm/EglashGF13,
   author    = {Ron Eglash and
                Juan E. Gilbert and
@@ -1029,6 +1892,18 @@
   pages     = {34-36},
 }
 
+@article{DBLP:journals/cacm/LanglotzGG13,
+  author    = {Tobias Langlotz and
+               Jens Grubert and
+               Raphael Grasset},
+  title     = {Augmented reality browsers: essential products or only gadgets?},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {34-36},
+}
+
 @article{DBLP:journals/cacm/PorterGMS13,
   author    = {Leo Porter and
                Mark Guzdial and
@@ -1040,6 +1915,19 @@
   number    = {8},
   year      = 2013,
   pages     = {34-36},
+}
+
+@article{DBLP:journals/cacm/DuBowFWF13,
+  author    = {Wendy M. DuBow and
+               Ruthe Farmer and
+               Zhen Wu and
+               Malia Fredrickson},
+  title     = {Bringing young women into computing through the {NCWIT} Aspirations in Computing program},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {34-37},
 }
 
 @article{DBLP:journals/cacm/Denning13b,
@@ -1058,6 +1946,17 @@
   journal   = cacm,
   volume    = {56},
   number    = {9},
+  year      = 2013,
+  pages     = {35-37},
+}
+
+@article{DBLP:journals/cacm/FuB13,
+  author    = {Kevin Fu and
+               James Blum},
+  title     = {Controlling for cybersecurity risks of medical device software},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
   year      = 2013,
   pages     = {35-37},
 }
@@ -1142,6 +2041,26 @@
   pages     = {38-39},
 }
 
+@article{DBLP:journals/cacm/Ackley13,
+  author    = {David H. Ackley},
+  title     = {Beyond efficiency},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {38-40},
+}
+
+@article{DBLP:journals/cacm/Fox13,
+  author    = {Armando Fox},
+  title     = {From {MOOCs} to {SPOCs}},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {38-40},
+}
+
 @article{DBLP:journals/cacm/Obrenovic13,
   author    = {Zeljko Obrenovic},
   title     = {Research and practice: the curious case of 'small' researchers-practitioners},
@@ -1170,6 +2089,16 @@
   number    = {6},
   year      = 2013,
   pages     = {38-42},
+}
+
+@article{DBLP:journals/cacm/Roche13,
+  author    = {James Roche},
+  title     = {Adopting {DevOps} practices in quality assurance},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {38-43},
 }
 
 @article{DBLP:journals/cacm/FlynnMMRSTV13,
@@ -1260,6 +2189,26 @@
   pages     = {42-48},
 }
 
+@article{DBLP:journals/cacm/Grigorik13,
+  author    = {Ilya Grigorik},
+  title     = {Making the web faster with {HTTP} 2.0},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {42-49},
+}
+
+@article{DBLP:journals/cacm/Loveless13,
+  author    = {Jacob Loveless},
+  title     = {Barbarians at the gateways},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {42-49},
+}
+
 @article{DBLP:journals/cacm/WickerS13,
   author    = {Stephen B. Wicker and
                Stephanie M. Santoso},
@@ -1281,6 +2230,16 @@
   number    = {1},
   year      = 2013,
   pages     = {44-49},
+}
+
+@article{DBLP:journals/cacm/Mitchell13,
+  author    = {Neil Mitchell},
+  title     = {Leaking space},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {44-52},
 }
 
 @article{DBLP:journals/cacm/Sweeney13,
@@ -1354,6 +2313,28 @@
   pages     = {50-55},
 }
 
+@article{DBLP:journals/cacm/Chisnall13,
+  author    = {David Chisnall},
+  title     = {The challenge of cross-language interoperability},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {50-56},
+}
+
+@article{DBLP:journals/cacm/LovelessSW13,
+  author    = {Jacob Loveless and
+               Sasha Stoikov and
+               Rolf Waeber},
+  title     = {Online algorithms in high-frequency trading},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {50-56},
+}
+
 @article{DBLP:journals/cacm/Helland13,
   author    = {Pat Helland},
   title     = {Condos and clouds},
@@ -1392,6 +2373,18 @@
   number    = {2},
   year      = 2013,
   pages     = {52-63},
+}
+
+@article{DBLP:journals/cacm/JacobsonSN13,
+  author    = {Ivar Jacobson and
+               Ian Spence and
+               Pan Wei Ng},
+  title     = {Agile and SEMAT: perfect partners},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {53-59},
 }
 
 @article{DBLP:journals/cacm/Hull13,
@@ -1448,6 +2441,26 @@
   pages     = {56-63},
 }
 
+@article{DBLP:journals/cacm/Chow13,
+  author    = {Fred Chow},
+  title     = {Intermediate representation},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {57-62},
+}
+
+@article{DBLP:journals/cacm/Strowes13,
+  author    = {Stephen D. Strowes},
+  title     = {Passively measuring {TCP} round-trip times},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {57-64},
+}
+
 @article{DBLP:journals/cacm/Lameter13,
   author    = {Christoph Lameter},
   title     = {An overview of non-uniform memory access},
@@ -1466,6 +2479,26 @@
   number    = {8},
   year      = 2013,
   pages     = {60-66},
+}
+
+@article{DBLP:journals/cacm/MaidenDJMPPPPRTZ13,
+  author    = {Neil A. M. Maiden and
+               Sonali D'Souza and
+               Sara Jones and
+               Lars Müller and
+               Lucia Pannese and
+               Kristine Pitts and
+               Michael Prilla and
+               Kevin Pudney and
+               Malcolm Rose and
+               Ian Turner and
+               Konstantinos Zachos},
+  title     = {Computing technologies for reflective, creative care of people with dementia},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {60-67},
 }
 
 @article{DBLP:journals/cacm/X13a,
@@ -1523,6 +2556,16 @@
   pages     = {64-67},
 }
 
+@article{DBLP:journals/cacm/Dhar13,
+  author    = {Vasant Dhar},
+  title     = {Data science and prediction},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {64-73},
+}
+
 @article{DBLP:journals/cacm/JuelsO13,
   author    = {Ari Juels and
                Alina Oprea},
@@ -1561,6 +2604,19 @@
   pages     = {66-73},
 }
 
+@article{DBLP:journals/cacm/BexLSR13,
+  author    = {Floris Bex and
+               John Lawrence and
+               Mark Snaith and
+               Chris Reed},
+  title     = {Implementing the argument web},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {66-73},
+}
+
 @article{DBLP:journals/cacm/WainerEGR13,
   author    = {Jacques Wainer and
                Michael Eckmann and
@@ -1593,6 +2649,19 @@
   journal   = cacm,
   volume    = {56},
   number    = {5},
+  year      = 2013,
+  pages     = {68-75},
+}
+
+@article{DBLP:journals/cacm/KaganerGBT13,
+  author    = {Evgeny A. Kaganer and
+               Gabriel A. Giordano and
+               Sebastien Brion and
+               Marco Tortoriello},
+  title     = {Media tablets for mobile learning},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
   year      = 2013,
   pages     = {68-75},
 }
@@ -1646,6 +2715,17 @@
   pages     = {74-80},
 }
 
+@article{DBLP:journals/cacm/LazarH13,
+  author    = {Jonathan Lazar and
+               Harry Hochheiser},
+  title     = {Legal aspects of interface accessibility in the U.S},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {74-80},
+}
+
 @article{DBLP:journals/cacm/BeckerCHILMRUVV13,
   author    = {Richard A. Becker and
                Ramón Cáceres and
@@ -1685,6 +2765,18 @@
   pages     = {74-83},
 }
 
+@article{DBLP:journals/cacm/HoonlorSZ13,
+  author    = {Apirak Hoonlor and
+               Boleslaw K. Szymanski and
+               Mohammed J. Zaki},
+  title     = {Trends in computer science research},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {74-83},
+}
+
 @article{DBLP:journals/cacm/ThoratRG13,
   author    = {Nishant Thorat and
                Arvind Raghavendran and
@@ -1707,6 +2799,18 @@
   number    = {5},
   year      = 2013,
   pages     = {76-82},
+}
+
+@article{DBLP:journals/cacm/TreleavenGL13,
+  author    = {Philip C. Treleaven and
+               Michal Galas and
+               Vidhi Lalchand},
+  title     = {Algorithmic trading review},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {76-85},
 }
 
 @article{DBLP:journals/cacm/Procaccia13,
@@ -1736,6 +2840,16 @@
   journal   = cacm,
   volume    = {56},
   number    = {4},
+  year      = 2013,
+  pages     = {82-89},
+}
+
+@article{DBLP:journals/cacm/Terry13,
+  author    = {Doug Terry},
+  title     = {Replicated data consistency explained through baseball},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
   year      = 2013,
   pages     = {82-89},
 }
@@ -1810,6 +2924,17 @@
   pages     = {84-93},
 }
 
+@article{DBLP:journals/cacm/MeterH13,
+  author    = {Rodney Van Meter and
+               Clare Horsman},
+  title     = {A blueprint for building a quantum computer},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {84-93},
+}
+
 @article{DBLP:journals/cacm/Naor13,
   author    = {Assaf Naor},
   title     = {Every graph is essentially sparse},
@@ -1818,6 +2943,19 @@
   number    = {8},
   year      = 2013,
   pages     = {86},
+}
+
+@article{DBLP:journals/cacm/DialloMAM13,
+  author    = {Mamadou Tourad Diallo and
+               Hassnaa Moustafa and
+               Hossam Afifi and
+               Nicolas Maréchal},
+  title     = {Adaptation of audiovisual contents and their delivery means},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {86-93},
 }
 
 @article{DBLP:journals/cacm/BatsonSST13,
@@ -1852,6 +2990,20 @@
   number    = {3},
   year      = 2013,
   pages     = {90},
+}
+
+@article{DBLP:journals/cacm/TysonSCRM13,
+  author    = {Gareth Tyson and
+               Nishanth Sastry and
+               Ruben Cuevas and
+               Ivica Rimac and
+               Andreas Mauthe},
+  title     = {A survey of mobility in information-centric networks},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {90-98},
 }
 
 @article{DBLP:journals/cacm/Forsyth13,
@@ -1973,6 +3125,26 @@
   pages     = {94-103},
 }
 
+@article{DBLP:journals/cacm/Alur13,
+  author    = {Rajeev Alur},
+  title     = {Can we verify cyber-physical systems?: technical perspective},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {96},
+}
+
+@article{DBLP:journals/cacm/Borkar13,
+  author    = {Shekhar Borkar},
+  title     = {Centip3De demonstrates more than Moore...: technical perspective},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {96},
+}
+
 @article{DBLP:journals/cacm/Perona13,
   author    = {Pietro Perona},
   title     = {Progress in visual categorization: technical perspective},
@@ -1993,6 +3165,45 @@
   pages     = {96},
 }
 
+@article{DBLP:journals/cacm/AlthoffRKYLP13,
+  author    = {Matthias Althoff and
+               Akshay Rajhans and
+               Bruce H. Krogh and
+               Soner Yaldiz and
+               Xin Li and
+               Larry T. Pileggi},
+  title     = {Formal verification of phase-locked loops using reachability analysis and continuization},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {97-104},
+}
+
+@article{DBLP:journals/cacm/DreslinskiFGKSFSLKLWCSBM13,
+  author    = {Ronald G. Dreslinski and
+               David Fick and
+               Bharan Giridhar and
+               Gyouho Kim and
+               Sangwon Seo and
+               Matthew Fojtik and
+               Sudhir Satpathy and
+               Yoonmyung Lee and
+               Daeyeon Kim and
+               Nurrachman Liu and
+               Michael Wieckowski and
+               Gregory K. Chen and
+               Dennis Sylvester and
+               David Blaauw and
+               Trevor N. Mudge},
+  title     = {Centip3De: a many-core prototype exploring 3D integration and near-threshold computing},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {97-104},
+}
+
 @article{DBLP:journals/cacm/FelzenszwalbGMR13,
   author    = {Pedro F. Felzenszwalb and
                Ross B. Girshick and
@@ -2004,6 +3215,16 @@
   number    = {9},
   year      = 2013,
   pages     = {97-105},
+}
+
+@article{DBLP:journals/cacm/Moss13,
+  author    = {Eliot Moss},
+  title     = {The cleanest garbage collection: technical perspective},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {100},
 }
 
 @article{DBLP:journals/cacm/Wonka13,
@@ -2029,6 +3250,18 @@
   number    = {7},
   year      = 2013,
   pages     = {101-108},
+}
+
+@article{DBLP:journals/cacm/BaconCS13,
+  author    = {David F. Bacon and
+               Perry Cheng and
+               Sunil Shukla},
+  title     = {And then there were none: a stall-free real-time garbage collector for reconfigurable hardware},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {101-109},
 }
 
 @article{DBLP:journals/cacm/Winkler13a,
@@ -2128,6 +3361,16 @@
   pages     = {110},
 }
 
+@article{DBLP:journals/cacm/Clegg13,
+  author    = {Brian Clegg},
+  title     = {Future tense},
+  journal   = cacm,
+  volume    = {56},
+  number    = {10},
+  year      = 2013,
+  pages     = {112},
+}
+
 @article{DBLP:journals/cacm/Hoffmann13c,
   author    = {Leah Hoffmann},
   title     = {Q&A},
@@ -2203,6 +3446,36 @@
   number    = {6},
   year      = 2013,
   pages     = {120},
+}
+
+@article{DBLP:journals/cacm/Winkler13f,
+  author    = {Peter Winkler},
+  title     = {Puzzled: Coin flipping},
+  journal   = cacm,
+  volume    = {56},
+  number    = {11},
+  year      = 2013,
+  pages     = {120},
+}
+
+@article{DBLP:journals/cacm/Winkler13g,
+  author    = {Peter Winkler},
+  title     = {Puzzled: Solutions and sources},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {126},
+}
+
+@article{DBLP:journals/cacm/Hoffmann13d,
+  author    = {Leah Hoffmann},
+  title     = {Q&A: Securing the Risk},
+  journal   = cacm,
+  volume    = {56},
+  number    = {12},
+  year      = 2013,
+  pages     = {128},
 }
 
 @article{DBLP:journals/cacm/Rucker13,
@@ -8330,7 +9603,7 @@
 
 @article{DBLP:journals/cacm/LeeGRN11,
   author    = {Honglak Lee and
-               Roger Grosse and
+               Roger B. Grosse and
                Rajesh Ranganath and
                Andrew Y. Ng},
   title     = {Unsupervised learning of hierarchical representations with convolutional deep belief networks},
@@ -86643,7 +87916,7 @@
 }
 
 @article{DBLP:journals/cacm/Maurer70,
-  author    = {Herman A. Maurer},
+  author    = {Hermann A. Maurer},
   title     = {A note on the complement of inherently ambiguous context-free languages},
   journal   = cacm,
   volume    = {13},
@@ -91866,7 +93139,7 @@
 }
 
 @article{DBLP:journals/cacm/Spath67,
-  author    = {H. Späth},
+  author    = {Helmuth Späth},
   title     = {Algorithm 295: Exponential curve fit},
   journal   = cacm,
   volume    = {10},
@@ -93077,7 +94350,7 @@
 }
 
 @article{DBLP:journals/cacm/Spath67b,
-  author    = {H. Späth},
+  author    = {Helmuth Späth},
   title     = {Certification of algorithm 285: the mutual primal-dual method},
   journal   = cacm,
   volume    = {10},
@@ -93724,7 +94997,7 @@
 }
 
 @article{DBLP:journals/cacm/Spath67a,
-  author    = {H. Späth},
+  author    = {Helmuth Späth},
   title     = {Algorithm 315: The damped Taylor's series method for minimizing a sum of squares and for solving systems of nonlinear equations},
   journal   = cacm,
   volume    = {10},

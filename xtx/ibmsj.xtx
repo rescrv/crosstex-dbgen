@@ -2491,7 +2491,7 @@
 }
 
 @article{DBLP:journals/ibmsj/TurkB05,
-  author    = {Daniel Turk and
+  author    = {Daniel E. Turk and
                Jonathan Bausch},
   title     = {Virtual Linux servers under z/VM: Security, performance, and administration issues},
   journal   = ibmsj,
@@ -12671,7 +12671,7 @@
 }
 
 @article{DBLP:journals/ibmsj/Murray84,
-  author    = {William H. Murray},
+  author    = {William Hugh Murray},
   title     = {Security Considerations for Personal Computers},
   journal   = ibmsj,
   volume    = {23},

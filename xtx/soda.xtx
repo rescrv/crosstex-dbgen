@@ -11196,7 +11196,7 @@
                Michel X. Goemans and
                Éva Tardos and
                David P. Williamson},
-  title     = {Approximating the smallest k},
+  title     = {Approximating the smallest k-edge connected spanning subgraph by {LP-rounding}},
   booktitle = soda,
   year      = 2005,
   pages     = {562-571},

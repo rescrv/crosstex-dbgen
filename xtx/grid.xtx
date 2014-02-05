@@ -901,7 +901,7 @@
   author    = {Keven T. Kearney and
                Francesco Torelli and
                Constantinos Kotsokalis},
-  title     = {SLA★: An abstract syntax for Service Level Agreements},
+  title     = {SLA⋆: An abstract syntax for Service Level Agreements},
   booktitle = grid,
   year      = 2010,
   pages     = {217-224},
@@ -1889,7 +1889,7 @@
 
 @inproceedings{DBLP:conf/grid/DiazFMGT08,
   author    = {Iván Díaz and
-               G. Fernandez and
+               Gracia Fernández and
                María J. Martín and
                Patricia González and
                Juan Touriño},

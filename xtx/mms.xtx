@@ -1,5 +1,66 @@
 @include journals-cs
 
+@article{DBLP:journals/mms/BhandarkarRD14,
+  author    = {Suchendra M. Bhandarkar and
+               Lakshmish Ramaswamy and
+               Hari Devulapally},
+  title     = {Collaborative caching for efficient dissemination of personalized video streams in resource constrained environments},
+  journal   = mms,
+  volume    = {20},
+  number    = {1},
+  year      = 2014,
+  pages     = {1-23},
+}
+
+@article{DBLP:journals/mms/SongRSL14,
+  author    = {Minseok Song and
+               Wanhyung Ryu and
+               Jeong Seop Sim and
+               Yeongju Lee},
+  title     = {Balancing disk energy against reliability in video playback},
+  journal   = mms,
+  volume    = {20},
+  number    = {1},
+  year      = 2014,
+  pages     = {25-43},
+}
+
+@article{DBLP:journals/mms/NorouziSMM14,
+  author    = {Benyamin Norouzi and
+               Seyed Mohammad Seyedzadeh and
+               Sattar Mirzakuchaki and
+               Mohammad Reza Mosavi},
+  title     = {A novel image encryption based on hash function with only two-round diffusion process},
+  journal   = mms,
+  volume    = {20},
+  number    = {1},
+  year      = 2014,
+  pages     = {45-64},
+}
+
+@article{DBLP:journals/mms/BorghesaniGC14,
+  author    = {Daniele Borghesani and
+               Costantino Grana and
+               Rita Cucchiara},
+  title     = {Miniature illustrations retrieval and innovative interaction for digital illuminated manuscripts},
+  journal   = mms,
+  volume    = {20},
+  number    = {1},
+  year      = 2014,
+  pages     = {65-79},
+}
+
+@article{DBLP:journals/mms/HachajO14,
+  author    = {Tomasz Hachaj and
+               Marek R. Ogiela},
+  title     = {Rule-based approach to recognizing human body poses and gestures in real time},
+  journal   = mms,
+  volume    = {20},
+  number    = {1},
+  year      = 2014,
+  pages     = {81-99},
+}
+
 @article{DBLP:journals/mms/NgoXWE13,
   author    = {Chong-Wah Ngo and
                Changsheng Xu and
@@ -380,6 +441,92 @@
   number    = {5},
   year      = 2013,
   pages     = {455-474},
+}
+
+@article{DBLP:journals/mms/LekakosCK13,
+  author    = {George Lekakos and
+               Teresa Chambel and
+               Hendrik Knoche},
+  title     = {Special Issue on Social Recommendation and Delivery Systems for Video and {TV} Content},
+  journal   = mms,
+  volume    = {19},
+  number    = {6},
+  year      = 2013,
+  pages     = {475-476},
+}
+
+@article{DBLP:journals/mms/AriyasuFS13,
+  author    = {Kyoko Ariyasu and
+               Hiroshi Fujisawa and
+               Shyunji Sunasaki},
+  title     = {Twitter analysis algorithms for Intelligence Circulation System},
+  journal   = mms,
+  volume    = {19},
+  number    = {6},
+  year      = 2013,
+  pages     = {477-491},
+}
+
+@article{DBLP:journals/mms/SanchezBAC13,
+  author    = {Faustino Sánchez and
+               Marta Barrilero and
+               Federico Alvarez and
+               Guillermo Cisneros},
+  title     = {User interest modeling for social {TV-recommender} systems based on audiovisual consumption},
+  journal   = mms,
+  volume    = {19},
+  number    = {6},
+  year      = 2013,
+  pages     = {493-507},
+}
+
+@article{DBLP:journals/mms/KimBE13,
+  author    = {Heung-Nam Kim and
+               Mark Bloess and
+               Abdulmotaleb El-Saddik},
+  title     = {Folkommender: a group recommender system based on a graph-based ranking algorithm},
+  journal   = mms,
+  volume    = {19},
+  number    = {6},
+  year      = 2013,
+  pages     = {509-525},
+}
+
+@article{DBLP:journals/mms/PyoKK13,
+  author    = {Shinjee Pyo and
+               Eunhui Kim and
+               Munchurl Kim},
+  title     = {Automatic and personalized recommendation of {TV} program contents using sequential pattern mining for smart {TV} user interaction},
+  journal   = mms,
+  volume    = {19},
+  number    = {6},
+  year      = 2013,
+  pages     = {527-542},
+}
+
+@article{DBLP:journals/mms/PelejaDMM13,
+  author    = {Filipa Peleja and
+               Pedro Dias and
+               Flávio Martins and
+               João Magalhães},
+  title     = {A recommender system for the {TV} on the web: integrating unrated reviews and movie ratings},
+  journal   = mms,
+  volume    = {19},
+  number    = {6},
+  year      = 2013,
+  pages     = {543-558},
+}
+
+@article{DBLP:journals/mms/OliveiraMC13,
+  author    = {Eva Oliveira and
+               Pedro Martins and
+               Teresa Chambel},
+  title     = {Accessing movies based on emotional impact},
+  journal   = mms,
+  volume    = {19},
+  number    = {6},
+  year      = 2013,
+  pages     = {559-576},
 }
 
 @article{DBLP:journals/mms/Angelides12,
@@ -6586,7 +6733,7 @@
 }
 
 @article{DBLP:journals/mms/KaplanKSV97,
-  author    = {A. E. Kaplan and
+  author    = {Alexander E. Kaplan and
                Srinivasan Keshav and
                Norman L. Schryer and
                J. H. Venutolo},

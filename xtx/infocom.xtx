@@ -1881,7 +1881,7 @@
                Andre Beck and
                Steven A. Benno and
                Gang Li and
-               Ray Miller},
+               Raymond B. Miller},
   title     = {Optimization of {HTTP} adaptive streaming over mobile cellular networks},
   booktitle = infocom,
   year      = 2013,
@@ -5173,7 +5173,7 @@
 @inproceedings{DBLP:conf/infocom/PogelLW12,
   author    = {Tobias Pögel and
                Jan Lubbe and
-               Lars Wolf},
+               Lars C. Wolf},
   title     = {Passive client-based bandwidth and latency measurements in cellular networks},
   booktitle = infocom,
   year      = 2012,
@@ -7378,7 +7378,7 @@
 @inproceedings{DBLP:conf/infocom/YaoHSGN12,
   author    = {Yuan Yao and
                Longbo Huang and
-               Abhishek Sharma and
+               Abhishek B. Sharma and
                Leana Golubchik and
                Michael J. Neely},
   title     = {Data centers power reduction: A two time scale approach for delay tolerant workloads},
@@ -16258,7 +16258,7 @@
 @inproceedings{DBLP:conf/infocom/GuJSZ10,
   author    = {Yu Gu and
                Guofei Jiang and
-               Vishal Singh and
+               Vishal K. Singh and
                Yueping Zhang},
   title     = {Optimal Probing for Unicast Network Delay Tomography},
   booktitle = infocom,
@@ -16794,7 +16794,7 @@
 
 @inproceedings{DBLP:conf/infocom/TanCXKT10,
   author    = {Hwee-Xian Tan and
-               Mun-Choon Chan and
+               Mun Choon Chan and
                Wendong Xiao and
                Peng Yong Kong and
                Chen-Khong Tham},
@@ -17041,7 +17041,7 @@
 @inproceedings{DBLP:conf/infocom/YangCL10,
   author    = {Zhe Yang and
                Lin Cai and
-               Wu-sheng Lu},
+               Wu-Sheng Lu},
   title     = {Practical Scheduling Algorithms for Concurrent Transmissions in Rate-adaptive Wireless Networks},
   booktitle = infocom,
   year      = 2010,
@@ -18323,7 +18323,7 @@
 @inproceedings{DBLP:conf/infocom/BonaldFP09,
   author    = {Thomas Bonald and
                Mathieu Feuillet and
-               Alexandre Proutiére},
+               Alexandre Proutiere},
   title     = {Is the ''Law of the Jungle'' Sustainable for the Internet?},
   booktitle = infocom,
   year      = 2009,
@@ -22977,7 +22977,7 @@
 
 @inproceedings{DBLP:conf/infocom/BroustisVKK08,
   author    = {Ioannis Broustis and
-               Aggelos Vlavianos and
+               Angelos Vlavianos and
                Prashant Krishnamurthy and
                Srikanth V. Krishnamurthy},
   title     = {CTU: Capturing Throughput Dependencies in {UWB} Networks},
@@ -24544,7 +24544,7 @@
                Keren Tan and
                Guanling Chen and
                David Kotz and
-               Andrew Campbell},
+               Andrew T. Campbell},
   title     = {Detecting 802.11 {MAC} Layer Spoofing Using Received Signal Strength},
   booktitle = infocom,
   year      = 2008,
@@ -28856,7 +28856,7 @@
 
 @inproceedings{DBLP:conf/infocom/BorstPH06,
   author    = {Sem C. Borst and
-               Alexandre Proutiére and
+               Alexandre Proutière and
                Nidhi Hegde},
   title     = {Capacity of Wireless Data Networks with Intra- and {Inter-Cell} Mobility},
   booktitle = infocom,
@@ -30330,7 +30330,7 @@
 
 @inproceedings{DBLP:conf/infocom/LiuKGMW06,
   author    = {Qing Liu and
-               M. A. Kok and
+               Mehmet A. Kok and
                Nasir Ghani and
                V. M. Muthalaly and
                M. Wang},
@@ -31287,7 +31287,7 @@
 }
 
 @inproceedings{DBLP:conf/infocom/VlavianosIF06,
-  author    = {Aggelos Vlavianos and
+  author    = {Angelos Vlavianos and
                Marios Iliofotou and
                Michalis Faloutsos},
   title     = {BiToS: Enhancing {BitTorrent} for Supporting Streaming Applications},
@@ -34679,7 +34679,7 @@
 @inproceedings{DBLP:conf/infocom/BonaldBP04,
   author    = {Thomas Bonald and
                Sem C. Borst and
-               Alexandre Proutiére},
+               Alexandre Proutière},
   title     = {How Mobility Impacts the {Flow-Level} Performance of Wireless Data Systems},
   booktitle = infocom,
   year      = 2004,
@@ -41644,7 +41644,7 @@
 
 @inproceedings{DBLP:conf/infocom/BonaldPR01,
   author    = {Thomas Bonald and
-               Alexandre Proutiére and
+               Alexandre Proutière and
                James W. Roberts},
   title     = {Statistical Guarantees for Streaming Flows Using Expedited Forwarding},
   booktitle = infocom,
@@ -52385,7 +52385,7 @@
 @inproceedings{DBLP:conf/infocom/PapavassiliouTT94,
   author    = {Symeon Papavassiliou and
                Leandros Tassiulas and
-               P. Tandon},
+               Puneet Tandon},
   title     = {Meeting {QoS} Requirements in a Cellular Network with Reuse Partitioning},
   booktitle = infocom,
   year      = 1994,
@@ -54954,7 +54954,7 @@
 
 @inproceedings{DBLP:conf/infocom/SohrabyE93,
   author    = {Khosrow Sohraby and
-               A. E. Eckberg},
+               Adrian E. Eckberg},
   title     = {{Real-Time} High Percentile Tracking of {Quasi-Exponential} Delays},
   booktitle = infocom,
   year      = 1993,
@@ -55164,10 +55164,10 @@
 @inproceedings{DBLP:conf/infocom/TipperHSKBM93,
   author    = {David Tipper and
                Joseph L. Hammond and
-               S. Sharma and
-               A. Khetan and
-               K. Balakrishnan and
-               S. Menon},
+               Sandeep Sharma and
+               Archana Khetan and
+               Krishnan Balakrishnan and
+               Sunil Menon},
   title     = {An Analysis of the Congestion Effects of Link Failures in Wide Area Networks},
   booktitle = infocom,
   year      = 1993,
@@ -55673,7 +55673,7 @@
   author    = {Benjamin Melamed and
                Bhaskar Sengupta and
                Dipankar Raychaudhuri and
-               Joel Zdepski},
+               Joel W. Zdepski},
   title     = {{TES-Based} Traffic Modeling for Performance Evaluation of Integrated Networks},
   booktitle = infocom,
   year      = 1992,
@@ -56174,7 +56174,7 @@
 @inproceedings{DBLP:conf/infocom/FraserKKMR92,
   author    = {Alexander G. Fraser and
                Charles R. Kalmanek and
-               A. E. Kaplan and
+               Alexander E. Kaplan and
                William T. Marshall and
                Robert C. Restrick},
   title     = {Xunet 2: A Nationwide Testbed in {High-Speed} Networking},
@@ -61922,7 +61922,7 @@
 }
 
 @inproceedings{DBLP:conf/infocom/Amir-Ebrahimi84,
-  author    = {K. Amir-Ebrahimi},
+  author    = {Kamran Amir-Ebrahimi},
   title     = {Engineering Large Scale Packet Networks},
   booktitle = infocom,
   year      = 1984,

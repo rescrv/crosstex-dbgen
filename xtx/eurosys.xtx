@@ -604,7 +604,7 @@
   author    = {Aleksey Pesterev and
                Jacob Strauss and
                Nickolai Zeldovich and
-               Robert T. Morris},
+               Robert Tappan Morris},
   title     = {Improving network connection locality on multicore systems},
   booktitle = eurosys,
   year      = 2012,
@@ -1826,7 +1826,7 @@
   author    = {Anil Madhavapeddy and
                Alex Ho and
                Tim Deegan and
-               David Scott and
+               David J. Scott and
                Ripduman Sohan},
   title     = {Melange: creating a "functional" internet},
   booktitle = eurosys,

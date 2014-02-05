@@ -233,6 +233,56 @@
   pages     = {20},
 }
 
+@article{DBLP:journals/tomacs/BlanchetHL13,
+  author    = {Jose Blanchet and
+               Henrik Hult and
+               Kevin Leder},
+  title     = {Rare-event simulation for stochastic recurrence equations with heavy-tailed innovations},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {4},
+  year      = 2013,
+  pages     = {22},
+}
+
+@article{DBLP:journals/tomacs/VelhoSCL13,
+  author    = {Pedro Velho and
+               Lucas Mello Schnorr and
+               Henri Casanova and
+               Arnaud Legrand},
+  title     = {On the validity of flow-level tcp network models for grid and cloud simulations},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {4},
+  year      = 2013,
+  pages     = {23},
+}
+
+@article{DBLP:journals/tomacs/ChoiKLJA13,
+  author    = {Byoung K. Choi and
+               Donghun Kang and
+               Taesik Lee and
+               Arwa A. Jamjoom and
+               Maysoon F. Abulkhair},
+  title     = {Parameterized activity cycle diagram and its application},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {4},
+  year      = 2013,
+  pages     = {24},
+}
+
+@article{DBLP:journals/tomacs/SuryanarayananT13,
+  author    = {Vinoth Suryanarayanan and
+               Georgios K. Theodoropoulos},
+  title     = {Synchronised range queries in distributed simulations of multiagent systems},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {4},
+  year      = 2013,
+  pages     = {25},
+}
+
 @article{DBLP:journals/tomacs/ChenAN12,
   author    = {Xi Chen and
                Bruce E. Ankenman and

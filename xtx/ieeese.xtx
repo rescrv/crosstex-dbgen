@@ -941,7 +941,309 @@
   volume    = {39},
   number    = {9},
   year      = 2013,
-  pages     = {1307-13256},
+  pages     = {1307-1325},
+}
+
+@article{DBLP:journals/tse/SampathBM13,
+  author    = {Sreedevi Sampath and
+               Renée C. Bryce and
+               Atif M. Memon},
+  title     = {A Uniform Representation of Hybrid Criteria for Regression Testing},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {10},
+  year      = 2013,
+  pages     = {1326-1344},
+}
+
+@article{DBLP:journals/tse/MondenHSSYBM13,
+  author    = {Akito Monden and
+               Takuma Hayashi and
+               Shoji Shinoda and
+               Kumiko Shirai and
+               Junichi Yoshida and
+               Mike Barker and
+               Ken-ichi Matsumoto},
+  title     = {Assessing the Cost Effectiveness of Fault Prediction in Acceptance Testing},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {10},
+  year      = 2013,
+  pages     = {1345-1357},
+}
+
+@article{DBLP:journals/tse/BrunHEN13,
+  author    = {Yuriy Brun and
+               Reid Holmes and
+               Michael D. Ernst and
+               David Notkin},
+  title     = {Early Detection of Collaboration Conflicts and Risks},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {10},
+  year      = 2013,
+  pages     = {1358-1375},
+}
+
+@article{DBLP:journals/tse/AliIAB13,
+  author    = {Shaukat Ali and
+               Muhammad Zohaib Z. Iqbal and
+               Andrea Arcuri and
+               Lionel C. Briand},
+  title     = {Generating Test Data from {OCL} Constraints with Search Techniques},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {10},
+  year      = 2013,
+  pages     = {1376-1402},
+}
+
+@article{DBLP:journals/tse/BasinHKZ13,
+  author    = {David A. Basin and
+               Matús Harvan and
+               Felix Klaedtke and
+               Eugen Zalinescu},
+  title     = {Monitoring Data Usage in Distributed Systems},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {10},
+  year      = 2013,
+  pages     = {1403-1426},
+}
+
+@article{DBLP:journals/tse/ThomasNBH13,
+  author    = {Stephen W. Thomas and
+               Meiyappan Nagappan and
+               Dorothea Blostein and
+               Ahmed E. Hassan},
+  title     = {The Impact of Classifier Configuration and Classifier Combination on Bug Localization},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {10},
+  year      = 2013,
+  pages     = {1427-1443},
+}
+
+@article{DBLP:journals/tse/YeJ13,
+  author    = {Chunyang Ye and
+               Hans-Arno Jacobsen},
+  title     = {Whitening {SOA} Testing via Event Exposure},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {10},
+  year      = 2013,
+  pages     = {1444-1465},
+}
+
+@article{DBLP:journals/tse/Nuseibeh13d,
+  author    = {Bashar Nuseibeh},
+  title     = {In Memoriam: Mary Jean Harrold (1947-2013)},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {11},
+  year      = 2013,
+  pages     = {1466},
+}
+
+@article{DBLP:journals/tse/EsfahaniEM13,
+  author    = {Naeem Esfahani and
+               Ahmed M. Elkhodary and
+               Sam Malek},
+  title     = {A {Learning-Based} Framework for Engineering {Feature-Oriented} {Self-Adaptive} Software Systems},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {11},
+  year      = 2013,
+  pages     = {1467-1493},
+}
+
+@article{DBLP:journals/tse/AliHG13,
+  author    = {Norhayati Mohd. Ali and
+               John G. Hosking and
+               John Grundy},
+  title     = {A Taxonomy and Mapping of {Computer-Based} Critiquing Tools},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {11},
+  year      = 2013,
+  pages     = {1494-1520},
+}
+
+@article{DBLP:journals/tse/LittlewoodP13,
+  author    = {Bev Littlewood and
+               Andrey Povyakalo},
+  title     = {Conservative Reasoning about the Probability of Failure on Demand of a 1-out-of-2 {Software-Based} System in Which One Channel Is "Possibly Perfect"},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {11},
+  year      = 2013,
+  pages     = {1521-1530},
+}
+
+@article{DBLP:journals/tse/RederE13,
+  author    = {Alexander Reder and
+               Alexander Egyed},
+  title     = {Determining the Cause of a Design Model Inconsistency},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {11},
+  year      = 2013,
+  pages     = {1531-1548},
+}
+
+@article{DBLP:journals/tse/ChenT13,
+  author    = {Huo Yan Chen and
+               T. H. Tse},
+  title     = {Equality to Equals and Unequals: A Revisit of the Equivalence and Nonequivalence Criteria in {Class-Level} Testing of {Object-Oriented} Software},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {11},
+  year      = 2013,
+  pages     = {1549-1563},
+}
+
+@article{DBLP:journals/tse/KailasamGDS13,
+  author    = {Sriram Kailasam and
+               Nathan Gnanasambandam and
+               Dharanipragada Janakiram and
+               Naveen Sharma},
+  title     = {Optimizing Ordered Throughput Using Autonomic Cloud Bursting Schedulers},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {11},
+  year      = 2013,
+  pages     = {1564-1581},
+}
+
+@article{DBLP:journals/tse/CarvajalMSS13,
+  author    = {Laura Carvajal and
+               Ana María Moreno and
+               Maria Isabel Sánchez Segura and
+               Ahmed Seffah},
+  title     = {Usability through Software Design},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {11},
+  year      = 2013,
+  pages     = {1582-1596},
+}
+
+@article{DBLP:journals/tse/KimTKZ13,
+  author    = {Dongsun Kim and
+               Yida Tao and
+               Sunghun Kim and
+               Andreas Zeller},
+  title     = {Where Should We Fix This Bug? A {Two-Phase} Recommendation Model},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {11},
+  year      = 2013,
+  pages     = {1597-1610},
+}
+
+@article{DBLP:journals/tse/BergerSLWC13,
+  author    = {Thorsten Berger and
+               Steven She and
+               Rafael Lotufo and
+               Andrzej Wasowski and
+               Krzysztof Czarnecki},
+  title     = {A Study of Variability Models and Languages in the Systems Software Domain},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {12},
+  year      = 2013,
+  pages     = {1611-1640},
+}
+
+@article{DBLP:journals/tse/LittlewoodP13a,
+  author    = {Bev Littlewood and
+               Andrey Povyakalo},
+  title     = {Conservative Bounds for the pfd of a 1-out-of-2 {Software-Based} System Based on an Assessor's Subjective Probability of "Not Worse Than Independence"},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {12},
+  year      = 2013,
+  pages     = {1641-1653},
+}
+
+@article{DBLP:journals/tse/StoleeE13,
+  author    = {Kathryn T. Stolee and
+               Sebastian G. Elbaum},
+  title     = {Identification, Impact, and Refactoring of Smells in {Pipe-Like} Web Mashups},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {12},
+  year      = 2013,
+  pages     = {1654-1679},
+}
+
+@article{DBLP:journals/tse/MarasSCC13,
+  author    = {Josip Maras and
+               Maja Stula and
+               Jan Carlson and
+               Ivica Crnkovic},
+  title     = {Identifying Code of Individual Features in {Client-Side} Web Applications},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {12},
+  year      = 2013,
+  pages     = {1680-1697},
+}
+
+@article{DBLP:journals/tse/MenziesBKHWEGB13,
+  author    = {Tim Menzies and
+               Adam Brady and
+               Jacky Keung and
+               Jairus Hihn and
+               Steve Williams and
+               Oussama El-Rawas and
+               Phillip Green II and
+               Barry W. Boehm},
+  title     = {Learning Project Management Decisions: A Case Study with {Case-Based} Reasoning versus Data Farming},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {12},
+  year      = 2013,
+  pages     = {1698-1713},
+}
+
+@article{DBLP:journals/tse/CoorayKMR13,
+  author    = {Deshan Cooray and
+               Ehsan Kouroshfar and
+               Sam Malek and
+               Roshanak Roshandel},
+  title     = {Proactive {Self-Adaptation} for Improving the Reliability of Mission-Critical, Embedded, and Mobile Software},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {12},
+  year      = 2013,
+  pages     = {1714-1735},
+}
+
+@article{DBLP:journals/tse/HaririCMCM13,
+  author    = {Negar Hariri and
+               Carlos Castro-Herrera and
+               Mehdi Mirakhorli and
+               Jane Cleland-Huang and
+               Bamshad Mobasher},
+  title     = {Supporting Domain Analysis through Mining and Recommending Features from Online Product Listings},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {12},
+  year      = 2013,
+  pages     = {1736-1752},
+}
+
+@article{DBLP:journals/tse/LeeED13,
+  author    = {Gwanhoo Lee and
+               J. Alberto Espinosa and
+               William H. DeLone},
+  title     = {Task Environment Complexity, Global Team Dispersion, Process Capabilities, and Coordination in Software Development},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {12},
+  year      = 2013,
+  pages     = {1753-1771},
 }
 
 @article{DBLP:journals/tse/Nuseibeh12,
@@ -1261,7 +1563,7 @@
 
 @article{DBLP:journals/tse/SalmeronL12,
   author    = {Jose L. Salmeron and
-               Cristina Lopez},
+               Cristina López},
   title     = {Forecasting Risk Impact on {ERP} Maintenance with Augmented Fuzzy Cognitive Maps},
   journal   = ieeese,
   volume    = {38},
@@ -5915,7 +6217,7 @@
 
 @article{DBLP:journals/tse/RenCR06,
   author    = {Xiaoxia Ren and
-               Ophelia Chesley and
+               Ophelia C. Chesley and
                Barbara G. Ryder},
   title     = {Identifying Failure Causes in Java Programs: An Application of Change Impact Analysis},
   journal   = ieeese,
@@ -21360,8 +21662,8 @@
 }
 
 @article{DBLP:journals/tse/BeckerC90,
-  author    = {G. Becker and
-               L. Camarinopoulos},
+  author    = {Günter Becker and
+               Leonidas Camarinopoulos},
   title     = {A Bayesian Estimation Method for the Failure Rate a Possibly Correct Program},
   journal   = ieeese,
   volume    = {16},
@@ -26443,7 +26745,7 @@
 }
 
 @article{DBLP:journals/tse/LaviBB87,
-  author    = {Jonah Z. Loeb (Lavi) and
+  author    = {Jonah Z. Lavi and
                Moshe I. Ben-Porat and
                Amram Ben-David},
   title     = {{IAI} Corporate Software Engineering Training and Education Program},
@@ -30348,7 +30650,7 @@
 @article{DBLP:journals/tse/Ben-DavidBLR84,
   author    = {Amram Ben-David and
                Moshe I. Ben-Porat and
-               Jonah Z. Loeb (Lavi) and
+               Jonah Z. Loeb and
                Michael Rich},
   title     = {An Industrial Software Engineering Retraining Course: Development Considerations and Lessons Learned},
   journal   = ieeese,

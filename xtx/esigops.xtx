@@ -1284,7 +1284,7 @@
 @inproceedings{DBLP:conf/sigopsE/VeigaGSF00,
   author    = {Luís Veiga and
                João Garcia and
-               João Silva and
+               João M. Silva and
                Paulo Ferreira},
   title     = {Distributed object invocation in {OBIWAN}},
   booktitle = esigops,

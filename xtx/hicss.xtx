@@ -1190,7 +1190,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/RogersJCW13,
-  author    = {Keith Rogers and
+  author    = {Keith W. Rogers and
                Tracy A. Jenkin and
                Jacqueline Corbett and
                Jane Webster},
@@ -1759,7 +1759,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/CastellanoFPT13,
-  author    = {G. Castellano and
+  author    = {Giovanna Castellano and
                Anna Maria Fanelli and
                F. Paparella and
                Maria Alessandra Torsello},
@@ -4865,7 +4865,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/RuiS13,
-  author    = {Jian Rui and
+  author    = {Jian Raymond Rui and
                Michael A. Stefanone},
   title     = {Strategic Management of {Other-Provided} Information Online: Personality and Network Variables},
   booktitle = hicss,
@@ -5426,7 +5426,7 @@
 
 @inproceedings{DBLP:conf/hicss/FariaMK13,
   author    = {Fernando de Abreu Faria and
-               Antonio Carlos Gastaud Macada and
+               Antonio Carlos Gastaud Maçada and
                Kuldeep Kumar},
   title     = {Information Governance in the Banking Industry},
   booktitle = hicss,
@@ -5829,7 +5829,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/OliveiraGM13,
-  author    = {Renato de Melo Oliveira and
+  author    = {Renan de Melo Oliveira and
                Alfredo Goldman and
                Claudia de O. Melo},
   title     = {Designing and Managing Agile Informative Workspaces: Discovering and Exploring Patterns},
@@ -7546,7 +7546,7 @@
 @inproceedings{DBLP:conf/hicss/BjorkMN12,
   author    = {Kaj-Mikael Björk and
                József Mezei and
-               Henrik Nyman},
+               Henrik J. Nyman},
   title     = {A Multi-item Fuzzy Economic Production Quantity Problem with Limited Storage Space},
   booktitle = hicss,
   year      = 2012,
@@ -9596,7 +9596,7 @@
 
 @inproceedings{DBLP:conf/hicss/WangG12,
   author    = {Qingliang Wang and
-               Khim Yong Goh},
+               Khim-Yong Goh},
   title     = {Investigating Consumers' Variety Seeking Behavior in the Light of Online Reviews: An Individual Level Panel Analysis},
   booktitle = hicss,
   year      = 2012,
@@ -10990,7 +10990,7 @@
 
 @inproceedings{DBLP:conf/hicss/EckartzKM12,
   author    = {Silja Eckartz and
-               Christiaan Katsma and
+               Christiaan P. Katsma and
                Ruud Oude Maatman},
   title     = {A Design Proposal for a Benefits Management Method for Enterprise System Implementations},
   booktitle = hicss,
@@ -11093,7 +11093,7 @@
 }
 
 @inproceedings{DBLP:conf/hicss/Nyman12,
-  author    = {Henrik John Nyman},
+  author    = {Henrik J. Nyman},
   title     = {An Exploratory Study of Supply Chain Management {IT} Solutions},
   booktitle = hicss,
   year      = 2012,
@@ -19255,7 +19255,7 @@
   author    = {Yuanyuan Hao and
                Qiang Ye and
                Yijun Li and
-               Zhuo Cheng},
+               Zhuo (June) Cheng},
   title     = {How Does the Valence of Online Consumer Reviews Matter in Consumer Decision Making? Differences between Search Goods and Experience Goods},
   booktitle = hicss,
   year      = 2010,
@@ -20383,7 +20383,7 @@
 
 @inproceedings{DBLP:conf/hicss/PengN10,
   author    = {Guo Chao Peng and
-               Miguel Baptista Nunes},
+               José Miguel Baptista Nunes},
   title     = {Exploring Cultural Impact on {Long-Term} Utilization of Enterprise Systems},
   booktitle = hicss,
   year      = 2010,
@@ -20392,7 +20392,7 @@
 
 @inproceedings{DBLP:conf/hicss/PengN10a,
   author    = {Guo Chao Peng and
-               Miguel Baptista Nunes},
+               José Miguel Baptista Nunes},
   title     = {Interrelated Barriers and Risks Affecting {ERP} {Post-Implementation} in China},
   booktitle = hicss,
   year      = 2010,
@@ -44876,8 +44876,8 @@
 @inproceedings{DBLP:conf/hicss/MeliopoulosCIBM05,
   author    = {A. P. Sakis Meliopoulos and
                George J. Cokkinides and
-               Mike Ingram and
-               Sandra Bell and
+               Michael R. Ingram and
+               Sandra C. Bell and
                Sherica Mathews},
   title     = {Visualization and Animation of State Estimation Performance},
   booktitle = hicss,
@@ -48812,9 +48812,9 @@
 }
 
 @inproceedings{DBLP:conf/hicss/GuochuangAWT04,
-  author    = {Fan Guochuang and
+  author    = {Guochuang Fan and
                Chen An and
-               Zhang Wenbo and
+               Wenbo Zhang and
                Huang Tao},
   title     = {WebFrame: a {Multi-Phase} Reconfigurable Middleware Platform},
   booktitle = hicss,
@@ -57004,7 +57004,7 @@
 
 @inproceedings{DBLP:conf/hicss/HwangV03,
   author    = {Youngki Hwang and
-               Pramod Varshney},
+               Pramod K. Varshney},
   title     = {An Adaptive {QoS} Routing Protocol with Dispersity for Ad-hoc Networks},
   booktitle = hicss,
   year      = 2003,
@@ -64477,7 +64477,7 @@
   author    = {Stephen D. Kleban and
                William A. Stubblefield and
                K. W. Mitchiner and
-               J. L. Mitchiner and
+               John L. Mitchiner and
                M. Arms},
   title     = {Collaborative Evaluation of Early Design Decisions and Product Manufacturability},
   booktitle = hicss,
@@ -70363,7 +70363,7 @@
 
 @inproceedings{DBLP:conf/hicss/WildeL00,
   author    = {Erik Wilde and
-               David Lowe},
+               David B. Lowe},
   title     = {From {Content-Centered} Publishing to a Link-based View of Information Resources},
   booktitle = hicss,
   year      = 2000,

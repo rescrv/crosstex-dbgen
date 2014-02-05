@@ -94,6 +94,77 @@
   pages     = {8},
 }
 
+@article{DBLP:journals/toplas/BartheKOB13,
+  author    = {Gilles Barthe and
+               Boris Köpf and
+               Federico Olmedo and
+               Santiago Zanella Béguelin},
+  title     = {Probabilistic Relational Reasoning for Differential Privacy},
+  journal   = toplas,
+  volume    = {35},
+  number    = {3},
+  year      = 2013,
+  pages     = {9},
+}
+
+@article{DBLP:journals/toplas/BouajjaniE13,
+  author    = {Ahmed Bouajjani and
+               Michael Emmi},
+  title     = {Analysis of Recursively Parallel Programs},
+  journal   = toplas,
+  volume    = {35},
+  number    = {3},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/toplas/StricklandDTF13,
+  author    = {T. Stephen Strickland and
+               Christos Dimoulas and
+               Asumu Takikawa and
+               Matthias Felleisen},
+  title     = {Contracts for {First-Class} Classes},
+  journal   = toplas,
+  volume    = {35},
+  number    = {3},
+  year      = 2013,
+  pages     = {11},
+}
+
+@article{DBLP:journals/toplas/Lochbihler13,
+  author    = {Andreas Lochbihler},
+  title     = {Making the java memory model safe},
+  journal   = toplas,
+  volume    = {35},
+  number    = {4},
+  year      = 2013,
+  pages     = {12},
+}
+
+@article{DBLP:journals/toplas/SampaioSCP13,
+  author    = {Diogo Sampaio and
+               Rafael Martins de Souza and
+               Sylvain Collange and
+               Fernando Magno Quintão Pereira},
+  title     = {Divergence analysis},
+  journal   = toplas,
+  volume    = {35},
+  number    = {4},
+  year      = 2013,
+  pages     = {13},
+}
+
+@article{DBLP:journals/toplas/NikolicS13,
+  author    = {Durica Nikolic and
+               Fausto Spoto},
+  title     = {Reachability analysis of program variables},
+  journal   = toplas,
+  volume    = {35},
+  number    = {4},
+  year      = 2013,
+  pages     = {14},
+}
+
 @article{DBLP:journals/toplas/Palsberg12,
   author    = {Jens Palsberg},
   title     = {Editorial},

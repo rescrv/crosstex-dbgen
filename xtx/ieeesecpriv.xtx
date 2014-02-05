@@ -1,5 +1,25 @@
 @include journals-cs
 
+@article{DBLP:journals/ieeesp/Pfleeger13b,
+  author    = {Shari Lawrence Pfleeger},
+  title     = {Focus on Policy},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {3},
+}
+
+@article{DBLP:journals/ieeesp/Bloomfield13,
+  author    = {Robin Bloomfield},
+  title     = {Open Assurance},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {3-4},
+}
+
 @article{DBLP:journals/ieeesp/Epstein13,
   author    = {Jeremy Epstein},
   title     = {Are All Types of Internet Voting Unsafe?},
@@ -38,6 +58,16 @@
   number    = {4},
   year      = 2013,
   pages     = {3-4},
+}
+
+@article{DBLP:journals/ieeesp/McGraw13e,
+  author    = {Gary McGraw},
+  title     = {Silver Bullet Talks with W. Hord Tipton},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {5-7},
 }
 
 @article{DBLP:journals/ieeesp/Garber13,
@@ -80,6 +110,26 @@
   pages     = {6-7},
 }
 
+@article{DBLP:journals/ieeesp/Garber13d,
+  author    = {Lee Garber},
+  title     = {Security, Privacy, Policy, and Dependability Roundup},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {6-7},
+}
+
+@article{DBLP:journals/ieeesp/Garber13e,
+  author    = {Lee Garber},
+  title     = {Security, Privacy, Policy, and Dependability Roundup},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {8-9},
+}
+
 @article{DBLP:journals/ieeesp/McGraw13,
   author    = {Gary McGraw},
   title     = {Silver Bullet Talks with {Per-Olof} Persson},
@@ -110,6 +160,16 @@
   pages     = {8-10},
 }
 
+@article{DBLP:journals/ieeesp/McGraw13d,
+  author    = {Gary McGraw},
+  title     = {Silver Bullet Talks with Wenyuan Xu},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {8-10},
+}
+
 @article{DBLP:journals/ieeesp/McGraw13a,
   author    = {Gary McGraw},
   title     = {Silver Bullet Talks with Steve Bellovin},
@@ -118,6 +178,17 @@
   number    = {2},
   year      = 2013,
   pages     = {8-11},
+}
+
+@article{DBLP:journals/ieeesp/CaineL13,
+  author    = {Kelly Caine and
+               Michael Lesk},
+  title     = {Security and Privacy in Health {IT}},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {10-11},
 }
 
 @article{DBLP:journals/ieeesp/AmorosoT13,
@@ -161,6 +232,34 @@
   number    = {2},
   year      = 2013,
   pages     = {12-13},
+}
+
+@article{DBLP:journals/ieeesp/ChignellRKSYS13,
+  author    = {Mark H. Chignell and
+               Mahsa Rouzbahman and
+               Ryan Kealey and
+               Reza Samavi and
+               Erin Yu and
+               Tammy Sieminowski},
+  title     = {Nonconfidential Patient Types in Emergency Clinical Decision Support},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {12-18},
+}
+
+@article{DBLP:journals/ieeesp/KirkhamWRK13,
+  author    = {Tom Kirkham and
+               Sandra Winfield and
+               Serge Ravet and
+               Sampo Kellomaki},
+  title     = {The Personal Data Store Approach to Personal Data Security},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {12-19},
 }
 
 @article{DBLP:journals/ieeesp/Martin13,
@@ -220,6 +319,27 @@
   pages     = {15-22},
 }
 
+@article{DBLP:journals/ieeesp/Lesk13b,
+  author    = {Michael Lesk},
+  title     = {Electronic Medical Records: Confidentiality, Care, and Epidemiology},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {19-24},
+}
+
+@article{DBLP:journals/ieeesp/HarrisonW13,
+  author    = {Keith Harrison and
+               Gregory B. White},
+  title     = {Anonymous and Distributed Community Cyberincident Detection},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {20-27},
+}
+
 @article{DBLP:journals/ieeesp/AndradeMM13,
   author    = {Norberto Nuno Gomes de Andrade and
                Aaron Martin and
@@ -252,6 +372,37 @@
   number    = {2},
   year      = 2013,
   pages     = {24-33},
+}
+
+@article{DBLP:journals/ieeesp/AnthonyCCGKMMPSGJ13,
+  author    = {Denise Anthony and
+               Andrew T. Campbell and
+               Thomas Candon and
+               Andrew Gettinger and
+               David Kotz and
+               Lisa A. Marsch and
+               Andres Molina-Markham and
+               Karen Page and
+               Sean W. Smith and
+               Carl A. Gunter and
+               M. Eric Johnson},
+  title     = {Securing Information Technology in Healthcare},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {25-33},
+}
+
+@article{DBLP:journals/ieeesp/GohY13,
+  author    = {Weihan Goh and
+               Chai Kiat Yeo},
+  title     = {Teaching an Old {TPM} New Tricks: Repurposing for {Identity-Based} Signatures},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {28-35},
 }
 
 @article{DBLP:journals/ieeesp/MitraWM13,
@@ -287,6 +438,19 @@
   pages     = {34-41},
 }
 
+@article{DBLP:journals/ieeesp/TormoMGP13,
+  author    = {Ginés Dólera Tormo and
+               Félix Gómez Mármol and
+               João Girão and
+               Gregorio Martínez Pérez},
+  title     = {Identity {Management-In} Privacy We Trust: Bridging the Trust Gap in {eHealth} Environments},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {34-41},
+}
+
 @article{DBLP:journals/ieeesp/Kufel13,
   author    = {Lukasz Kufel},
   title     = {Security Event Monitoring in a Distributed Systems Environment},
@@ -295,6 +459,17 @@
   number    = {1},
   year      = 2013,
   pages     = {36-43},
+}
+
+@article{DBLP:journals/ieeesp/BirrellS13,
+  author    = {Eleanor Birrell and
+               Fred B. Schneider},
+  title     = {Federated Identity Management Systems: A {Privacy-Based} Characterization},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {36-48},
 }
 
 @article{DBLP:journals/ieeesp/CotroneoN13,
@@ -317,6 +492,17 @@
   number    = {3},
   year      = 2013,
   pages     = {38-45},
+}
+
+@article{DBLP:journals/ieeesp/PeelM13,
+  author    = {Deborah C. Peel and
+               Deven McGraw},
+  title     = {Point/Counterpoint},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {42-44},
 }
 
 @article{DBLP:journals/ieeesp/BenzelORAS13,
@@ -345,6 +531,18 @@
   number    = {1},
   year      = 2013,
   pages     = {44-53},
+}
+
+@article{DBLP:journals/ieeesp/AhmedJW13,
+  author    = {Abdulghani Ali Ahmed and
+               Aman Jantan and
+               Tat Chee Wan},
+  title     = {{Real-Time} Detection of Intrusive Traffic in {QoS} Network Domains},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {45-53},
 }
 
 @article{DBLP:journals/ieeesp/SinghBMKA13,
@@ -385,6 +583,19 @@
   pages     = {47-54},
 }
 
+@article{DBLP:journals/ieeesp/QiuSLL13,
+  author    = {Wei-dong Qiu and
+               Qian Su and
+               Bo-zhong Liu and
+               Yan Li},
+  title     = {{iOS} Data Recovery Using {Low-Level} {NAND} Images},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {49-55},
+}
+
 @article{DBLP:journals/ieeesp/AndersonS13,
   author    = {Jonathan Anderson and
                Frank Stajano},
@@ -394,6 +605,17 @@
   number    = {3},
   year      = 2013,
   pages     = {51-60},
+}
+
+@article{DBLP:journals/ieeesp/KaurS13,
+  author    = {Sanmeet Kaur and
+               Maninder Singh},
+  title     = {Automatic Attack Signature Generation Systems: A Review},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {54-61},
 }
 
 @article{DBLP:journals/ieeesp/SoodE13,
@@ -428,6 +650,16 @@
   pages     = {55-62},
 }
 
+@article{DBLP:journals/ieeesp/Marx13,
+  author    = {Gary T. Marx},
+  title     = {The Public as Partner? Technology Can Make Us Auxiliaries as Well as Vigilantes},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {56-61},
+}
+
 @article{DBLP:journals/ieeesp/KoopmanS13,
   author    = {Philip Koopman and
                Christopher Szilagyi},
@@ -437,6 +669,27 @@
   number    = {3},
   year      = 2013,
   pages     = {61-63},
+}
+
+@article{DBLP:journals/ieeesp/Haverkort13,
+  author    = {Boudewijn R. Haverkort},
+  title     = {The Dependable {Systems-of-Systems} Design Challenge},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {62-65},
+}
+
+@article{DBLP:journals/ieeesp/VerissimoB13,
+  author    = {Paulo Jorge Esteves Veríssimo and
+               Alysson Neves Bessani},
+  title     = {E-biobanking: What Have You Done to My Cell Samples?},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {62-65},
 }
 
 @article{DBLP:journals/ieeesp/BellovinBCL13,
@@ -485,6 +738,26 @@
   pages     = {64-68},
 }
 
+@article{DBLP:journals/ieeesp/McGettrick13,
+  author    = {Andrew D. McGettrick},
+  title     = {Toward Effective Cybersecurity Education},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {66-68},
+}
+
+@article{DBLP:journals/ieeesp/Irvine13,
+  author    = {Cynthia E. Irvine},
+  title     = {A Cyberoperations Program},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {66-69},
+}
+
 @article{DBLP:journals/ieeesp/GorbenkoR13,
   author    = {Anatoliy Gorbenko and
                Alexander Romanovsky},
@@ -506,6 +779,16 @@
   pages     = {68-71},
 }
 
+@article{DBLP:journals/ieeesp/Dewey-Hagborg13,
+  author    = {Heather Dewey-Hagborg},
+  title     = {Stranger Visions: A Provocation},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {69-70},
+}
+
 @article{DBLP:journals/ieeesp/Eagle13,
   author    = {Chris Eagle},
   title     = {Computer Security Competitions: Expanding Educational Outcomes},
@@ -514,6 +797,28 @@
   number    = {4},
   year      = 2013,
   pages     = {69-71},
+}
+
+@article{DBLP:journals/ieeesp/Calo13,
+  author    = {Ryan Calo},
+  title     = {Tiny Salespeople: Mediated Transactions and the Internet of Things},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {70-72},
+}
+
+@article{DBLP:journals/ieeesp/CioranescoFN13,
+  author    = {Jean-Michel Cioranesco and
+               Houda Ferradi and
+               David Naccache},
+  title     = {Communicating Covertly through {CPU} Monitoring},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {71-73},
 }
 
 @article{DBLP:journals/ieeesp/AcquistiAB13,
@@ -550,6 +855,17 @@
   pages     = {72-76},
 }
 
+@article{DBLP:journals/ieeesp/MatyasK13,
+  author    = {Vashek Matyas and
+               Jirí Kur},
+  title     = {Conflicts between Intrusion Detection and Privacy Mechanisms for Wireless Sensor Networks},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {73-76},
+}
+
 @article{DBLP:journals/ieeesp/YasinsacI13,
   author    = {Alec Yasinsac and
                Cynthia E. Irvine},
@@ -559,6 +875,18 @@
   number    = {1},
   year      = 2013,
   pages     = {73-77},
+}
+
+@article{DBLP:journals/ieeesp/CardenasMR13,
+  author    = {Alvaro A. Cárdenas and
+               Pratyusa K. Manadhata and
+               Sreeranga P. Rajan},
+  title     = {Big Data Analytics for Security},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {74-76},
 }
 
 @article{DBLP:journals/ieeesp/Narayanan13,
@@ -581,6 +909,17 @@
   pages     = {75-77},
 }
 
+@article{DBLP:journals/ieeesp/Alves-FossO13,
+  author    = {Jim Alves-Foss and
+               Paul W. Oman},
+  title     = {The Known Unknowns},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {77-79},
+}
+
 @article{DBLP:journals/ieeesp/CranorS13,
   author    = {Lorrie Faith Cranor and
                Norman M. Sadeh},
@@ -588,6 +927,16 @@
   journal   = ieeesecpriv,
   volume    = {11},
   number    = {2},
+  year      = 2013,
+  pages     = {77-79},
+}
+
+@article{DBLP:journals/ieeesp/Lesk13c,
+  author    = {Michael Lesk},
+  title     = {The Old Is New Again},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
   year      = 2013,
   pages     = {77-79},
 }
@@ -621,6 +970,29 @@
   number    = {2},
   year      = 2013,
   pages     = {80-82},
+}
+
+@article{DBLP:journals/ieeesp/BlytheKS13,
+  author    = {Jim Blythe and
+               Ross Koppel and
+               Sean W. Smith},
+  title     = {Circumvention of Security: Good Users Do Bad Things},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {80-83},
+}
+
+@article{DBLP:journals/ieeesp/MeadH13,
+  author    = {Nancy R. Mead and
+               Thomas B. Hilburn},
+  title     = {Building Security In: Preparing for a Software Security Career},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {80-83},
 }
 
 @article{DBLP:journals/ieeesp/Lesk13,
@@ -664,6 +1036,27 @@
   pages     = {83-88},
 }
 
+@article{DBLP:journals/ieeesp/Molotch13,
+  author    = {Harvey Molotch},
+  title     = {Everyday Security: Default to Decency},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {84-87},
+}
+
+@article{DBLP:journals/ieeesp/EllisonH13,
+  author    = {Nicole B. Ellison and
+               Jeffrey T. Hancock},
+  title     = {Profile as Promise: Honest and Deceptive Signals in Online Dating},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {84-88},
+}
+
 @article{DBLP:journals/ieeesp/Pfleeger13a,
   author    = {Shari Lawrence Pfleeger},
   title     = {Ramsey Theory: Learning about the Needle in the Haystack},
@@ -704,12 +1097,33 @@
   pages     = {88},
 }
 
+@article{DBLP:journals/ieeesp/Bellovin13a,
+  author    = {Steven M. Bellovin},
+  title     = {Walls and Gates},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {88},
+}
+
 @article{DBLP:journals/ieeesp/Herley13,
   author    = {Cormac Herley},
   title     = {When Does Targeting Make Sense for an Attacker?},
   journal   = ieeesecpriv,
   volume    = {11},
   number    = {2},
+  year      = 2013,
+  pages     = {89-92},
+}
+
+@article{DBLP:journals/ieeesp/HilburnM13,
+  author    = {Thomas B. Hilburn and
+               Nancy R. Mead},
+  title     = {Building Security In: A Road to Competency},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
   year      = 2013,
   pages     = {89-92},
 }
@@ -741,6 +1155,16 @@
   journal   = ieeesecpriv,
   volume    = {11},
   number    = {2},
+  year      = 2013,
+  pages     = {93-95},
+}
+
+@article{DBLP:journals/ieeesp/Gradon13,
+  author    = {Kacper Gradon},
+  title     = {Crime Science and the Internet Battlefield: Securing the Analog World from Digital Crime},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
   year      = 2013,
   pages     = {93-95},
 }
@@ -792,6 +1216,16 @@
   journal   = ieeesecpriv,
   volume    = {11},
   number    = {2},
+  year      = 2013,
+  pages     = {96},
+}
+
+@article{DBLP:journals/ieeesp/Schneier13a,
+  author    = {Bruce Schneier},
+  title     = {Trust in Man/Machine Security Systems},
+  journal   = ieeesecpriv,
+  volume    = {11},
+  number    = {5},
   year      = 2013,
   pages     = {96},
 }

@@ -363,7 +363,7 @@
 @inproceedings{DBLP:conf/fast/YadwadkarBGNS10,
   author    = {Neeraja J. Yadwadkar and
                Chiranjib Bhattacharyya and
-               K. Gopinath and
+               Kanchi Gopinath and
                Thirumale Niranjan and
                Sai Susarla},
   title     = {Discovery of Application Workloads from Network File Traces},

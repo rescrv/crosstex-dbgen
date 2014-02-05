@@ -527,7 +527,7 @@
                Noël Crespi and
                Lin Lv and
                Mingchu Li and
-               Antonio M. Ortiz and
+               Antonio Manuel Ortiz and
                Lei Shu},
   title     = {Locating using prior information: wireless indoor localization algorithm},
   booktitle = sigcomm,
@@ -1591,7 +1591,7 @@
                Suk-Bok Lee and
                Hyeontaek Lim and
                Michel Machado and
-               Matthew Mukerjee and
+               Matthew K. Mukerjee and
                David Naylor},
   title     = {Supporting network evolution and incremental deployment with {XIA}},
   booktitle = sigcomm,
@@ -3840,7 +3840,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/BrodskyM09,
   author    = {Micah Z. Brodsky and
-               Robert T. Morris},
+               Robert Tappan Morris},
   title     = {In defense of wireless carrier sense},
   booktitle = sigcomm,
   year      = 2009,
@@ -6560,7 +6560,7 @@
 @inproceedings{DBLP:conf/sigcomm/FredBPRR01,
   author    = {Slim Ben Fredj and
                Thomas Bonald and
-               Alexandre Proutiére and
+               Alexandre Proutière and
                G. Régnié and
                James W. Roberts},
   title     = {Statistical bandwidth sharing: a study of congestion at flow level},

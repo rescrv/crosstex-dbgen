@@ -237,6 +237,117 @@
   pages     = {19},
 }
 
+@article{DBLP:journals/tods/Ozsoyoglu13,
+  author    = {Z. Meral Özsoyoglu},
+  title     = {Foreword to invited papers issue},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {20},
+}
+
+@article{DBLP:journals/tods/MozafariZDZ13,
+  author    = {Barzan Mozafari and
+               Kai Zeng and
+               Loris D'Antoni and
+               Carlo Zaniolo},
+  title     = {High-performance complex event processing over hierarchical data},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {21},
+}
+
+@article{DBLP:journals/tods/SarmaLGMH13,
+  author    = {Anish Das Sarma and
+               Hongrae Lee and
+               Hector Gonzalez and
+               Jayant Madhavan and
+               Alon Y. Halevy},
+  title     = {Consistent thinning of large geographical data for map visualization},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {22},
+}
+
+@article{DBLP:journals/tods/TeubnerWN13,
+  author    = {Jens Teubner and
+               Louis Woods and
+               Chongling Nie},
+  title     = {{XLynx} - An {FPGA-based} {XML} filter for hybrid {XQuery} processing},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {23},
+}
+
+@article{DBLP:journals/tods/LosemannM13,
+  author    = {Katja Losemann and
+               Wim Martens},
+  title     = {The complexity of regular expressions and property paths in {SPARQL}},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {24},
+}
+
+@article{DBLP:journals/tods/Letelier0PS13,
+  author    = {Andrés Letelier and
+               Jorge Pérez and
+               Reinhard Pichler and
+               Sebastian Skritek},
+  title     = {Static analysis and optimization of semantic web queries},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {25},
+}
+
+@article{DBLP:journals/tods/AgarwalCHPWY13,
+  author    = {Pankaj K. Agarwal and
+               Graham Cormode and
+               Zengfeng Huang and
+               Jeff M. Phillips and
+               Zhewei Wei and
+               Ke Yi},
+  title     = {Mergeable summaries},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {26},
+}
+
+@article{DBLP:journals/tods/KonradM13,
+  author    = {Christian Konrad and
+               Frédéric Magniez},
+  title     = {Validating {XML} documents in the streaming model with external memory},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {27},
+}
+
+@article{DBLP:journals/tods/CateDK13,
+  author    = {Balder ten Cate and
+               Víctor Dalmau and
+               Phokion G. Kolaitis},
+  title     = {Learning schema mappings},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {28},
+}
+
 @article{DBLP:journals/tods/Graefe12,
   author    = {Goetz Graefe},
   title     = {A survey of B-tree logging and recovery techniques},

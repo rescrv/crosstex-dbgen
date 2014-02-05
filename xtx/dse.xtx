@@ -743,7 +743,7 @@
 @article{DBLP:journals/dse/FoxonGH96,
   author    = {Tim Foxon and
                Mike Garth and
-               Peter Harrison},
+               Peter G. Harrison},
   title     = {Capacity planning in client - server systems},
   journal   = dse,
   volume    = {3},
@@ -843,7 +843,7 @@
 @article{DBLP:journals/dse/PavlouMS96,
   author    = {George Pavlou and
                George Mykoniatis and
-               Jorge-A. Sanchez-P.},
+               Jorge-A. Sanchez-Papaspiliou},
   title     = {Distributed intelligent monitoring and reporting facilities},
   journal   = dse,
   volume    = {3},

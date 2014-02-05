@@ -10239,7 +10239,7 @@
   author    = {Yunyao Li and
                Ishan Chaudhuri and
                Huahai Yang and
-               Satinder Singh and
+               Satinder P. Singh and
                H. V. Jagadish},
   title     = {DaNaLIX: a domain-adaptive natural language interface for querying {XML}},
   booktitle = sigmod,
@@ -25269,7 +25269,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Bell88,
-  author    = {Jean L. Bell},
+  author    = {Jean Luc Bell},
   title     = {A Specialized Data Management System For Parallel Execution of Particle Physics Codes},
   booktitle = sigmod,
   year      = 1988,
@@ -26763,7 +26763,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Bell82,
-  author    = {Jean L. Bell},
+  author    = {Jean Luc Bell},
   title     = {Data Modelling of Scientific Simulation Programs},
   booktitle = sigmod,
   year      = 1982,

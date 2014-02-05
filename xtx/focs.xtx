@@ -1,5 +1,768 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/focs/Avigdor-ElgrabliR13,
+  author    = {Noa Avigdor-Elgrabli and
+               Yuval Rabani},
+  title     = {An Improved Competitive Algorithm for Reordering Buffer Management},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/focs/ChiplunkarV13,
+  author    = {Ashish Chiplunkar and
+               Sundar Vishwanathan},
+  title     = {On Randomized Memoryless Algorithms for the Weighted {K-Server} Problem},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {11-19},
+}
+
+@inproceedings{DBLP:conf/focs/Rothvoss13,
+  author    = {Thomas Rothvoß},
+  title     = {Approximating Bin Packing within O(log {OPT} * Log Log OPT) Bins},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {20-29},
+}
+
+@inproceedings{DBLP:conf/focs/CheriyanV13,
+  author    = {Joseph Cheriyan and
+               László A. Végh},
+  title     = {Approximating {Minimum-Cost} {k-Node} Connected Subgraphs via {Independence-Free} Graphs},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {30-39},
+}
+
+@inproceedings{DBLP:conf/focs/GargGH0SW13,
+  author    = {Sanjam Garg and
+               Craig Gentry and
+               Shai Halevi and
+               Mariana Raykova and
+               Amit Sahai and
+               Brent Waters},
+  title     = {Candidate Indistinguishability Obfuscation and Functional Encryption for all Circuits},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {40-49},
+}
+
+@inproceedings{DBLP:conf/focs/ChungLP13,
+  author    = {Kai-Min Chung and
+               Huijia Lin and
+               Rafael Pass},
+  title     = {{Constant-Round} Concurrent Zero Knowledge from {P-Certificates}},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {50-59},
+}
+
+@inproceedings{DBLP:conf/focs/ChungOPV13,
+  author    = {Kai-Min Chung and
+               Rafail Ostrovsky and
+               Rafael Pass and
+               Ivan Visconti},
+  title     = {Simultaneous Resettability from {One-Way} Functions},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {60-69},
+}
+
+@inproceedings{DBLP:conf/focs/CanettiLP13,
+  author    = {Ran Canetti and
+               Huijia Lin and
+               Rafael Pass},
+  title     = {From Unprovability to Environmentally Friendly Protocols},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {70-79},
+}
+
+@inproceedings{DBLP:conf/focs/PaghSW13,
+  author    = {Rasmus Pagh and
+               Gil Segev and
+               Udi Wieder},
+  title     = {How to Approximate a Set without Knowing Its Size in Advance},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {80-89},
+}
+
+@inproceedings{DBLP:conf/focs/Thorup13,
+  author    = {Mikkel Thorup},
+  title     = {Simple Tabulation, Fast Expanders, Double Tabulation, and High Independence},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {90-99},
+}
+
+@inproceedings{DBLP:conf/focs/Li13,
+  author    = {Xin Li},
+  title     = {Extractors for a Constant Number of Independent Sources with Polylogarithmic {Min-Entropy}},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {100-109},
+}
+
+@inproceedings{DBLP:conf/focs/MoitraS13,
+  author    = {Ankur Moitra and
+               Michael Saks},
+  title     = {A Polynomial Time Algorithm for Lossy Population Recovery},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {110-116},
+}
+
+@inproceedings{DBLP:conf/focs/NelsonN13,
+  author    = {Jelani Nelson and
+               Huy L. Nguyen},
+  title     = {OSNAP: Faster Numerical Linear Algebra Algorithms via Sparser Subspace Embeddings},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {117-126},
+}
+
+@inproceedings{DBLP:conf/focs/LiMP13,
+  author    = {Mu Li and
+               Gary L. Miller and
+               Richard Peng},
+  title     = {Iterative Row Sampling},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {127-136},
+}
+
+@inproceedings{DBLP:conf/focs/GabowS13,
+  author    = {Harold N. Gabow and
+               Piotr Sankowski},
+  title     = {Algebraic Algorithms for B-Matching, Shortest Undirected Paths, and {F-Factors}},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {137-146},
+}
+
+@inproceedings{DBLP:conf/focs/LeeS13,
+  author    = {Yin Tat Lee and
+               Aaron Sidford},
+  title     = {Efficient Accelerated Coordinate Descent Methods and Faster Algorithms for Solving Linear Systems},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {147-156},
+}
+
+@inproceedings{DBLP:conf/focs/BabaiCSTW13,
+  author    = {László Babai and
+               Xi Chen and
+               Xiaorui Sun and
+               Shang-Hua Teng and
+               John Wilmes},
+  title     = {Faster Canonical Forms for Strongly Regular Graphs},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {157-166},
+}
+
+@inproceedings{DBLP:conf/focs/ChekuriS13,
+  author    = {Chandra Chekuri and
+               Anastasios Sidiropoulos},
+  title     = {Approximation Algorithms for Euler Genus and Related Problems},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {167-176},
+}
+
+@inproceedings{DBLP:conf/focs/Sidiropoulos13,
+  author    = {Anastasios Sidiropoulos},
+  title     = {Non-positive Curvature and the Planar Embedding Conjecture},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {177-186},
+}
+
+@inproceedings{DBLP:conf/focs/KawarabayashiK13,
+  author    = {Ken-ichi Kawarabayashi and
+               Yusuke Kobayashi},
+  title     = {{All-or-Nothing} Multicommodity Flow Problem with Bounded Fractionality in Planar Graphs},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {187-196},
+}
+
+@inproceedings{DBLP:conf/focs/CyganMPP13,
+  author    = {Marek Cygan and
+               Dániel Marx and
+               Marcin Pilipczuk and
+               Michal Pilipczuk},
+  title     = {The Planar Directed {K-Vertex-Disjoint} Paths Problem Is {Fixed-Parameter} Tractable},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {197-206},
+}
+
+@inproceedings{DBLP:conf/focs/BadanidiyuruKS13,
+  author    = {Ashwinkumar Badanidiyuru and
+               Robert Kleinberg and
+               Aleksandrs Slivkins},
+  title     = {Bandits with Knapsacks},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {207-216},
+}
+
+@inproceedings{DBLP:conf/focs/DaskalakisDOST13,
+  author    = {Constantinos Daskalakis and
+               Ilias Diakonikolas and
+               Ryan O'Donnell and
+               Rocco A. Servedio and
+               Li-Yang Tan},
+  title     = {Learning Sums of Independent Integer Random Variables},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {217-226},
+}
+
+@inproceedings{DBLP:conf/focs/FeldmanV13,
+  author    = {Vitaly Feldman and
+               Jan Vondrák},
+  title     = {Optimal Bounds on Approximation of Submodular and {XOS} Functions by Juntas},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {227-236},
+}
+
+@inproceedings{DBLP:conf/focs/HatamiL13,
+  author    = {Hamed Hatami and
+               Shachar Lovett},
+  title     = {Estimating the Distance from Testable {Affine-Invariant} Properties},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {237-242},
+}
+
+@inproceedings{DBLP:conf/focs/ForbesS13,
+  author    = {Michael A. Forbes and
+               Amir Shpilka},
+  title     = {{Quasipolynomial-Time} Identity Testing of Non-commutative and {Read-Once} Oblivious Algebraic Branching Programs},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {243-252},
+}
+
+@inproceedings{DBLP:conf/focs/Madry13,
+  author    = {Aleksander Madry},
+  title     = {Navigating Central Path with Electrical Flows: From Flows to Matchings, and Back},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {253-262},
+}
+
+@inproceedings{DBLP:conf/focs/Sherman13,
+  author    = {Jonah Sherman},
+  title     = {Nearly Maximum Flows in Nearly Linear Time},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {263-269},
+}
+
+@inproceedings{DBLP:conf/focs/AroraGS13,
+  author    = {Sanjeev Arora and
+               Rong Ge and
+               Ali Kemal Sinop},
+  title     = {Towards a Better Approximation for Sparsest Cut?},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {270-279},
+}
+
+@inproceedings{DBLP:conf/focs/DujmovicMW13,
+  author    = {Vida Dujmovic and
+               Pat Morin and
+               David R. Wood},
+  title     = {Layered Separators for Queue Layouts, 3D Graph Drawing and Nonrepetitive Coloring},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {280-289},
+}
+
+@inproceedings{DBLP:conf/focs/BeameCM13,
+  author    = {Paul Beame and
+               Raphaël Clifford and
+               Widad Machmouchi},
+  title     = {Element Distinctness, Frequency Moments, and Sliding Windows},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {290-299},
+}
+
+@inproceedings{DBLP:conf/focs/SinclairSY13,
+  author    = {Alistair Sinclair and
+               Piyush Srivastava and
+               Yitong Yin},
+  title     = {Spatial Mixing and Approximation Algorithms for Graphs with Bounded Connective Constant},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {300-309},
+}
+
+@inproceedings{DBLP:conf/focs/GuruswamiX13,
+  author    = {Venkatesan Guruswami and
+               Patrick Xia},
+  title     = {Polar Codes: Speed of Polarization and Polynomial Gap to Capacity},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {310-319},
+}
+
+@inproceedings{DBLP:conf/focs/Ben-SassonKKMS13,
+  author    = {Eli Ben-Sasson and
+               Yohay Kaplan and
+               Swastik Kopparty and
+               Or Meir and
+               Henning Stichtenoth},
+  title     = {Constant Rate {PCPs} for {Circuit-SAT} with Sublinear Query Complexity},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {320-329},
+}
+
+@inproceedings{DBLP:conf/focs/Viderman13,
+  author    = {Michael Viderman},
+  title     = {Strong {LTCs} with Inverse {Poly-Log} Rate and Constant Soundness},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {330-339},
+}
+
+@inproceedings{DBLP:conf/focs/DinurG13,
+  author    = {Irit Dinur and
+               Venkatesan Guruswami},
+  title     = {{PCPs} via {Low-Degree} Long Code and Hardness for Constrained Hypergraph Coloring},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {340-349},
+}
+
+@inproceedings{DBLP:conf/focs/ChanLRS13,
+  author    = {Siu On Chan and
+               James R. Lee and
+               Prasad Raghavendra and
+               David Steurer},
+  title     = {Approximate Constraint Satisfaction Requires Large {LP} Relaxations},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {350-359},
+}
+
+@inproceedings{DBLP:conf/focs/LouisRV13,
+  author    = {Anand Louis and
+               Prasad Raghavendra and
+               Santosh Vempala},
+  title     = {The Complexity of Approximating Vertex Expansion},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {360-369},
+}
+
+@inproceedings{DBLP:conf/focs/ChalermsookLN13,
+  author    = {Parinya Chalermsook and
+               Bundit Laekhanukit and
+               Danupon Nanongkai},
+  title     = {Independent Set, Induced Matching, and Pricing: Connections and Tight (Subexponential Time) Approximation Hardnesses},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {370-379},
+}
+
+@inproceedings{DBLP:conf/focs/Coja-OghlanV13,
+  author    = {Amin Coja-Oghlan and
+               Dan Vilenchik},
+  title     = {Chasing the {K-Colorability} Threshold},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {380-389},
+}
+
+@inproceedings{DBLP:conf/focs/ChenHLX13,
+  author    = {Danny Z. Chen and
+               Ziyun Huang and
+               Yangwei Liu and
+               Jinhui Xu},
+  title     = {On Clustering Induced Voronoi Diagrams},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {390-399},
+}
+
+@inproceedings{DBLP:conf/focs/AdamaszekW13,
+  author    = {Anna Adamaszek and
+               Andreas Wiese},
+  title     = {Approximation Schemes for Maximum Weight Independent Set of Rectangles},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {400-409},
+}
+
+@inproceedings{DBLP:conf/focs/Chan13,
+  author    = {Timothy M. Chan},
+  title     = {Klee's Measure Problem Made Easy},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {410-419},
+}
+
+@inproceedings{DBLP:conf/focs/GarberH13,
+  author    = {Dan Garber and
+               Elad Hazan},
+  title     = {Playing Non-linear Games with Linear Oracles},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {420-428},
+}
+
+@inproceedings{DBLP:conf/focs/DuchiJW13,
+  author    = {John C. Duchi and
+               Michael I. Jordan and
+               Martin J. Wainwright},
+  title     = {Local Privacy and Statistical Minimax Rates},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {429-438},
+}
+
+@inproceedings{DBLP:conf/focs/BassilyGKS13,
+  author    = {Raef Bassily and
+               Adam Groce and
+               Jonathan Katz and
+               Adam Smith},
+  title     = {{Coupled-Worlds} Privacy: Exploiting Adversarial Uncertainty in Statistical Data Privacy},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {439-448},
+}
+
+@inproceedings{DBLP:conf/focs/ChungPT13,
+  author    = {Kai-Min Chung and
+               Rafael Pass and
+               Sidharth Telang},
+  title     = {{Knowledge-Preserving} Interactive Coding},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {449-458},
+}
+
+@inproceedings{DBLP:conf/focs/SeemanS13,
+  author    = {Lior Seeman and
+               Yaron Singer},
+  title     = {Adaptive Seeding in Social Networks},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {459-468},
+}
+
+@inproceedings{DBLP:conf/focs/HarrisS13,
+  author    = {David G. Harris and
+               Aravind Srinivasan},
+  title     = {The {Moser-Tardos} Framework with Partial Resampling},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {469-478},
+}
+
+@inproceedings{DBLP:conf/focs/ImpagliazzoPS13,
+  author    = {Russell Impagliazzo and
+               Ramamohan Paturi and
+               Stefan Schneider},
+  title     = {A Satisfiability Algorithm for Sparse Depth Two Threshold Circuits},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {479-488},
+}
+
+@inproceedings{DBLP:conf/focs/GaspersS13,
+  author    = {Serge Gaspers and
+               Stefan Szeider},
+  title     = {Strong Backdoors to Bounded Treewidth {SAT}},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {489-498},
+}
+
+@inproceedings{DBLP:conf/focs/BodlaenderDDFLP13,
+  author    = {Hans L. Bodlaender and
+               Pål Grønås Drange and
+               Markus S. Dregi and
+               Fedor V. Fomin and
+               Daniel Lokshtanov and
+               Michal Pilipczuk},
+  title     = {An O(c^k n) 5-Approximation Algorithm for Treewidth},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {499-508},
+}
+
+@inproceedings{DBLP:conf/focs/Cygan13,
+  author    = {Marek Cygan},
+  title     = {Improved Approximation for 3-Dimensional Matching via Bounded Pathwidth Local Search},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {509-518},
+}
+
+@inproceedings{DBLP:conf/focs/Rubin13,
+  author    = {Natan Rubin},
+  title     = {On Kinetic Delaunay Triangulations: A Near Quadratic Bound for Unit Speed Motions},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {519-528},
+}
+
+@inproceedings{DBLP:conf/focs/MarcusSS13,
+  author    = {Adam Marcus and
+               Daniel A. Spielman and
+               Nikhil Srivastava},
+  title     = {Interlacing Families I: Bipartite Ramanujan Graphs of All Degrees},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {529-537},
+}
+
+@inproceedings{DBLP:conf/focs/HenzingerKN13,
+  author    = {Monika Henzinger and
+               Sebastian Krinninger and
+               Danupon Nanongkai},
+  title     = {Dynamic Approximate {All-Pairs} Shortest Paths: Breaking the O(mn) Barrier and Derandomization},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {538-547},
+}
+
+@inproceedings{DBLP:conf/focs/GuptaP13,
+  author    = {Manoj Gupta and
+               Richard Peng},
+  title     = {Fully Dynamic (1+ e)-Approximate Matchings},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {548-557},
+}
+
+@inproceedings{DBLP:conf/focs/HajiaghayiLP13,
+  author    = {Mohammad Taghi Hajiaghayi and
+               Vahid Liaghat and
+               Debmalya Panigrahi},
+  title     = {Online {Node-Weighted} Steiner Forest and Extensions via Disk Paintings},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {558-567},
+}
+
+@inproceedings{DBLP:conf/focs/KonemannSS13,
+  author    = {Jochen Könemann and
+               Sina Sadeghian Sadeghabad and
+               Laura Sanità},
+  title     = {An {LMP} O(log n)-Approximation Algorithm for Node Weighted Prize Collecting Steiner Tree},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {568-577},
+}
+
+@inproceedings{DBLP:conf/focs/0001KKS13,
+  author    = {Ankit Gupta and
+               Pritish Kamath and
+               Neeraj Kayal and
+               Ramprasad Saptharishi},
+  title     = {Arithmetic Circuits: A Chasm at Depth Three},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {578-587},
+}
+
+@inproceedings{DBLP:conf/focs/KomargodskiRT13,
+  author    = {Ilan Komargodski and
+               Ran Raz and
+               Avishay Tal},
+  title     = {Improved {Average-Case} Lower Bounds for {DeMorgan} Formula Size},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {588-597},
+}
+
+@inproceedings{DBLP:conf/focs/FilmusPRC13,
+  author    = {Yuval Filmus and
+               Toniann Pitassi and
+               Robert Robere and
+               Stephen A. Cook},
+  title     = {Average Case Lower Bounds for Monotone Switching Networks},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {598-607},
+}
+
+@inproceedings{DBLP:conf/focs/GuruswamiK13,
+  author    = {Venkatesan Guruswami and
+               Swastik Kopparty},
+  title     = {Explicit Subspace Designs},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {608-617},
+}
+
+@inproceedings{DBLP:conf/focs/CaiDW13,
+  author    = {Yang Cai and
+               Constantinos Daskalakis and
+               S. Matthew Weinberg},
+  title     = {Understanding Incentives: Mechanism Design Becomes Algorithm Design},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {618-627},
+}
+
+@inproceedings{DBLP:conf/focs/AlaeiFHH13,
+  author    = {Saeed Alaei and
+               Hu Fu and
+               Nima Haghpanah and
+               Jason D. Hartline},
+  title     = {The Simple Economics of Approximately Optimal Auctions},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {628-637},
+}
+
+@inproceedings{DBLP:conf/focs/BiloFM13,
+  author    = {Vittorio Bilò and
+               Michele Flammini and
+               Luca Moscardelli},
+  title     = {The Price of Stability for Undirected Broadcast Network Design with Fair Cost Allocation Is Constant},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {638-647},
+}
+
+@inproceedings{DBLP:conf/focs/GarayKMTZ13,
+  author    = {Juan A. Garay and
+               Jonathan Katz and
+               Ueli Maurer and
+               Björn Tackmann and
+               Vassilis Zikas},
+  title     = {Rational Protocol Design: Cryptography against {Incentive-Driven} Adversaries},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {648-657},
+}
+
+@inproceedings{DBLP:conf/focs/TsangWXZ13,
+  author    = {Hing Yin Tsang and
+               Chung Hoi Wong and
+               Ning Xie and
+               Shengyu Zhang},
+  title     = {Fourier Sparsity, Spectral Norm, and the {Log-Rank} Conjecture},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {658-667},
+}
+
+@inproceedings{DBLP:conf/focs/BravermanEOPV13,
+  author    = {Mark Braverman and
+               Faith Ellen and
+               Rotem Oshman and
+               Toniann Pitassi and
+               Vinod Vaikuntanathan},
+  title     = {A Tight Bound for Set Disjointness in the {Message-Passing} Model},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {668-677},
+}
+
+@inproceedings{DBLP:conf/focs/SaglamT13,
+  author    = {Mert Saglam and
+               Gábor Tardos},
+  title     = {On the Communication Complexity of Sparse Set Disjointness and {Exists-Equal} Problems},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {678-687},
+}
+
+@inproceedings{DBLP:conf/focs/BraunP13,
+  author    = {Gábor Braun and
+               Sebastian Pokutta},
+  title     = {Common Information and Unique Disjointness},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {688-697},
+}
+
+@inproceedings{DBLP:conf/focs/BartalG13,
+  author    = {Yair Bartal and
+               Lee-Ad Gottlieb},
+  title     = {A Linear Time Approximation Scheme for Euclidean {TSP}},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {698-706},
+}
+
+@inproceedings{DBLP:conf/focs/WilsonZ13,
+  author    = {David B. Wilson and
+               Uri Zwick},
+  title     = {A {Forward-Backward} {Single-Source} Shortest Paths Algorithm},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {707-716},
+}
+
+@inproceedings{DBLP:conf/focs/Har-PeledK13,
+  author    = {Sariel Har-Peled and
+               Nirman Kumar},
+  title     = {Approximating Minimization Diagrams and Generalized Proximity Search},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {717-726},
+}
+
+@inproceedings{DBLP:conf/focs/BjorklundH13,
+  author    = {Andreas Björklund and
+               Thore Husfeldt},
+  title     = {The Parity of Directed Hamiltonian Cycles},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {727-735},
+}
+
+@inproceedings{DBLP:conf/focs/Drucker13,
+  author    = {Andrew Drucker},
+  title     = {Nondeterministic Direct Product Reductions and the Success Probability of {SAT} Solvers},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {736-745},
+}
+
+@inproceedings{DBLP:conf/focs/BravermanRWY13,
+  author    = {Mark Braverman and
+               Anup Rao and
+               Omri Weinstein and
+               Amir Yehudayoff},
+  title     = {Direct Products in Communication Complexity},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {746-755},
+}
+
+@inproceedings{DBLP:conf/focs/GossetN13,
+  author    = {David Gosset and
+               Daniel Nagaj},
+  title     = {Quantum 3-{SAT} Is QMA1-Complete},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {756-765},
+}
+
+@inproceedings{DBLP:conf/focs/Vidick13,
+  author    = {Thomas Vidick},
+  title     = {{Three-Player} Entangled {XOR} Games Are {NP-Hard} to Approximate},
+  booktitle = focs,
+  year      = 2013,
+  pages     = {766-775},
+}
+
 @inproceedings{DBLP:conf/focs/AroraGM12,
   author    = {Sanjeev Arora and
                Rong Ge and
@@ -24527,7 +25290,7 @@
 
 @inproceedings{DBLP:conf/focs/MowF67,
   author    = {W. C. W. Mow and
-               K. S. Fu},
+               King-Sun Fu},
   title     = {Generalization of {Self-Dual} and {Self-Complementary} Dual Functions},
   booktitle = focs,
   year      = 1967,

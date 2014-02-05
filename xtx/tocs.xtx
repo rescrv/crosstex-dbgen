@@ -130,6 +130,53 @@
   pages     = {8},
 }
 
+@article{DBLP:journals/tocs/Mowry13,
+  author    = {Todd C. Mowry},
+  title     = {Editorial},
+  journal   = tocs,
+  volume    = {31},
+  number    = {4},
+  year      = 2013,
+  pages     = {9},
+}
+
+@article{DBLP:journals/tocs/BalakrishnanMDPWW13,
+  author    = {Mahesh Balakrishnan and
+               Dahlia Malkhi and
+               John D. Davis and
+               Vijayan Prabhakaran and
+               Michael Wei and
+               Ted Wobber},
+  title     = {CORFU: A distributed shared log},
+  journal   = tocs,
+  volume    = {31},
+  number    = {4},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/tocs/BojnordiI13,
+  author    = {Mahdi Nazm Bojnordi and
+               Engin Ipek},
+  title     = {A programmable memory controller for the {DDRx} interfacing standards},
+  journal   = tocs,
+  volume    = {31},
+  number    = {4},
+  year      = 2013,
+  pages     = {11},
+}
+
+@article{DBLP:journals/tocs/DelimitrouK13,
+  author    = {Christina Delimitrou and
+               Christos Kozyrakis},
+  title     = {{QoS-Aware} scheduling in heterogeneous datacenters with paragon},
+  journal   = tocs,
+  volume    = {31},
+  number    = {4},
+  year      = 2013,
+  pages     = {12},
+}
+
 @article{DBLP:journals/tocs/Mowry12,
   author    = {Todd C. Mowry},
   title     = {Introduction to Special Issue {APLOS} 2011},

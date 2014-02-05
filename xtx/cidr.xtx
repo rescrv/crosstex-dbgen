@@ -1488,7 +1488,7 @@
 }
 
 @inproceedings{DBLP:conf/cidr/BastW07,
-  author    = {Holger Bast and
+  author    = {H. Bast and
                Ingmar Weber},
   title     = {The {CompleteSearch} Engine: Interactive, Efficient, and Towards IR& {DB} Integration},
   booktitle = cidr,

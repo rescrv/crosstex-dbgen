@@ -11,6 +11,18 @@
   pages     = {1-2},
 }
 
+@article{DBLP:journals/sigops/ChihiCG13,
+  author    = {Hanen Chihi and
+               Walid Chainbi and
+               Khaled Ghédira},
+  title     = {An energy-efficient self-provisioning approach for cloud resources management},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {2-9},
+}
+
 @article{DBLP:journals/sigops/Costa13,
   author    = {Paolo Costa},
   title     = {Bridging the gap between applications and networks in data centers},
@@ -59,6 +71,17 @@
   pages     = {9-15},
 }
 
+@article{DBLP:journals/sigops/GortiS13,
+  author    = {Naga Pavan Kumar Gorti and
+               Arun K. Somani},
+  title     = {Reliability aware dynamic voltage and frequency scaling for improved microprocessor lifetime},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {10-17},
+}
+
 @article{DBLP:journals/sigops/ShueFS13,
   author    = {David Shue and
                Michael J. Freedman and
@@ -69,6 +92,19 @@
   number    = {1},
   year      = 2013,
   pages     = {16-21},
+}
+
+@article{DBLP:journals/sigops/GueyePRT13,
+  author    = {Soguy Mak Karé Gueye and
+               Noel De Palma and
+               Éric Rutten and
+               Alain Tchana},
+  title     = {Coordinating multiple administration loops using discrete control},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {18-25},
 }
 
 @article{DBLP:journals/sigops/CorreiaM13,
@@ -108,6 +144,22 @@
   pages     = {23-32},
 }
 
+@article{DBLP:journals/sigops/KoyanoAIYKIO13,
+  author    = {Sou Koyano and
+               Shingo Ata and
+               Hisashi Iwamoto and
+               Yuji Yano and
+               Yasuto Kuroda and
+               Kazunari Inoue and
+               Ikuo Oka},
+  title     = {A study on micro level traffic prediction for energy-aware routers},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {26-33},
+}
+
 @article{DBLP:journals/sigops/LudwichF13,
   author    = {Mateus Krepsky Ludwich and
                Antônio Augusto Fröhlich},
@@ -129,6 +181,16 @@
   number    = {2},
   year      = 2013,
   pages     = {33-40},
+}
+
+@article{DBLP:journals/sigops/Kamga13,
+  author    = {Christine Mayap Kamga},
+  title     = {{CPU} frequency emulation based on {DVFS}},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {34-41},
 }
 
 @article{DBLP:journals/sigops/SaFM13,
@@ -153,6 +215,18 @@
   pages     = {41-50},
 }
 
+@article{DBLP:journals/sigops/NoureddineRS13,
+  author    = {Adel Noureddine and
+               Romain Rouvoy and
+               Lionel Seinturier},
+  title     = {A review of energy measurement approaches},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {42-49},
+}
+
 @article{DBLP:journals/sigops/JivanD13,
   author    = {Naser Ezzati Jivan and
                Michel R. Dagenais},
@@ -162,6 +236,24 @@
   number    = {1},
   year      = 2013,
   pages     = {43-54},
+}
+
+@article{DBLP:journals/sigops/WangKTHKKSNG13,
+  author    = {Chengwei Wang and
+               Soila Kavulya and
+               Jiaqi Tan and
+               Liting Hu and
+               Mahendra Kutare and
+               Michael P. Kasick and
+               Karsten Schwan and
+               Priya Narasimhan and
+               Rajeev Gandhi},
+  title     = {Performance troubleshooting in data centers: an annotated bibliography?},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {50-62},
 }
 
 @article{DBLP:journals/sigops/DesnoyersMD13,
@@ -5985,7 +6077,7 @@
 @article{DBLP:journals/sigops/OngLLY02,
   author    = {T. M. Ong and
                T. M. Lim and
-               B. S. Lee and
+               Bu-Sung Lee and
                Chai Kiat Yeo},
   title     = {Unicorn: voluntary computing over Internet},
   journal   = osr,
@@ -9184,7 +9276,7 @@
 }
 
 @article{DBLP:journals/sigops/YeoAK93,
-  author    = {A. K. Yeo and
+  author    = {Ann-Kian Yeo and
                Akkihebbal L. Ananda and
                E. K. Koh},
   title     = {A Taxonomy of Issues in Name Systems Design and Implementation},

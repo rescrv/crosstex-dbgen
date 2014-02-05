@@ -3031,7 +3031,7 @@
 
 @inproceedings{DBLP:conf/ipps/SernecZT98,
   author    = {R. Sernec and
-               M. Zajc and
+               Matej Zajc and
                Jurij F. Tasic},
   title     = {A Quantitative Code Analysis of Scientific Systolic Programs: {DSP} vs. Matrix Algorithms},
   booktitle = ipps,

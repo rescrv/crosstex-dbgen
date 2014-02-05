@@ -1,5 +1,674 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/icdcs/MengIRL13,
+  author    = {Shicong Meng and
+               Arun Iyengar and
+               Isabelle Rouvellou and
+               Ling Liu},
+  title     = {Volley: Violation Likelihood Based State Monitoring for Datacenters},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/icdcs/ArefinSJZL13,
+  author    = {Ahsan Arefin and
+               Vishal K. Singh and
+               Guofei Jiang and
+               Yueping Zhang and
+               Cristian Lumezanu},
+  title     = {Diagnosing Data Center Behavior Flow by Flow},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {11-20},
+}
+
+@inproceedings{DBLP:conf/icdcs/NguyenSTG13,
+  author    = {Hiep Nguyen and
+               Zhiming Shen and
+               Yongmin Tan and
+               Xiaohui Gu},
+  title     = {FChain: Toward {Black-Box} Online Fault Localization for Cloud Systems},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {21-30},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangKLJSMKP13,
+  author    = {Qingyang Wang and
+               Yasuhiko Kanemasa and
+               Jack Li and
+               Deepal Jayasinghe and
+               Toshihiro Shimizu and
+               Masazumi Matsubara and
+               Motoyuki Kawaba and
+               Calton Pu},
+  title     = {Detecting Transient Bottlenecks in {n-Tier} Applications through {Fine-Grained} Analysis},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {31-40},
+}
+
+@inproceedings{DBLP:conf/icdcs/AcsCGGT13,
+  author    = {Gergely Ács and
+               Mauro Conti and
+               Paolo Gasti and
+               Cesar Ghali and
+               Gene Tsudik},
+  title     = {Cache Privacy in {Named-Data} Networking},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {41-51},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhengVWS13,
+  author    = {Fang Zheng and
+               Chitra Venkatramani and
+               Rohit Wagle and
+               Karsten Schwan},
+  title     = {Cache Topology Aware Mapping of Stream Processing Applications onto {CMPs}},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {52-61},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiXWZ13,
+  author    = {Yanhua Li and
+               Haiyong Xie and
+               Yonggang Wen and
+               Zhi-Li Zhang},
+  title     = {Coordinating {In-Network} Caching in {Content-Centric} Networks: Model and Analysis},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {62-72},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiWYHSA13,
+  author    = {Shen Li and
+               Shiguang Wang and
+               Fan Yang and
+               Shaohan Hu and
+               Fatemeh Saremi and
+               Tarek F. Abdelzaher},
+  title     = {Proteus: Power Proportional Memory Cache Cluster in Data Centers},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {73-82},
+}
+
+@inproceedings{DBLP:conf/icdcs/XuTW13,
+  author    = {Zichen Xu and
+               Yi-Cheng Tu and
+               Xiaorui Wang},
+  title     = {Dynamic Energy Estimation of Query Plans in Database Systems},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {83-92},
+}
+
+@inproceedings{DBLP:conf/icdcs/BazarbayevHJSS13,
+  author    = {Sobir Bazarbayev and
+               Matti A. Hiltunen and
+               Kaustubh R. Joshi and
+               William H. Sanders and
+               Richard D. Schlichting},
+  title     = {{Content-Based} Scheduling of Virtual Machines (VMs) in the Cloud},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {93-101},
+}
+
+@inproceedings{DBLP:conf/icdcs/SharmaWD13,
+  author    = {Bikash Sharma and
+               Timothy Wood and
+               Chita R. Das},
+  title     = {HybridMR: A Hierarchical {MapReduce} Scheduler for Hybrid Data Centers},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {102-111},
+}
+
+@inproceedings{DBLP:conf/icdcs/XuZGL13,
+  author    = {Zhaoyan Xu and
+               Jialong Zhang and
+               Guofei Gu and
+               Zhiqiang Lin},
+  title     = {AUTOVAC: Automatically Extracting System Resource Constraints and Generating Vaccines for Malware Immunization},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {112-123},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangCLL13,
+  author    = {Boyang Wang and
+               Sherman S. M. Chow and
+               Ming Li and
+               Hui Li},
+  title     = {Storing Shared Data on the Cloud via {Security-Mediator}},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {124-133},
+}
+
+@inproceedings{DBLP:conf/icdcs/YahyaviHGKK13,
+  author    = {Amir Yahyavi and
+               Kévin Huguenin and
+               Julien Gascon-Samson and
+               Jörg Kienzle and
+               Bettina Kemme},
+  title     = {Watchmen: Scalable {Cheat-Resistant} Support for Distributed Multi-player Online Games},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {134-144},
+}
+
+@inproceedings{DBLP:conf/icdcs/LamaLABDXZFTZ13,
+  author    = {Palden Lama and
+               Yan Li and
+               Ashwin M. Aji and
+               Pavan Balaji and
+               James Dinan and
+               Shucai Xiao and
+               Yunquan Zhang and
+               Wu-chun Feng and
+               Rajeev Thakur and
+               Xiaobo Zhou},
+  title     = {pVOCL: {Power-Aware} Dynamic Placement and Migration in Virtualized {GPU} Environments},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {145-154},
+}
+
+@inproceedings{DBLP:conf/icdcs/HuCKM13,
+  author    = {Wenjie Hu and
+               Guohong Cao and
+               Srikanth V. Krishnamurthy and
+               Prasant Mohapatra},
+  title     = {{Mobility-Assisted} {Energy-Aware} User Contact Detection in Mobile Social Networks},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {155-164},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhaoZCA13,
+  author    = {Bo Zhao and
+               Qiang Zheng and
+               Guohong Cao and
+               Sateesh Addepalli},
+  title     = {{Energy-Aware} Web Browsing in 3G Based Smartphones},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {165-175},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangKNK13,
+  author    = {Rui Wang and
+               Nagarajan Kandasamy and
+               Chika Nwankpa and
+               David R. Kaeli},
+  title     = {Datacenters as Controllable Load Resources in the Electricity Market},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {176-185},
+}
+
+@inproceedings{DBLP:conf/icdcs/DeftuG13,
+  author    = {Andrei Deftu and
+               Jan Griebsch},
+  title     = {A Scalable {Conflict-Free} Replicated Set Data Type},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {186-195},
+}
+
+@inproceedings{DBLP:conf/icdcs/CrainGR13,
+  author    = {Tyler Crain and
+               Vincent Gramoli and
+               Michel Raynal},
+  title     = {No Hot Spot Non-blocking Skip List},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {196-205},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiuLS13,
+  author    = {Yujie Liu and
+               Victor Luchangco and
+               Michael F. Spear},
+  title     = {Mindicators: A Scalable Approach to Quiescence},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {206-215},
+}
+
+@inproceedings{DBLP:conf/icdcs/Shafiei13,
+  author    = {Niloufar Shafiei},
+  title     = {Non-blocking Patricia Tries with Replace Operations},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {216-225},
+}
+
+@inproceedings{DBLP:conf/icdcs/SunLWYZL13,
+  author    = {Wei Sun and
+               Junliang Liu and
+               Chenshu Wu and
+               Zheng Yang and
+               Xinglin Zhang and
+               Yunhao Liu},
+  title     = {MoLoc: On Distinguishing Fingerprint Twins},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {226-235},
+}
+
+@inproceedings{DBLP:conf/icdcs/XiaoWYWN13,
+  author    = {Jiang Xiao and
+               Kaishun Wu and
+               Youwen Yi and
+               Lu Wang and
+               Lionel M. Ni},
+  title     = {Pilot: Passive {Device-Free} Indoor Localization Using Channel State Information},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {236-245},
+}
+
+@inproceedings{DBLP:conf/icdcs/DuL13,
+  author    = {Wan Du and
+               Mo Li},
+  title     = {Harnessing Mobile Multiple Access Efficiency with Location Input},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {246-255},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiuZDCG13,
+  author    = {Sheng Liu and
+               Haojin Zhu and
+               Rong Du and
+               Cailian Chen and
+               Xinping Guan},
+  title     = {Location Privacy Preserving Dynamic Spectrum Auction in Cognitive Radio Network},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {256-265},
+}
+
+@inproceedings{DBLP:conf/icdcs/SantosS13,
+  author    = {Nuno Santos and
+               André Schiper},
+  title     = {Achieving {High-Throughput} State Machine Replication in Multi-core Systems},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {266-275},
+}
+
+@inproceedings{DBLP:conf/icdcs/DenysyukR13,
+  author    = {Oksana Denysyuk and
+               Luís Rodrigues},
+  title     = {{Order-Preserving} Renaming in Synchronous Systems with Byzantine Faults},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {276-285},
+}
+
+@inproceedings{DBLP:conf/icdcs/KobusKW13,
+  author    = {Tadeusz Kobus and
+               Maciej Kokocinski and
+               Pawel T. Wojciechowski},
+  title     = {Hybrid Replication: {State-Machine-Based} and {Deferred-Update} Replication Schemes Combined},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {286-296},
+}
+
+@inproceedings{DBLP:conf/icdcs/AublinMQ13,
+  author    = {Pierre-Louis Aublin and
+               Sonia Ben Mokhtar and
+               Vivien Quéma},
+  title     = {RBFT: Redundant Byzantine Fault Tolerance},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {297-306},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangWXWJ13,
+  author    = {Feng Wang and
+               Haiyan Wang and
+               Kuai Xu and
+               Jianhong Wu and
+               Xiaohua Jia},
+  title     = {Characterizing Information Diffusion in Online Social Networks with Linear Diffusive Model},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {307-316},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhangDT13,
+  author    = {Huiyuan Zhang and
+               Thang N. Dinh and
+               My T. Thai},
+  title     = {Maximizing the Spread of Positive Influence in Online Social Networks},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {317-326},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhangLL13,
+  author    = {Lan Zhang and
+               Xiang-Yang Li and
+               Yunhao Liu},
+  title     = {Message in a Sealed Bottle: Privacy Preserving Friending in Social Networks},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {327-336},
+}
+
+@inproceedings{DBLP:conf/icdcs/Bouzid0T13,
+  author    = {Zohir Bouzid and
+               Shantanu Das and
+               Sébastien Tixeuil},
+  title     = {Gathering of Mobile Robots Tolerating Multiple Crash Faults},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {337-346},
+}
+
+@inproceedings{DBLP:conf/icdcs/DattaLLP13,
+  author    = {Ajoy Kumar Datta and
+               Anissa Lamani and
+               Lawrence L. Larmore and
+               Franck Petit},
+  title     = {Ring Exploration by Oblivious Agents with Local Vision},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {347-356},
+}
+
+@inproceedings{DBLP:conf/icdcs/TakatsuOKM13,
+  author    = {Shusuke Takatsu and
+               Fukuhito Ooshita and
+               Hirotsugu Kakugawa and
+               Toshimitsu Masuzawa},
+  title     = {Zigzag: {Local-Information-Based} {Self-Optimizing} Routing in Virtual Grid Networks},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {357-368},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhangSMJ13,
+  author    = {Kaiwen Zhang and
+               Mohammad Sadoghi and
+               Vinod Muthusamy and
+               Hans-Arno Jacobsen},
+  title     = {Distributed Ranked Data Dissemination in Social Networks},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {369-379},
+}
+
+@inproceedings{DBLP:conf/icdcs/BezerraPGG13,
+  author    = {Carlos Eduardo Benevides Bezerra and
+               Fernando Pedone and
+               Benoît Garbinato and
+               Cláudio F. R. Geyer},
+  title     = {Optimistic Atomic Multicast},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {380-389},
+}
+
+@inproceedings{DBLP:conf/icdcs/JeswaniVJB13,
+  author    = {Deepak Jeswani and
+               Akshat Verma and
+               Praveen Jayachandran and
+               Kamal Bhattacharya},
+  title     = {ImageElves: Rapid and Reliable System Updates in the Cloud},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {390-399},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangNLL13,
+  author    = {Wei Wang and
+               Di Niu and
+               Baochun Li and
+               Ben Liang},
+  title     = {Dynamic Cloud Resource Reservation via Cloud Brokerage},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {400-409},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangQHRL13,
+  author    = {Peijian Wang and
+               Yong Qi and
+               Dou Hui and
+               Lei Rao and
+               Xue Liu},
+  title     = {Present or Future: Optimal Pricing for Spot Instances},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {410-419},
+}
+
+@inproceedings{DBLP:conf/icdcs/DengLJW13,
+  author    = {Wei Deng and
+               Fangming Liu and
+               Hai Jin and
+               Chuan Wu},
+  title     = {SmartDPSS: {Cost-Minimizing} Multi-source Power Supply for Datacenters with Arbitrary Demand},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {420-429},
+}
+
+@inproceedings{DBLP:conf/icdcs/TsoHWPP13,
+  author    = {Fung Po Tso and
+               Gregg Hamilton and
+               Rene Weber and
+               Colin Perkins and
+               Dimitrios P. Pezaros},
+  title     = {Longer Is Better: Exploiting Path Diversity in Data Center Networks},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {430-439},
+}
+
+@inproceedings{DBLP:conf/icdcs/GaoTSZW13,
+  author    = {Chenfei Gao and
+               Jian Tang and
+               Xiang Sheng and
+               Weiyi Zhang and
+               Chonggang Wang},
+  title     = {{Signal-Aware} Green Wireless Relay Network Design},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {440-449},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChenCRSL13,
+  author    = {Wen Chen and
+               Peng Cheng and
+               Fengyuan Ren and
+               Ran Shu and
+               Chuang Lin},
+  title     = {Ease the Queue Oscillation: Analysis and Enhancement of {DCTCP}},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {450-459},
+}
+
+@inproceedings{DBLP:conf/icdcs/SpreitzerSW13,
+  author    = {Mike Spreitzer and
+               Malgorzata Steinder and
+               Ian Whalley},
+  title     = {Ripple: Improved Architecture and Programming Model for Bulk Synchronous Parallel Style of Analytics},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {460-469},
+}
+
+@inproceedings{DBLP:conf/icdcs/JayalathE13,
+  author    = {Chamikara Jayalath and
+               Patrick Eugster},
+  title     = {Efficient Geo-distributed Data Processing with Rout},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {470-480},
+}
+
+@inproceedings{DBLP:conf/icdcs/PramanikTW13,
+  author    = {Sukanta Pramanik and
+               David Taylor and
+               Bernard Wong},
+  title     = {Towards an Efficient Online {Causal-Event-Pattern-Matching} Framework},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {481-490},
+}
+
+@inproceedings{DBLP:conf/icdcs/YueXZYL13,
+  author    = {Chaoqun Yue and
+               Guangtao Xue and
+               Hongzi Zhu and
+               Jiadi Yu and
+               Minglu Li},
+  title     = {S3: Characterizing Sociality for {User-Friendly} Steady Load Balancing in Enterprise {WLANs}},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {491-499},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhengT13,
+  author    = {Hanying Zheng and
+               Xueyan Tang},
+  title     = {On Server Provisioning for Distributed Interactive Applications},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {500-509},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhangZBH13,
+  author    = {Qi Zhang and
+               Mohamed Faten Zhani and
+               Raouf Boutaba and
+               Joseph L. Hellerstein},
+  title     = {Harmony: Dynamic {Heterogeneity-Aware} Resource Provisioning in the Cloud},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {510-519},
+}
+
+@inproceedings{DBLP:conf/icdcs/MokhtarBDQS13,
+  author    = {Sonia Ben Mokhtar and
+               Gautier Berthou and
+               Amadou Diarra and
+               Vivien Quéma and
+               Ali Shoker},
+  title     = {RAC: A Freerider-Resilient, Scalable, Anonymous Communication Protocol},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {520-529},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangAKA13,
+  author    = {Dong Wang and
+               Tarek F. Abdelzaher and
+               Lance M. Kaplan and
+               Charu C. Aggarwal},
+  title     = {Recursive Fact-Finding: A Streaming Approach to Truth Estimation in Crowdsourcing Applications},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {530-539},
+}
+
+@inproceedings{DBLP:conf/icdcs/FanLWTMB13,
+  author    = {Lidan Fan and
+               Zaixin Lu and
+               Weili Wu and
+               Bhavani M. Thuraisingham and
+               Huan Ma and
+               Yuanjun Bi},
+  title     = {Least Cost Rumor Blocking in Social Networks},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {540-549},
+}
+
+@inproceedings{DBLP:conf/icdcs/SongVG13,
+  author    = {Yang Song and
+               Arun Venkataramani and
+               Lixin Gao},
+  title     = {Identifying and Addressing Protocol Manipulation Attacks in "Secure" {BGP}},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {550-559},
+}
+
+@inproceedings{DBLP:conf/icdcs/RahmanA13,
+  author    = {Mohammad Ashiqur Rahman and
+               Ehab Al-Shaer},
+  title     = {A Formal Framework for Network Security Design Synthesis},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {560-570},
+}
+
+@inproceedings{DBLP:conf/icdcs/SchuchardTHK13,
+  author    = {Max Schuchard and
+               Christopher Thompson and
+               Nicholas Hopper and
+               Yongdae Kim},
+  title     = {Peer Pressure: Exerting Malicious Influence on Routers at a Distance},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {571-580},
+}
+
+@inproceedings{DBLP:conf/icdcs/MaHLTS13,
+  author    = {Liang Ma and
+               Ting He and
+               Kin K. Leung and
+               Don Towsley and
+               Ananthram Swami},
+  title     = {Efficient Identification of Additive Link Metrics via Network Tomography},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {581-590},
+}
+
+@inproceedings{DBLP:conf/icdcs/GolabHL13,
+  author    = {Wojciech M. Golab and
+               Jeremy Hurwitz and
+               Xiaozhou Li},
+  title     = {On the {k-Atomicity-Verification} Problem},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {591-600},
+}
+
+@inproceedings{DBLP:conf/icdcs/AttiyaHKR13,
+  author    = {Hagit Attiya and
+               Sandeep Hans and
+               Petr Kuznetsov and
+               Srivatsan Ravi},
+  title     = {Safety of Deferred Update in Transactional Memory},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {601-610},
+}
+
+@inproceedings{DBLP:conf/icdcs/BouzidT13,
+  author    = {Zohir Bouzid and
+               Corentin Travers},
+  title     = {Parallel Consensus is Harder than Set Agreement in Message Passing},
+  booktitle = icdcs,
+  year      = 2013,
+  pages     = {611-620},
+}
+
 @inproceedings{DBLP:conf/icdcs/SinghSRKV12,
   author    = {Rahul Singh and
                Prashant J. Shenoy and
@@ -8435,7 +9104,7 @@
   title     = {Routing Indices For {Peer-to-Peer} Systems},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {23},
+  pages     = {23-32},
 }
 
 @inproceedings{DBLP:conf/icdcs/ChenXZ02,
@@ -8468,7 +9137,7 @@
   title     = {Overlook: Scalable Name Service on an Overlay Network},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {52},
+  pages     = {52-61},
 }
 
 @inproceedings{DBLP:conf/icdcs/TzengM02,
@@ -8499,7 +9168,7 @@
   title     = {RICA: A {Receiver-Initiated} Approach for {Channel-Adaptive} {On-Demand} Routing in Ad Hoc Mobile Computing Networks},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {84},
+  pages     = {84-91},
 }
 
 @inproceedings{DBLP:conf/icdcs/RamaswamyL02,
@@ -8528,7 +9197,7 @@
   title     = {Dynamic Data Broadcasting with Traffic Awareness},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {112},
+  pages     = {112-119},
 }
 
 @inproceedings{DBLP:conf/icdcs/TaiMRS02,
@@ -8551,7 +9220,7 @@
   title     = {Clustering Algorithms for {Content-Based} {Publication-Subscription} Systems},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {133-42},
+  pages     = {133-142},
 }
 
 @inproceedings{DBLP:conf/icdcs/ChangPC02,
@@ -8561,7 +9230,7 @@
   title     = {Scalable and Efficient Update Dissemination for Distributed Interactive Applications},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {143},
+  pages     = {143-150},
 }
 
 @inproceedings{DBLP:conf/icdcs/JinBI02,
@@ -8590,7 +9259,7 @@
   title     = {Geometric Spanners for Wireless Ad Hoc Networks},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {171},
+  pages     = {171-178},
 }
 
 @inproceedings{DBLP:conf/icdcs/KondouMM02,
@@ -8620,7 +9289,7 @@
   title     = {{Snap-Stabilizing} {PIF} Algorithm in Arbitrary Networks},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {199},
+  pages     = {199-206},
 }
 
 @inproceedings{DBLP:conf/icdcs/AdhikariPR02,
@@ -8652,7 +9321,7 @@
   title     = {Cooperative Computing for Distributed Embedded Systems},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {227},
+  pages     = {227-236},
 }
 
 @inproceedings{DBLP:conf/icdcs/Gamou02,
@@ -8680,7 +9349,7 @@
   title     = {An Optimal Strategy for Anonymous Communication Protocols},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {257},
+  pages     = {257-266},
 }
 
 @inproceedings{DBLP:conf/icdcs/ZadorozhnyR02,
@@ -8707,7 +9376,7 @@
   title     = {Unification of Replication and Transaction Processing in {Three-Tier} Architectures},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {290},
+  pages     = {290-297},
 }
 
 @inproceedings{DBLP:conf/icdcs/ZhangLAS02,
@@ -8736,7 +9405,7 @@
   title     = {Distributed Bandwidth Broker for {QoS} Multicast Traffic},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {319},
+  pages     = {319-326},
 }
 
 @inproceedings{DBLP:conf/icdcs/SteinerP02,
@@ -8764,7 +9433,7 @@
   title     = {A Practical Approach for ?Zero? Downtime in an Operational Information System},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {345},
+  pages     = {345-352},
 }
 
 @inproceedings{DBLP:conf/icdcs/BaehniEG02,
@@ -8794,7 +9463,7 @@
   title     = {Bidding for Storage Space in a {Peer-to-Peer} Data Preservation System},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {372},
+  pages     = {372-381},
 }
 
 @inproceedings{DBLP:conf/icdcs/BoydD02,
@@ -8822,7 +9491,7 @@
   title     = {Extending {RMI} to Support Dynamic Reconfiguration of Distributed Systems},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {401},
+  pages     = {401-408},
 }
 
 @inproceedings{DBLP:conf/icdcs/FreudenthalPPKK02,
@@ -8854,7 +9523,7 @@
   title     = {Reasoning about Joint Administration of Access Policies for Coalition Resources},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {429},
+  pages     = {429-438},
 }
 
 @inproceedings{DBLP:conf/icdcs/LeeKH02,
@@ -8892,7 +9561,7 @@
   title     = {Invariant Consistency: A Mechanism for {Inter-Process} Ordering in Distributed Shared Memory Systems},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {447},
+  pages     = {447-448},
 }
 
 @inproceedings{DBLP:conf/icdcs/NakajimaH02,
@@ -8941,7 +9610,7 @@
   title     = {A Pluggable {Service-to-Service} Communication Mechanism for {VNA} Architecture},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {459},
+  pages     = {459-460},
 }
 
 @inproceedings{DBLP:conf/icdcs/AmirKNT02,
@@ -8993,7 +9662,7 @@
   title     = {Design of Adaptive and Reliable Mobile Agent Communication Protocols},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {471},
+  pages     = {471-472},
 }
 
 @inproceedings{DBLP:conf/icdcs/Jimenez-PerisPKA02,
@@ -9023,7 +9692,7 @@
   title     = {From Total Order to Database Replication},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {494},
+  pages     = {494-503},
 }
 
 @inproceedings{DBLP:conf/icdcs/PhanZB02,
@@ -9052,7 +9721,7 @@
   title     = {{Group-Based} Management of Distributed File Caches},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {525},
+  pages     = {525-534},
 }
 
 @inproceedings{DBLP:conf/icdcs/EnglertG02,
@@ -9080,7 +9749,7 @@
   title     = {Timestamping Messages in Synchronous Computations},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {552},
+  pages     = {552-559},
 }
 
 @inproceedings{DBLP:conf/icdcs/GopalsamySPS02,
@@ -9112,7 +9781,7 @@
   title     = {Agent Chaining: An Approach to Dynamic Mobile Agent Planning},
   booktitle = icdcs,
   year      = 2002,
-  pages     = {579},
+  pages     = {579-586},
 }
 
 @inproceedings{DBLP:conf/icdcs/DemirbasA02,
@@ -11986,6 +12655,21 @@
   pages     = {622-629},
 }
 
+@inproceedings{DBLP:conf/icdcs/Bestavros97,
+  author    = {Azer Bestavros},
+  title     = {Load Profiling In Distributed {Real-Time} Systems},
+  booktitle = icdcs,
+  year      = 1997,
+}
+
+@inproceedings{DBLP:conf/icdcs/MishraS97,
+  author    = {Partho Pratim Mishra and
+               Mani B. Srivastava},
+  title     = {Effect of Connection Rerouting on Application Performance in Mobile Networks},
+  booktitle = icdcs,
+  year      = 1997,
+}
+
 @inproceedings{DBLP:conf/icdcs/AdyaCLMS97,
   author    = {Atul Adya and
                Miguel Castro and
@@ -11995,331 +12679,7 @@
   title     = {Fragment Reconstruction: Providing Global Cache Coherence in a Transactional Storage System},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/AlvarezC97,
-  author    = {Guillermo A. Alvarez and
-               Flaviu Cristian},
-  title     = {Centralized Failure Injection for Distributed, {Fault-Tolerant} Protocol Testing},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/BakshiKVP97,
-  author    = {Bikram S. Bakshi and
-               P. Krishna and
-               Nitin H. Vaidya and
-               Dhiraj K. Pradhan},
-  title     = {Improving Performance of {TCP} over Wireless Networks},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/BaldoniFR97,
-  author    = {Roberto Baldoni and
-               Roy Friedman and
-               Robbert van Renesse},
-  title     = {The Hierarchical Daisy Architecture for Causal Delivery},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/Barbara97,
-  author    = {Daniel Barbará},
-  title     = {Certification Reports: Supporting Transactions in Wireless Systems},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/BarzilaiKMSW97,
-  author    = {Tsipora P. Barzilai and
-               Dilip D. Kandlur and
-               Ashish Mehra and
-               Debanjan Saha and
-               Steve Wise},
-  title     = {Design and Implementation of an {RSVP} based Quality of Service Architecture for Integrated Services Internet},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/BehrensG97,
-  author    = {Jochen Behrens and
-               J. J. Garcia-Luna-Aceves},
-  title     = {Fast Dissemination of Link States Using Bounded Sequence Numbers with no Periodic Updates or Age Fields},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/Bestavros97,
-  author    = {Azer Bestavros},
-  title     = {Load Profiling In Distributed {Real-Time} Systems},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/Chatterjee97,
-  author    = {Saurav Chatterjee},
-  title     = {A Quality of Service-based Allocation and Routing Algorithm for Distributed, Heterogeneous Real Time Systems},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/ChenSZR97,
-  author    = {Biao Chen and
-               Anirudha Sahoo and
-               Wei Zhao and
-               Amitava Raha},
-  title     = {{Connection-Oriented} Communications for {Real-Time} Applications in {FDDI-ATM-FDDI} Heterogeneous Networks},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/ChenYW97,
-  author    = {Ming-Syan Chen and
-               Philip S. Yu and
-               Kun-Lung Wu},
-  title     = {Indexed Sequential Data Broadcasting in Wireless Mobile Computing},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/ChowdhuryNSW97,
-  author    = {Abdur Chowdhury and
-               Lisa D. Nicklas and
-               Sanjeev Setia and
-               Elizabeth L. White},
-  title     = {Supporting Dynamic Space-sharing on Clusters of Non-dedicated Workstations},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/ColajanniYD97,
-  author    = {Michele Colajanni and
-               Philip S. Yu and
-               Daniel M. Dias},
-  title     = {Scheduling Algorithms for Distributed Web Servers},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/DasJS97,
-  author    = {Sajal K. Das and
-               Rajeev Jayaram and
-               Sanjoy K. Sen},
-  title     = {An Optimistic {Quality-of-Service} Provisioning Scheme for Cellular Networks},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/DasSJ97,
-  author    = {Sajal K. Das and
-               Sanjoy K. Sen and
-               Rajeev Jayaram},
-  title     = {A Structured Channel Borrowing Scheme for Dynamic Load Balancing in Cellular Networks},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/DongL97,
-  author    = {Xuefeng Dong and
-               Ten-Hwang Lai},
-  title     = {Distributed Dynamic Carrier Allocation in Mobile Cellular Networks: Search vs. Update},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/FuT97,
-  author    = {Shiwa S. Fu and
-               Nian-Feng Tzeng},
-  title     = {Aggressive Release Consistency for Software Distributed Shared Memory},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/FukudaBDM97,
-  author    = {Munehiro Fukuda and
-               Lubomir Bic and
-               Michael B. Dillencourt and
-               Fehmina Merchant},
-  title     = {Messages versus Messengers in Distributed Programming},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/GeorgeM97,
-  author    = {Laurent George and
-               Pascale Minet},
-  title     = {A {FIFO} Worst Case Analysis for a Hard {Real-Time} Distributed Problem with Consistency Constraints},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/GuerraouiS97,
-  author    = {Rachid Guerraoui and
-               André Schiper},
-  title     = {Total Order Multicast to Multiple Groups},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/GuoR97,
-  author    = {Katherine Guo and
-               Luís Rodrigues},
-  title     = {Dynamic {Light-Weight} Groups},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/HaertigR97,
-  author    = {Hermann Härtig and
-               Lars Reuther},
-  title     = {Encapsulating Mobile Objects},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/HallHHW97,
-  author    = {Richard S. Hall and
-               Dennis Heimbigner and
-               André van der Hoek and
-               Alexander L. Wolf},
-  title     = {The Software Dock: An Architecture for {Post-Development} Configuration Management in a {Wide-Area} Network},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/HaytonM97,
-  author    = {Richard Hayton and
-               Ken Moody},
-  title     = {An Open Architecture for Secure Interworking Services},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/HeddayaM97,
-  author    = {Abdelsalam Heddaya and
-               Sulaiman Mirdad},
-  title     = {WebWave: Globally Load Balanced Fully Distributed Caching of Hot Published Documents},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/HiltunenS97,
-  author    = {Matti A. Hiltunen and
-               Richard D. Schlichting},
-  title     = {Access Control in {Wide-Area} Networks},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/HolderB97,
-  author    = {Ophir Holder and
-               Israel Ben-Shaul},
-  title     = {A Reflective Model for Mobile Software Objects},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/HuiC97,
-  author    = {Chi-Chung Hui and
-               Samuel T. Chanson},
-  title     = {Efficient Load Balancing in Interconnected {LANs} Using Group Communication},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/IslamPSGF97,
-  author    = {Nayeem Islam and
-               Andreas L. Prodromidis and
-               Mark S. Squillante and
-               Ajei S. Gopal and
-               Liana L. Fong},
-  title     = {Extensible Resource Management for Cluster Computing},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/JensenSM97,
-  author    = {Paul A. Jensen and
-               Nandit Soparkar and
-               Amit G. Mathur},
-  title     = {Characterizing Multicast Orderings Using Concurrency Control Theory},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/JonssonS97,
-  author    = {Jan Jonsson and
-               Kang G. Shin},
-  title     = {Deadline Assignment in Distributed Hard {Real-Time} Systems with Relaxed Locality Constraints},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/KnaffD97,
-  author    = {Alain Knaff and
-               Pascal Dechamboux},
-  title     = {Reliable Support for a Persistent Distributed Shared Memory},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/KshemkalyaniS97,
-  author    = {Ajay D. Kshemkalyani and
-               Mukesh Singhal},
-  title     = {Distributed Detection of Generalized Deadlocks},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/LamS97,
-  author    = {Wai Lam and
-               Alberto Maria Segre},
-  title     = {Distributed Data Mining of Probabilistic Knowledge},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/Li97,
-  author    = {Keqin Li},
-  title     = {Determining the Expected Load of Dynamic Tree Embeddings in Hypercubes},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
+  pages     = {2-11},
 }
 
 @inproceedings{DBLP:conf/icdcs/LiuC97,
@@ -12328,127 +12688,25 @@
   title     = {Maintaining Strong Cache Consistency in the {World-Wide} Web},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
+  pages     = {12-21},
 }
 
-@inproceedings{DBLP:conf/icdcs/LiuP97,
-  author    = {Ling Liu and
-               Calton Pu},
-  title     = {A Dynamic Query Scheduling Framework for Distributed and Evolving Information Systems},
+@inproceedings{DBLP:conf/icdcs/ZaharioudakisC97,
+  author    = {Markos Zaharioudakis and
+               Michael J. Carey},
+  title     = {Hierarchical, Adaptive Cache Consistency in a Page Server {OODBMS}},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
+  pages     = {22-31},
 }
 
-@inproceedings{DBLP:conf/icdcs/LouboutinC97,
-  author    = {Sylvain Louboutin and
-               Vinny Cahill},
-  title     = {Comprehensive Distributed Garbage Collection by Tracking Causal Dependencies of Relevant Mutator Events},
+@inproceedings{DBLP:conf/icdcs/GuoR97,
+  author    = {Katherine Guo and
+               Luís Rodrigues},
+  title     = {Dynamic {Light-Weight} Groups},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/LukW97,
-  author    = {Wai-Shing Luk and
-               Tien-Tsin Wong},
-  title     = {Two New Quorum Based Algorithms for Distributed Mutual Exclusion},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/MalanJK97,
-  author    = {G. Robert Malan and
-               Farnam Jahanian and
-               Peter Knoop},
-  title     = {Comparison of Two Middleware Data Dissemination Services in a {Wide-Area} Distributed Systems},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/MalkhiMR97,
-  author    = {Dahlia Malkhi and
-               Michael Merritt and
-               Ohad Rodeh},
-  title     = {Secure Reliable Multicast Protocols in a {WAN}},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/MishraS97,
-  author    = {Partho Pratim Mishra and
-               Mani B. Srivastava},
-  title     = {Effect of Connection Rerouting on Application Performance in Mobile Networks},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/MurtyG97,
-  author    = {Venkatesh V. Murty and
-               Vijay K. Garg},
-  title     = {Characterization of Message Ordering Specifications and Protocols},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/Neilsen97,
-  author    = {Mitchell L. Neilsen},
-  title     = {A Dynamic Probe Strategy for Quorum Systems},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/NuttallS97,
-  author    = {Mark Nuttall and
-               Morris Sloman},
-  title     = {Workload Characteristics for Process Migration and Load Balancing},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/ParkCY97,
-  author    = {Taesoon Park and
-               Sung Bok Cho and
-               Heon Young Yeom},
-  title     = {An Efficient Logging Scheme for Recoverable Distributed Shared Memory System},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/ParkM97,
-  author    = {Jun-Cheol Park and
-               Raymond E. Miller},
-  title     = {Synthesizing Protocol Specifications from Service Specifications in Timed Extended Finite State Machines},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/PolzeFW97,
-  author    = {Andreas Polze and
-               Gerhard Fohler and
-               Matthias Werner},
-  title     = {Predictable Network Computing},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/PoulakidasS97,
-  author    = {Athanassios S. Poulakidas and
-               Ambuj K. Singh},
-  title     = {Online Replication of Shared Variables},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
+  pages     = {33-42},
 }
 
 @inproceedings{DBLP:conf/icdcs/RheeCHS97,
@@ -12459,24 +12717,157 @@
   title     = {Group Communication Support for Distributed Multimedia and {CSCW} Systems},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
+  pages     = {43-50},
 }
 
-@inproceedings{DBLP:conf/icdcs/Ricciardi97,
-  author    = {Aleta Ricciardi},
-  title     = {The Sage Project: A New Approach to Software Engineering for Distributed Applications},
+@inproceedings{DBLP:conf/icdcs/BehrensG97,
+  author    = {Jochen Behrens and
+               J. J. Garcia-Luna-Aceves},
+  title     = {Fast Dissemination of Link States Using Bounded Sequence Numbers with no Periodic Updates or Age Fields},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
+  pages     = {51-58},
 }
 
-@inproceedings{DBLP:conf/icdcs/SchmidtG97,
-  author    = {Douglas C. Schmidt and
-               Aniruddha S. Gokhale},
-  title     = {Evaluating {CORBA} Latency and Scalability Over {High-Speed} {ATM} Networks},
+@inproceedings{DBLP:conf/icdcs/WangDG97,
+  author    = {Yi-Min Wang and
+               Om P. Damani and
+               Vijay K. Garg},
+  title     = {Distributed Recovery with {K-Optimistic} Logging},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
+  pages     = {60-67},
+}
+
+@inproceedings{DBLP:conf/icdcs/KnaffD97,
+  author    = {Alain Knaff and
+               Pascal Dechamboux},
+  title     = {Reliable Support for a Persistent Distributed Shared Memory},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {68-77},
+}
+
+@inproceedings{DBLP:conf/icdcs/AlvarezC97,
+  author    = {Guillermo A. Alvarez and
+               Flaviu Cristian},
+  title     = {Centralized Failure Injection for Distributed, {Fault-Tolerant} Protocol Testing},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {78-85},
+}
+
+@inproceedings{DBLP:conf/icdcs/MalkhiMR97,
+  author    = {Dahlia Malkhi and
+               Michael Merritt and
+               Ohad Rodeh},
+  title     = {Secure Reliable Multicast Protocols in a {WAN}},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {87-94},
+}
+
+@inproceedings{DBLP:conf/icdcs/Neilsen97,
+  author    = {Mitchell L. Neilsen},
+  title     = {A Dynamic Probe Strategy for Quorum Systems},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {95-99},
+}
+
+@inproceedings{DBLP:conf/icdcs/LukW97,
+  author    = {Wai-Shing Luk and
+               Tien-Tsin Wong},
+  title     = {Two New Quorum Based Algorithms for Distributed Mutual Exclusion},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {100-106},
+}
+
+@inproceedings{DBLP:conf/icdcs/DongL97,
+  author    = {Xuefeng Dong and
+               Ten-Hwang Lai},
+  title     = {Distributed Dynamic Carrier Allocation in Mobile Cellular Networks: Search vs. Update},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {108-115},
+}
+
+@inproceedings{DBLP:conf/icdcs/DasSJ97,
+  author    = {Sajal K. Das and
+               Sanjoy K. Sen and
+               Rajeev Jayaram},
+  title     = {A Structured Channel Borrowing Scheme for Dynamic Load Balancing in Cellular Networks},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {116-123},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChenYW97,
+  author    = {Ming-Syan Chen and
+               Philip S. Yu and
+               Kun-Lung Wu},
+  title     = {Indexed Sequential Data Broadcasting in Wireless Mobile Computing},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {124-131},
+}
+
+@inproceedings{DBLP:conf/icdcs/NuttallS97,
+  author    = {Mark Nuttall and
+               Morris Sloman},
+  title     = {Workload Characteristics for Process Migration and Load Balancing},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {133-140},
+}
+
+@inproceedings{DBLP:conf/icdcs/HuiC97,
+  author    = {Chi-Chung Hui and
+               Samuel T. Chanson},
+  title     = {Efficient Load Balancing in Interconnected {LANs} Using Group Communication},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {141-148},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChowdhuryNSW97,
+  author    = {Abdur Chowdhury and
+               Lisa D. Nicklas and
+               Sanjeev Setia and
+               Elizabeth L. White},
+  title     = {Supporting Dynamic Space-sharing on Clusters of Non-dedicated Workstations},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {149-158},
+}
+
+@inproceedings{DBLP:conf/icdcs/HeddayaM97,
+  author    = {Abdelsalam Heddaya and
+               Sulaiman Mirdad},
+  title     = {WebWave: Globally Load Balanced Fully Distributed Caching of Hot Published Documents},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {160-168},
+}
+
+@inproceedings{DBLP:conf/icdcs/ColajanniYD97,
+  author    = {Michele Colajanni and
+               Philip S. Yu and
+               Daniel M. Dias},
+  title     = {Scheduling Algorithms for Distributed Web Servers},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {169-176},
+}
+
+@inproceedings{DBLP:conf/icdcs/LamS97,
+  author    = {Wai Lam and
+               Alberto Maria Segre},
+  title     = {Distributed Data Mining of Probabilistic Knowledge},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {178-185},
 }
 
 @inproceedings{DBLP:conf/icdcs/SchusterJB97,
@@ -12486,27 +12877,7 @@
   title     = {Client/Server Qualities: A Basis for Reliable Distributed Workflow Management Systems},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/SheikhW97,
-  author    = {Fahim Sheikh and
-               C. Murray Woodside},
-  title     = {Layered Analytic Performance Modelling of a Distributed Database System},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/SheuCLY97,
-  author    = {Guang-Way Sheu and
-               Yue-Shan Chang and
-               Deron Liang and
-               Shyan-Ming Yuan},
-  title     = {A {Fault-Tolerant} Object Service on {CORBA}},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
+  pages     = {186-193},
 }
 
 @inproceedings{DBLP:conf/icdcs/StromBMPW97,
@@ -12518,16 +12889,7 @@
   title     = {Concurrency Control and View Notification Algorithms for Collaborative Replicated Objects},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/SuM97,
-  author    = {Jiawen Su and
-               Daniel W. Manchala},
-  title     = {Building Trust for Distributed Commerce Transactions},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
+  pages     = {194-203},
 }
 
 @inproceedings{DBLP:conf/icdcs/SundaresanB97,
@@ -12536,82 +12898,7 @@
   title     = {Distributed Connection Management for {Real-Time} Communication over {Wormhole-Routed} Networks},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/Tai97,
-  author    = {K. C. Tai},
-  title     = {Race Analysis of Traces of {Message-Passing} Programs},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/ThitikamolK97,
-  author    = {Kritchalach Thitikamol and
-               Peter J. Keleher},
-  title     = {Multi-threading and Remote Latency in Software {DSMs}},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/VenkatasubramanianR97,
-  author    = {Nalini Venkatasubramanian and
-               Srinivas Ramanathan},
-  title     = {Load Management in Distributed Video Servers},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/WangDG97,
-  author    = {Yi-Min Wang and
-               Om P. Damani and
-               Vijay K. Garg},
-  title     = {Distributed Recovery with {K-Optimistic} Logging},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/WellingB97,
-  author    = {Girish Welling and
-               B. R. Badrinath},
-  title     = {A Framework for Environment Aware Mobile Applications},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/WestSTA97,
-  author    = {Richard West and
-               Karsten Schwan and
-               Ivan Tacic and
-               Mustaque Ahamad},
-  title     = {Exploiting Temporal and Spatial Constraints on Distributed Shared Objects},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/YangKL97,
-  author    = {Jian Yang and
-               Kamalakar Karlapalem and
-               Qing Li},
-  title     = {A Framework for Designing Materialized Views in Data Warehousing Environment},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
-}
-
-@inproceedings{DBLP:conf/icdcs/ZaharioudakisC97,
-  author    = {Markos Zaharioudakis and
-               Michael J. Carey},
-  title     = {Hierarchical, Adaptive Cache Consistency in a Page Server {OODBMS}},
-  booktitle = icdcs,
-  year      = 1997,
-  pages     = {0},
+  pages     = {209-216},
 }
 
 @inproceedings{DBLP:conf/icdcs/ZhengYIN97,
@@ -12622,7 +12909,387 @@
   title     = {Connection Admission Control for Hard {Real-Time} Communication in {ATM} Networks},
   booktitle = icdcs,
   year      = 1997,
-  pages     = {0},
+  pages     = {217-224},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChenSZR97,
+  author    = {Biao Chen and
+               Anirudha Sahoo and
+               Wei Zhao and
+               Amitava Raha},
+  title     = {{Connection-Oriented} Communications for {Real-Time} Applications in {FDDI-ATM-FDDI} Heterogeneous Networks},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {225-234},
+}
+
+@inproceedings{DBLP:conf/icdcs/Chatterjee97,
+  author    = {Saurav Chatterjee},
+  title     = {A Quality of Service-based Allocation and Routing Algorithm for Distributed, Heterogeneous Real Time Systems},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {235-242},
+}
+
+@inproceedings{DBLP:conf/icdcs/Ricciardi97,
+  author    = {Aleta Ricciardi},
+  title     = {The Sage Project: A New Approach to Software Engineering for Distributed Applications},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {244-252},
+}
+
+@inproceedings{DBLP:conf/icdcs/ParkM97,
+  author    = {Jun-Cheol Park and
+               Raymond E. Miller},
+  title     = {Synthesizing Protocol Specifications from Service Specifications in Timed Extended Finite State Machines},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {253-260},
+}
+
+@inproceedings{DBLP:conf/icdcs/Tai97,
+  author    = {K. C. Tai},
+  title     = {Race Analysis of Traces of {Message-Passing} Programs},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {261-268},
+}
+
+@inproceedings{DBLP:conf/icdcs/HallHHW97,
+  author    = {Richard S. Hall and
+               Dennis Heimbigner and
+               André van der Hoek and
+               Alexander L. Wolf},
+  title     = {The Software Dock: An Architecture for {Post-Development} Configuration Management in a {Wide-Area} Network},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {269-278},
+}
+
+@inproceedings{DBLP:conf/icdcs/WestSTA97,
+  author    = {Richard West and
+               Karsten Schwan and
+               Ivan Tacic and
+               Mustaque Ahamad},
+  title     = {Exploiting Temporal and Spatial Constraints on Distributed Shared Objects},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {280-287},
+}
+
+@inproceedings{DBLP:conf/icdcs/FuT97,
+  author    = {Shiwa S. Fu and
+               Nian-Feng Tzeng},
+  title     = {Aggressive Release Consistency for Software Distributed Shared Memory},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {288-295},
+}
+
+@inproceedings{DBLP:conf/icdcs/ThitikamolK97,
+  author    = {Kritchalach Thitikamol and
+               Peter J. Keleher},
+  title     = {Multi-threading and Remote Latency in Software {DSMs}},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {296-304},
+}
+
+@inproceedings{DBLP:conf/icdcs/ParkCY97,
+  author    = {Taesoon Park and
+               Sung Bok Cho and
+               Heon Young Yeom},
+  title     = {An Efficient Logging Scheme for Recoverable Distributed Shared Memory System},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {305-313},
+}
+
+@inproceedings{DBLP:conf/icdcs/HaytonM97,
+  author    = {Richard Hayton and
+               Ken Moody},
+  title     = {An Open Architecture for Secure Interworking Services},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {315-321},
+}
+
+@inproceedings{DBLP:conf/icdcs/SuM97,
+  author    = {Jiawen Su and
+               Daniel W. Manchala},
+  title     = {Building Trust for Distributed Commerce Transactions},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {322-329},
+}
+
+@inproceedings{DBLP:conf/icdcs/HiltunenS97,
+  author    = {Matti A. Hiltunen and
+               Richard D. Schlichting},
+  title     = {Access Control in {Wide-Area} Networks},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {330-337},
+}
+
+@inproceedings{DBLP:conf/icdcs/HolderB97,
+  author    = {Ophir Holder and
+               Israel Ben-Shaul},
+  title     = {A Reflective Model for Mobile Software Objects},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {339-346},
+}
+
+@inproceedings{DBLP:conf/icdcs/FukudaBDM97,
+  author    = {Munehiro Fukuda and
+               Lubomir Bic and
+               Michael B. Dillencourt and
+               Fehmina Merchant},
+  title     = {Messages versus Messengers in Distributed Programming},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {347-354},
+}
+
+@inproceedings{DBLP:conf/icdcs/HaertigR97,
+  author    = {Hermann Härtig and
+               Lars Reuther},
+  title     = {Encapsulating Mobile Objects},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {355-362},
+}
+
+@inproceedings{DBLP:conf/icdcs/BakshiKVP97,
+  author    = {Bikram S. Bakshi and
+               P. Krishna and
+               Nitin H. Vaidya and
+               Dhiraj K. Pradhan},
+  title     = {Improving Performance of {TCP} over Wireless Networks},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {365-373},
+}
+
+@inproceedings{DBLP:conf/icdcs/WellingB97,
+  author    = {Girish Welling and
+               B. R. Badrinath},
+  title     = {A Framework for Environment Aware Mobile Applications},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {384-391},
+}
+
+@inproceedings{DBLP:conf/icdcs/SheuCLY97,
+  author    = {Guang-Way Sheu and
+               Yue-Shan Chang and
+               Deron Liang and
+               Shyan-Ming Yuan},
+  title     = {A {Fault-Tolerant} Object Service on {CORBA}},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {393-400},
+}
+
+@inproceedings{DBLP:conf/icdcs/SchmidtG97,
+  author    = {Douglas C. Schmidt and
+               Aniruddha S. Gokhale},
+  title     = {Evaluating {CORBA} Latency and Scalability Over {High-Speed} {ATM} Networks},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {401-410},
+}
+
+@inproceedings{DBLP:conf/icdcs/MalanJK97,
+  author    = {G. Robert Malan and
+               Farnam Jahanian and
+               Peter Knoop},
+  title     = {Comparison of Two Middleware Data Dissemination Services in a {Wide-Area} Distributed Systems},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {411-419},
+}
+
+@inproceedings{DBLP:conf/icdcs/PolzeFW97,
+  author    = {Andreas Polze and
+               Gerhard Fohler and
+               Matthias Werner},
+  title     = {Predictable Network Computing},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {423-431},
+}
+
+@inproceedings{DBLP:conf/icdcs/JonssonS97,
+  author    = {Jan Jonsson and
+               Kang G. Shin},
+  title     = {Deadline Assignment in Distributed Hard {Real-Time} Systems with Relaxed Locality Constraints},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {432-440},
+}
+
+@inproceedings{DBLP:conf/icdcs/GeorgeM97,
+  author    = {Laurent George and
+               Pascale Minet},
+  title     = {A {FIFO} Worst Case Analysis for a Hard {Real-Time} Distributed Problem with Consistency Constraints},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {441-448},
+}
+
+@inproceedings{DBLP:conf/icdcs/YangKL97,
+  author    = {Jian Yang and
+               Kamalakar Karlapalem and
+               Qing Li},
+  title     = {A Framework for Designing Materialized Views in Data Warehousing Environment},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {458-465},
+}
+
+@inproceedings{DBLP:conf/icdcs/Barbara97,
+  author    = {Daniel Barbará},
+  title     = {Certification Reports: Supporting Transactions in Wireless Systems},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {466-473},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiuP97,
+  author    = {Ling Liu and
+               Calton Pu},
+  title     = {A Dynamic Query Scheduling Framework for Distributed and Evolving Information Systems},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {474-481},
+}
+
+@inproceedings{DBLP:conf/icdcs/SheikhW97,
+  author    = {Fahim Sheikh and
+               C. Murray Woodside},
+  title     = {Layered Analytic Performance Modelling of a Distributed Database System},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {482-490},
+}
+
+@inproceedings{DBLP:conf/icdcs/MurtyG97,
+  author    = {Venkatesh V. Murty and
+               Vijay K. Garg},
+  title     = {Characterization of Message Ordering Specifications and Protocols},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {492-499},
+}
+
+@inproceedings{DBLP:conf/icdcs/PoulakidasS97,
+  author    = {Athanassios S. Poulakidas and
+               Ambuj K. Singh},
+  title     = {Online Replication of Shared Variables},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {500-507},
+}
+
+@inproceedings{DBLP:conf/icdcs/Li97,
+  author    = {Keqin Li},
+  title     = {Determining the Expected Load of Dynamic Tree Embeddings in Hypercubes},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {508-515},
+}
+
+@inproceedings{DBLP:conf/icdcs/LouboutinC97,
+  author    = {Sylvain Louboutin and
+               Vinny Cahill},
+  title     = {Comprehensive Distributed Garbage Collection by Tracking Causal Dependencies of Relevant Mutator Events},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {516-525},
+}
+
+@inproceedings{DBLP:conf/icdcs/VenkatasubramanianR97,
+  author    = {Nalini Venkatasubramanian and
+               Srinivas Ramanathan},
+  title     = {Load Management in Distributed Video Servers},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {528-535},
+}
+
+@inproceedings{DBLP:conf/icdcs/DasJS97,
+  author    = {Sajal K. Das and
+               Rajeev Jayaram and
+               Sanjoy K. Sen},
+  title     = {An Optimistic {Quality-of-Service} Provisioning Scheme for Cellular Networks},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {536-542},
+}
+
+@inproceedings{DBLP:conf/icdcs/BarzilaiKMSW97,
+  author    = {Tsipora P. Barzilai and
+               Dilip D. Kandlur and
+               Ashish Mehra and
+               Debanjan Saha and
+               Steve Wise},
+  title     = {Design and Implementation of an {RSVP} based Quality of Service Architecture for Integrated Services Internet},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {543-551},
+}
+
+@inproceedings{DBLP:conf/icdcs/KshemkalyaniS97,
+  author    = {Ajay D. Kshemkalyani and
+               Mukesh Singhal},
+  title     = {Distributed Detection of Generalized Deadlocks},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {553-560},
+}
+
+@inproceedings{DBLP:conf/icdcs/IslamPSGF97,
+  author    = {Nayeem Islam and
+               Andreas L. Prodromidis and
+               Mark S. Squillante and
+               Ajei S. Gopal and
+               Liana L. Fong},
+  title     = {Extensible Resource Management for Cluster Computing},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {561-568},
+}
+
+@inproceedings{DBLP:conf/icdcs/BaldoniFR97,
+  author    = {Roberto Baldoni and
+               Roy Friedman and
+               Robbert van Renesse},
+  title     = {The Hierarchical Daisy Architecture for Causal Delivery},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {570-577},
+}
+
+@inproceedings{DBLP:conf/icdcs/GuerraouiS97,
+  author    = {Rachid Guerraoui and
+               André Schiper},
+  title     = {Total Order Multicast to Multiple Groups},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {578-585},
+}
+
+@inproceedings{DBLP:conf/icdcs/JensenSM97,
+  author    = {Paul A. Jensen and
+               Nandit Soparkar and
+               Amit G. Mathur},
+  title     = {Characterizing Multicast Orderings Using Concurrency Control Theory},
+  booktitle = icdcs,
+  year      = 1997,
+  pages     = {586-593},
 }
 
 @inproceedings{DBLP:conf/icdcs/BabaogluBD96,
@@ -12779,7 +13446,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/ChouS96,
-  author    = {C.-C. Chou and
+  author    = {Chih-Che Chou and
                Kang G. Shin},
   title     = {Multiplexing Statistical {Real-Time} Channels in a Multiaccess {Local-Area} Network},
   booktitle = icdcs,
@@ -16578,7 +17245,7 @@
                Thomas Bemmerl and
                G. M. Koob and
                D. A. Reed and
-               Z. Segall},
+               Zary Segall},
   title     = {Debugging and performance monitoring for distributed systems: problems and prospects},
   booktitle = icdcs,
   year      = 1991,
@@ -16721,7 +17388,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/Efe91,
-  author    = {K. Efe},
+  author    = {Kemal Efe},
   title     = {A statistical approach for parallel optimization with application to {VLSI} placement},
   booktitle = icdcs,
   year      = 1991,
@@ -17621,7 +18288,290 @@
   title     = {Low Cost Algorithms for Message Delivery in Dynamic Multicast Groups},
   booktitle = icdcs,
   year      = 1989,
-  pages     = {110-119},
+  pages     = {110-117},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChenD89,
+  author    = {Raymond C. Chen and
+               Partha Dasgupta},
+  title     = {Linking consistency with object/thread semantics: an approach to robust computation},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {121-128},
+}
+
+@inproceedings{DBLP:conf/icdcs/Melliar-SmithM89,
+  author    = {P. Michael Melliar-Smith and
+               Louise E. Moser},
+  title     = {Fault-tolerant distributed systems based on broadcast communication},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {129-134},
+}
+
+@inproceedings{DBLP:conf/icdcs/ThambiduraiPT89,
+  author    = {Philip M. Thambidurai and
+               You-Keun Park and
+               Kishor S. Trivedi},
+  title     = {On reliability modelling of fault-tolerant distributed systems},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {136-142},
+}
+
+@inproceedings{DBLP:conf/icdcs/FarragD89,
+  author    = {Abdel Aziz Farrag and
+               Robert J. Dawson},
+  title     = {Fault-tolerant extensions of complete multipartite networks},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {143-150},
+}
+
+@inproceedings{DBLP:conf/icdcs/ShiehGCT89,
+  author    = {Yuan-Bao Shieh and
+               Dipak Ghosal and
+               Prasad R. Chintamaneni and
+               Satish K. Tripathi},
+  title     = {Application of Petri net models for the evaluation of fault-tolerant techniques in distributed systems},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {151-159},
+}
+
+@inproceedings{DBLP:conf/icdcs/YeminiGSWB89,
+  author    = {Shaula Yemini and
+               Germán S. Goldszmidt and
+               Alexander D. Stoyenko and
+               Yi-Hsiu Wei and
+               Langdon W. Beeck},
+  title     = {CONCERT: a high-level-language approach to heterogeneous distributed systems},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {162-171},
+}
+
+@inproceedings{DBLP:conf/icdcs/Bloch89,
+  author    = {Joshua J. Bloch},
+  title     = {The Camelot library: A C language extension for programming a general purpose distributed transaction system},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {172-180},
+}
+
+@inproceedings{DBLP:conf/icdcs/SullivanA89,
+  author    = {Mark Paul Sullivan and
+               David P. Anderson},
+  title     = {Marionette: a system for parallel distributed programming using a master/slave model},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {181-188},
+}
+
+@inproceedings{DBLP:conf/icdcs/PengS89,
+  author    = {Dar-Tzen Peng and
+               Kang G. Shin},
+  title     = {Static allocation of periodic tasks with precedence constraints in distributed real-time systems},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {190-198},
+}
+
+@inproceedings{DBLP:conf/icdcs/DavidsonLW89,
+  author    = {Susan B. Davidson and
+               Insup Lee and
+               Victor Fay Wolfe},
+  title     = {A protocol for timed atomic commitment},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {199-206},
+}
+
+@inproceedings{DBLP:conf/icdcs/Ostroff89,
+  author    = {Jonathan S. Ostroff},
+  title     = {Verifying finite state real-time discrete event processes},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {207-216},
+}
+
+@inproceedings{DBLP:conf/icdcs/Ofek89,
+  author    = {Yoram Ofek},
+  title     = {Generating a fault tolerant global clock in a high speed distributed system},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {218-226},
+}
+
+@inproceedings{DBLP:conf/icdcs/Sheth89,
+  author    = {Amit P. Sheth},
+  title     = {Fault tolerance in a very large database system: a strawman analysis},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {227-236},
+}
+
+@inproceedings{DBLP:conf/icdcs/Madej89,
+  author    = {Tom Madej},
+  title     = {An application of group testing to the file comparison problem},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {237-243},
+}
+
+@inproceedings{DBLP:conf/icdcs/Katseff89,
+  author    = {Howard P. Katseff},
+  title     = {Initializing hypercubes},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {246-253},
+}
+
+@inproceedings{DBLP:conf/icdcs/Efe89,
+  author    = {Kemal Efe},
+  title     = {Programming the twisted-cube architectures},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {254-262},
+}
+
+@inproceedings{DBLP:conf/icdcs/JinJ89,
+  author    = {Bo Jin and
+               Lan Jin},
+  title     = {A new approach to hypercube network analysis},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {263-268},
+}
+
+@inproceedings{DBLP:conf/icdcs/RomanC89,
+  author    = {Gruia-Catalin Roman and
+               H. Conrad Cunningham},
+  title     = {A shared dataspace model of concurrency-language and programming implications},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {270-279},
+}
+
+@inproceedings{DBLP:conf/icdcs/PengP89,
+  author    = {Wuxu Peng and
+               S. Purushothaman},
+  title     = {Analysis of communicating processes for non-progress},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {280-287},
+}
+
+@inproceedings{DBLP:conf/icdcs/Cristian89,
+  author    = {Flaviu Cristian},
+  title     = {A probabilistic approach to distributed clock synchronization},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {288-296},
+}
+
+@inproceedings{DBLP:conf/icdcs/MirchandaneyTS89,
+  author    = {Ravi Mirchandaney and
+               Don Towsley and
+               John A. Stankovic},
+  title     = {Adaptive load sharing in heterogeneous systems},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {298-306},
+}
+
+@inproceedings{DBLP:conf/icdcs/EfeG89,
+  author    = {Kemal Efe and
+               Bojan Groselj},
+  title     = {Minimizing control overheads in adaptive load sharing},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {307-315},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiuKM89,
+  author    = {Peng Liu and
+               Yasushi Kiyoki and
+               Takashi Masuda},
+  title     = {Efficient algorithms for resource allocation in distributed and parallel query processing environments},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {316-323},
+}
+
+@inproceedings{DBLP:conf/icdcs/Wills89,
+  author    = {Craig E. Wills},
+  title     = {A service execution mechanism for a distributed environment},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {326-334},
+}
+
+@inproceedings{DBLP:conf/icdcs/WeddeKBC89,
+  author    = {Horst F. Wedde and
+               Bogdan Korel and
+               Willie G. Brown and
+               Shengdong Chen},
+  title     = {Transparent distributed object management under completely decentralized control},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {335-342},
+}
+
+@inproceedings{DBLP:conf/icdcs/LeeB89,
+  author    = {Craig Lee and
+               Lubomir Bic},
+  title     = {Performance of a decentralized knowledge base system},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {343-352},
+}
+
+@inproceedings{DBLP:conf/icdcs/Garcia-MolinaS89,
+  author    = {Hector Garcia-Molina and
+               Annemarie Spauster},
+  title     = {Message ordering in a multicast environment},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {354-361},
+}
+
+@inproceedings{DBLP:conf/icdcs/BouloutasG89,
+  author    = {A. Bouloutas and
+               Prabandham M. Gopal},
+  title     = {Some graph partitioning problems and algorithms related to routing in large computer networks},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {362-370},
+}
+
+@inproceedings{DBLP:conf/icdcs/WolfsonVF89,
+  author    = {C. Daniel Wolfson and
+               Ellen M. Voorhees and
+               Maura M. Flatley},
+  title     = {Intelligent routers},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {371-376},
+}
+
+@inproceedings{DBLP:conf/icdcs/KotzE89,
+  author    = {David Kotz and
+               Carla Schlatter Ellis},
+  title     = {Evaluation of concurrent pools},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {378-385},
+}
+
+@inproceedings{DBLP:conf/icdcs/NishioLM89,
+  author    = {Shojiro Nishio and
+               Kin F. Li and
+               Eric G. Manning},
+  title     = {A time-out based resilient token transfer algorithm for mutual exclusion in computer networks},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {386-393},
 }
 
 @inproceedings{DBLP:conf/icdcs/Paris89,
@@ -17640,6 +18590,231 @@
   booktitle = icdcs,
   year      = 1989,
   pages     = {406-413},
+}
+
+@inproceedings{DBLP:conf/icdcs/VinterPF89,
+  author    = {Stephen T. Vinter and
+               Nilkanth Phadnis and
+               Richard Floyd},
+  title     = {Distributed query processing in Cronus},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {414-422},
+}
+
+@inproceedings{DBLP:conf/icdcs/LeuB89,
+  author    = {Pei-Jyun Leu and
+               Bharat K. Bhargava},
+  title     = {A model for concurrent checkpointing and recovery using transactions},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {423-430},
+}
+
+@inproceedings{DBLP:conf/icdcs/KarmarkarK89,
+  author    = {Vikram V. Karmarkar and
+               Jon G. Kuhl},
+  title     = {A high performance virtual token-passing multiple-access method for multiple-bus local networks},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {432-439},
+}
+
+@inproceedings{DBLP:conf/icdcs/Viterbi89,
+  author    = {Audrey M. Viterbi},
+  title     = {Performance analysis of synchronous packet networks with priority queueing disciplines},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {440-447},
+}
+
+@inproceedings{DBLP:conf/icdcs/Watson89,
+  author    = {W. Bruce Watson},
+  title     = {Capacity testing a {HYPERchannel-based} local area network},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {448-454},
+}
+
+@inproceedings{DBLP:conf/icdcs/SarinFP89,
+  author    = {Sunil K. Sarin and
+               Richard Floyd and
+               Nilkanth Phadnis},
+  title     = {A flexible algorithm for replicated directory management},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {456-464},
+}
+
+@inproceedings{DBLP:conf/icdcs/LongCS89,
+  author    = {Darrell D. E. Long and
+               John L. Carroll and
+               Kris Stewart},
+  title     = {The reliability of regeneration-based replica control protocols},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {465-473},
+}
+
+@inproceedings{DBLP:conf/icdcs/NgS89,
+  author    = {Tony P. Ng and
+               Shepherd S. B. Shi},
+  title     = {Replicated transactions},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {474-480},
+}
+
+@inproceedings{DBLP:conf/icdcs/KleinrockK89,
+  author    = {Leonard Kleinrock and
+               Willard Korfhage},
+  title     = {Collecting unused processing capacity: an analysis of transient distributed systems},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {482-489},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangNW89,
+  author    = {Chia-Jiu Wang and
+               Victor P. Nelson and
+               Chwan-Hwa John Wu},
+  title     = {Performance modeling of the modified mesh-connected parallel computer},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {490-497},
+}
+
+@inproceedings{DBLP:conf/icdcs/KesslerL89,
+  author    = {Richard E. Kessler and
+               Miron Livny},
+  title     = {An analysis of distributed shared memory algorithms},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {498-505},
+}
+
+@inproceedings{DBLP:conf/icdcs/McMillinN89,
+  author    = {Bruce M. McMillin and
+               Lionel M. Ni},
+  title     = {Reliable distributed sorting through the application-oriented fault tolerance paradigm},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {508-515},
+}
+
+@inproceedings{DBLP:conf/icdcs/CimetCK89,
+  author    = {I. Arieh Cimet and
+               C. Cheng and
+               Srikanta P. R. Kumar},
+  title     = {On the design of resilient protocols for spanning tree problems},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {516-523},
+}
+
+@inproceedings{DBLP:conf/icdcs/JainMP89,
+  author    = {Bijendra N. Jain and
+               Ravi Mittal and
+               Rakesh K. Patney},
+  title     = {Fault-tolerant analysis and algorithms for a proposed augmented binary tree architecture},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {524-531},
+}
+
+@inproceedings{DBLP:conf/icdcs/KoppoluTH89,
+  author    = {Srinivas Koppolu and
+               Suchai Thanawastien and
+               Robert R. Henry},
+  title     = {Fast Ring: a distributed architecture and protocol for local area distributed processing},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {534-541},
+}
+
+@inproceedings{DBLP:conf/icdcs/GaglianelloRLS89,
+  author    = {Robert D. Gaglianello and
+               Bethany S. Robinson and
+               T. L. Lindstrom and
+               E. E. Sampieri},
+  title     = {HPC/VORX: a local area multicomputer system},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {542-549},
+}
+
+@inproceedings{DBLP:conf/icdcs/BlackA89,
+  author    = {Andrew P. Black and
+               Yeshayahu Artsy},
+  title     = {Implementing location independent invocation},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {550-559},
+}
+
+@inproceedings{DBLP:conf/icdcs/AdamsR89,
+  author    = {Joel C. Adams and
+               K. V. S. Ramarao},
+  title     = {Distributed diagnosis of Byzantine processors and links},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {562-569},
+}
+
+@inproceedings{DBLP:conf/icdcs/YangK89,
+  author    = {Seung-Min Yang and
+               K. H. Kim},
+  title     = {Implementation of the conversion scheme in loosely coupled distributed computer systems},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {570-578},
+}
+
+@inproceedings{DBLP:conf/icdcs/HuangL89,
+  author    = {Ching-Liang Huang and
+               Victor O. K. Li},
+  title     = {Missing-partition dynamic voting scheme for replicated database systems},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {579-586},
+}
+
+@inproceedings{DBLP:conf/icdcs/PurtiloJ89,
+  author    = {James M. Purtilo and
+               Pankaj Jalote},
+  title     = {An environment for prototyping distributed applications},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {588-594},
+}
+
+@inproceedings{DBLP:conf/icdcs/ShatzMMW89,
+  author    = {Sol M. Shatz and
+               Khanh Mai and
+               D. Moorthi and
+               J. Woodward},
+  title     = {A toolkit for automated support of Ada tasking analysis},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {595-602},
+}
+
+@inproceedings{DBLP:conf/icdcs/YauC89,
+  author    = {Stephen S. Yau and
+               Kris W. I. Chen},
+  title     = {An approach to verification of communication in distributed computing system software},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {603-610},
+}
+
+@inproceedings{DBLP:conf/icdcs/KearnsK89,
+  author    = {Phil Kearns and
+               B. Koodalattupuram},
+  title     = {Immediate ordered service in distributed systems},
+  booktitle = icdcs,
+  year      = 1989,
+  pages     = {611-618},
 }
 
 @inproceedings{DBLP:conf/icdcs/DasguptaLA88,
@@ -18233,7 +19408,7 @@
   author    = {Roland R. Mielke and
                John W. Stoughton and
                Sukhamoy Som},
-  title     = {Modeling and Performance Bounds for Concurent Processing},
+  title     = {Modeling and Performance Bounds for Concurrent Processing},
   booktitle = icdcs,
   year      = 1988,
   pages     = {538-544},
@@ -20526,8 +21701,8 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/GammageC84,
-  author    = {N. D. Gammage and
-               L. M. Casey},
+  author    = {Neil D. Gammage and
+               Liam M. Casey},
   title     = {The Software Architecture of a Distributed Processing System},
   booktitle = icdcs,
   year      = 1984,
@@ -20535,7 +21710,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/FridrichO84,
-  author    = {M. Fridrich and
+  author    = {Marek Fridrich and
                William J. Older},
   title     = {HELIX: The Architecture of a Distributed File System},
   booktitle = icdcs,
@@ -21463,7 +22638,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/Hazra82,
-  author    = {A. Hazra},
+  author    = {Amitava Hazra},
   title     = {A description method and a classification scheme for data flow architectures},
   booktitle = icdcs,
   year      = 1982,
@@ -21639,7 +22814,7 @@
 
 @inproceedings{DBLP:conf/icdcs/SinghS82,
   author    = {A. Singh and
-               Z. Segall},
+               Zary Segall},
   title     = {Synthetic Workload Generation for Experimentation with Multiprocessors},
   booktitle = icdcs,
   year      = 1982,
@@ -21692,7 +22867,8 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/Mackinnon82,
-  author    = {Raymond J. A. Buhr D. A. Mackinnon},
+  author    = {Raymond J. A. Buhr and
+               D. A. MacKinnon},
   title     = {MAILROOM: A computer-based message system model for person-to-person and process-to-process communication},
   booktitle = icdcs,
   year      = 1982,

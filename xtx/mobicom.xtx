@@ -3721,7 +3721,7 @@
 
 @inproceedings{DBLP:conf/mobicom/BonaldP03,
   author    = {Thomas Bonald and
-               Alexandre Proutiére},
+               Alexandre Proutière},
   title     = {Wireless downlink data channels: user performance and cell dimensioning},
   booktitle = mobicom,
   year      = 2003,

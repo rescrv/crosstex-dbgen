@@ -453,7 +453,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Mesquita12,
-  author    = {Filipe Mesquita},
+  author    = {Filipe de Sá Mesquita},
   title     = {Clustering techniques for open relation extraction},
   booktitle = pods,
   year      = 2012,

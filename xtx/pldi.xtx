@@ -1,11 +1,38 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/pldi/Venkatesh13,
+  author    = {Ganesh Venkatesh},
+  title     = {APE: accelerator processor extensions to optimize data-compute co-location},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {1},
+}
+
 @inproceedings{DBLP:conf/pldi/Larus13,
   author    = {James R. Larus},
   title     = {Look up!: your future is in the cloud},
   booktitle = pldi,
   year      = 2013,
   pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/pldi/EranP13,
+  author    = {Haggai Eran and
+               Erez Petrank},
+  title     = {A study of data structures with a deep heap shape},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/pldi/ValatPJ13,
+  author    = {Sébastien Valat and
+               Marc Pérache and
+               William Jalby},
+  title     = {Introducing kernel-level page reuse for high performance computing},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {3},
 }
 
 @inproceedings{DBLP:conf/pldi/CheungSM13,
@@ -16,6 +43,100 @@
   booktitle = pldi,
   year      = 2013,
   pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/pldi/DavisSSS13,
+  author    = {Matthew Davis and
+               Peter Schachte and
+               Zoltan Somogyi and
+               Harald Søndergaard},
+  title     = {A low overhead method for recovering unused memory inside regions},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/pldi/LeeGS13,
+  author    = {Min Lee and
+               Vishal Gupta and
+               Karsten Schwan},
+  title     = {Software-controlled transparent management of heterogeneous memory resources in virtualized systems},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {5},
+}
+
+@inproceedings{DBLP:conf/pldi/BlellochFGS13,
+  author    = {Guy E. Blelloch and
+               Jeremy T. Fineman and
+               Phillip B. Gibbons and
+               Harsha Vardhan Simhadri},
+  title     = {Program-centric cost models for locality},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {6},
+}
+
+@inproceedings{DBLP:conf/pldi/ZhangJLGMNI13,
+  author    = {Dong Ping Zhang and
+               Nuwan Jayasena and
+               Alexander Lyashevsky and
+               Joseph L. Greathouse and
+               Mitesh R. Meswani and
+               Mark Nutter and
+               Mike Ignatowski},
+  title     = {A new perspective on processing-in-memory architecture design},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {7},
+}
+
+@inproceedings{DBLP:conf/pldi/PariharDH13,
+  author    = {Raj Parihar and
+               Chen Ding and
+               Michael C. Huang},
+  title     = {A coldness metric for cache optimization},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {8},
+}
+
+@inproceedings{DBLP:conf/pldi/LiD13,
+  author    = {Pengcheng Li and
+               Chen Ding},
+  title     = {All-window data liveness},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {9},
+}
+
+@inproceedings{DBLP:conf/pldi/WuWS13,
+  author    = {Bo Wu and
+               Weilin Wang and
+               Xipeng Shen},
+  title     = {Software-level scheduling to exploit non-uniformly shared data cache on {GPGPU}},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {10},
+}
+
+@inproceedings{DBLP:conf/pldi/BrockD13,
+  author    = {Jacob Brock and
+               Chen Ding},
+  title     = {Cache rationing for multicore},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {11},
+}
+
+@inproceedings{DBLP:conf/pldi/GuptaXZ13,
+  author    = {Saurabh Gupta and
+               Ping Xiang and
+               Huiyang Zhou},
+  title     = {Analyzing locality of memory references in {GPU} architectures},
+  booktitle = pldi,
+  year      = 2013,
+  pages     = {12},
 }
 
 @inproceedings{DBLP:conf/pldi/SinghGS13,

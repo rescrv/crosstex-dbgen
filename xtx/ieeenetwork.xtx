@@ -191,6 +191,16 @@
   pages     = {2},
 }
 
+@article{DBLP:journals/network/Shen13c,
+  author    = {Xuemin Shen},
+  title     = {Open all articles [Editor's Note]},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {2},
+}
+
 @article{DBLP:journals/network/Shen13a,
   author    = {Xuemin Shen},
   title     = {Green wireless communication networks [Editor's note]},
@@ -223,6 +233,32 @@
   number    = {2},
   year      = 2013,
   pages     = {4},
+}
+
+@article{DBLP:journals/network/LeungCGV13,
+  author    = {Victor C. M. Leung and
+               Min Chen and
+               Mohsen Guizani and
+               Branka Vucetic},
+  title     = {Cloud-assisted mobile computing and pervasive services [Guest Editorial]},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {5},
+  year      = 2013,
+  pages     = {4-5},
+}
+
+@article{DBLP:journals/network/ZhuYLF13,
+  author    = {Zuqing Zhu and
+               S. J. Ben Yoo and
+               Zhaohui Li and
+               Nicolas K. Fontaine},
+  title     = {Optical networks in cloud computing [Guest Editorial]},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {4-5},
 }
 
 @article{DBLP:journals/network/TanJPM13,
@@ -263,6 +299,33 @@
   pages     = {6-7},
 }
 
+@article{DBLP:journals/network/HuangXW13,
+  author    = {Dijiang Huang and
+               Tianyi Xing and
+               Huijun Wu},
+  title     = {Mobile cloud computing service models: a user-centric approach},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {5},
+  year      = 2013,
+  pages     = {6-11},
+}
+
+@article{DBLP:journals/network/TaoJLLCL13,
+  author    = {Li Tao and
+               Yu Ji and
+               Jie Liu and
+               Alan Pak Tao Lau and
+               Nan Chi and
+               Chao Lu},
+  title     = {Advanced modulation formats for short reach optical communication systems},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {6-13},
+}
+
 @article{DBLP:journals/network/FuMMSK13,
   author    = {Bo Fu and
                Daniele Munaretto and
@@ -301,6 +364,17 @@
   pages     = {12-18},
 }
 
+@article{DBLP:journals/network/TalebK13,
+  author    = {Tarik Taleb and
+               Adlen Ksentini},
+  title     = {Follow me cloud: interworking federated clouds and distributed mobile networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {5},
+  year      = 2013,
+  pages     = {12-19},
+}
+
 @article{DBLP:journals/network/YousafLMS13,
   author    = {Faqir Zarrar Yousaf and
                Marco Liebsch and
@@ -312,6 +386,40 @@
   number    = {2},
   year      = 2013,
   pages     = {14-21},
+}
+
+@article{DBLP:journals/network/PerelloSRCPNZSPBDLLCBCSIFBLHYLP13,
+  author    = {Jordi Perelló and
+               Salvatore Spadaro and
+               Sergio Ricciardi and
+               Davide Careglio and
+               Shuping Peng and
+               Reza Nejabati and
+               Georgios Zervas and
+               Dimitra Simeonidou and
+               Alessandro Predieri and
+               Matteo Biancani and
+               Harm J. S. Dorren and
+               Stefano Di Lucente and
+               Jun Luo and
+               Nicola Calabretta and
+               Giacomo Bernini and
+               Nicola Ciulli and
+               José Carlos Sancho and
+               Steluta Iordache and
+               Montse Farreras and
+               Yolanda Becerra and
+               Chris Liou and
+               Iftekhar Hussain and
+               Yawei Yin and
+               Lei Liu and
+               Roberto Proietti},
+  title     = {All-optical packet/circuit switching-based data center network for enhanced scalability, latency, and throughput},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {14-22},
 }
 
 @article{DBLP:journals/network/Bian0DL13,
@@ -337,6 +445,18 @@
   number    = {1},
   year      = 2013,
   pages     = {19-24},
+}
+
+@article{DBLP:journals/network/FelembanBG13,
+  author    = {Muhamad Felemban and
+               Saleh Basalamah and
+               Arif Ghafoor},
+  title     = {A distributed cloud architecture for mobile multimedia services},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {5},
+  year      = 2013,
+  pages     = {20-27},
 }
 
 @article{DBLP:journals/network/ChenSXB13,
@@ -368,6 +488,22 @@
   pages     = {22-27},
 }
 
+@article{DBLP:journals/network/VelascoACBCLP13,
+  author    = {Luis Velasco and
+               Adria Asensio and
+               Alberto Castro and
+               Josep Lluis Berral and
+               David Carrera and
+               Víctor López and
+               Juan P. Fernández Palacios},
+  title     = {Cross-stratum orchestration and flexgrid optical networks for data center federations},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {23-30},
+}
+
 @article{DBLP:journals/network/CasalicchioCC13,
   author    = {Emiliano Casalicchio and
                Marco Caselli and
@@ -378,6 +514,20 @@
   number    = {1},
   year      = 2013,
   pages     = {25-31},
+}
+
+@article{DBLP:journals/network/MaZZWP13,
+  author    = {Xiaoqiang Ma and
+               Yuan Zhao and
+               Lei Zhang and
+               Haiyang Wang and
+               Limei Peng},
+  title     = {When mobile terminals meet the cloud: computation offloading as the bridge},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {5},
+  year      = 2013,
+  pages     = {28-33},
 }
 
 @article{DBLP:journals/network/ShinMVB13,
@@ -403,6 +553,17 @@
   number    = {3},
   year      = 2013,
   pages     = {28-33},
+}
+
+@article{DBLP:journals/network/TaheriA13,
+  author    = {Mina Taheri and
+               Nirwan Ansari},
+  title     = {A feasible solution to provide cloud computing over optical networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {31-35},
 }
 
 @article{DBLP:journals/network/CristofaroS13,
@@ -441,6 +602,33 @@
   pages     = {34-40},
 }
 
+@article{DBLP:journals/network/ZhangWWL13,
+  author    = {Weiwen Zhang and
+               Yonggang Wen and
+               Jun Wu and
+               Hui Li},
+  title     = {Toward a unified elastic computing platform for smartphones with cloud support},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {5},
+  year      = 2013,
+  pages     = {34-40},
+}
+
+@article{DBLP:journals/network/MandalHZMT13,
+  author    = {Uttam Mandal and
+               M. Farhan Habib and
+               Shuqiang Zhang and
+               Biswanath Mukherjee and
+               Massimo Tornatore},
+  title     = {Greening the cloud using renewable-energy-aware service migration},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {36-43},
+}
+
 @article{DBLP:journals/network/IslamG13,
   author    = {Salekul Islam and
                Jean-Charles Grégoire},
@@ -476,6 +664,32 @@
   pages     = {40-46},
 }
 
+@article{DBLP:journals/network/LiuMHLGW13,
+  author    = {Yunhao Liu and
+               XuFei Mao and
+               Yuan He and
+               Kebin Liu and
+               Wei Gong and
+               Jiliang Wang},
+  title     = {CitySee: not only a wireless sensor network},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {5},
+  year      = 2013,
+  pages     = {42-47},
+}
+
+@article{DBLP:journals/network/KlinkowskiW13,
+  author    = {Miroslaw Klinkowski and
+               Krzysztof Walkowiak},
+  title     = {On the advantages of elastic optical networks for provisioning of cloud computing traffic},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {44-51},
+}
+
 @article{DBLP:journals/network/CoutinhoS13,
   author    = {Nuno Filipe Coutinho and
                Susana Sargento},
@@ -500,6 +714,20 @@
   pages     = {46-50},
 }
 
+@article{DBLP:journals/network/YuZGXY13,
+  author    = {Rong Yu and
+               Yan Zhang and
+               Stein Gjessing and
+               Wenlong Xia and
+               Kun Yang},
+  title     = {Toward cloud-based vehicular networks with efficient resource management},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {5},
+  year      = 2013,
+  pages     = {48-55},
+}
+
 @article{DBLP:journals/network/FadlullahNKF13,
   author    = {Zubair Md. Fadlullah and
                Hiroki Nishiyama and
@@ -511,6 +739,20 @@
   number    = {3},
   year      = 2013,
   pages     = {51-55},
+}
+
+@article{DBLP:journals/network/HouGLSW13,
+  author    = {Weigang Hou and
+               Lei Guo and
+               Yejun Liu and
+               Qingyang Song and
+               Xuetao Wei},
+  title     = {Virtual network planning for converged optical and data centers: ideas and challenges},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {52-58},
 }
 
 @article{DBLP:journals/network/VadrevuTGMM13,
@@ -527,6 +769,21 @@
   pages     = {52-58},
 }
 
+@article{DBLP:journals/network/WanZULZW13,
+  author    = {Jiafu Wan and
+               Caifeng Zou and
+               Sana Ullah and
+               Chin-Feng Lai and
+               Ming Zhou and
+               Xiaofei Wang},
+  title     = {Cloud-enabled wireless body area networks for pervasive healthcare},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {5},
+  year      = 2013,
+  pages     = {56-61},
+}
+
 @article{DBLP:journals/network/MahantiCMAW13,
   author    = {Aniket Mahanti and
                Niklas Carlsson and
@@ -539,6 +796,100 @@
   number    = {1},
   year      = 2013,
   pages     = {59-64},
+}
+
+@article{DBLP:journals/network/LuoLZZ13,
+  author    = {Hongbin Luo and
+               Yi Lin and
+               Hongke Zhang and
+               Moshe Zukerman},
+  title     = {Preventing {DDoS} attacks by identifier/locator separation},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {60-65},
+}
+
+@article{DBLP:journals/network/AhnCBJC13,
+  author    = {Yong woon Ahn and
+               Albert M. K. Cheng and
+               Jinsuk Baek and
+               Minho Jo and
+               Hsiao-Hwa Chen},
+  title     = {An auto-scaling mechanism for virtual resources to support mobile, pervasive, real-time healthcare applications in cloud computing},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {5},
+  year      = 2013,
+  pages     = {62-68},
+}
+
+@article{DBLP:journals/network/HuXWCS13,
+  author    = {Guangwu Hu and
+               Ke Xu and
+               Jianping Wu and
+               Yong Cui and
+               Fan Shi},
+  title     = {A general framework of source address validation and traceback for IPv4/IPv6 transition scenarios},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {66-73},
+}
+
+@article{DBLP:journals/network/DaraghmiYS13,
+  author    = {Yousef-Awwad Daraghmi and
+               Chih-Wei Yi and
+               Ivan Stojmenovic},
+  title     = {Forwarding methods in data dissemination and routing protocols for vehicular Ad Hoc networks},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {74-79},
+}
+
+@article{DBLP:journals/network/FarahbakhshCCCG13,
+  author    = {Reza Farahbakhsh and
+               Noël Crespi and
+               Ángel Cuevas and
+               Rubén Cuevas Rumín and
+               Roberto Gonzalez},
+  title     = {Understanding the evolution of multimedia content in the internet through bittorrent glasses},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {80-88},
+}
+
+@article{DBLP:journals/network/TianC13,
+  author    = {Xiaohua Tian and
+               Yu Cheng},
+  title     = {Bloom filter-based scalable multicast: methodology, design and application},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {89-94},
+}
+
+@article{DBLP:journals/network/Kosek-SzottNSKLST13,
+  author    = {Katarzyna Kosek-Szott and
+               Marek Natkaniec and
+               Szymon Szott and
+               Artem Krasilov and
+               Andrey Lyakhov and
+               Alexander Safonov and
+               Ilenia Tinnirello},
+  title     = {What's new for {QoS} in {IEEE} 802.11?},
+  journal   = ieeenetwork,
+  volume    = {27},
+  number    = {6},
+  year      = 2013,
+  pages     = {95-104},
 }
 
 @article{DBLP:journals/network/ChenS12,
@@ -1612,7 +1963,7 @@
                Karin A. Hummel and
                Harald Meyer and
                M. Meo and
-               D. Remondo},
+               David Remondo},
   title     = {Energy-efficient wireless mesh infrastructures},
   journal   = ieeenetwork,
   volume    = {25},
@@ -2085,7 +2436,7 @@
 }
 
 @article{DBLP:journals/network/SchmidtLSKS10,
-  author    = {R. Schmidt and
+  author    = {Robert Karl Schmidt and
                Tim Leinmüller and
                Elmar Schoch and
                Frank Kargl and
@@ -2688,7 +3039,7 @@
                R. Kouatang and
                Wei Wennie Shu and
                Yan Qiao and
-               Minyou Wu and
+               Min-You Wu and
                Shuping Peng},
   title     = {Traffic engineering for ethernet over SONET/SDH: advances and frontiers},
   journal   = ieeenetwork,

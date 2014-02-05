@@ -1,5 +1,144 @@
 @include journals-cs
 
+@article{DBLP:journals/ccr/ElmokashfiD14,
+  author    = {Ahmed Elmokashfi and
+               Amogh Dhamdhere},
+  title     = {Revisiting {BGP} churn growth},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {5-12},
+}
+
+@article{DBLP:journals/ccr/MishariGNT14,
+  author    = {Mishari Al Mishari and
+               Paolo Gasti and
+               Naveen Nathan and
+               Gene Tsudik},
+  title     = {Optimizing bi-directional low-latency communication in named data networking},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {13-19},
+}
+
+@article{DBLP:journals/ccr/RahmanNCKDW14,
+  author    = {Mohammad Rezaur Rahman and
+               Pierre-André Noël and
+               Chen-Nee Chuah and
+               Balachander Krishnamurthy and
+               Raissa M. D'Souza and
+               Shyhtsun Felix Wu},
+  title     = {Peeking into the invitation-based adoption process of {OSN-based} applications},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {20-27},
+}
+
+@article{DBLP:journals/ccr/GillSG14,
+  author    = {Phillipa Gill and
+               Michael Schapira and
+               Sharon Goldberg},
+  title     = {A survey of interdomain routing policies},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {28-34},
+}
+
+@article{DBLP:journals/ccr/SalvadorCGS14,
+  author    = {Pablo Salvador and
+               Luca Cominardi and
+               Francesco Gringoli and
+               Pablo Serrano},
+  title     = {A first implementation and evaluation of the {IEEE} 802.11aa group addressed transmission service},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {35-41},
+}
+
+@article{DBLP:journals/ccr/DainottiBKcKGD14,
+  author    = {Alberto Dainotti and
+               Karyn Benson and
+               Alistair King and
+               kc claffy and
+               Michael Kallitsis and
+               Eduard Glatz and
+               Xenofontas Dimitropoulos},
+  title     = {Estimating internet address space usage through passive measurements},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {42-49},
+}
+
+@article{DBLP:journals/ccr/Partridge14,
+  author    = {Craig Partridge},
+  title     = {Helping a future internet architecture mature},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {50-52},
+}
+
+@article{DBLP:journals/ccr/Mellia14,
+  author    = {Marco Mellia},
+  title     = {Feature interview with Antonio Nucci: chief technology officer of narus, winner of the "{CTO} of the year"},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {53-55},
+}
+
+@article{DBLP:journals/ccr/DingKSKOTC14,
+  author    = {Aaron Yi Ding and
+               Jouni Korhonen and
+               Teemu Savolainen and
+               Markku Kojo and
+               Jörg Ott and
+               Sasu Tarkoma and
+               Jon Crowcroft},
+  title     = {Bridging the gap between internet standardization and networking research},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {56-62},
+}
+
+@article{DBLP:journals/ccr/McKeown14,
+  author    = {Nick McKeown},
+  title     = {Enlarging the {SIGCOMM} tent},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {63-65},
+}
+
+@article{DBLP:journals/ccr/CarzanigaKPW13,
+  author    = {Antonio Carzaniga and
+               Koorosh Khazaei and
+               Michele Papalini and
+               Alexander L. Wolf},
+  title     = {Is information-centric multi-tree routing feasible?},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {3-8},
+}
+
 @article{DBLP:journals/ccr/SchlampCB13,
   author    = {Johann Schlamp and
                Georg Carle and
@@ -8,6 +147,21 @@
   journal   = ccr,
   volume    = {43},
   number    = {2},
+  year      = 2013,
+  pages     = {5-12},
+}
+
+@article{DBLP:journals/ccr/TraversoAGGLN13,
+  author    = {Stefano Traverso and
+               Mohamed Ahmed and
+               Michele Garetto and
+               Paolo Giaccone and
+               Emilio Leonardi and
+               Saverio Niccolini},
+  title     = {Temporal locality in today's content caching: why it matters and how to model it},
+  journal   = ccr,
+  volume    = {43},
+  number    = {5},
   year      = 2013,
   pages     = {5-12},
 }
@@ -23,6 +177,20 @@
   pages     = {5-13},
 }
 
+@article{DBLP:journals/ccr/DixitHMLK13,
+  author    = {Advait Abhay Dixit and
+               Fang Hao and
+               Sarit Mukherjee and
+               T. V. Lakshman and
+               Ramana Rao Kompella},
+  title     = {Towards an elastic distributed {SDN} controller},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {7-12},
+}
+
 @article{DBLP:journals/ccr/CallahanAR13,
   author    = {Thomas Callahan and
                Mark Allman and
@@ -33,6 +201,19 @@
   number    = {3},
   year      = 2013,
   pages     = {7-15},
+}
+
+@article{DBLP:journals/ccr/CrowcroftFNS13,
+  author    = {Jon Crowcroft and
+               Markus Fidler and
+               Klara Nahrstedt and
+               Ralf Steinmetz},
+  title     = {Is {SDN} the de-constraining constraint of the future internet?},
+  journal   = ccr,
+  volume    = {43},
+  number    = {5},
+  year      = 2013,
+  pages     = {13-18},
 }
 
 @article{DBLP:journals/ccr/WuM13,
@@ -71,6 +252,19 @@
   pages     = {16-24},
 }
 
+@article{DBLP:journals/ccr/ChatzisSFW13,
+  author    = {Nikolaos Chatzis and
+               Georgios Smaragdakis and
+               Anja Feldmann and
+               Walter Willinger},
+  title     = {There is more to {IXPs} than meets the eye},
+  journal   = ccr,
+  volume    = {43},
+  number    = {5},
+  year      = 2013,
+  pages     = {19-28},
+}
+
 @article{DBLP:journals/ccr/LiangL13,
   author    = {Yao Liang and
                Rui Liu},
@@ -104,6 +298,16 @@
   number    = {3},
   year      = 2013,
   pages     = {25-33},
+}
+
+@article{DBLP:journals/ccr/Camp13,
+  author    = {Joseph David Camp},
+  title     = {Feature interview with Ranveer Chandra: author of 'white space networking with wi-fi like connectivity', best {SIGCOMM} paper 2009},
+  journal   = ccr,
+  volume    = {43},
+  number    = {5},
+  year      = 2013,
+  pages     = {29-31},
 }
 
 @article{DBLP:journals/ccr/SimoncelliDGN13,
@@ -228,6 +432,34 @@
   pages     = {51-55},
 }
 
+@article{DBLP:journals/ccr/MtibaaFHA13,
+  author    = {Abderrahmen Mtibaa and
+               Afnan Fahim and
+               Khaled A. Harras and
+               Mostafa H. Ammar},
+  title     = {Towards resource sharing in mobile device clouds: power balancing across mobile devices},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {51-56},
+}
+
+@article{DBLP:journals/ccr/StriegelLMPHL13,
+  author    = {Aaron Striegel and
+               Shu Liu and
+               Lei Meng and
+               Christian Poellabauer and
+               David Hachen and
+               Omar Lizardo},
+  title     = {Lessons learned from the netsense smartphone study},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {51-56},
+}
+
 @article{DBLP:journals/ccr/SathiaseelanC13a,
   author    = {Arjuna Sathiaseelan and
                Jon Crowcroft},
@@ -252,6 +484,35 @@
   number    = {3},
   year      = 2013,
   pages     = {52-58},
+}
+
+@article{DBLP:journals/ccr/KrishnamoorthiBCEMS13,
+  author    = {Vengatanathan Krishnamoorthi and
+               Patrik Bergström and
+               Niklas Carlsson and
+               Derek L. Eager and
+               Anirban Mahanti and
+               Nahid Shahmehri},
+  title     = {Empowering the creative user: personalized {HTTP-based} adaptive streaming of multi-path nonlinear video},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {53-58},
+}
+
+@article{DBLP:journals/ccr/WangRNOR13,
+  author    = {Yaogong Wang and
+               Natalya Rozhnova and
+               Ashok Narayanan and
+               David Oran and
+               Injong Rhee},
+  title     = {An improved hop-by-hop interest shaper for congestion control in named data networking},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {55-60},
 }
 
 @article{DBLP:journals/ccr/RexfordZ13,

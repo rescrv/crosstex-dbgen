@@ -1,5 +1,406 @@
 @include journals-cs
 
+@article{DBLP:journals/scp/BendispostoLR14,
+  author    = {Jens Bendisposto and
+               Michael Leuschel and
+               Markus Roggenbach},
+  title     = {Preface of Automated Verification of Critical Systems 2010 ({AVoCS} 2010)},
+  journal   = scp,
+  volume    = {81},
+  year      = 2014,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/scp/MousaviS14,
+  author    = {Mohammad Reza Mousavi and
+               Gwen Salaün},
+  title     = {Preface: Special section on foundations of coordination languages and software architectures (selected papers from FOCLASA'10)},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/scp/MensBK14,
+  author    = {Kim Mens and
+               M. G. J. van den Brand and
+               Holger M. Kienle},
+  title     = {Guest editors' introduction to the 4th issue of Experimental Software and Toolkits (EST-4)},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {1-5},
+}
+
+@article{DBLP:journals/scp/MoonSKA14,
+  author    = {Young-Joo Moon and
+               Alexandra Silva and
+               Christian Krause and
+               Farhad Arbab},
+  title     = {A compositional model to reason about end-to-end {QoS} in Stochastic Reo connectors},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {3-24},
+}
+
+@article{DBLP:journals/scp/MazurL14,
+  author    = {Tomasz Mazur and
+               Gavin Lowe},
+  title     = {{CSP-based} counter abstraction for systems with node identifiers},
+  journal   = scp,
+  volume    = {81},
+  year      = 2014,
+  pages     = {3-52},
+}
+
+@article{DBLP:journals/scp/FabryKDD14,
+  author    = {Johan Fabry and
+               Andy Kellens and
+               Simon Denier and
+               Stéphane Ducasse},
+  title     = {AspectMaps: Extending Moose to visualize {AOP} software},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {6-22},
+}
+
+@article{DBLP:journals/scp/FarahbodGG14,
+  author    = {Roozbeh Farahbod and
+               Vincenzo Gervasi and
+               Uwe Glässer},
+  title     = {Executable formal specifications of complex distributed systems with {CoreASM}},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {23-38},
+}
+
+@article{DBLP:journals/scp/KamaliLPS14,
+  author    = {Maryam Kamali and
+               Linas Laibinis and
+               Luigia Petre and
+               Kaisa Sere},
+  title     = {Formal development of wireless sensor-actor networks},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {25-49},
+}
+
+@article{DBLP:journals/scp/BertranBCLBC14,
+  author    = {Benjamin Bertran and
+               Julien Bruneau and
+               Damien Cassou and
+               Nicolas Loriant and
+               Emilie Balland and
+               Charles Consel},
+  title     = {DiaSuite: A tool suite to develop Sense/Compute/Control applications},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {39-51},
+}
+
+@article{DBLP:journals/scp/AldrichL14,
+  author    = {Jonathan Aldrich and
+               Ricardo Massa Ferreira Lima},
+  title     = {Brazilian Symposium on Programming Languages ({SBLP} 2010)},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {51},
+}
+
+@article{DBLP:journals/scp/ScholliersTM14,
+  author    = {Christophe Scholliers and
+               Éric Tanter and
+               Wolfgang De Meuter},
+  title     = {Parallel actor monitors: Disentangling task-level parallelism from data partitioning in the actor model},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {52-64},
+}
+
+@article{DBLP:journals/scp/BurgD14,
+  author    = {Sander van der Burg and
+               Eelco Dolstra},
+  title     = {Disnix: A toolset for distributed deployment},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {52-69},
+}
+
+@article{DBLP:journals/scp/MacedonioM14,
+  author    = {Damiano Macedonio and
+               Massimo Merro},
+  title     = {A semantic analysis of key management protocols for wireless sensor networks},
+  journal   = scp,
+  volume    = {81},
+  year      = 2014,
+  pages     = {53-78},
+}
+
+@article{DBLP:journals/scp/PinhoJ14,
+  author    = {Eduardo Gurgel Pinho and
+               Francisco Heron de Carvalho Junior},
+  title     = {An object-oriented parallel programming language for distributed-memory parallel computing platforms},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {65-90},
+}
+
+@article{DBLP:journals/scp/ThumKBMSL14,
+  author    = {Thomas Thüm and
+               Christian Kästner and
+               Fabian Benduhn and
+               Jens Meinicke and
+               Gunter Saake and
+               Thomas Leich},
+  title     = {FeatureIDE: An extensible framework for feature-oriented software development},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {70-85},
+}
+
+@article{DBLP:journals/scp/AlpuenteBR14,
+  author    = {María Alpuente and
+               Demis Ballis and
+               Daniel Romero},
+  title     = {A rewriting logic approach to the formal specification and verification of web applications},
+  journal   = scp,
+  volume    = {81},
+  year      = 2014,
+  pages     = {79-107},
+}
+
+@article{DBLP:journals/scp/BergelA14,
+  author    = {Alexandre Bergel and
+               Vanessa Peña Araya},
+  title     = {Increasing test coverage with Hapao},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {86-100},
+}
+
+@article{DBLP:journals/scp/RimsadPB14,
+  author    = {Andrei Rimsa and
+               Marcelo d'Amorim and
+               Fernando Magno Quintão Pereira and
+               Roberto da Silva Bigonha},
+  title     = {Efficient static checker for tainted variable attacks},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {91-105},
+}
+
+@article{DBLP:journals/scp/KrebsS14,
+  author    = {Nico Krebs and
+               Lothar Schmitz},
+  title     = {Jaccie: A Java-based compiler-compiler for generating, visualizing and debugging compiler components},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {101-115},
+}
+
+@article{DBLP:journals/scp/SalaunS14,
+  author    = {Gwen Salaün and
+               Bernhard Schätz},
+  title     = {Preface: Special section on formal methods for industrial critical systems (Selected papers from FMICS'11)},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {107-108},
+}
+
+@article{DBLP:journals/scp/Hoang14,
+  author    = {Thai Son Hoang},
+  title     = {Reasoning about almost-certain convergence properties using {Event-B}},
+  journal   = scp,
+  volume    = {81},
+  year      = 2014,
+  pages     = {108-121},
+}
+
+@article{DBLP:journals/scp/ReinbacherBHSK14,
+  author    = {Thomas Reinbacher and
+               Jörg Brauer and
+               Martin Horauer and
+               Andreas Steininger and
+               Stefan Kowalewski},
+  title     = {Runtime verification of microcontroller binary code},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {109-129},
+}
+
+@article{DBLP:journals/scp/CasertaZ14,
+  author    = {Pierre Caserta and
+               Olivier Zendra},
+  title     = {JBInsTrace: A tracer of Java and {JRE} classes at basic-block granularity by dynamically instrumenting bytecode},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {116-125},
+}
+
+@article{DBLP:journals/scp/Recio-GarciaGD14,
+  author    = {Juan A. Recio-García and
+               Pedro A. González-Calero and
+               Belén Díaz-Agudo},
+  title     = {jcolibri2: A framework for building Case-based reasoning systems},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {126-145},
+}
+
+@article{DBLP:journals/scp/LantreibecqS14,
+  author    = {Etienne Lantreibecq and
+               Wendelin Serwe},
+  title     = {Formal analysis of a hardware dynamic task dispatcher with {CADP}},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {130-149},
+}
+
+@article{DBLP:journals/scp/SarimbekovSBMM14,
+  author    = {Aibek Sarimbekov and
+               Andreas Sewe and
+               Walter Binder and
+               Philippe Moret and
+               Mira Mezini},
+  title     = {JP2: Call-site aware calling context profiling for the Java Virtual Machine},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {146-157},
+}
+
+@article{DBLP:journals/scp/HuhnM14,
+  author    = {Michaela Huhn and
+               Stefan Milius},
+  title     = {Observations on formal safety analysis in practice},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {150-168},
+}
+
+@article{DBLP:journals/scp/CordyR14,
+  author    = {James R. Cordy and
+               Chanchal K. Roy},
+  title     = {Tuning research tools for scalability and performance: The {NiCad} experience},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {158-171},
+}
+
+@article{DBLP:journals/scp/CatanoASA14,
+  author    = {Néstor Cataño and
+               Ijaz Ahmed and
+               Radu I. Siminiceanu and
+               Jonathan Aldrich},
+  title     = {A case study on the lightweight verification of a multi-threaded task server},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {169-187},
+}
+
+@article{DBLP:journals/scp/KuhrmannKT14,
+  author    = {Marco Kuhrmann and
+               Georg Kalus and
+               Manuel Then},
+  title     = {The Process Enactment Tool Framework - Transformation of software process models to prepare enactment},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {172-188},
+}
+
+@article{DBLP:journals/scp/SijtemaBSM14,
+  author    = {Marten Sijtema and
+               Axel Belinfante and
+               Mariëlle Stoelinga and
+               Lawrence Marinelli},
+  title     = {Experiences with formal engineering: Model-based specification, implementation and testing of a software bus at Neopost},
+  journal   = scp,
+  volume    = {80},
+  year      = 2014,
+  pages     = {188-209},
+}
+
+@article{DBLP:journals/scp/ZschalerDS14,
+  author    = {Steffen Zschaler and
+               Birgit Demuth and
+               Lothar Schmitz},
+  title     = {Salespoint: A Java framework for teaching object-oriented software development},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {189-203},
+}
+
+@article{DBLP:journals/scp/LunguLN14,
+  author    = {Mircea Lungu and
+               Michele Lanza and
+               Oscar Nierstrasz},
+  title     = {Evolutionary and collaborative software architecture recovery with Softwarenaut},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {204-223},
+}
+
+@article{DBLP:journals/scp/ReniersVET14,
+  author    = {Dennie Reniers and
+               Lucian Voinea and
+               Ozan Ersoy and
+               Alexandru Telea},
+  title     = {The Solid* toolset for software visual analytics of program structure and metrics comprehension: From research prototype to product},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {224-240},
+}
+
+@article{DBLP:journals/scp/BajracharyaOL14,
+  author    = {Sushil Krishna Bajracharya and
+               Joel Ossher and
+               Cristina Videira Lopes},
+  title     = {Sourcerer: An infrastructure for large-scale collection and analysis of open-source code},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {241-259},
+}
+
+@article{DBLP:journals/scp/SmetLSGAH14,
+  author    = {Benoît De Smet and
+               Lorent Lempereur and
+               Zohreh Sharafi and
+               Yann-Gaël Guéhéneuc and
+               Giuliano Antoniol and
+               Naji Habra},
+  title     = {Taupe: Visualizing and analyzing eye-tracking data},
+  journal   = scp,
+  volume    = {79},
+  year      = 2014,
+  pages     = {260-278},
+}
+
 @article{DBLP:journals/scp/ClarkeA13,
   author    = {Dave Clarke and
                Gul Agha},
@@ -4969,7 +5370,7 @@
 
 @article{DBLP:journals/scp/BianchiBFPT08,
   author    = {Giuseppe Bianchi and
-               M. Bonola and
+               Marco Bonola and
                Vincenzo Falletta and
                Francesco Saverio Proto and
                Simone Teofili},
@@ -7018,7 +7419,7 @@
 
 @article{DBLP:journals/scp/DanaherLL06,
   author    = {John S. Danaher and
-               I.-Ting Angelina Lee and
+               I-Ting Angelina Lee and
                Charles E. Leiserson},
   title     = {Programming with exceptions in {JCilk}},
   journal   = scp,

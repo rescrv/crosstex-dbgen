@@ -1,5 +1,16 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/vldb/WillhalmO0F13,
+  author    = {Thomas Willhalm and
+               Ismail Oukid and
+               Ingo Müller and
+               Franz Faerber},
+  title     = {Vectorizing Database Column Scans with Complex Predicates},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {1-12},
+}
+
 @inproceedings{DBLP:conf/vldb/KerenSABSS13,
   author    = {Daniel Keren and
                Guy Sagy and
@@ -25,6 +36,17 @@
   pages     = {13-18},
 }
 
+@inproceedings{DBLP:conf/vldb/AbsalyamovMTN13,
+  author    = {Ildar Absalyamov and
+               Roger Moussalli and
+               Vassilis J. Tsotras and
+               Walid A. Najjar},
+  title     = {{High-Performance} {XML} Twig Filtering using {GPUs}},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {13-24},
+}
+
 @inproceedings{DBLP:conf/vldb/GabelKS13,
   author    = {Moshe Gabel and
                Daniel Keren and
@@ -39,7 +61,7 @@
   author    = {Thomas Heinze and
                Yuanzhen Ji and
                Yinying Pan and
-               Franz Josef Grueneberger and
+               Franz Josef Grüneberger and
                Zbigniew Jerzak and
                Christof Fetzer},
   title     = {Elastic Complex Event Processing under Varying Query Load},
@@ -48,14 +70,35 @@
   pages     = {25-30},
 }
 
+@inproceedings{DBLP:conf/vldb/KoutsoumpakisKG13,
+  author    = {Georgios Koutsoumpakis and
+               Iakovos Koutsoumpakis and
+               Anastasios Gounaris},
+  title     = {Skew Handling in Aggregate Streaming Queries on {GPUs}},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {25-35},
+}
+
 @inproceedings{DBLP:conf/vldb/GrunbergerHF13,
-  author    = {Franz Josef Grünberger and
+  author    = {Franz Josef Grüneberger and
                Thomas Heinze and
                Pascal Felber},
   title     = {Adaptive Selective Replication for Complex Event Processing Systems},
   booktitle = vldb,
   year      = 2013,
   pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/vldb/PsaroudakisSMA13,
+  author    = {Iraklis Psaroudakis and
+               Tobias Scheuer and
+               Norman May and
+               Anastasia Ailamaki},
+  title     = {Task Scheduling for Highly Concurrent Analytical and Transactional {Main-Memory} Workloads},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {36-45},
 }
 
 @inproceedings{DBLP:conf/vldb/SpyropoulosK13,
@@ -77,6 +120,15 @@
   pages     = {43-48},
 }
 
+@inproceedings{DBLP:conf/vldb/SasakiA13,
+  author    = {Shigero Sasaki and
+               Takuya Araki},
+  title     = {Modularizing B+-trees: {Three-Level} B+-trees Work Fine},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {46-57},
+}
+
 @inproceedings{DBLP:conf/vldb/SattlerB13,
   author    = {Kai-Uwe Sattler and
                Felix Beier},
@@ -92,6 +144,17 @@
   booktitle = vldb,
   year      = 2013,
   pages     = {55-60},
+}
+
+@inproceedings{DBLP:conf/vldb/DubsPGB13,
+  author    = {Paul Dubs and
+               Ilia Petrov and
+               Robert Gottstein and
+               Alejandro P. Buchmann},
+  title     = {FBARC: I/O Asymmetry Aware Buffer Replacement Strategy},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {58-69},
 }
 
 @inproceedings{DBLP:conf/vldb/KoppMPM13,
@@ -115,6 +178,202 @@
   booktitle = vldb,
   year      = 2013,
   pages     = {67-72},
+}
+
+@inproceedings{DBLP:conf/vldb/KimuraGK12,
+  author    = {Hideaki Kimura and
+               Goetz Graefe and
+               Harumi A. Kuno},
+  title     = {Efficient Locking Techniques for Databases on Modern Hardware},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/vldb/FaustSKP12,
+  author    = {Martin Faust and
+               David Schwalb and
+               Jens Krueger and
+               Hasso Plattner},
+  title     = {Fast Lookups for {In-Memory} Column Stores: {Group-Key} Indices, Lookup and Maintenance},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {13-22},
+}
+
+@inproceedings{DBLP:conf/vldb/AthanassoulisBCR12,
+  author    = {Manos Athanassoulis and
+               Bishwaranjan Bhattacharjee and
+               Mustafa Canim and
+               Kenneth A. Ross},
+  title     = {Path processing using Solid State Storage},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {23-32},
+}
+
+@inproceedings{DBLP:conf/vldb/HeimelM12,
+  author    = {Max Heimel and
+               Volker Markl},
+  title     = {A First Step Towards {GPU-assisted} Query Optimization},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {33-44},
+}
+
+@inproceedings{DBLP:conf/vldb/ShnaidermanS12,
+  author    = {Lila Shnaiderman and
+               Oded Shmueli},
+  title     = {A Parallel Twig Join Algorithm for {XML} Processing using a {GPGPU}},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {45-56},
+}
+
+@inproceedings{DBLP:conf/vldb/BadiozamanyR12,
+  author    = {Sobhan Badiozamany and
+               Tore Risch},
+  title     = {Scalable ordered indexing of streaming data},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {57-67},
+}
+
+@inproceedings{DBLP:conf/vldb/SchlegelWL11,
+  author    = {Benjamin Schlegel and
+               Thomas Willhalm and
+               Wolfgang Lehner},
+  title     = {Fast {Sorted-Set} Intersection using {SIMD} Instructions},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/vldb/MoussalliHSNT11,
+  author    = {Roger Moussalli and
+               Robert Halstead and
+               Mariam Salloum and
+               Walid A. Najjar and
+               Vassilis J. Tsotras},
+  title     = {Efficient {XML} Path Filtering Using {GPUs}},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {9-18},
+}
+
+@inproceedings{DBLP:conf/vldb/KruegerGJZP11,
+  author    = {Jens Krueger and
+               Martin Grund and
+               Ingo Jaeckel and
+               Alexander Zeier and
+               Hasso Plattner},
+  title     = {Applicability of {GPU} Computing for Efficient Merge in {In-Memory} Databases},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {19-26},
+}
+
+@inproceedings{DBLP:conf/vldb/PirkMK11,
+  author    = {Holger Pirk and
+               Stefan Manegold and
+               Martin L. Kersten},
+  title     = {Accelerating {Foreign-Key} Joins using Asymmetric Memory Channels},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {27-35},
+}
+
+@inproceedings{DBLP:conf/vldb/KimOPCL11,
+  author    = {Sungchan Kim and
+               Hyunok Oh and
+               Chanik Park and
+               Sangyeun Cho and
+               Sang-Won Lee},
+  title     = {Fast, Energy Efficient Scan inside Flash Memory},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {36-43},
+}
+
+@inproceedings{DBLP:conf/vldb/PelleyLW11,
+  author    = {Steven Pelley and
+               Kristen LeFevre and
+               Thomas F. Wenisch},
+  title     = {Do Query Optimizers Need to be SSD-aware?},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {44-51},
+}
+
+@inproceedings{DBLP:conf/vldb/CanimMBLR10,
+  author    = {Mustafa Canim and
+               George A. Mihaila and
+               Bishwaranjan Bhattacharjee and
+               Christian A. Lang and
+               Kenneth A. Ross},
+  title     = {Buffered Bloom Filters on Solid State Storage},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/vldb/Cayton10,
+  author    = {Lawrence Cayton},
+  title     = {A Nearest Neighbor Data Structure for Graphics Hardware},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {9-14},
+}
+
+@inproceedings{DBLP:conf/vldb/FoongVH10,
+  author    = {Annie P. Foong and
+               Bryan Veal and
+               Frank T. Hady},
+  title     = {Towards {SSD-Ready} Enterprise Platforms},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {15-21},
+}
+
+@inproceedings{DBLP:conf/vldb/KrikellasVC10,
+  author    = {Konstantinos Krikellas and
+               Stratis Viglas and
+               Marcelo Cintra},
+  title     = {Modeling Multithreaded Query Execution on Chip Multiprocessors},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {22-33},
+}
+
+@inproceedings{DBLP:conf/vldb/PetrovABG10,
+  author    = {Ilia Petrov and
+               Guillermo G. Almeida and
+               Alejandro P. Buchmann and
+               Ulrich Gräf},
+  title     = {Building Large Storage Based On Flash Disks},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {34-42},
+}
+
+@inproceedings{DBLP:conf/vldb/TranBN10,
+  author    = {Khai Q. Tran and
+               Spyros Blanas and
+               Jeffrey F. Naughton},
+  title     = {On Transactional Memory, Spinlocks, and Database Transactions},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {43-50},
+}
+
+@inproceedings{DBLP:conf/vldb/VolkHL10,
+  author    = {Peter Benjamin Volk and
+               Dirk Habich and
+               Wolfgang Lehner},
+  title     = {{GPU-Based} Speculative Query Processing for Database Operations},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {51-60},
 }
 
 @inproceedings{DBLP:conf/vldb/AlbrechtN09,
@@ -2336,7 +2595,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/BastMSTW06,
-  author    = {Holger Bast and
+  author    = {H. Bast and
                Debapriyo Majumdar and
                Ralf Schenkel and
                Martin Theobald and
@@ -22766,9 +23025,9 @@
 }
 
 @inproceedings{DBLP:conf/vldb/KamenyWCBGB78,
-  author    = {I. Kameny and
+  author    = {Iris Kameny and
                J. Weiner and
-               M. Crilley and
+               Marilyn Crilley and
                J. Burger and
                R. Gates and
                David Brill},

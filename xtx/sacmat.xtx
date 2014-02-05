@@ -689,7 +689,7 @@
 
 @inproceedings{DBLP:conf/sacmat/NaldurgR11,
   author    = {Prasad Naldurg and
-               Raghavendra K. R.},
+               K. R. Raghavendra},
   title     = {SEAL: a logic programming framework for specifying and verifying access control models},
   booktitle = sacmat,
   year      = 2011,

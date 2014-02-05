@@ -256,6 +256,266 @@
   pages     = {22},
 }
 
+@article{DBLP:journals/jacm/GodoyG13,
+  author    = {Guillem Godoy and
+               Omer Giménez},
+  title     = {The {HOM} problem is decidable},
+  journal   = jacm,
+  volume    = {60},
+  number    = {4},
+  year      = 2013,
+  pages     = {23},
+}
+
+@article{DBLP:journals/jacm/GottlobG13,
+  author    = {Georg Gottlob and
+               Gianluigi Greco},
+  title     = {Decomposing combinatorial auctions and set packing problems},
+  journal   = jacm,
+  volume    = {60},
+  number    = {4},
+  year      = 2013,
+  pages     = {24},
+}
+
+@article{DBLP:journals/jacm/AlonY13,
+  author    = {Noga Alon and
+               Raphael Yuster},
+  title     = {Matrix sparsification and nested dissection over arbitrary fields},
+  journal   = jacm,
+  volume    = {60},
+  number    = {4},
+  year      = 2013,
+  pages     = {25},
+}
+
+@article{DBLP:journals/jacm/PeresSSZ13,
+  author    = {Yuval Peres and
+               Dmitry Sotnikov and
+               Benny Sudakov and
+               Uri Zwick},
+  title     = {All-pairs shortest paths in O(n2) time with high probability},
+  journal   = jacm,
+  volume    = {60},
+  number    = {4},
+  year      = 2013,
+  pages     = {26},
+}
+
+@article{DBLP:journals/jacm/Vianu13c,
+  author    = {Victor Vianu},
+  title     = {Invited articles foreword},
+  journal   = jacm,
+  volume    = {60},
+  number    = {4},
+  year      = 2013,
+  pages     = {27},
+}
+
+@article{DBLP:journals/jacm/Arenas0R13,
+  author    = {Marcelo Arenas and
+               Jorge Pérez and
+               Juan L. Reutter},
+  title     = {Data exchange beyond complete data},
+  journal   = jacm,
+  volume    = {60},
+  number    = {4},
+  year      = 2013,
+  pages     = {28},
+}
+
+@article{DBLP:journals/jacm/Laird13,
+  author    = {James Laird},
+  title     = {Game semantics for a polymorphic programming language},
+  journal   = jacm,
+  volume    = {60},
+  number    = {4},
+  year      = 2013,
+  pages     = {29},
+}
+
+@article{DBLP:journals/jacm/Vianu13d,
+  author    = {Victor Vianu},
+  title     = {Editorial: {JACM} redux},
+  journal   = jacm,
+  volume    = {60},
+  number    = {5},
+  year      = 2013,
+  pages     = {30},
+}
+
+@article{DBLP:journals/jacm/CheungKL13,
+  author    = {Ho Yee Cheung and
+               Tsz Chiu Kwok and
+               Lap Chi Lau},
+  title     = {Fast matrix rank algorithms and applications},
+  journal   = jacm,
+  volume    = {60},
+  number    = {5},
+  year      = 2013,
+  pages     = {31},
+}
+
+@article{DBLP:journals/jacm/BulatovDGJM13,
+  author    = {Andrei A. Bulatov and
+               Martin E. Dyer and
+               Leslie Ann Goldberg and
+               Mark Jerrum and
+               Colin McQuillan},
+  title     = {The expressibility of functions on the boolean domain, with applications to counting {CSPs}},
+  journal   = jacm,
+  volume    = {60},
+  number    = {5},
+  year      = 2013,
+  pages     = {32},
+}
+
+@article{DBLP:journals/jacm/SaxenaS13,
+  author    = {Nitin Saxena and
+               C. Seshadhri},
+  title     = {From sylvester-gallai configurations to rank bounds: Improved blackbox identity test for depth-3 circuits},
+  journal   = jacm,
+  volume    = {60},
+  number    = {5},
+  year      = 2013,
+  pages     = {33},
+}
+
+@article{DBLP:journals/jacm/Bulatov13,
+  author    = {Andrei A. Bulatov},
+  title     = {The complexity of the counting constraint satisfaction problem},
+  journal   = jacm,
+  volume    = {60},
+  number    = {5},
+  year      = 2013,
+  pages     = {34},
+}
+
+@article{DBLP:journals/jacm/FraigniaudKP13,
+  author    = {Pierre Fraigniaud and
+               Amos Korman and
+               David Peleg},
+  title     = {Towards a complexity theory for local distributed computing},
+  journal   = jacm,
+  volume    = {60},
+  number    = {5},
+  year      = 2013,
+  pages     = {35},
+}
+
+@article{DBLP:journals/jacm/DvorakKT13,
+  author    = {Zdenek Dvorak and
+               Daniel Král and
+               Robin Thomas},
+  title     = {Testing first-order properties for subclasses of sparse graphs},
+  journal   = jacm,
+  volume    = {60},
+  number    = {5},
+  year      = 2013,
+  pages     = {36},
+}
+
+@article{DBLP:journals/jacm/KolaitisK13,
+  author    = {Phokion G. Kolaitis and
+               Swastik Kopparty},
+  title     = {Random graphs and the parity quantifier},
+  journal   = jacm,
+  volume    = {60},
+  number    = {5},
+  year      = 2013,
+  pages     = {37},
+}
+
+@article{DBLP:journals/jacm/Vianu13e,
+  author    = {Victor Vianu},
+  title     = {Invited article foreword},
+  journal   = jacm,
+  volume    = {60},
+  number    = {5},
+  year      = 2013,
+  pages     = {38},
+}
+
+@article{DBLP:journals/jacm/GoosHS13,
+  author    = {Mika Göös and
+               Juho Hirvonen and
+               Jukka Suomela},
+  title     = {Lower bounds for local approximation},
+  journal   = jacm,
+  volume    = {60},
+  number    = {5},
+  year      = 2013,
+  pages     = {39},
+}
+
+@article{DBLP:journals/jacm/Raz13,
+  author    = {Ran Raz},
+  title     = {{Tensor-Rank} and Lower Bounds for Arithmetic Formulas},
+  journal   = jacm,
+  volume    = {60},
+  number    = {6},
+  year      = 2013,
+  pages     = {40},
+}
+
+@article{DBLP:journals/jacm/ChazalGOS13,
+  author    = {Frédéric Chazal and
+               Leonidas J. Guibas and
+               Steve Y. Oudot and
+               Primoz Skraba},
+  title     = {{Persistence-Based} Clustering in Riemannian Manifolds},
+  journal   = jacm,
+  volume    = {60},
+  number    = {6},
+  year      = 2013,
+  pages     = {41},
+}
+
+@article{DBLP:journals/jacm/Marx13,
+  author    = {Dániel Marx},
+  title     = {Tractable Hypergraph Properties for Constraint Satisfaction and Conjunctive Queries},
+  journal   = jacm,
+  volume    = {60},
+  number    = {6},
+  year      = 2013,
+  pages     = {42},
+}
+
+@article{DBLP:journals/jacm/LyubashevskyPR13,
+  author    = {Vadim Lyubashevsky and
+               Chris Peikert and
+               Oded Regev},
+  title     = {On Ideal Lattices and Learning with Errors over Rings},
+  journal   = jacm,
+  volume    = {60},
+  number    = {6},
+  year      = 2013,
+  pages     = {43},
+}
+
+@article{DBLP:journals/jacm/FawziHS13,
+  author    = {Omar Fawzi and
+               Patrick Hayden and
+               Pranab Sen},
+  title     = {From {Low-Distortion} Norm Embeddings to Explicit Uncertainty Relations and Efficient Information Locking},
+  journal   = jacm,
+  volume    = {60},
+  number    = {6},
+  year      = 2013,
+  pages     = {44},
+}
+
+@article{DBLP:journals/jacm/HillarL13,
+  author    = {Christopher J. Hillar and
+               Lek-Heng Lim},
+  title     = {Most Tensor Problems Are {NP-Hard}},
+  journal   = jacm,
+  volume    = {60},
+  number    = {6},
+  year      = 2013,
+  pages     = {45},
+}
+
 @article{DBLP:journals/jacm/BaierGB12,
   author    = {Christel Baier and
                Marcus Größer and
@@ -19863,7 +20123,7 @@
 }
 
 @article{DBLP:journals/jacm/AlexanderT71,
-  author    = {J. C. Alexander and
+  author    = {James C. Alexander and
                A. I. Thaler},
   title     = {The Boundary Count of Digital Pictures},
   journal   = jacm,

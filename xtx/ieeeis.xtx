@@ -1,5 +1,15 @@
 @include journals-cs
 
+@article{DBLP:journals/expert/Zeng13c,
+  author    = {Daniel Zeng},
+  title     = {Contributing to {IEEE} Intelligent Systems},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {2-4},
+}
+
 @article{DBLP:journals/expert/Zeng13a,
   author    = {Daniel Zeng},
   title     = {Social Computing: An {AI} Perspective},
@@ -29,6 +39,19 @@
   number    = {1},
   year      = 2013,
   pages     = {4-5},
+}
+
+@article{DBLP:journals/expert/MehrotraQCT13,
+  author    = {Sharad Mehrotra and
+               Xiaogang Qiu and
+               Zhidong Cao and
+               Austin Tate},
+  title     = {Technological Challenges in Emergency Response},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {5-8},
 }
 
 @article{DBLP:journals/expert/CambriaSLWH13a,
@@ -63,6 +86,18 @@
   number    = {2},
   year      = 2013,
   pages     = {6-11},
+}
+
+@article{DBLP:journals/expert/WicklerTH13,
+  author    = {Gerhard Wickler and
+               Austin Tate and
+               Jeffrey Hansberger},
+  title     = {Using Shared Procedural Knowledge for Virtual Collaboration Support in Emergency Response},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {9-17},
 }
 
 @article{DBLP:journals/expert/XiaZHC13,
@@ -132,6 +167,20 @@
   pages     = {17-25},
 }
 
+@article{DBLP:journals/expert/DuanQCZC13,
+  author    = {Wei Duan and
+               Xiaogang Qiu and
+               Zhidong Cao and
+               Xiaolong Zheng and
+               Kainan Cui},
+  title     = {Heterogeneous and Stochastic {Agent-Based} Models for Analyzing Infectious Diseases' Super Spreaders},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {18-25},
+}
+
 @article{DBLP:journals/expert/Garcia-MoyaAL13,
   author    = {Lisette García-Moya and
                Henry Anaya-Sánchez and
@@ -171,6 +220,19 @@
   number    = {1},
   year      = 2013,
   pages     = {26-33},
+}
+
+@article{DBLP:journals/expert/HoranontWSS13,
+  author    = {Teerayut Horanont and
+               Apichon Witayangkurn and
+               Yoshihide Sekimoto and
+               Ryosuke Shibasaki},
+  title     = {{Large-Scale} {Auto-GPS} Analysis for Discerning Behavior Change during Crisis},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {26-34},
 }
 
 @article{DBLP:journals/expert/FabbrizioAG13,
@@ -215,6 +277,21 @@
   pages     = {34-41},
 }
 
+@article{DBLP:journals/expert/SongZSHUS13,
+  author    = {Xuan Song and
+               Quanshi Zhang and
+               Yoshihide Sekimoto and
+               Teerayut Horanont and
+               Satoshi Ueyama and
+               Ryosuke Shibasaki},
+  title     = {Intelligent System for Human Behavior Analysis and Reasoning Following {Large-Scale} Disasters},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {35-42},
+}
+
 @article{DBLP:journals/expert/Perez-RosasMM13,
   author    = {Verónica Pérez-Rosas and
                Rada Mihalcea and
@@ -250,6 +327,19 @@
   number    = {1},
   year      = 2013,
   pages     = {42-49},
+}
+
+@article{DBLP:journals/expert/FariaVSF13,
+  author    = {Pedro Faria and
+               Zita Vale and
+               João P. Soares and
+               Judite Ferreira},
+  title     = {Demand Response Management in Power Systems Using Particle Swarm Optimization},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {43-51},
 }
 
 @article{DBLP:journals/expert/WollmerWKSSSM13,
@@ -290,6 +380,19 @@
   pages     = {50-56},
 }
 
+@article{DBLP:journals/expert/DongONC13,
+  author    = {Hairong Dong and
+               Renhai Ouyang and
+               Bin Ning and
+               Guanrong Chen},
+  title     = {Parallel Experiment for Urban Rail Emergency Evacuation: An Approach for Hub Identification},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {52-59},
+}
+
 @article{DBLP:journals/expert/BradshawHWJ13,
   author    = {Jeffrey M. Bradshaw and
                Robert R. Hoffman and
@@ -328,6 +431,19 @@
   number    = {1},
   year      = 2013,
   pages     = {57-63},
+}
+
+@article{DBLP:journals/expert/DongXZW13,
+  author    = {Zhao Yang Dong and
+               Yan Xu and
+               Pei Zhang and
+               Kit Po Wong},
+  title     = {Using {IS} to Assess an Electric Power System's {Real-Time} Stability},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {60-66},
 }
 
 @article{DBLP:journals/expert/LuLSS13,
@@ -388,6 +504,17 @@
   pages     = {66-69},
 }
 
+@article{DBLP:journals/expert/McCallaC13,
+  author    = {Gordon I. McCalla and
+               John Champaign},
+  title     = {Simulated Learners},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {67-71},
+}
+
 @article{DBLP:journals/expert/KayRDK13,
   author    = {Judy Kay and
                Peter Reimann and
@@ -401,6 +528,16 @@
   pages     = {70-77},
 }
 
+@article{DBLP:journals/expert/Peristeras13,
+  author    = {Vassilios Peristeras},
+  title     = {Semantic Standards: Preventing Waste in the Information Industry},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {72-75},
+}
+
 @article{DBLP:journals/expert/ZengLWC13,
   author    = {Ke Zeng and
                Wenli Liu and
@@ -412,6 +549,17 @@
   number    = {1},
   year      = 2013,
   pages     = {72-77},
+}
+
+@article{DBLP:journals/expert/PhelpsW13,
+  author    = {Steve Phelps and
+               Michael Wooldridge},
+  title     = {Game Theory and Evolution},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {76-81},
 }
 
 @article{DBLP:journals/expert/ShethAH13,
@@ -448,6 +596,17 @@
   pages     = {81-85},
 }
 
+@article{DBLP:journals/expert/HoffmanM13,
+  author    = {Robert R. Hoffman and
+               Michael J. McCloskey},
+  title     = {Envisioning Desirements},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {82-89},
+}
+
 @article{DBLP:journals/expert/HoffmanJBU13,
   author    = {Robert R. Hoffman and
                Matthew Johnson and
@@ -476,6 +635,26 @@
   pages     = {86-91},
 }
 
+@article{DBLP:journals/expert/Zeng13b,
+  author    = {Daniel Zeng},
+  title     = {{AI's} 10 to Watch},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {3},
+  year      = 2013,
+  pages     = {86-96},
+}
+
+@article{DBLP:journals/expert/Vrandecic13,
+  author    = {Denny Vrandecic},
+  title     = {The Rise of Wikidata},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {90-95},
+}
+
 @article{DBLP:journals/expert/Neill13,
   author    = {Daniel B. Neill},
   title     = {Using Artificial Intelligence to Improve Hospital Inpatient Care},
@@ -496,6 +675,17 @@
   pages     = {96-99},
 }
 
+@article{DBLP:journals/expert/MaratheR13,
+  author    = {Madhav V. Marathe and
+               Naren Ramakrishnan},
+  title     = {Recent Advances in Computational Epidemiology},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {96-101},
+}
+
 @article{DBLP:journals/expert/TiropanisHSRCH13,
   author    = {Thanassis Tiropanis and
                Wendy Hall and
@@ -509,6 +699,31 @@
   number    = {2},
   year      = 2013,
   pages     = {100-104},
+}
+
+@article{DBLP:journals/expert/WangLY13,
+  author    = {Yizheng Wang and
+               Lefei Li and
+               Liuqing Yang},
+  title     = {Intelligent Human Resource Planning System in a Large Petrochemical Enterprise},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {102-106},
+}
+
+@article{DBLP:journals/expert/RossettiAKG13,
+  author    = {Rosaldo J. F. Rossetti and
+               João Emílio Almeida and
+               Zafeiris Kokkinogenis and
+               Joel Gonçalves},
+  title     = {Playing Transportation Seriously: Applications of Serious Games to Artificial Transportation Systems},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {4},
+  year      = 2013,
+  pages     = {107-112},
 }
 
 @article{DBLP:journals/expert/Wang12e,

@@ -1705,7 +1705,7 @@
 @inproceedings{DBLP:conf/imc/GunawardenaKPV09,
   author    = {Dinan Gunawardena and
                Thomas Karagiannis and
-               Alexandre Proutiére and
+               Alexandre Proutiere and
                Milan Vojnovic},
   title     = {Characterizing podcast services: publishing, usage, and dissemination},
   booktitle = imc,
