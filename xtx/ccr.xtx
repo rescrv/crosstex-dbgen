@@ -8761,8 +8761,8 @@
 }
 
 @article{DBLP:journals/ccr/WilliamsonF99,
-  author    = {Brad Williamson and
-               Craig Farrell},
+  author    = {Brad J. Williamson and
+               Craig A. Farrell},
   title     = {Independent active program representation using ASN. 1},
   journal   = ccr,
   volume    = {29},

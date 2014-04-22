@@ -1,5 +1,96 @@
 @include journals-cs
 
+@article{DBLP:journals/jacm/DuanP14,
+  author    = {Ran Duan and
+               Seth Pettie},
+  title     = {{Linear-Time} Approximation for Maximum Weight Matching},
+  journal   = jacm,
+  volume    = {61},
+  number    = {1},
+  year      = 2014,
+  pages     = {1},
+}
+
+@article{DBLP:journals/jacm/Williams14,
+  author    = {Ryan Williams},
+  title     = {Nonuniform {ACC} Circuit Lower Bounds},
+  journal   = jacm,
+  volume    = {61},
+  number    = {1},
+  year      = 2014,
+  pages     = {2},
+}
+
+@article{DBLP:journals/jacm/BartoK14,
+  author    = {Libor Barto and
+               Marcin Kozik},
+  title     = {Constraint Satisfaction Problems Solvable by Local Consistency Methods},
+  journal   = jacm,
+  volume    = {61},
+  number    = {1},
+  year      = 2014,
+  pages     = {3},
+}
+
+@article{DBLP:journals/jacm/KaneN14,
+  author    = {Daniel M. Kane and
+               Jelani Nelson},
+  title     = {Sparser {Johnson-Lindenstrauss} Transforms},
+  journal   = jacm,
+  volume    = {61},
+  number    = {1},
+  year      = 2014,
+  pages     = {4},
+}
+
+@article{DBLP:journals/jacm/ChaputDPP14,
+  author    = {Philippe Chaput and
+               Vincent Danos and
+               Prakash Panangaden and
+               Gordon D. Plotkin},
+  title     = {Approximating Markov Processes by Averaging},
+  journal   = jacm,
+  volume    = {61},
+  number    = {1},
+  year      = 2014,
+  pages     = {5},
+}
+
+@article{DBLP:journals/jacm/Vianu14,
+  author    = {Victor Vianu},
+  title     = {Foreword to Invited Articles Section},
+  journal   = jacm,
+  volume    = {61},
+  number    = {1},
+  year      = 2014,
+  pages     = {6},
+}
+
+@article{DBLP:journals/jacm/HelmiHPW14,
+  author    = {Maryam Helmi and
+               Lisa Higham and
+               Eduardo Pacheco and
+               Philipp Woelfel},
+  title     = {The Space Complexity of {Long-Lived} and {One-Shot} Timestamp Implementations},
+  journal   = jacm,
+  volume    = {61},
+  number    = {1},
+  year      = 2014,
+  pages     = {7},
+}
+
+@article{DBLP:journals/jacm/BarceloLR14,
+  author    = {Pablo Barceló and
+               Leonid Libkin and
+               Juan L. Reutter},
+  title     = {Querying Regular Graph Patterns},
+  journal   = jacm,
+  volume    = {61},
+  number    = {1},
+  year      = 2014,
+  pages     = {8},
+}
+
 @article{DBLP:journals/jacm/HansenMZ13,
   author    = {Thomas Dueholm Hansen and
                Peter Bro Miltersen and

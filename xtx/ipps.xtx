@@ -7075,8 +7075,8 @@
 }
 
 @inproceedings{DBLP:conf/ipps/PanwarKA96,
-  author    = {R. Panwar and
-               W. Kim and
+  author    = {Rajendra Panwar and
+               WooYoung Kim and
                Gul Agha},
   title     = {Parallel Implementations of Irregular Problems Using {High-Level} Actor Language},
   booktitle = ipps,

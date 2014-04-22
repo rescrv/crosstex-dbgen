@@ -701,7 +701,7 @@
 }
 
 @article{DBLP:journals/toplas/KnowlesF10,
-  author    = {Kenneth L. Knowles and
+  author    = {Kenneth Knowles and
                Cormac Flanagan},
   title     = {Hybrid type checking},
   journal   = toplas,
@@ -1322,7 +1322,7 @@
 @article{DBLP:journals/toplas/PanE08,
   author    = {Zhelong Pan and
                Rudolf Eigenmann},
-  title     = {PEAK&mdash;a fast and effective performance tuning system via compiler optimization orchestration},
+  title     = {{PEAK} - a fast and effective performance tuning system via compiler optimization orchestration},
   journal   = toplas,
   volume    = {30},
   number    = {3},
@@ -5952,7 +5952,7 @@
 }
 
 @article{DBLP:journals/toplas/Bloss94,
-  author    = {Adrienne Bloss},
+  author    = {Adrienne G. Bloss},
   title     = {Path Analysis and the Optimization of Nonstrict Functional Programs},
   journal   = toplas,
   volume    = {16},

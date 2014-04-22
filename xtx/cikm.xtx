@@ -83,7 +83,7 @@
 
 @inproceedings{DBLP:conf/cikm/NetoGCPSA13,
   author    = {Samuel Martins Barbosa Neto and
-               Maira Athanazio De Cerqueira Gatti and
+               Maíra Athanázio de Cerqueira Gatti and
                Paulo Rodrigo Cavalin and
                Claudio Santos Pinhanez and
                Cícero Nogueira dos Santos and
@@ -3445,7 +3445,7 @@
 
 @inproceedings{DBLP:conf/cikm/GoswamiAG13,
   author    = {Parantapa Goswami and
-               Massih R. Amini and
+               Massih-Reza Amini and
                Éric Gaussier},
   title     = {Transferring knowledge with source selection to learn {IR} functions on unlabeled collections},
   booktitle = cikm,
@@ -8619,7 +8619,7 @@
 
 @inproceedings{DBLP:conf/cikm/SavkovicPPN12,
   author    = {Ognjen Savkovic and
-               Mirza Paramita and
+               Paramita Mirza and
                Sergey Paramonov and
                Werner Nutt},
   title     = {MAGIK: managing completeness of data},
@@ -10361,7 +10361,7 @@
 @inproceedings{DBLP:conf/cikm/DavisLMR11,
   author    = {Michael Davis and
                Weiru Liu and
-               Paul Miller and
+               Paul C. Miller and
                George Redpath},
   title     = {Detecting anomalies in graphs with numeric labels},
   booktitle = cikm,

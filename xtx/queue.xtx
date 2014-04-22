@@ -1,5 +1,36 @@
 @include journals-cs
 
+@article{DBLP:journals/queue/SproullW14,
+  author    = {Robert F. Sproull and
+               Jim Waldo},
+  title     = {The {API} Performance Contract},
+  journal   = queue,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Vixie14,
+  author    = {Paul Vixie},
+  title     = {Rate-limiting State},
+  journal   = queue,
+  volume    = {12},
+  number    = {2},
+  year      = 2014,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Kleen14,
+  author    = {Andi Kleen},
+  title     = {Scaling Existing Lock-based Applications with Lock Elision},
+  journal   = queue,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {20},
+}
+
 @article{DBLP:journals/queue/BeckmanM13,
   author    = {Brian Beckman and
                Erik Meijer},

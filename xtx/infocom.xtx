@@ -19255,7 +19255,7 @@
 
 @inproceedings{DBLP:conf/infocom/PujolTR09,
   author    = {Josep M. Pujol and
-               Alberto Lopez Toledo and
+               Alberto López Toledo and
                Pablo Rodriguez},
   title     = {Fair Routing in Delay Tolerant Networks},
   booktitle = infocom,

@@ -1,5 +1,25 @@
 @include journals-cs
 
+@article{DBLP:journals/scp/JonesR14,
+  author    = {Cliff B. Jones and
+               Alexander Romanovsky},
+  title     = {Special issue on Automated Verification of Critical Systems (AVoCS'11)},
+  journal   = scp,
+  volume    = {82},
+  year      = 2014,
+  pages     = {1},
+}
+
+@article{DBLP:journals/scp/ArbabO14,
+  author    = {Farhad Arbab and
+               Peter Csaba Ölveczky},
+  title     = {Preface},
+  journal   = scp,
+  volume    = {83},
+  year      = 2014,
+  pages     = {1-2},
+}
+
 @article{DBLP:journals/scp/BendispostoLR14,
   author    = {Jens Bendisposto and
                Michael Leuschel and
@@ -7,6 +27,15 @@
   title     = {Preface of Automated Verification of Critical Systems 2010 ({AVoCS} 2010)},
   journal   = scp,
   volume    = {81},
+  year      = 2014,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/scp/King14,
+  author    = {Andy King},
+  title     = {Preface for {SCP} special issue on Principles and Practice of Declarative Programming},
+  journal   = scp,
+  volume    = {84},
   year      = 2014,
   pages     = {1-2},
 }
@@ -32,6 +61,26 @@
   pages     = {1-5},
 }
 
+@article{DBLP:journals/scp/HallerstedeJL14,
+  author    = {Stefan Hallerstede and
+               Michael Jastram and
+               Lukas Ladenberger},
+  title     = {A method and tool for tracing requirements into specifications},
+  journal   = scp,
+  volume    = {82},
+  year      = 2014,
+  pages     = {2-21},
+}
+
+@article{DBLP:journals/scp/Emden14,
+  author    = {M. H. van Emden},
+  title     = {Matrix Code},
+  journal   = scp,
+  volume    = {84},
+  year      = 2014,
+  pages     = {3-21},
+}
+
 @article{DBLP:journals/scp/MoonSKA14,
   author    = {Young-Joo Moon and
                Alexandra Silva and
@@ -42,6 +91,15 @@
   volume    = {80},
   year      = 2014,
   pages     = {3-24},
+}
+
+@article{DBLP:journals/scp/Meseguer14,
+  author    = {José Meseguer},
+  title     = {Taming distributed system complexity through formal patterns},
+  journal   = scp,
+  volume    = {83},
+  year      = 2014,
+  pages     = {3-34},
 }
 
 @article{DBLP:journals/scp/MazurL14,
@@ -64,6 +122,27 @@
   volume    = {79},
   year      = 2014,
   pages     = {6-22},
+}
+
+@article{DBLP:journals/scp/AuerDR14,
+  author    = {Anthony Auer and
+               Jürgen Dingel and
+               Karen Rudie},
+  title     = {Concurrency control generation for dynamic threads using discrete-event systems},
+  journal   = scp,
+  volume    = {82},
+  year      = 2014,
+  pages     = {22-43},
+}
+
+@article{DBLP:journals/scp/JaksicP14,
+  author    = {Svetlana Jaksic and
+               Luca Padovani},
+  title     = {Exception handling for copyless messaging},
+  journal   = scp,
+  volume    = {84},
+  year      = 2014,
+  pages     = {22-51},
 }
 
 @article{DBLP:journals/scp/FarahbodGG14,
@@ -89,6 +168,16 @@
   pages     = {25-49},
 }
 
+@article{DBLP:journals/scp/SabouriK14,
+  author    = {Hamideh Sabouri and
+               Ramtin Khosravi},
+  title     = {Reducing the verification cost of evolving product families using static analysis techniques},
+  journal   = scp,
+  volume    = {83},
+  year      = 2014,
+  pages     = {35-55},
+}
+
 @article{DBLP:journals/scp/BertranBCLBC14,
   author    = {Benjamin Bertran and
                Julien Bruneau and
@@ -101,6 +190,17 @@
   volume    = {79},
   year      = 2014,
   pages     = {39-51},
+}
+
+@article{DBLP:journals/scp/GanDH14,
+  author    = {Xiang Gan and
+               Jori Dubrovin and
+               Keijo Heljanko},
+  title     = {A symbolic model checking approach to verifying satellite onboard software},
+  journal   = scp,
+  volume    = {82},
+  year      = 2014,
+  pages     = {44-55},
 }
 
 @article{DBLP:journals/scp/AldrichL14,
@@ -134,6 +234,15 @@
   pages     = {52-69},
 }
 
+@article{DBLP:journals/scp/Thielecke14,
+  author    = {Hayo Thielecke},
+  title     = {On the semantics of parsing actions},
+  journal   = scp,
+  volume    = {84},
+  year      = 2014,
+  pages     = {52-76},
+}
+
 @article{DBLP:journals/scp/MacedonioM14,
   author    = {Damiano Macedonio and
                Massimo Merro},
@@ -142,6 +251,30 @@
   volume    = {81},
   year      = 2014,
   pages     = {53-78},
+}
+
+@article{DBLP:journals/scp/QinHLCY14,
+  author    = {Shengchao Qin and
+               Guanhua He and
+               Chenguang Luo and
+               Wei-Ngan Chin and
+               Hongli Yang},
+  title     = {Automatically refining partial specifications for heap-manipulating programs},
+  journal   = scp,
+  volume    = {82},
+  year      = 2014,
+  pages     = {56-76},
+}
+
+@article{DBLP:journals/scp/AminofMM14,
+  author    = {Benjamin Aminof and
+               Fabio Mogavero and
+               Aniello Murano},
+  title     = {Synthesis of hierarchical systems},
+  journal   = scp,
+  volume    = {83},
+  year      = 2014,
+  pages     = {56-79},
 }
 
 @article{DBLP:journals/scp/PinhoJ14,
@@ -168,6 +301,30 @@
   pages     = {70-85},
 }
 
+@article{DBLP:journals/scp/PhilippaertsMPS0P14,
+  author    = {Pieter Philippaerts and
+               Jan Tobias Mühlberg and
+               Willem Penninckx and
+               Jan Smans and
+               Bart Jacobs and
+               Frank Piessens},
+  title     = {Software verification with VeriFast: Industrial case studies},
+  journal   = scp,
+  volume    = {82},
+  year      = 2014,
+  pages     = {77-97},
+}
+
+@article{DBLP:journals/scp/LagoP14,
+  author    = {Ugo Dal Lago and
+               Barbara Petit},
+  title     = {Linear dependent types in a call-by-value scenario},
+  journal   = scp,
+  volume    = {84},
+  year      = 2014,
+  pages     = {77-100},
+}
+
 @article{DBLP:journals/scp/AlpuenteBR14,
   author    = {María Alpuente and
                Demis Ballis and
@@ -177,6 +334,17 @@
   volume    = {81},
   year      = 2014,
   pages     = {79-107},
+}
+
+@article{DBLP:journals/scp/RamliNN14,
+  author    = {Carroline Dewi Puspa Kencana Ramli and
+               Hanne Riis Nielson and
+               Flemming Nielson},
+  title     = {The logic of {XACML}},
+  journal   = scp,
+  volume    = {83},
+  year      = 2014,
+  pages     = {80-105},
 }
 
 @article{DBLP:journals/scp/BergelA14,
@@ -209,6 +377,31 @@
   volume    = {79},
   year      = 2014,
   pages     = {101-115},
+}
+
+@article{DBLP:journals/scp/SchrijversDTD14,
+  author    = {Tom Schrijvers and
+               Bart Demoen and
+               Markus Triska and
+               Benoit Desouter},
+  title     = {Tor: Modular search with hookable disjunction},
+  journal   = scp,
+  volume    = {84},
+  year      = 2014,
+  pages     = {101-120},
+}
+
+@article{DBLP:journals/scp/BauerLLNW14,
+  author    = {Sebastian S. Bauer and
+               Kim G. Larsen and
+               Axel Legay and
+               Ulrik Nyman and
+               Andrzej Wasowski},
+  title     = {A modal specification theory for components with data},
+  journal   = scp,
+  volume    = {83},
+  year      = 2014,
+  pages     = {106-128},
 }
 
 @article{DBLP:journals/scp/SalaunS14,

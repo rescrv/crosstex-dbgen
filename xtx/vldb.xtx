@@ -1,5 +1,22 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/vldb/ChenC13,
+  author    = {Zhe Chen and
+               Michael J. Cafarella},
+  title     = {Automatic web spreadsheet data extraction},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/vldb/Jensen13,
+  author    = {Christian S. Jensen},
+  title     = {Spatial keyword querying of geo-tagged web content},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {1},
+}
+
 @inproceedings{DBLP:conf/vldb/WillhalmO0F13,
   author    = {Thomas Willhalm and
                Ismail Oukid and
@@ -9,6 +26,125 @@
   booktitle = vldb,
   year      = 2013,
   pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/vldb/MousaviGZ13,
+  author    = {Hamid Mousavi and
+               Shi Gao and
+               Carlo Zaniolo},
+  title     = {Discovering attribute and entity synonyms for knowledge integration and semantic web search},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/vldb/Paparizos13,
+  author    = {Stelios Paparizos},
+  title     = {Entwining structure into web search},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/vldb/AlvanakiM13,
+  author    = {Foteini Alvanaki and
+               Sebastian Michel},
+  title     = {A thin monitoring layer for top-k aggregation queries over a database},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/vldb/BianchiniAM13,
+  author    = {Devis Bianchini and
+               Valeria De Antonellis and
+               Michele Melchiori},
+  title     = {A framework for guided search of mashup components},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/vldb/CaliCDF13,
+  author    = {Andrea Calì and
+               Stefano Capuzzi and
+               Mirko Michele Dimartino and
+               Riccardo Frosini},
+  title     = {Recommendation of text tags using linked data},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/vldb/RoellekeBM13,
+  author    = {Thomas Roelleke and
+               Marco Bonzanini and
+               Miguel Martinez-Alvarez},
+  title     = {On the modelling of ranking algorithms in probabilistic datalog},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/vldb/DessiMAZ13,
+  author    = {Andrea Dessi and
+               Andrea Maxia and
+               Maurizio Atzori and
+               Carlo Zaniolo},
+  title     = {Supporting semantic web search and structured queries on mobile devices},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {5},
+}
+
+@inproceedings{DBLP:conf/vldb/Levandoski13,
+  author    = {Justin J. Levandoski},
+  title     = {Ranking and new database architectures},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {5},
+}
+
+@inproceedings{DBLP:conf/vldb/Bianchini13,
+  author    = {Devis Bianchini},
+  title     = {Towards a folksonomy of web {APIs}},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {6},
+}
+
+@inproceedings{DBLP:conf/vldb/LoyerSZ13,
+  author    = {Yann Loyer and
+               Isma Sadoun and
+               Karine Zeitouni},
+  title     = {Progressive ranking based on a dominance list},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {6},
+}
+
+@inproceedings{DBLP:conf/vldb/CataniaGBMMP13,
+  author    = {Barbara Catania and
+               Giovanna Guerrini and
+               Alberto Belussi and
+               Federica Mandreoli and
+               Riccardo Martoglia and
+               Wilma Penzo},
+  title     = {Wearable queries: adapting common retrieval needs to data and users},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {7},
+}
+
+@inproceedings{DBLP:conf/vldb/CuzzocreaSFP13,
+  author    = {Alfredo Cuzzocrea and
+               Marcello Di Stefano and
+               Paolo Fosci and
+               Giuseppe Psaila},
+  title     = {Effectively and efficiently supporting crowd-enabled databases via {NoSQL} paradigms},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {7},
 }
 
 @inproceedings{DBLP:conf/vldb/KerenSABSS13,
@@ -22,6 +158,17 @@
   booktitle = vldb,
   year      = 2013,
   pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/vldb/BergamaschiFGS13,
+  author    = {Sonia Bergamaschi and
+               Nicola Ferro and
+               Francesco Guerra and
+               Gianmaria Silvello},
+  title     = {Keyword search and evaluation over relational databases: an outlook to the future},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {8},
 }
 
 @inproceedings{DBLP:conf/vldb/BoleyKKSS13,
@@ -193,7 +340,7 @@
 @inproceedings{DBLP:conf/vldb/FaustSKP12,
   author    = {Martin Faust and
                David Schwalb and
-               Jens Krueger and
+               Jens Krüger and
                Hasso Plattner},
   title     = {Fast Lookups for {In-Memory} Column Stores: {Group-Key} Indices, Lookup and Maintenance},
   booktitle = vldb,
@@ -262,7 +409,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/KruegerGJZP11,
-  author    = {Jens Krueger and
+  author    = {Jens Krüger and
                Martin Grund and
                Ingo Jaeckel and
                Alexander Zeier and
@@ -1330,7 +1477,7 @@
 
 @inproceedings{DBLP:conf/vldb/ChandramouliPY07,
   author    = {Badrish Chandramouli and
-               Jeff Phillips and
+               Jeff M. Phillips and
                Jun Yang},
   title     = {{Value-Based} Notification Conditions in {Large-Scale} Publish/Subscribe Systems},
   booktitle = vldb,

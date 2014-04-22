@@ -1,5 +1,146 @@
 @include journals-cs
 
+@article{DBLP:journals/csur/MedinaG14,
+  author    = {Violeta Medina and
+               Juan Manuel García},
+  title     = {A survey of migration mechanisms of virtual machines},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {30},
+}
+
+@article{DBLP:journals/csur/LiOOW14,
+  author    = {Feng Li and
+               Beng Chin Ooi and
+               M. Tamer Özsu and
+               Sai Wu},
+  title     = {Distributed data management using {MapReduce}},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {31},
+}
+
+@article{DBLP:journals/csur/BellucciMA14,
+  author    = {Andrea Bellucci and
+               Alessio Malizia and
+               Ignacio Aedo},
+  title     = {Light on horizontal interactive surfaces: Input space for tabletop computing},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {32},
+}
+
+@article{DBLP:journals/csur/BullingBS14,
+  author    = {Andreas Bulling and
+               Ulf Blanke and
+               Bernt Schiele},
+  title     = {A tutorial on human activity recognition using body-worn inertial sensors},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {33},
+}
+
+@article{DBLP:journals/csur/FuriaMV14,
+  author    = {Carlo A. Furia and
+               Bertrand Meyer and
+               Sergey Velder},
+  title     = {Loop invariants: Analysis, classification, and examples},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {34},
+}
+
+@article{DBLP:journals/csur/LiH14,
+  author    = {Bin Li and
+               Steven C. H. Hoi},
+  title     = {Online portfolio selection: A survey},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {35},
+}
+
+@article{DBLP:journals/csur/MaFL14,
+  author    = {Dongzhe Ma and
+               Jianhua Feng and
+               Guoliang Li},
+  title     = {A survey of address translation technologies for flash memories},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {36},
+}
+
+@article{DBLP:journals/csur/HelbigE14,
+  author    = {Mardé Helbig and
+               Andries Petrus Engelbrecht},
+  title     = {Benchmarks for dynamic multi-objective optimisation algorithms},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {37},
+}
+
+@article{DBLP:journals/csur/MeiRLT14,
+  author    = {Tao Mei and
+               Yong Rui and
+               Shipeng Li and
+               Qi Tian},
+  title     = {Multimedia search reranking: A literature survey},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {38},
+}
+
+@article{DBLP:journals/csur/FontanaC14,
+  author    = {Peter Fontana and
+               Rance Cleaveland},
+  title     = {A menagerie of timed automata},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {40},
+}
+
+@article{DBLP:journals/csur/KoplikuPB14,
+  author    = {Arlind Kopliku and
+               Karen Pinel-Sauvagnat and
+               Mohand Boughanem},
+  title     = {Aggregated search: A new information retrieval paradigm},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {41},
+}
+
+@article{DBLP:journals/csur/Costa-JussaF14,
+  author    = {Marta R. Costa-Jussà and
+               Mireia Farrús},
+  title     = {Statistical machine translation enhancements through linguistic levels: A survey},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {3},
+  year      = 2014,
+  pages     = {42},
+}
+
 @article{DBLP:journals/csur/KritikosPPCCBBKPC13,
   author    = {Kyriakos Kritikos and
                Barbara Pernici and
@@ -713,6 +854,19 @@
   pages     = {42},
 }
 
+@article{DBLP:journals/csur/RodriguezCLC13,
+  author    = {Natalia Díaz Rodríguez and
+               Manuel P. Cuéllar and
+               Johan Lilius and
+               Miguel Delgado Calvo-Flores},
+  title     = {A survey on ontologies for human behavior recognition},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {4},
+  year      = 2013,
+  pages     = {43},
+}
+
 @article{DBLP:journals/csur/XieKS13,
   author    = {Jierui Xie and
                Stephen Kelley and
@@ -767,6 +921,32 @@
   pages     = {46},
 }
 
+@article{DBLP:journals/csur/HirzelSSGG13,
+  author    = {Martin Hirzel and
+               Robert Soulé and
+               Scott Schneider and
+               Bugra Gedik and
+               Robert Grimm},
+  title     = {A catalog of stream processing optimizations},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {4},
+  year      = 2013,
+  pages     = {46},
+}
+
+@article{DBLP:journals/csur/OrgerieAL13,
+  author    = {Anne-Cécile Orgerie and
+               Marcos Dias de Assunção and
+               Laurent Lefèvre},
+  title     = {A survey on techniques for improving the energy efficiency of large-scale distributed systems},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {4},
+  year      = 2013,
+  pages     = {47},
+}
+
 @article{DBLP:journals/csur/SherchanNP13,
   author    = {Wanita Sherchan and
                Surya Nepal and
@@ -790,6 +970,16 @@
   pages     = {48},
 }
 
+@article{DBLP:journals/csur/Krishna13,
+  author    = {C. M. Krishna},
+  title     = {Fault-tolerant scheduling in homogeneous real-time systems},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {4},
+  year      = 2013,
+  pages     = {48},
+}
+
 @article{DBLP:journals/csur/ChangVWL13,
   author    = {Jian Chang and
                Krishna K. Venkatasubramanian and
@@ -798,6 +988,17 @@
   title     = {Analyzing and defending against web-based malware},
   journal   = acmcs,
   volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {49},
+}
+
+@article{DBLP:journals/csur/PerezG13,
+  author    = {Héctor Pérez and
+               J. Javier Gutiérrez},
+  title     = {A survey on standards for real-time distribution middleware},
+  journal   = acmcs,
+  volume    = {46},
   number    = {4},
   year      = 2013,
   pages     = {49},
@@ -842,6 +1043,16 @@
   pages     = {52},
 }
 
+@article{DBLP:journals/csur/Navarro13,
+  author    = {Gonzalo Navarro},
+  title     = {Spaces, Trees, and Colors: The algorithmic landscape of document retrieval on sequences},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {4},
+  year      = 2013,
+  pages     = {52},
+}
+
 @article{DBLP:journals/csur/AndroutsopoulosCHKT13,
   author    = {Kelly Androutsopoulos and
                David Clark and
@@ -851,6 +1062,17 @@
   title     = {State-based model slicing: A survey},
   journal   = acmcs,
   volume    = {45},
+  number    = {4},
+  year      = 2013,
+  pages     = {53},
+}
+
+@article{DBLP:journals/csur/HensonT13,
+  author    = {Michael Henson and
+               Stephen Taylor},
+  title     = {Memory encryption: A survey of existing techniques},
+  journal   = acmcs,
+  volume    = {46},
   number    = {4},
   year      = 2013,
   pages     = {53},
@@ -867,6 +1089,17 @@
   number    = {4},
   year      = 2013,
   pages     = {54},
+}
+
+@article{DBLP:journals/csur/MitchellC13,
+  author    = {Rob Mitchell and
+               Ing-Ray Chen},
+  title     = {A survey of intrusion detection techniques for cyber-physical systems},
+  journal   = acmcs,
+  volume    = {46},
+  number    = {4},
+  year      = 2013,
+  pages     = {55},
 }
 
 @article{DBLP:journals/csur/ShaulT13,

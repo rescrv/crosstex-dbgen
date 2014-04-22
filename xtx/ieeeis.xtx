@@ -10,6 +10,16 @@
   pages     = {2-4},
 }
 
+@article{DBLP:journals/expert/Zeng13d,
+  author    = {Daniel Zeng},
+  title     = {From Computational Thinking to {AI} Thinking},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {6},
+  year      = 2013,
+  pages     = {2-4},
+}
+
 @article{DBLP:journals/expert/Zeng13a,
   author    = {Daniel Zeng},
   title     = {Social Computing: An {AI} Perspective},
@@ -29,6 +39,19 @@
   number    = {2},
   year      = 2013,
   pages     = {2-5},
+}
+
+@article{DBLP:journals/expert/FanDGT13,
+  author    = {Jing Fan and
+               Tianyang Dong and
+               Xinxin Guan and
+               Ying Tang},
+  title     = {A Rapid Simulation System for Decision Making in Intelligent Forest Management},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {5},
+  year      = 2013,
+  pages     = {2-9},
 }
 
 @article{DBLP:journals/expert/Zeng13,
@@ -68,6 +91,18 @@
   pages     = {6-9},
 }
 
+@article{DBLP:journals/expert/BarnaghiSH13,
+  author    = {Payam M. Barnaghi and
+               Amit P. Sheth and
+               Cory A. Henson},
+  title     = {From Data to Actionable Knowledge: Big Data Challenges in the Web of Things},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {6},
+  year      = 2013,
+  pages     = {6-11},
+}
+
 @article{DBLP:journals/expert/Lawton13,
   author    = {George Lawton},
   title     = {In the News},
@@ -98,6 +133,18 @@
   number    = {4},
   year      = 2013,
   pages     = {9-17},
+}
+
+@article{DBLP:journals/expert/DaisNA13,
+  author    = {Alexandros Dais and
+               Mara Nikolaidou and
+               Dimosthenis Anagnostopoulos},
+  title     = {A Web 2.0 {Citizen-Centric} Model for {T-Government} Services},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {5},
+  year      = 2013,
+  pages     = {10-18},
 }
 
 @article{DBLP:journals/expert/XiaZHC13,
@@ -138,6 +185,24 @@
   number    = {1},
   year      = 2013,
   pages     = {12-15},
+}
+
+@article{DBLP:journals/expert/TaylorGLGCWLFT13,
+  author    = {Kerry Taylor and
+               Colin Griffith and
+               Laurent Lefort and
+               Raj Gaire and
+               Michael Compton and
+               Tim Wark and
+               David Lamb and
+               Gregory Falzon and
+               Mark Trotter},
+  title     = {Farming the Web of Things},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {6},
+  year      = 2013,
+  pages     = {12-19},
 }
 
 @article{DBLP:journals/expert/CambriaSXH13,
@@ -181,6 +246,20 @@
   pages     = {18-25},
 }
 
+@article{DBLP:journals/expert/EricksonVSSH13,
+  author    = {John S. Erickson and
+               Amar Viswanathan and
+               Joshua Shinavier and
+               Yongmei Shi and
+               James A. Hendler},
+  title     = {Open Government Data: A Data Analytics Approach},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {5},
+  year      = 2013,
+  pages     = {19-23},
+}
+
 @article{DBLP:journals/expert/Garcia-MoyaAL13,
   author    = {Lisette García-Moya and
                Henry Anaya-Sánchez and
@@ -191,6 +270,22 @@
   number    = {3},
   year      = 2013,
   pages     = {19-27},
+}
+
+@article{DBLP:journals/expert/NingLDWWYM13,
+  author    = {Huansheng Ning and
+               Hong Liu and
+               Wei Du and
+               Jiajia Wu and
+               Ziou Wang and
+               Laurence T. Yang and
+               Geyong Min},
+  title     = {{Human-Attention} Inspired Resource Allocation for Heterogeneous Sensors in the Web of Things},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {6},
+  year      = 2013,
+  pages     = {20-28},
 }
 
 @article{DBLP:journals/expert/TsaiWTH13,
@@ -204,6 +299,18 @@
   number    = {2},
   year      = 2013,
   pages     = {22-30},
+}
+
+@article{DBLP:journals/expert/HuangTG13,
+  author    = {Tiejun Huang and
+               YongHong Tian and
+               Wen Gao},
+  title     = {{IEEE} 1857: Boosting Video Applications in {CPSS}},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {5},
+  year      = 2013,
+  pages     = {24-27},
 }
 
 @article{DBLP:journals/expert/GiammancoMKBPPX13,
@@ -245,6 +352,70 @@
   number    = {3},
   year      = 2013,
   pages     = {28-37},
+}
+
+@article{DBLP:journals/expert/WuRPZVZZPKRKLRM13,
+  author    = {Zhaohui Wu and
+               Raj Reddy and
+               Gang Pan and
+               Nenggan Zheng and
+               Paul F. M. J. Verschure and
+               Qiaosheng Zhang and
+               Xiaoxiang Zheng and
+               Jose C. Principe and
+               Alex Kreilinger and
+               Martin Rohm and
+               Vera Kaiser and
+               Robert Leeb and
+               Rüdiger Rupp and
+               Gernot R. Müller-Putz},
+  title     = {The Convergence of Machine and Biological Intelligence},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {5},
+  year      = 2013,
+  pages     = {28-43},
+}
+
+@article{DBLP:journals/expert/CambriaHKZVLYCLLLFOLALCNMGZDYMOJTTKYCL13,
+  author    = {Erik Cambria and
+               Guang-Bin Huang and
+               Liyanaarachchi Lekamalage Chamara Kasun and
+               Hongming Zhou and
+               Chi-Man Vong and
+               Jiarun Lin and
+               Jianping Yin and
+               Zhiping Cai and
+               Qiang Liu and
+               Kuan Li and
+               Victor C. M. Leung and
+               Liang Feng and
+               Yew-Soon Ong and
+               Meng-Hiot Lim and
+               Anton Akusok and
+               Amaury Lendasse and
+               Francesco Corona and
+               Rui Nian and
+               Yoan Miche and
+               Paolo Gastaldo and
+               Rodolfo Zunino and
+               Sergio Decherchi and
+               Xuefeng Yang and
+               Kezhi Mao and
+               Beom-Seok Oh and
+               Je-Hyoung Jeon and
+               Kar-Ann Toh and
+               Andrew Beng Jin Teoh and
+               Jaihie Kim and
+               Hanchao Yu and
+               Yiqiang Chen and
+               Junfa Liu},
+  title     = {Extreme Learning Machines},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {6},
+  year      = 2013,
+  pages     = {30-59},
 }
 
 @article{DBLP:journals/expert/PoriaGHHDB13,
@@ -342,6 +513,16 @@
   pages     = {43-51},
 }
 
+@article{DBLP:journals/expert/Groth13,
+  author    = {Paul Groth},
+  title     = {The {Knowledge-Remixing} Bottleneck},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {5},
+  year      = 2013,
+  pages     = {44-48},
+}
+
 @article{DBLP:journals/expert/WollmerWKSSSM13,
   author    = {Martin Wöllmer and
                Felix Weninger and
@@ -367,6 +548,16 @@
   number    = {2},
   year      = 2013,
   pages     = {47-54},
+}
+
+@article{DBLP:journals/expert/Balac13,
+  author    = {Natasha Balac},
+  title     = {"Green Machine" Intelligence: Greening and Sustaining Smart Grids},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {5},
+  year      = 2013,
+  pages     = {50-55},
 }
 
 @article{DBLP:journals/expert/SmartS13,
@@ -418,6 +609,17 @@
   pages     = {55-63},
 }
 
+@article{DBLP:journals/expert/VizzariB13,
+  author    = {Giuseppe Vizzari and
+               Stefania Bandini},
+  title     = {Studying Pedestrian and Crowd Dynamics through Integrated Analysis and Synthesis},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {5},
+  year      = 2013,
+  pages     = {56-60},
+}
+
 @article{DBLP:journals/expert/PreeceNMPSP13,
   author    = {Alun D. Preece and
                Timothy J. Norman and
@@ -431,6 +633,19 @@
   number    = {1},
   year      = 2013,
   pages     = {57-63},
+}
+
+@article{DBLP:journals/expert/TsuiWGE13,
+  author    = {Kwok-Leung Tsui and
+               Zoie Shui-Yee Wong and
+               David Goldsman and
+               Michael Edesess},
+  title     = {Tracking Infectious Disease Spread for Global Pandemic Containment},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {6},
+  year      = 2013,
+  pages     = {60-64},
 }
 
 @article{DBLP:journals/expert/DongXZW13,
@@ -502,6 +717,17 @@
   number    = {3},
   year      = 2013,
   pages     = {66-69},
+}
+
+@article{DBLP:journals/expert/BiasH13,
+  author    = {Randolph G. Bias and
+               Robert Hoffman},
+  title     = {Where's the Rigor in the Field of Usability Analysis?},
+  journal   = ieeeis,
+  volume    = {28},
+  number    = {6},
+  year      = 2013,
+  pages     = {66-72},
 }
 
 @article{DBLP:journals/expert/McCallaC13,
@@ -1967,9 +2193,9 @@
 }
 
 @article{DBLP:journals/expert/CattersonDM11,
-  author    = {Victoria Catterson and
-               Euan Davidson and
-               Stephen McArthur},
+  author    = {Victoria M. Catterson and
+               Euan M. Davidson and
+               Stephen D. J. McArthur},
   title     = {Embedded Intelligence for Electrical Network Operation and Control},
   journal   = ieeeis,
   volume    = {26},
@@ -2558,7 +2784,7 @@
   author    = {J. Wyatt and
                E. Barkley and
                S. Burleigh and
-               T. Estlin and
+               Tara A. Estlin and
                R. Jones and
                J. Schoolcraft and
                K. Nichols and
@@ -2746,7 +2972,7 @@
                David Vallejo and
                Jose Jesus Castro-Schez and
                Paolo Remagnino and
-               C. Gonzalez and
+               Carlos Gonzalez-Morcillo and
                Luis Jiménez},
   title     = {Monitoring Complex Environments Using a {Knowledge-Driven} Approach Based on Intelligent Agents},
   journal   = ieeeis,

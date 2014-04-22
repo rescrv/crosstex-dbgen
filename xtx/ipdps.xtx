@@ -1509,10 +1509,10 @@
 }
 
 @inproceedings{DBLP:conf/ipps/ChoiBFV13,
-  author    = {Jee Whan Choi and
+  author    = {JeeWhan Choi and
                Daniel Bedard and
                Robert J. Fowler and
-               Richard Vuduc},
+               Richard W. Vuduc},
   title     = {A Roofline Model of Energy},
   booktitle = ipdps,
   year      = 2013,
@@ -5612,7 +5612,7 @@
 @inproceedings{DBLP:conf/ipps/ChoiKR12,
   author    = {Dongmin Choi and
                Seung-Hun Kim and
-               Won W. Ro},
+               Won Woo Ro},
   title     = {Conflict Avoidance Scheduling Using Grouping List for Transactional Memory},
   booktitle = ipdps,
   year      = 2012,
@@ -9972,7 +9972,7 @@
 
 @inproceedings{DBLP:conf/ipps/YimPSKI11,
   author    = {Keun Soo Yim and
-               Cuong Pham and
+               Cuong Manh Pham and
                Mushfiq Saleheen and
                Zbigniew Kalbarczyk and
                Ravishankar K. Iyer},
@@ -29254,7 +29254,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/ReinhardtK07,
-  author    = {Steve Reinhardt and
+  author    = {Steven P. Reinhardt and
                George Karypis},
   title     = {A {Multi-Level} Parallel Implementation of a Program for Finding Frequent Patterns in a Large Sparse Graph},
   booktitle = ipdps,
@@ -50508,9 +50508,9 @@
 }
 
 @inproceedings{DBLP:conf/ipps/SongKT02,
-  author    = {William Song and
+  author    = {William Wei Song and
                Weidong Kou and
-               C. J. Tan},
+               Chung-Jen Tan},
   title     = {An Investigation on Multiple {e-Payments} and {Micro-Payment} - A Technical and Market View},
   booktitle = ipdps,
   year      = 2002,

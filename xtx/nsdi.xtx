@@ -89,7 +89,7 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/MickensEHL10,
-  author    = {James Mickens and
+  author    = {James W. Mickens and
                Jeremy Elson and
                Jon Howell and
                Jay Lorch},
@@ -113,7 +113,7 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/MickensEH10,
-  author    = {James Mickens and
+  author    = {James W. Mickens and
                Jeremy Elson and
                Jon Howell},
   title     = {Mugshot: Deterministic Capture and Replay for {JavaScript} Applications},

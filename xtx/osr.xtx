@@ -560,7 +560,7 @@
                Leandro Buss Becker and
                George Lima and
                Stefan Petters and
-               Dilma M. da Silva and
+               Dilma M. Da Silva and
                Edna Natividade Silva Barros},
   title     = {Brazilian symposium on computing system engineering},
   journal   = osr,
@@ -1184,7 +1184,7 @@
 }
 
 @article{DBLP:journals/sigops/SilvaBP11,
-  author    = {Dilma da Silva and
+  author    = {Dilma Da Silva and
                Luciano Barreto and
                Paulo César A. Pereira},
   title     = {{VII} Brazilian workshop on operating systems},
@@ -2614,7 +2614,7 @@
 }
 
 @article{DBLP:journals/sigops/MickensS09,
-  author    = {James Mickens and
+  author    = {James W. Mickens and
                Dilma Da Silva},
   title     = {{SOSP} diversity workshop},
   journal   = osr,
@@ -11352,7 +11352,7 @@
 @article{DBLP:journals/sigops/DammRSK89,
   author    = {Andreas Damm and
                Johannes Reisinger and
-               W. Schwabl and
+               Wolfgang Schwabl and
                Hermann Kopetz},
   title     = {The {Real-Time} Operating System of {MARS}},
   journal   = osr,
@@ -13040,7 +13040,7 @@
 
 @article{DBLP:journals/sigops/WettsteinM80,
   author    = {Horst D. Wettstein and
-               G. Merbeth},
+               Günter Merbeth},
   title     = {The Concept of Asynchronization},
   journal   = osr,
   volume    = {14},

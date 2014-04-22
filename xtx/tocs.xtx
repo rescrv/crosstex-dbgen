@@ -1,5 +1,46 @@
 @include journals-cs
 
+@article{DBLP:journals/tocs/SilbersteinFKW14,
+  author    = {Mark Silberstein and
+               Bryan Ford and
+               Idit Keidar and
+               Emmett Witchel},
+  title     = {GPUfs: Integrating a file system with {GPUs}},
+  journal   = tocs,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tocs/KleinAEMSKH14,
+  author    = {Gerwin Klein and
+               June Andronick and
+               Kevin Elphinstone and
+               Toby C. Murray and
+               Thomas Sewell and
+               Rafal Kolanski and
+               Gernot Heiser},
+  title     = {Comprehensive formal verification of an {OS} microkernel},
+  journal   = tocs,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {2},
+}
+
+@article{DBLP:journals/tocs/GuevaraLL14,
+  author    = {Marisabel Guevara and
+               Benjamin Lubin and
+               Benjamin C. Lee},
+  title     = {Market mechanisms for managing datacenters with heterogeneous microarchitectures},
+  journal   = tocs,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {3},
+}
+
 @article{DBLP:journals/tocs/WuY13,
   author    = {Meng-Ju Wu and
                Donald Yeung},
@@ -970,7 +1011,7 @@
                Joseph Tucek and
                Yuanyuan Zhou and
                Jagadeesan Sundaresan},
-  title     = {Rx: Treating bugs as allergies&mdash;a safe method to survive software failures},
+  title     = {Rx: Treating bugs as allergies - a safe method to survive software failures},
   journal   = tocs,
   volume    = {25},
   number    = {3},

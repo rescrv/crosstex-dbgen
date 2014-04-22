@@ -1,5 +1,292 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotnets/MogulABPLMST13,
+  author    = {Jeffrey C. Mogul and
+               Alvin AuYoung and
+               Sujata Banerjee and
+               Lucian Popa and
+               Jeongkeun Lee and
+               Jayaram Mudigonda and
+               Puneet Sharma and
+               Yoshio Turner},
+  title     = {Corybantic: towards the modular composition of {SDN} control programs},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/hotnets/MonacoMK13,
+  author    = {Matthew Monaco and
+               Oliver Michel and
+               Eric Keller},
+  title     = {Applying operating system principles to {SDN} controller design},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/hotnets/WuHZL13,
+  author    = {Yang Wu and
+               Andreas Haeberlen and
+               Wenchao Zhou and
+               Boon Thau Loo},
+  title     = {Answering why-not queries in software-defined networks with negative provenance},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/hotnets/BharadiaJK13,
+  author    = {Dinesh Bharadia and
+               Kiran Raj Joshi and
+               Sachin Katti},
+  title     = {Full duplex backscatter},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/hotnets/HuLPSZ13,
+  author    = {Pan Hu and
+               Liqun Li and
+               Chunyi Peng and
+               Guobin Shen and
+               Feng Zhao},
+  title     = {Pharos: enable physical analytics through visible light based indoor localization},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {5},
+}
+
+@inproceedings{DBLP:conf/hotnets/ZhangB13,
+  author    = {Tan Zhang and
+               Suman Banerjee},
+  title     = {Inaccurate spectrum databases?: public transit to its rescue!},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {6},
+}
+
+@inproceedings{DBLP:conf/hotnets/RavindranathAPR13,
+  author    = {Lenin Ravindranath and
+               Sharad Agarwal and
+               Jitendra Padhye and
+               Christopher Riederer},
+  title     = {Give in to procrastination and stop prefetching},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {7},
+}
+
+@inproceedings{DBLP:conf/hotnets/JeyakumarAKM13,
+  author    = {Vimalkumar Jeyakumar and
+               Mohammad Alizadeh and
+               Changhoon Kim and
+               David Mazières},
+  title     = {Tiny packet programs for low-latency network control and monitoring},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {8},
+}
+
+@inproceedings{DBLP:conf/hotnets/MarinosWH13,
+  author    = {Ilias Marinos and
+               Robert N. M. Watson and
+               Mark Handley},
+  title     = {Network stack specialization for performance},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {9},
+}
+
+@inproceedings{DBLP:conf/hotnets/HanEPRSS13,
+  author    = {Sangjin Han and
+               Norbert Egi and
+               Aurojit Panda and
+               Sylvia Ratnasamy and
+               Guangyu Shi and
+               Scott Shenker},
+  title     = {Network support for resource disaggregation in next-generation datacenters},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {10},
+}
+
+@inproceedings{DBLP:conf/hotnets/ZhangZZWSMZZ13,
+  author    = {Zengbin Zhang and
+               Lin Zhou and
+               Xiaohan Zhao and
+               Gang Wang and
+               Yu Su and
+               Miriam J. Metzger and
+               Haitao Zheng and
+               Ben Y. Zhao},
+  title     = {On the validity of geosocial mobility traces},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {11},
+}
+
+@inproceedings{DBLP:conf/hotnets/0004SWCG13,
+  author    = {Bin Liu and
+               Anmol Sheth and
+               Udi Weinsberg and
+               Jaideep Chandrashekar and
+               Ramesh Govindan},
+  title     = {AdReveal: improving transparency into online targeted advertising},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {12},
+}
+
+@inproceedings{DBLP:conf/hotnets/MadhyasthaM13,
+  author    = {Harsha V. Madhyastha and
+               Megha Maiya},
+  title     = {Towards comprehensive social sharing of recommendations: augmenting push with pull},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {13},
+}
+
+@inproceedings{DBLP:conf/hotnets/MaheswaranWF13,
+  author    = {John Maheswaran and
+               David Isaac Wolinsky and
+               Bryan Ford},
+  title     = {Crypto-Book: an architecture for privacy preserving online identities},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {14},
+}
+
+@inproceedings{DBLP:conf/hotnets/ShafiqLSL13,
+  author    = {M. Zubair Shafiq and
+               Franck Le and
+               Mudhakar Srivatsa and
+               Alex X. Liu},
+  title     = {Cross-path inference attacks on multipath {TCP}},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {15},
+}
+
+@inproceedings{DBLP:conf/hotnets/CooperHBRG13,
+  author    = {Danny Cooper and
+               Ethan Heilman and
+               Kyle Brogle and
+               Leonid Reyzin and
+               Sharon Goldberg},
+  title     = {On the risk of misbehaving {RPKI} authorities},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {16},
+}
+
+@inproceedings{DBLP:conf/hotnets/HandTK13,
+  author    = {Ryan Hand and
+               Michael Ton and
+               Eric Keller},
+  title     = {Active security},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {17},
+}
+
+@inproceedings{DBLP:conf/hotnets/DobrescuA13,
+  author    = {Mihai Dobrescu and
+               Katerina J. Argyraki},
+  title     = {Toward a verifiable software dataplane},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {18},
+}
+
+@inproceedings{DBLP:conf/hotnets/SivaramanWSB13,
+  author    = {Anirudh Sivaraman and
+               Keith Winstein and
+               Suvinay Subramanian and
+               Hari Balakrishnan},
+  title     = {No silver bullet: extending {SDN} to the data plane},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {19},
+}
+
+@inproceedings{DBLP:conf/hotnets/MahajanW13,
+  author    = {Ratul Mahajan and
+               Roger Wattenhofer},
+  title     = {On consistent updates in software defined networks},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {20},
+}
+
+@inproceedings{DBLP:conf/hotnets/ChenH0WT13,
+  author    = {Li Chen and
+               Shuihai Hu and
+               Kai Chen and
+               Haitao Wu and
+               Danny H. K. Tsang},
+  title     = {Towards minimal-delay deadline-driven data center {TCP}},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {21},
+}
+
+@inproceedings{DBLP:conf/hotnets/ParisisMMC13,
+  author    = {George Parisis and
+               Toby Moncaster and
+               Anil Madhavapeddy and
+               Jon Crowcroft},
+  title     = {Trevi: watering down storage hotspots with cool fountain codes},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {22},
+}
+
+@inproceedings{DBLP:conf/hotnets/AzimiGSD13,
+  author    = {Navid Hamed Azimi and
+               Himanshu Gupta and
+               Vyas Sekar and
+               Samir R. Das},
+  title     = {Patch panels in the sky: a case for free-space optics in data centers},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {23},
+}
+
+@inproceedings{DBLP:conf/hotnets/SouleBKSF13,
+  author    = {Robert Soulé and
+               Shrutarshi Basu and
+               Robert Kleinberg and
+               Emin Gün Sirer and
+               Nate Foster},
+  title     = {Managing the network with Merlin},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {24},
+}
+
+@inproceedings{DBLP:conf/hotnets/MittalSRS13,
+  author    = {Radhika Mittal and
+               Justine Sherry and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {How to improve your network performance by asking your provider for worse service},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {25},
+}
+
+@inproceedings{DBLP:conf/hotnets/StephensCR13,
+  author    = {Brent Stephens and
+               Alan L. Cox and
+               Scott Rixner},
+  title     = {Plinko: building provably resilient forwarding tables},
+  booktitle = hotnets,
+  year      = 2013,
+  pages     = {26},
+}
+
 @inproceedings{DBLP:conf/hotnets/RetvariCKTCEP12,
   author    = {Gábor Rétvári and
                Zoltán Csernátony and

@@ -1,5 +1,209 @@
 @include journals-cs
 
+@article{DBLP:journals/ieeesp/Horne14,
+  author    = {Bill G. Horne},
+  title     = {Humans in the Loop},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {3-4},
+}
+
+@article{DBLP:journals/ieeesp/McGraw14,
+  author    = {Gary McGraw},
+  title     = {Silver Bullet Talks with Jon Callas},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {6-8},
+}
+
+@article{DBLP:journals/ieeesp/Garber14,
+  author    = {Lee Garber},
+  title     = {Security, Privacy, Policy, and Dependability Roundup},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {9-10},
+}
+
+@article{DBLP:journals/ieeesp/SasseP14,
+  author    = {Martina Angela Sasse and
+               Charles C. Palmer},
+  title     = {Protecting You},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {11-13},
+}
+
+@article{DBLP:journals/ieeesp/Herley14,
+  author    = {Cormac Herley},
+  title     = {More Is Not the Answer},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {14-19},
+}
+
+@article{DBLP:journals/ieeesp/Garfinkel14,
+  author    = {Simson L. Garfinkel},
+  title     = {Leaking Sensitive Information in Complex Document Files-and How to Prevent It},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {20-27},
+}
+
+@article{DBLP:journals/ieeesp/CaputoPFJ14,
+  author    = {Deanna D. Caputo and
+               Shari Lawrence Pfleeger and
+               Jesse D. Freeman and
+               M. Eric Johnson},
+  title     = {Going Spear Phishing: Exploring Embedded Training and Awareness},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {28-38},
+}
+
+@article{DBLP:journals/ieeesp/SassePJCWC14,
+  author    = {Martina Angela Sasse and
+               Charles C. Palmer and
+               Markus Jakobsson and
+               Sunny Consolvo and
+               Rick Wash and
+               L. Jean Camp},
+  title     = {Helping You Protect You},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {39-42},
+}
+
+@article{DBLP:journals/ieeesp/LinLT14,
+  author    = {Ying-Dar Lin and
+               Chia-Yin Lee and
+               Hao-Chuan Tsai},
+  title     = {Redefining Security Criteria for Networking Devices with Case Studies},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {43-53},
+}
+
+@article{DBLP:journals/ieeesp/GevaHG14,
+  author    = {Moti Geva and
+               Amir Herzberg and
+               Yehoshua Gev},
+  title     = {Bandwidth Distributed Denial of Service: Attacks and Defenses},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {54-61},
+}
+
+@article{DBLP:journals/ieeesp/Landau14,
+  author    = {Susan Landau},
+  title     = {Highlights from Making Sense of Snowden, Part II: What's Significant in the {NSA} Revelations},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {62-64},
+}
+
+@article{DBLP:journals/ieeesp/Candea14,
+  author    = {George Candea},
+  title     = {The {Tests-versus-Proofs} Conundrum},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {65-68},
+}
+
+@article{DBLP:journals/ieeesp/BhattacharyaYGQY14,
+  author    = {Prabir Bhattacharya and
+               Li Yang and
+               Minzhe Guo and
+               Kai Qian and
+               Ming Yang},
+  title     = {Learning Mobile Security with Labware},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {69-72},
+}
+
+@article{DBLP:journals/ieeesp/Ohm14,
+  author    = {Paul Ohm},
+  title     = {Should Sniffing {Wi-Fi} Be Illegal?},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {73-76},
+}
+
+@article{DBLP:journals/ieeesp/EckhoffS14,
+  author    = {David Eckhoff and
+               Christoph Sommer},
+  title     = {Driving for Big Data? Privacy Concerns in Vehicular Networking},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {77-79},
+}
+
+@article{DBLP:journals/ieeesp/FordC14,
+  author    = {Richard Ford and
+               Marco Carvalho},
+  title     = {Protecting Me},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {80-82},
+}
+
+@article{DBLP:journals/ieeesp/BratusDLPSS14,
+  author    = {Sergey Bratus and
+               Trey Darley and
+               Michael E. Locasto and
+               Meredith L. Patterson and
+               Rebecca Shapiro and
+               Anna Shubina},
+  title     = {Beyond Planted Bugs in "Trusting Trust": The {Input-Processing} Frontier},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {83-87},
+}
+
+@article{DBLP:journals/ieeesp/Geer14,
+  author    = {Daniel E. Geer},
+  title     = {Polarization},
+  journal   = ieeesecpriv,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {88},
+}
+
 @article{DBLP:journals/ieeesp/Pfleeger13b,
   author    = {Shari Lawrence Pfleeger},
   title     = {Focus on Policy},

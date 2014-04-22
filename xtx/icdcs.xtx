@@ -11797,7 +11797,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/Lonn99,
-  author    = {Henrik Lonn},
+  author    = {Henrik Lönn},
   title     = {Initial Synchronization of {TDMA} Communication in Distributed {Real-Time} Systems},
   booktitle = icdcs,
   year      = 1999,
@@ -22813,7 +22813,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/SinghS82,
-  author    = {A. Singh and
+  author    = {Ajay Singh and
                Zary Segall},
   title     = {Synthetic Workload Generation for Experimentation with Multiprocessors},
   booktitle = icdcs,
@@ -23437,7 +23437,7 @@
 
 @inproceedings{DBLP:conf/icdcs/MatelliM81,
   author    = {Rocco De Nicola and
-               A. Matelli and
+               A. Martelli and
                Ugo Montanari},
   title     = {Communication Through Message Passing or Shared Memory: A Formal Comparison},
   booktitle = icdcs,

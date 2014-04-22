@@ -652,6 +652,670 @@
   pages     = {518-528},
 }
 
+@article{DBLP:journals/tpds/PetrioliNCZB14,
+  author    = {Chiara Petrioli and
+               Michele Nati and
+               Paolo Casari and
+               Michele Zorzi and
+               Stefano Basagni},
+  title     = {ALBA-R: {Load-Balancing} Geographic Routing Around Connectivity Holes in Wireless Sensor Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {529-539},
+}
+
+@article{DBLP:journals/tpds/MashayekhyG14,
+  author    = {Lena Mashayekhy and
+               Daniel Grosu},
+  title     = {A {Merge-and-Split} Mechanism for Dynamic Virtual Organization Formation in Grids},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {540-549},
+}
+
+@article{DBLP:journals/tpds/WuJB14,
+  author    = {Jing Wu and
+               Joseph JáJá and
+               Elias Balaras},
+  title     = {An Optimized {FFT-Based} Direct Poisson Solver on {CUDA} {GPUs}},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {550-559},
+}
+
+@article{DBLP:journals/tpds/Bruneo14,
+  author    = {Dario Bruneo},
+  title     = {A Stochastic Model to Investigate Data Center Performance and {QoS} in {IaaS} Cloud Computing Systems},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {560-569},
+}
+
+@article{DBLP:journals/tpds/ArocaA14,
+  author    = {Jordi Arjona Aroca and
+               Antonio Fernández Anta},
+  title     = {Bisection (Band)Width of Product Networks with Application to Data Centers},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {570-580},
+}
+
+@article{DBLP:journals/tpds/FeliuPSD14,
+  author    = {Josué Feliu and
+               Salvador Petit and
+               Julio Sahuquillo and
+               José Duato},
+  title     = {{Cache-Hierarchy} {Contention-Aware} Scheduling in {CMPs}},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {581-590},
+}
+
+@article{DBLP:journals/tpds/ZhangFGGCCH14,
+  author    = {Qingquan Zhang and
+               Lingkun Fu and
+               Yu (Jason) Gu and
+               Lin Gu and
+               Qing Cao and
+               Jiming Chen and
+               Tian He},
+  title     = {Collaborative Scheduling in Dynamic Environments Using Error Inference},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {591-601},
+}
+
+@article{DBLP:journals/tpds/YuWQ14,
+  author    = {Weikuan Yu and
+               Yandong Wang and
+               Xinyu Que},
+  title     = {Design and Evaluation of {Network-Levitated} Merge for Hadoop Acceleration},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {602-611},
+}
+
+@article{DBLP:journals/tpds/WuML14,
+  author    = {Weijie Wu and
+               Richard T. B. Ma and
+               John C. S. Lui},
+  title     = {Distributed Caching via Rewarding: An Incentive Scheme Design in P2{P-VoD} Systems},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {612-621},
+}
+
+@article{DBLP:journals/tpds/HongWYHHLWC14,
+  author    = {Ding-Yong Hong and
+               Jan-Jan Wu and
+               Pen-Chung Yew and
+               Wei-Chung Hsu and
+               Chun-Chen Hsu and
+               Pangfeng Liu and
+               Chien-Min Wang and
+               Yeh-Ching Chung},
+  title     = {Efficient and Retargetable Dynamic Binary Translation on Multicores},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {622-632},
+}
+
+@article{DBLP:journals/tpds/YildirimK14a,
+  author    = {Kasim Sinan Yildirim and
+               Aylin Kantarci},
+  title     = {External Gradient Time Synchronization in Wireless Sensor Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {633-641},
+}
+
+@article{DBLP:journals/tpds/LiTWBCL14,
+  author    = {Tao Li and
+               Feng Tan and
+               Qixin Wang and
+               Lei Bu and
+               Jiannong Cao and
+               Xue Liu},
+  title     = {From Offline toward Real Time: A Hybrid Systems Model Checking and {CPS} Codesign Approach for Medical Device {Plug-and-Play} Collaborations},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {642-652},
+}
+
+@article{DBLP:journals/tpds/WuHCXW14,
+  author    = {Chentao Wu and
+               Xubin He and
+               Qiang Cao and
+               Changsheng Xie and
+               Shenggang Wan},
+  title     = {Hint-K: An Efficient Multilevel Cache Using {K-Step} Hints},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {653-662},
+}
+
+@article{DBLP:journals/tpds/ZhaoL14,
+  author    = {Yue Zhao and
+               Francis C. M. Lau},
+  title     = {Implementation of Decoders for {LDPC} Block Codes and {LDPC} Convolutional Codes Based on {GPUs}},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {663-672},
+}
+
+@article{DBLP:journals/tpds/BourguibaHKP14,
+  author    = {Manel Bourguiba and
+               Kamel Haddadou and
+               Inès El Korbi and
+               Guy Pujolle},
+  title     = {Improving Network I/O Virtualization for Cloud Computing},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {673-681},
+}
+
+@article{DBLP:journals/tpds/ArabnejadB14,
+  author    = {Hamid Arabnejad and
+               Jorge G. Barbosa},
+  title     = {List Scheduling Algorithm for Heterogeneous Systems by an Optimistic Cost Table},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {682-694},
+}
+
+@article{DBLP:journals/tpds/SanoHY14,
+  author    = {Kentaro Sano and
+               Yoshiaki Hatsuda and
+               Satoru Yamamoto},
+  title     = {{Multi-FPGA} Accelerator for Scalable Stencil Computation with Constant Memory Bandwidth},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {695-705},
+}
+
+@article{DBLP:journals/tpds/KimKYY014a,
+  author    = {Taehong Kim and
+               Seong Hoon Kim and
+               Jinyoung Yang and
+               Seongeun Yoo and
+               Daeyoung Kim},
+  title     = {Neighbor Table Based Shortcut Tree Routing in {ZigBee} Wireless Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {706-716},
+}
+
+@article{DBLP:journals/tpds/YangYYAZZ14,
+  author    = {Qingyu Yang and
+               Jie Yang and
+               Wei Yu and
+               Dou An and
+               Nan Zhang and
+               Wei Zhao},
+  title     = {On False {Data-Injection} Attacks against Power System State Estimation: Modeling and Countermeasures},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {717-729},
+}
+
+@article{DBLP:journals/tpds/DuDTGY14,
+  author    = {Juan Du and
+               Daniel Joseph Dean and
+               Yongmin Tan and
+               Xiaohui Gu and
+               Ting Yu},
+  title     = {Scalable Distributed Service Integrity Attestation for {Software-as-a-Service} Clouds},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {730-739},
+}
+
+@article{DBLP:journals/tpds/DinhAJ14,
+  author    = {Minh Ngoc Dinh and
+               David Abramson and
+               Chao Jin},
+  title     = {Scalable Relative Debugging},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {740-749},
+}
+
+@article{DBLP:journals/tpds/LuLG14,
+  author    = {Huang Lu and
+               Jie Li and
+               Mohsen Guizani},
+  title     = {Secure and Efficient Data Transmission for {Cluster-Based} Wireless Sensor Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {750-761},
+}
+
+@article{DBLP:journals/tpds/YuLCXS14,
+  author    = {Lei Yu and
+               Jianzhong Li and
+               Siyao Cheng and
+               Shuguang Xiong and
+               Haiying Shen},
+  title     = {Secure Continuous Aggregation in Wireless Sensor Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {762-774},
+}
+
+@article{DBLP:journals/tpds/LuoRL14,
+  author    = {Jianying Luo and
+               Lei Rao and
+               Xue Liu},
+  title     = {Temporal Load Balancing with Service Delay Guarantees for Data Center Energy Cost Optimization},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {775-784},
+}
+
+@article{DBLP:journals/tpds/0021T14,
+  author    = {Lu Zhang and
+               Xueyan Tang},
+  title     = {The Client Assignment Problem for Continuous Distributed Interactive Applications: Analysis, Algorithms, and Evaluation},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {785-795},
+}
+
+@article{DBLP:journals/tpds/Zhao014,
+  author    = {Yaxiong Zhao and
+               Jie Wu},
+  title     = {The Design and Evaluation of An Information Sharing System for Human Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {796-805},
+}
+
+@article{DBLP:journals/tpds/XieJ14,
+  author    = {Ruitao Xie and
+               Xiaohua Jia},
+  title     = {{Transmission-Efficient} Clustering Method for Wireless Sensor Networks Using Compressive Sensing},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {806-815},
+}
+
+@article{DBLP:journals/tpds/ZhangQWLE14,
+  author    = {Sheng Zhang and
+               Zhuzhong Qian and
+               Jie Wu and
+               Sanglu Lu and
+               Leah Epstein},
+  title     = {Virtual Network Embedding with Opportunistic Resource Sharing},
+  journal   = tpds,
+  volume    = {25},
+  number    = {3},
+  year      = 2014,
+  pages     = {816-827},
+}
+
+@article{DBLP:journals/tpds/QiuS14,
+  author    = {Chenxi Qiu and
+               Haiying Shen},
+  title     = {A {Delaunay-Based} {Coordinate-Free} Mechanism for Full Coverage in Wireless Sensor Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {828-839},
+}
+
+@article{DBLP:journals/tpds/JiangLWW14,
+  author    = {Guoyue Jiang and
+               Zhaolin Li and
+               Fang Wang and
+               Shaojun Wei},
+  title     = {A {High-Utilization} Scheduling Schemeof Stream Programs on {ClusteredVLIW} Stream Architectures},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {840-850},
+}
+
+@article{DBLP:journals/tpds/JayasingheTZZ14,
+  author    = {Malith Jayasinghe and
+               Zahir Tari and
+               Panlop Zeephongsekul and
+               Albert Y. Zomaya},
+  title     = {ADAPT-POLICY: Task Assignment in Server Farms when the Service Time Distributionof Tasks is Not Known A Priori},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {851-861},
+}
+
+@article{DBLP:journals/tpds/ShenL14,
+  author    = {Haiying Shen and
+               Guoxin Liu},
+  title     = {An Efficient and Trustworthy Resource Sharing Platform for Collaborative Cloud Computing},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {862-875},
+}
+
+@article{DBLP:journals/tpds/GuoLJZ14,
+  author    = {Yanfei Guo and
+               Palden Lama and
+               Changjun Jiang and
+               Xiaobo Zhou},
+  title     = {Automated and Agile Server {ParameterTuning} by Coordinated Learning and Control},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {876-886},
+}
+
+@article{DBLP:journals/tpds/YeZS14,
+  author    = {Dayong Ye and
+               Minjie Zhang and
+               Danny Sutanto},
+  title     = {Cloning, Resource Exchange, and RelationAdaptation: An Integrative {Self-Organisation} Mechanism in a Distributed Agent Network},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {887-897},
+}
+
+@article{DBLP:journals/tpds/WooT14,
+  author    = {Jeffrey Lok Tin Woo and
+               Mahesh V. Tripunitara},
+  title     = {Composing Kerberos and Multimedia Internet {KEYing} (MIKEY) for {AuthenticatedTransport} of Group Keys},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {898-907},
+}
+
+@article{DBLP:journals/tpds/JiangZTW14,
+  author    = {Hongbo Jiang and
+               Shengkai Zhang and
+               Guang Tan and
+               Chonggang Wang},
+  title     = {{Connectivity-Based} Boundary Extractionof {Large-Scale} 3D Sensor Networks: Algorithm and Applications},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {908-918},
+}
+
+@article{DBLP:journals/tpds/BulutS14,
+  author    = {Eyuphan Bulut and
+               Boleslaw K. Szymanski},
+  title     = {Constructing Limited {Scale-Free} Topologiesover {Peer-to-Peer} Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {919-928},
+}
+
+@article{DBLP:journals/tpds/JigangSJW14,
+  author    = {Wu Jigang and
+               Thambipillai Srikanthan and
+               Guiyuan Jiang and
+               Kai Wang},
+  title     = {Constructing {Sub-Arrays} with {ShortInterconnects} from Degradable {VLSI} Arrays},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {929-938},
+}
+
+@article{DBLP:journals/tpds/WangBC014,
+  author    = {Guojun Wang and
+               Md. Zakirul Alam Bhuiyan and
+               Jiannong Cao and
+               Jie Wu},
+  title     = {Detecting Movements of a Target Using Face Tracking in Wireless Sensor Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {939-949},
+}
+
+@article{DBLP:journals/tpds/AbdelhakimLRL14,
+  author    = {Mai Abdelhakim and
+               Leonard E. Lightfoot and
+               Jian Ren and
+               Tongtong Li},
+  title     = {Distributed Detection in Mobile Access Wireless Sensor Networks under Byzantine Attacks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {950-959},
+}
+
+@article{DBLP:journals/tpds/WeiJZF14,
+  author    = {Jiansheng Wei and
+               Hong Jiang and
+               Ke Zhou and
+               Dan Feng},
+  title     = {Efficiently Representing Membershipfor Variable Large Data Sets},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {960-970},
+}
+
+@article{DBLP:journals/tpds/YuanWZL14,
+  author    = {Yulai Yuan and
+               Yongwei Wu and
+               Weimin Zheng and
+               Keqin Li},
+  title     = {Guarantee Strict Fairness and {UtilizePrediction} Better in Parallel Job Scheduling},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {971-981},
+}
+
+@article{DBLP:journals/tpds/LiuKCN14,
+  author    = {Siyuan Liu and
+               Lei Kang and
+               Lei Chen and
+               Lionel M. Ni},
+  title     = {How to Conduct Distributed {IncompletePattern} Matching},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {982-992},
+}
+
+@article{DBLP:journals/tpds/JeannotMT14,
+  author    = {Emmanuel Jeannot and
+               Guillaume Mercier and
+               Francois Tessier},
+  title     = {Process Placement in Multicore Clusters: Algorithmic Issues and Practical Techniques},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {993-1002},
+}
+
+@article{DBLP:journals/tpds/WangLHDL14,
+  author    = {Jiliang Wang and
+               Yunhao Liu and
+               Yuan He and
+               Wei Dong and
+               Mo Li},
+  title     = {QoF: Towards Comprehensive Path Quality Measurement in Wireless Sensor Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {1003-1013},
+}
+
+@article{DBLP:journals/tpds/BioglioGGS14,
+  author    = {Valerio Bioglio and
+               Rossano Gaeta and
+               Marco Grangetto and
+               Matteo Sereno},
+  title     = {Rateless Codes and Random Walksfor P2P Resource Discovery in Grids},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {1014-1023},
+}
+
+@article{DBLP:journals/tpds/LeeYS14,
+  author    = {Jinkyu Lee and
+               Buyoung Yun and
+               Kang G. Shin},
+  title     = {Reducing Peak Power Consumption {inMulti-Core} Systems without {ViolatingReal-Time} Constraints},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {1024-1033},
+}
+
+@article{DBLP:journals/tpds/PezoaH14,
+  author    = {Jorge E. Pezoa and
+               Majeed M. Hayat},
+  title     = {Reliability of Heterogeneous Distributed Computing Systems in the Presence of Correlated Failures},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {1034-1043},
+}
+
+@article{DBLP:journals/tpds/PadhyeT14,
+  author    = {Vinit Padhye and
+               Anand Tripathi},
+  title     = {Resource Availability Characteristicsand Node Selection in {CooperativelyShared} Computing Platforms},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {1044-1054},
+}
+
+@article{DBLP:journals/tpds/HeCCC14,
+  author    = {Jianping He and
+               Jiming Chen and
+               Peng Cheng and
+               Xianghui Cao},
+  title     = {Secure Time Synchronization in {WirelessSensor} Networks: A {MaximumConsensus-Based} Approach},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {1055-1065},
+}
+
+@article{DBLP:journals/tpds/ShenLLL14,
+  author    = {Haiying Shen and
+               Ze Li and
+               Guoxin Liu and
+               Jin Li},
+  title     = {SOS: A Distributed Mobile Q&A {SystemBased} on Social Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {1066-1077},
+}
+
+@article{DBLP:journals/tpds/BielyRS14,
+  author    = {Martin Biely and
+               Peter Robinson and
+               Ulrich Schmid},
+  title     = {The Generalized Loneliness Detector and Weak System Models for {k-Set} Agreement},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {1078-1088},
+}
+
+@article{DBLP:journals/tpds/ZhuW014,
+  author    = {Yanmin Zhu and
+               Yuchen Wu and
+               Bo Li},
+  title     = {Trajectory Improves Data Delivery in Urban Vehicular Networks},
+  journal   = tpds,
+  volume    = {25},
+  number    = {4},
+  year      = 2014,
+  pages     = {1089-1100},
+}
+
 @article{DBLP:journals/tpds/LinLK13,
   author    = {Hui-Tang Lin and
                Ying-You Lin and

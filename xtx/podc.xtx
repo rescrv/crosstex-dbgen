@@ -1106,7 +1106,7 @@
                Ken Birman and
                Daniel A. Freedman and
                Qi Huang and
-               Kristján V. Jónsson and
+               Kristján Valur Jónsson and
                Gunnar Sigurbjörnsson},
   title     = {Brief announcement: live streaming with utilities, quality and cost},
   booktitle = podc,
@@ -7886,7 +7886,7 @@
 
 @inproceedings{DBLP:conf/podc/DetlefsMMS01,
   author    = {David Detlefs and
-               Paul A. Martin and
+               Paul Alan Martin and
                Mark Moir and
                Guy L. Steele Jr.},
   title     = {Lock-free reference counting},

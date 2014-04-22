@@ -1,5 +1,154 @@
 @include journals-cs
 
+@article{DBLP:journals/tse/Nuseibeh14,
+  author    = {Bashar Nuseibeh},
+  title     = {Signing Off: The State of the Journal},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {1},
+  year      = 2014,
+  pages     = {1-3},
+}
+
+@article{DBLP:journals/tse/LiuKTC14,
+  author    = {Huai Liu and
+               Fei-Ching Kuo and
+               Dave Towey and
+               Tsong Yueh Chen},
+  title     = {How Effectively Does Metamorphic Testing Alleviate the Oracle Problem?},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {1},
+  year      = 2014,
+  pages     = {4-22},
+}
+
+@article{DBLP:journals/tse/MadeyskiOTJ14,
+  author    = {Lech Madeyski and
+               Wojciech Orzeszyna and
+               Richard Torkar and
+               Mariusz Jozala},
+  title     = {Overcoming the Equivalent Mutant Problem: A Systematic Literature Review and a Comparative Experiment of Second Order Mutation},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {1},
+  year      = 2014,
+  pages     = {23-42},
+}
+
+@article{DBLP:journals/tse/YilmazDCP14,
+  author    = {Cemal Yilmaz and
+               Emine Dumlu and
+               Myra B. Cohen and
+               Adam A. Porter},
+  title     = {Reducing Masking Effects in {CombinatorialInteraction} Testing: A Feedback {DrivenAdaptive} Approach},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {1},
+  year      = 2014,
+  pages     = {43-66},
+}
+
+@article{DBLP:journals/tse/KastnerDO14,
+  author    = {Christian Kästner and
+               Alexander Dreiling and
+               Klaus Ostermann},
+  title     = {Variability Mining: Consistent Semi-automatic Detection of {Product-Line} Features},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {1},
+  year      = 2014,
+  pages     = {67-82},
+}
+
+@article{DBLP:journals/tse/MinkuSY14,
+  author    = {Leandro L. Minku and
+               Dirk Sudholt and
+               Xin Yao},
+  title     = {Improved Evolutionary Algorithm Design for the Project Scheduling Problem Based on Runtime Analysis},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {1},
+  year      = 2014,
+  pages     = {83-102},
+}
+
+@article{DBLP:journals/tse/SuiYX14,
+  author    = {Yulei Sui and
+               Ding Ye and
+               Jingling Xue},
+  title     = {Detecting Memory Leaks Statically with {Full-Sparse} {Value-Flow} Analysis},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {2},
+  year      = 2014,
+  pages     = {107-122},
+}
+
+@article{DBLP:journals/tse/Taiani0B14,
+  author    = {François Taïani and
+               Shen Lin and
+               Gordon S. Blair},
+  title     = {GossipKit: A Unified {ComponentFramework} for Gossip},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {2},
+  year      = 2014,
+  pages     = {123-136},
+}
+
+@article{DBLP:journals/tse/LinAL0D14,
+  author    = {Shang-Wei Lin and
+               Étienne André and
+               Yang Liu and
+               Jun Sun and
+               Jin Song Dong},
+  title     = {Learning Assumptions for {CompositionalVerification} of Timed Systems},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {2},
+  year      = 2014,
+  pages     = {137-153},
+}
+
+@article{DBLP:journals/tse/SchumannDMW14,
+  author    = {Michael A. Schumann and
+               Doron Drusinsky and
+               James Bret Michael and
+               Duminda Wijesekera},
+  title     = {Modeling {Human-in-the-Loop} Security Analysis and {Decision-Making} Processes},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {2},
+  year      = 2014,
+  pages     = {154-166},
+}
+
+@article{DBLP:journals/tse/TrummerFB14,
+  author    = {Immanuel Trummer and
+               Boi Faltings and
+               Walter Binder},
+  title     = {{Multi-Objective} {Quality-Driven} Service Selection - A Fully Polynomial Time Approximation Scheme},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {2},
+  year      = 2014,
+  pages     = {167-191},
+}
+
+@article{DBLP:journals/tse/HeYJY14,
+  author    = {Qiang He and
+               Jun Yan and
+               Hai Jin and
+               Yun Yang},
+  title     = {{Quality-Aware} Service Selection for {Service-Based} Systems Based on Iterative {Multi-Attribute} Combinatorial Auction},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {2},
+  year      = 2014,
+  pages     = {192-215},
+}
+
 @article{DBLP:journals/tse/ChenZ13,
   author    = {Wei-neng Chen and
                Jun Zhang},

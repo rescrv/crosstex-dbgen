@@ -61,6 +61,148 @@
   pages     = {81-99},
 }
 
+@article{DBLP:journals/mms/MazurczykS14,
+  author    = {Wojciech Mazurczyk and
+               Krzysztof Szczypiorski},
+  title     = {Advances in digital media security and right management},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {101-103},
+}
+
+@article{DBLP:journals/mms/MegiasD14,
+  author    = {David Megías and
+               Josep Domingo-Ferrer},
+  title     = {Privacy-aware peer-to-peer content distribution using automatically recombined fingerprints},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {105-125},
+}
+
+@article{DBLP:journals/mms/ThanhI14,
+  author    = {Ta Minh Thanh and
+               Munetoshi Iwakiri},
+  title     = {A proposal of digital rights management based on incomplete cryptography using invariant Huffman code length feature},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {127-142},
+}
+
+@article{DBLP:journals/mms/TianLL14,
+  author    = {Hui Tian and
+               Jin Liu and
+               Songbin Li},
+  title     = {Improving security of quantization-index-modulation steganography in low bit-rate speech streams},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {143-154},
+}
+
+@article{DBLP:journals/mms/FallahpourM14,
+  author    = {Mehdi Fallahpour and
+               David Megías},
+  title     = {Secure logarithmic audio watermarking scheme based on the human auditory system},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {155-164},
+}
+
+@article{DBLP:journals/mms/DengDWW14,
+  author    = {Robert Huijie Deng and
+               Xuhua Ding and
+               Yongdong Wu and
+               Zhuo Wei},
+  title     = {Efficient block-based transparent encryption for H.264/{SVC} bitstreams},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {165-178},
+}
+
+@article{DBLP:journals/mms/ChenSSAC14,
+  author    = {Wei Chen and
+               Zafar Shahid and
+               Thomas Stütz and
+               Florent Autrusseau and
+               Patrick Le Callet},
+  title     = {Robust drift-free bit-rate preserving H.264 watermarking},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {179-193},
+}
+
+@article{DBLP:journals/mms/SongLHH14,
+  author    = {Xingguang Song and
+               Shiguo Lian and
+               Wei Hu and
+               Yang Hu},
+  title     = {Digital video watermarking based on intra prediction modes for audio video coding standard},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {195-202},
+}
+
+@article{DBLP:journals/mms/BhatnagarW14,
+  author    = {Gaurav Bhatnagar and
+               Q. M. Jonathan Wu},
+  title     = {Enhancing the transmission security of biometric images using chaotic encryption},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {203-214},
+}
+
+@article{DBLP:journals/mms/KhosraviN14,
+  author    = {Mohammad Javad Khosravi and
+               Ahmad Reza Naghsh-Nilchi},
+  title     = {A novel joint secret image sharing and robust steganography method using wavelet},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {215-226},
+}
+
+@article{DBLP:journals/mms/LiuLDL14,
+  author    = {Guangjie Liu and
+               Weiwei Liu and
+               Yuewei Dai and
+               Shiguo Lian},
+  title     = {Adaptive steganography based on block complexity and matrix embedding},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {227-238},
+}
+
+@article{DBLP:journals/mms/BhowmikA14,
+  author    = {Deepayan Bhowmik and
+               Charith Abhayaratne},
+  title     = {On robustness against JPEG2000: a performance evaluation of wavelet-based watermarking techniques},
+  journal   = mms,
+  volume    = {20},
+  number    = {2},
+  year      = 2014,
+  pages     = {239-252},
+}
+
 @article{DBLP:journals/mms/NgoXWE13,
   author    = {Chong-Wah Ngo and
                Changsheng Xu and
@@ -1748,7 +1890,7 @@
   author    = {Rafael Antonello and
                Stenio F. L. Fernandes and
                Josilene Moreira and
-               Paulo Cunha and
+               Paulo Roberto Freire Cunha and
                Carlos Alberto Kamienski and
                Djamel Sadok},
   title     = {Traffic analysis and synthetic models of second life},

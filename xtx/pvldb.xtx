@@ -10,6 +10,27 @@
   pages     = {i-ix},
 }
 
+@article{DBLP:journals/pvldb/Cormode14,
+  author    = {Graham Cormode},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {6},
+  year      = 2014,
+  pages     = {i-ix},
+}
+
+@article{DBLP:journals/pvldb/LiM14,
+  author    = {Chen Li and
+               Volker Markl},
+  title     = {Front Matter},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {7},
+  year      = 2014,
+  pages     = {i-ix},
+}
+
 @article{DBLP:journals/pvldb/MahmoudANAA14,
   author    = {Hatem A. Mahmoud and
                Vaibhav Arora and
@@ -122,6 +143,201 @@
   number    = {5},
   year      = 2014,
   pages     = {425-428},
+}
+
+@article{DBLP:journals/pvldb/GiannikisMAK14,
+  author    = {Georgios Giannikis and
+               Darko Makreshanski and
+               Gustavo Alonso and
+               Donald Kossmann},
+  title     = {Shared Workload Optimization},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {6},
+  year      = 2014,
+  pages     = {429-440},
+}
+
+@article{DBLP:journals/pvldb/ElseidyEVK14,
+  author    = {Mohammed Elseidy and
+               Abdallah Elguindy and
+               Aleksandar Vitorovic and
+               Christoph Koch},
+  title     = {Scalable and Adaptive Online Joins},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {6},
+  year      = 2014,
+  pages     = {441-452},
+}
+
+@article{DBLP:journals/pvldb/MortonBGM14,
+  author    = {Kristi Morton and
+               Magdalena Balazinska and
+               Dan Grossman and
+               Jock D. Mackinlay},
+  title     = {Support the Data Enthusiast: Challenges for {Next-Generation} {Data-Analysis} Systems},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {6},
+  year      = 2014,
+  pages     = {453-456},
+}
+
+@article{DBLP:journals/pvldb/DeutchMT14,
+  author    = {Daniel Deutch and
+               Yuval Moskovitch and
+               Val Tannen},
+  title     = {A Provenance Framework for {Data-Dependent} Process Analysis},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {6},
+  year      = 2014,
+  pages     = {457-468},
+}
+
+@article{DBLP:journals/pvldb/ChiangDN14,
+  author    = {Yueh-Hsuan Chiang and
+               AnHai Doan and
+               Jeffrey F. Naughton},
+  title     = {Tracking Entities in the Dynamic World: A Fast Algorithm for Matching Temporal Records},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {6},
+  year      = 2014,
+  pages     = {469-480},
+}
+
+@article{DBLP:journals/pvldb/ConwayAAH14,
+  author    = {Neil Conway and
+               Peter Alvaro and
+               Emily Andrews and
+               Joseph M. Hellerstein},
+  title     = {Edelweiss: Automatic Storage Reclamation for Distributed Programming},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {6},
+  year      = 2014,
+  pages     = {481-492},
+}
+
+@article{DBLP:journals/pvldb/NtarmosPT14,
+  author    = {Nikos Ntarmos and
+               Ioannis Patlakas and
+               Peter Triantafillou},
+  title     = {Rank Join Queries in {NoSQL} Databases},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {7},
+  year      = 2014,
+  pages     = {493-504},
+}
+
+@article{DBLP:journals/pvldb/GuptaHWWW14,
+  author    = {Rahul Gupta and
+               Alon Y. Halevy and
+               Xuezhi Wang and
+               Steven Euijong Whang and
+               Fei Wu},
+  title     = {Biperpedia: An Ontology for Search Applications},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {7},
+  year      = 2014,
+  pages     = {505-516},
+}
+
+@article{DBLP:journals/pvldb/ElseidyASK14,
+  author    = {Mohammed Elseidy and
+               Ehab Abdelhamid and
+               Spiros Skiadopoulos and
+               Panos Kalnis},
+  title     = {GRAMI: Frequent Subgraph and Pattern Mining in a Single Large Graph},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {7},
+  year      = 2014,
+  pages     = {517-528},
+}
+
+@article{DBLP:journals/pvldb/WangMO14,
+  author    = {Sheng Wang and
+               David Maier and
+               Beng Chin Ooi},
+  title     = {Lightweight Indexing of Observational Data in {Log-Structured} Storage},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {7},
+  year      = 2014,
+  pages     = {529-540},
+}
+
+@article{DBLP:journals/pvldb/Jiang0OTW14,
+  author    = {Dawei Jiang and
+               Gang Chen and
+               Beng Chin Ooi and
+               Kian-Lee Tan and
+               Sai Wu},
+  title     = {epiC: an Extensible and Scalable System for Processing Big Data},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {7},
+  year      = 2014,
+  pages     = {541-552},
+}
+
+@article{DBLP:journals/pvldb/BoehmTRSTBV14,
+  author    = {Matthias Boehm and
+               Shirish Tatikonda and
+               Berthold Reinwald and
+               Prithviraj Sen and
+               Yuanyuan Tian and
+               Douglas Burdick and
+               Shivakumar Vaithyanathan},
+  title     = {Hybrid Parallelization Strategies for {Large-Scale} Machine Learning in {SystemML}},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {7},
+  year      = 2014,
+  pages     = {553-564},
+}
+
+@article{DBLP:journals/pvldb/YangWSY14,
+  author    = {Shengqi Yang and
+               Yinghui Wu and
+               Huan Sun and
+               Xifeng Yan},
+  title     = {Schemaless and Structureless Graph Querying},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {7},
+  year      = 2014,
+  pages     = {565-576},
+}
+
+@article{DBLP:journals/pvldb/SalihogluW14,
+  author    = {Semih Salihoglu and
+               Jennifer Widom},
+  title     = {Optimizing Graph Algorithms on Pregel-like Systems},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {7},
+  year      = 2014,
+  pages     = {577-588},
+}
+
+@article{DBLP:journals/pvldb/WuAL0Y14,
+  author    = {You Wu and
+               Pankaj K. Agarwal and
+               Chengkai Li and
+               Jun Yang and
+               Cong Yu},
+  title     = {Toward Computational {Fact-Checking}},
+  journal   = pvldb,
+  volume    = {7},
+  number    = {7},
+  year      = 2014,
+  pages     = {589-600},
 }
 
 @article{DBLP:journals/pvldb/CongD13,
@@ -2609,7 +2825,7 @@
 
 @article{DBLP:journals/pvldb/SavkovicPTN13,
   author    = {Ognjen Savkovic and
-               Mirza Paramita and
+               Paramita Mirza and
                Alex Tomasi and
                Werner Nutt},
   title     = {Complete Approximations of Incomplete Queries},

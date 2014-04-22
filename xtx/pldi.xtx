@@ -748,7 +748,7 @@
 
 @inproceedings{DBLP:conf/pldi/ChiwKRSS12,
   author    = {Charisee Chiw and
-               Gordon Kindlmann and
+               Gordon L. Kindlmann and
                John Reppy and
                Lamont Samuels and
                Nick Seltzer},

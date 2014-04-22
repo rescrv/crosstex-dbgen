@@ -1,5 +1,20 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/popl/JinCGHCGHN14,
+  author    = {Wesley Jin and
+               Cory Cohen and
+               Jeffrey Gennari and
+               Charles Hines and
+               Sagar Chaki and
+               Arie Gurfinkel and
+               Jeffrey Havrilla and
+               Priya Narasimhan},
+  title     = {Recovering C++ Objects From Binaries Using {Inter-Procedural} {Data-Flow} Analysis},
+  booktitle = popl,
+  year      = 2014,
+  pages     = {1},
+}
+
 @inproceedings{DBLP:conf/popl/Birkedal14,
   author    = {Lars Birkedal},
   title     = {Modular reasoning about concurrent higher-order imperative programs},
@@ -8,13 +23,55 @@
   pages     = {1-2},
 }
 
+@inproceedings{DBLP:conf/popl/RauzyG14,
+  author    = {Pablo Rauzy and
+               Sylvain Guilley},
+  title     = {Formal Analysis of {CRT-RSA} Vigilant's Countermeasure Against the {BellCoRe} Attack: A Pledge for Formal Methods in the Field of Implementation Security},
+  booktitle = popl,
+  year      = 2014,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/popl/DeshotelsNL14,
+  author    = {Luke Deshotels and
+               Vivek Notani and
+               Arun Lakhotia},
+  title     = {DroidLegacy: Automated Familial Classification of Android Malware},
+  booktitle = popl,
+  year      = 2014,
+  pages     = {3},
+}
+
 @inproceedings{DBLP:conf/popl/CousotC14,
   author    = {Patrick Cousot and
                Radhia Cousot},
-  title     = {A galois connection calculus for abstract interpretation},
+  title     = {A Galois connection calculus for abstract interpretation},
   booktitle = popl,
   year      = 2014,
   pages     = {3-4},
+}
+
+@inproceedings{DBLP:conf/popl/WangFLACG14,
+  author    = {Huaijun Wang and
+               Dingyi Fang and
+               Guanghui Li and
+               Na An and
+               Xiaojiang Chen and
+               Yuanxiang Gu},
+  title     = {TDVMP: Improved Virtual {Machine-Based} Software Protection with Time Diversity},
+  booktitle = popl,
+  year      = 2014,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/popl/DangerGP14,
+  author    = {Jean-Luc Danger and
+               Sylvain Guilley and
+               Florian Praden},
+  title     = {Hardware-enforced Protection against Software {Reverse-Engineering} based on an Instruction Set Encoding},
+  booktitle = popl,
+  year      = 2014,
+  pages     = {5},
 }
 
 @inproceedings{DBLP:conf/popl/Castagna0XILP14,
@@ -28,6 +85,25 @@
   booktitle = popl,
   year      = 2014,
   pages     = {5-18},
+}
+
+@inproceedings{DBLP:conf/popl/PredaMG14,
+  author    = {Mila Dalla Preda and
+               Isabella Mastroeni and
+               Roberto Giacobazzi},
+  title     = {Analyzing program dependencies for malware detection},
+  booktitle = popl,
+  year      = 2014,
+  pages     = {6},
+}
+
+@inproceedings{DBLP:conf/popl/SimonK14,
+  author    = {Axel Simon and
+               Julian Kranz},
+  title     = {The {GDSL} toolkit: Generating Frontends for the Analysis of Machine Code},
+  booktitle = popl,
+  year      = 2014,
+  pages     = {7},
 }
 
 @inproceedings{DBLP:conf/popl/KilpatrickDJM14,
@@ -576,12 +652,40 @@
   pages     = {671-684},
 }
 
+@inproceedings{DBLP:conf/popl/GhoshHD13,
+  author    = {Sudeep Ghosh and
+               Jason Hiser and
+               Jack W. Davidson},
+  title     = {Software protection for dynamically-generated code},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {1},
+}
+
 @inproceedings{DBLP:conf/popl/Gonthier13,
   author    = {Georges Gonthier},
   title     = {Engineering mathematics: the odd order theorem proof},
   booktitle = popl,
   year      = 2013,
   pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/popl/PayerG13,
+  author    = {Mathias Payer and
+               Thomas R. Gross},
+  title     = {String oriented programming: when {ASLR} is not enough},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/popl/ZwangerF13,
+  author    = {Viviane Zwanger and
+               Felix C. Freiling},
+  title     = {Kernel mode {API} spectroscopy for incident response and digital forensics},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {3},
 }
 
 @inproceedings{DBLP:conf/popl/LoschP13,
@@ -591,6 +695,26 @@
   booktitle = popl,
   year      = 2013,
   pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/popl/BourquinKR13,
+  author    = {Martial Bourquin and
+               Andy King and
+               Ed Robbins},
+  title     = {BinSlayer: accurate comparison of binary executables},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/popl/LakhotiaPG13,
+  author    = {Arun Lakhotia and
+               Mila Dalla Preda and
+               Roberto Giacobazzi},
+  title     = {Fast location of similar code fragments using semantic 'juice'},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {5},
 }
 
 @inproceedings{DBLP:conf/popl/Tate13,
@@ -1808,7 +1932,7 @@
 
 @inproceedings{DBLP:conf/popl/GhicaS11,
   author    = {Dan R. Ghica and
-               Alex Smith},
+               Alex I. Smith},
   title     = {Geometry of synthesis III: resource management through type inference},
   booktitle = popl,
   year      = 2011,
@@ -9865,7 +9989,7 @@
 
 @inproceedings{DBLP:conf/popl/HudakB85,
   author    = {Paul Hudak and
-               Adrienne Bloss},
+               Adrienne G. Bloss},
   title     = {The Aggregate Update Problem in Functional Programming Systems},
   booktitle = popl,
   year      = 1985,

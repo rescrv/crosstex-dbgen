@@ -1,5 +1,130 @@
 @include journals-cs
 
+@article{DBLP:journals/tomacs/HaasHL14,
+  author    = {Peter J. Haas and
+               Shane G. Henderson and
+               Pierre L'Ecuyer},
+  title     = {Guest editors' introduction to special issue on the third {INFORMS} simulation society research workshop},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {1},
+  year      = 2014,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tomacs/PhanG14,
+  author    = {Dzung Phan and
+               Soumyadip Ghosh},
+  title     = {Two-stage stochastic optimization for optimal power flow under renewable generation uncertainty},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {1},
+  year      = 2014,
+  pages     = {2},
+}
+
+@article{DBLP:journals/tomacs/GuptaBAVJFGM14,
+  author    = {Sandeep K. S. Gupta and
+               Ayan Banerjee and
+               Zahra Abbasi and
+               Georgios Varsamopoulos and
+               Michael Jonas and
+               Joshua Ferguson and
+               Rose Robin Gilbert and
+               Tridib Mukherjee},
+  title     = {GDCSim: A simulator for green data center design and analysis},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {1},
+  year      = 2014,
+  pages     = {3},
+}
+
+@article{DBLP:journals/tomacs/BissetCDFMM14,
+  author    = {Keith R. Bisset and
+               Jiangzhuo Chen and
+               Suruchi Deodhar and
+               Xizhou Feng and
+               Yifei Ma and
+               Madhav V. Marathe},
+  title     = {Indemics: An interactive high-performance computing framework for data-intensive epidemic modeling},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {1},
+  year      = 2014,
+  pages     = {4},
+}
+
+@article{DBLP:journals/tomacs/SchrubenS14,
+  author    = {Lee W. Schruben and
+               Dashi I. Singham},
+  title     = {Data-driven simulation of complex multidimensional time series},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {1},
+  year      = 2014,
+  pages     = {5},
+}
+
+@article{DBLP:journals/tomacs/GuptaAG14,
+  author    = {Vivek Gupta and
+               Sigrún Andradóttir and
+               David Goldsman},
+  title     = {Variance estimation and sequential stopping in steady-state simulations using linear regression},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {2},
+  year      = 2014,
+  pages     = {7},
+}
+
+@article{DBLP:journals/tomacs/ChenK14,
+  author    = {Xi Chen and
+               Kyoung-Kuk Kim},
+  title     = {Stochastic kriging with biased sample estimates},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {2},
+  year      = 2014,
+  pages     = {8},
+}
+
+@article{DBLP:journals/tomacs/LiuX14,
+  author    = {Jingchen Liu and
+               Gongjun Xu},
+  title     = {Efficient simulations for the exponential integrals of Hölder continuous gaussian random fields},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {2},
+  year      = 2014,
+  pages     = {9},
+}
+
+@article{DBLP:journals/tomacs/VieiraSSKB14,
+  author    = {Hélcio Vieira Jr. and
+               Susan M. Sanchez and
+               Paul J. Sanchez and
+               Karl Heinz Kienitz and
+               Mischel Carmen Neyra Belderrain},
+  title     = {A restricted multinomial hybrid selection procedure},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {2},
+  year      = 2014,
+  pages     = {10},
+}
+
+@article{DBLP:journals/tomacs/EwaldU14,
+  author    = {Roland Ewald and
+               Adelinde M. Uhrmacher},
+  title     = {SESSL: A domain-specific language for simulation experiments},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {2},
+  year      = 2014,
+  pages     = {11},
+}
+
 @article{DBLP:journals/tomacs/DoucetR13,
   author    = {Arnaud Doucet and
                Christian P. Robert},

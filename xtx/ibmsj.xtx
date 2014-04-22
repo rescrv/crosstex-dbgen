@@ -8728,7 +8728,7 @@
 
 @article{DBLP:journals/ibmsj/LebizayGCB95,
   author    = {Gerald Lebizay and
-               Claude Galand and
+               Claude R. Galand and
                Denis Chevalier and
                Frederic Barre},
   title     = {A {High-Performance} Transport Network Platform},

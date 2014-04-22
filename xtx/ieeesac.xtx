@@ -1,5 +1,679 @@
 @include journals-cs
 
+@article{DBLP:journals/jsac/SmiljanicCMOH14,
+  author    = {Aleksandra Smiljanic and
+               H. Jonathan Chao and
+               Cyriel Minkenberg and
+               Eiji Oki and
+               Mounir Hamdi},
+  title     = {Guest Editorial: Switching and Routing for Scalable and {Energy-Efficient} Networking},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {1-3},
+}
+
+@article{DBLP:journals/jsac/WangZAVZHLL14,
+  author    = {Lin Wang and
+               Fa Zhang and
+               Jordi Arjona Aroca and
+               Athanasios V. Vasilakos and
+               Kai Zheng and
+               Chenying Hou and
+               Dan Li and
+               Zhiyong Liu},
+  title     = {GreenDCN: A General Framework for Achieving Energy Efficiency in Data Center Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {4-15},
+}
+
+@article{DBLP:journals/jsac/BollaBCDL14,
+  author    = {Raffaele Bolla and
+               Roberto Bruschi and
+               Alessandro Carrega and
+               Franco Davoli and
+               Paolo Lago},
+  title     = {A {Closed-Form} Model for the {IEEE} 802.3az Network and Power Performance},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {16-27},
+}
+
+@article{DBLP:journals/jsac/GattulliTFP14,
+  author    = {Mirko Gattulli and
+               Massimo Tornatore and
+               Riccardo Fiandra and
+               Achille Pattavina},
+  title     = {{Low-Emissions} Routing for Cloud Computing in {IP-over-WDM} Networks with Data Centers},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {28-38},
+}
+
+@article{DBLP:journals/jsac/ZhangRYSL14,
+  author    = {Jiao Zhang and
+               Fengyuan Ren and
+               Xin Yue and
+               Ran Shu and
+               Chuang Lin},
+  title     = {Sharing Bandwidth by Allocating Switch Buffer in Data Center Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {39-51},
+}
+
+@article{DBLP:journals/jsac/JiangLX14,
+  author    = {Changlin Jiang and
+               Dan Li and
+               Mingwei Xu},
+  title     = {LTTP: An {LT-Code} Based Transport Protocol for {Many-to-One} Communication in Data Centers},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {52-64},
+}
+
+@article{DBLP:journals/jsac/ShuklaCTGXC14,
+  author    = {Shikhar Shukla and
+               Shingau Chan and
+               Adrian Sai-Wah Tam and
+               Abhishek Gupta and
+               Yang Xu and
+               H. Jonathan Chao},
+  title     = {{TCP} PLATO: Packet Labelling to Alleviate {Time-Out}},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {65-76},
+}
+
+@article{DBLP:journals/jsac/CrisanBBCG14,
+  author    = {Daniel Crisan and
+               Robert Birke and
+               Katherine Barabash and
+               Rami Cohen and
+               Mitchell Gusat},
+  title     = {Datacenter Applications in Virtualized Networks: A {Cross-Layer} Performance Study},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {77-87},
+}
+
+@article{DBLP:journals/jsac/ZahaviKK14,
+  author    = {Eitan Zahavi and
+               Isaac Keslassy and
+               Avinoam Kolodny},
+  title     = {Distributed Adaptive Routing Convergence to {Non-Blocking} {DCN} Routing Assignments},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {88-101},
+}
+
+@article{DBLP:journals/jsac/GuoDY14,
+  author    = {Zhiyang Guo and
+               Jun Duan and
+               Yuanyuan Yang},
+  title     = {{On-Line} Multicast Scheduling with Bounded Congestion in {Fat-Tree} Data Center Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {102-115},
+}
+
+@article{DBLP:journals/jsac/Jia14,
+  author    = {Wen-Kang Jia},
+  title     = {A Scalable Multicast Source Routing Architecture for Data Center Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {116-123},
+}
+
+@article{DBLP:journals/jsac/Wang14,
+  author    = {Pi-Chung Wang},
+  title     = {Scalable Packet Classification for Datacenter Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {124-137},
+}
+
+@article{DBLP:journals/jsac/RottenstreichRCKAMRH14,
+  author    = {Ori Rottenstreich and
+               Marat Radan and
+               Yuval Cassuto and
+               Isaac Keslassy and
+               Carmi Arad and
+               Tal Mizrahi and
+               Yoram Revah and
+               Avinatan Hassidim},
+  title     = {Compressing Forwarding Tables for Datacenter Scalability},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {1},
+  year      = 2014,
+  pages     = {138-151},
+}
+
+@article{DBLP:journals/jsac/YangYJWLD14,
+  author    = {Yang Yang and
+               Xiaohu You and
+               Markku J. Juntti and
+               Cheng-Xiang Wang and
+               Harry Leib and
+               Zhi Ding},
+  title     = {Guest Editorial Spectrum and Energy Efficient Design of Wireless Communication Networks: Part {II}},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {193-196},
+}
+
+@article{DBLP:journals/jsac/LiuZXZ14,
+  author    = {Fei Liu and
+               Kan Zheng and
+               Wei Xiang and
+               Hui Zhao},
+  title     = {Design and Performance Analysis of An {Energy-Efficient} Uplink Carrier Aggregation Scheme},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {197-207},
+}
+
+@article{DBLP:journals/jsac/JoungHS14,
+  author    = {Jingon Joung and
+               Chin Keong Ho and
+               Sumei Sun},
+  title     = {Spectral Efficiency and Energy Efficiency of {OFDM} Systems: Impact of Power Amplifiers and Countermeasures},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {208-220},
+}
+
+@article{DBLP:journals/jsac/MurdockR14,
+  author    = {James Murdock and
+               Theodore S. Rappaport},
+  title     = {Consumption Factor and {Power-Efficiency} Factor: A Theory for Evaluating the Energy Efficiency of Cascaded Communication Systems},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {221-236},
+}
+
+@article{DBLP:journals/jsac/RenWD14,
+  author    = {Pinyi Ren and
+               Yichen Wang and
+               Qinghe Du},
+  title     = {CAD-MAC: A {Channel-Aggregation} Diversity Based {MAC} Protocol for Spectrum and Energy Efficient Cognitive Ad Hoc Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {237-250},
+}
+
+@article{DBLP:journals/jsac/ChenL14,
+  author    = {Zhiyong Chen and
+               Hui Liu},
+  title     = {{Spectrum-Efficient} Coded Modulation Design for {Two-Way} Relay Channels},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {251-263},
+}
+
+@article{DBLP:journals/jsac/LiGZY14,
+  author    = {Peng Li and
+               Song Guo and
+               Weihua Zhuang and
+               Baoliu Ye},
+  title     = {On Efficient Resource Allocation for Cognitive and Cooperative Communications},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {264-273},
+}
+
+@article{DBLP:journals/jsac/ZhouLPTSY14,
+  author    = {Yiqing Zhou and
+               Hang Liu and
+               Zhengang Pan and
+               Lin Tian and
+               Jinglin Shi and
+               Guanghua Yang},
+  title     = {{Two-Stage} Cooperative Multicast Transmission with Optimized Power Consumption and Guaranteed Coverage},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {274-284},
+}
+
+@article{DBLP:journals/jsac/HanYM14,
+  author    = {Shengqian Han and
+               Chenyang Yang and
+               Andreas F. Molisch},
+  title     = {Spectrum and Energy Efficient Cooperative Base Station Doze},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {285-296},
+}
+
+@article{DBLP:journals/jsac/HoltkampABH14,
+  author    = {Hauke Holtkamp and
+               Gunther Auer and
+               Samer Bazzi and
+               Harald Haas},
+  title     = {Minimizing Base Station Power Consumption},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {297-306},
+}
+
+@article{DBLP:journals/jsac/MacalusoOFSD14,
+  author    = {Irene Macaluso and
+               Baris Özgül and
+               Timothy K. Forde and
+               Paul D. Sutton and
+               Linda Doyle},
+  title     = {Spectrum and Energy Efficient Block Edge {Mask-Compliant} Waveforms for Dynamic Environments},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {307-321},
+}
+
+@article{DBLP:journals/jsac/XuZ14,
+  author    = {Jie Xu and
+               Rui Zhang},
+  title     = {Throughput Optimal Policies for Energy Harvesting Wireless Transmitters with {Non-Ideal} Circuit Power},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {322-332},
+}
+
+@article{DBLP:journals/jsac/Lopez-PerezCVC14,
+  author    = {David López-Pérez and
+               Xiaoli Chu and
+               Athanasios V. Vasilakos and
+               Holger Claussen},
+  title     = {Power Minimization Based Resource Allocation for Interference Mitigation in {OFDMA} Femtocell Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {333-344},
+}
+
+@article{DBLP:journals/jsac/CaiLLSMP14,
+  author    = {Lin X. Cai and
+               Yongkang Liu and
+               Tom H. Luan and
+               Xuemin (Sherman) Shen and
+               Jon W. Mark and
+               H. Vincent Poor},
+  title     = {Sustainability Analysis and Resource Management for Wireless Mesh Networks with Renewable Energy Supplies},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {345-355},
+}
+
+@article{DBLP:journals/jsac/WuWZ14,
+  author    = {Jingxian Wu and
+               Gang Wang and
+               Yahong Rosa Zheng},
+  title     = {Energy Efficiency and Spectral Efficiency Tradeoff in {Type-I} {ARQ} Systems},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {356-366},
+}
+
+@article{DBLP:journals/jsac/ZhuW14,
+  author    = {Huiling Zhu and
+               Jiangzhou Wang},
+  title     = {Performance Analysis of {Chunk-Based} Resource Allocation in {Multi-Cell} {OFDMA} Systems},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {367-375},
+}
+
+@article{DBLP:journals/jsac/SoltanmohammadiN14,
+  author    = {Erfan Soltanmohammadi and
+               Mort Naraghi-Pour},
+  title     = {Fast Detection of Malicious Behavior in Cooperative Spectrum Sensing},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {377-386},
+}
+
+@article{DBLP:journals/jsac/0001ZL14,
+  author    = {Yan Xin and
+               Honghai Zhang and
+               Lifeng Lai},
+  title     = {A {Low-Complexity} Sequential Spectrum Sensing Algorithm for Cognitive Radio},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {387-399},
+}
+
+@article{DBLP:journals/jsac/FanousSE14,
+  author    = {Anthony Fanous and
+               Yalin Evren Sagduyu and
+               Anthony Ephremides},
+  title     = {Reliable Spectrum Sensing and Opportunistic Access in {Network-Coded} Communications},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {400-410},
+}
+
+@article{DBLP:journals/jsac/GokceogluDVR14,
+  author    = {Ahmet Hasim Gokceoglu and
+               Sener Dikmese and
+               Mikko Valkama and
+               Markku Renfors},
+  title     = {Energy Detection under {IQ} Imbalance with Single- and {Multi-Channel} {Direct-Conversion} Receiver: Analysis and Mitigation},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {411-424},
+}
+
+@article{DBLP:journals/jsac/TourkiKQYA14,
+  author    = {Kamel Tourki and
+               Fahd Ahmed Khan and
+               Khalid A. Qaraqe and
+               Hong-Chuan Yang and
+               Mohamed-Slim Alouini},
+  title     = {Exact Performance Analysis of {MIMO} Cognitive Radio Systems Using Transmit Antenna Selection},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {425-438},
+}
+
+@article{DBLP:journals/jsac/GulerY14,
+  author    = {Basak Guler and
+               Aylin Yener},
+  title     = {Selective Interference Alignment for {MIMO} Cognitive Femtocell Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {439-450},
+}
+
+@article{DBLP:journals/jsac/GabryLSGRS14,
+  author    = {Frederic Gabry and
+               Nan Li and
+               Nicolas Schrammar and
+               Maksym A. Girnyk and
+               Lars K. Rasmussen and
+               Mikael Skoglund},
+  title     = {On the Optimization of the Secondary Transmitter's Strategy in Cognitive Radio Channels with Secrecy},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {451-463},
+}
+
+@article{DBLP:journals/jsac/ZameXS14,
+  author    = {William R. Zame and
+               Jie Xu and
+               Mihaela van der Schaar},
+  title     = {Cooperative {Multi-Agent} Learning and Coordination for Cognitive Radio Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {464-477},
+}
+
+@article{DBLP:journals/jsac/AlcarazLVG14,
+  author    = {Juan J. Alcaraz and
+               Mario Lopez-Martinez and
+               Javier Vales-Alonso and
+               Joan García-Haro},
+  title     = {Bandwidth Reservation as a Coexistence Strategy in Opportunistic Spectrum Access Environments},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {478-488},
+}
+
+@article{DBLP:journals/jsac/CaoCCGCS14,
+  author    = {Xianghui Cao and
+               Peng Cheng and
+               Jiming Chen and
+               Shuzhi Sam Ge and
+               Yu Cheng and
+               Youxian Sun},
+  title     = {Cognitive Radio Based State Estimation in {Cyber-Physical} Systems},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {489-502},
+}
+
+@article{DBLP:journals/jsac/LiuWC14,
+  author    = {Qiang Liu and
+               Xin Wang and
+               Yong Cui},
+  title     = {Robust and Adaptive Scheduling of Sequential Periodic Sensing for Cognitive Radios},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {503-515},
+}
+
+@article{DBLP:journals/jsac/ZhangCLZMS14,
+  author    = {Ning Zhang and
+               Nan Cheng and
+               Ning Lu and
+               Haibo Zhou and
+               Jon W. Mark and
+               Xuemin (Sherman) Shen},
+  title     = {{Risk-Aware} Cooperative Spectrum Access for {Multi-Channel} Cognitive Radio Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {516-527},
+}
+
+@article{DBLP:journals/jsac/ZhaiZT14,
+  author    = {Xiangping Zhai and
+               Liang Zheng and
+               Chee Wei Tan},
+  title     = {{Energy-Infeasibility} Tradeoff in Cognitive Radio Networks: {Price-Driven} Spectrum Access Algorithms},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {528-538},
+}
+
+@article{DBLP:journals/jsac/NohO14,
+  author    = {Jung-Hoon Noh and
+               Seong-Jun Oh},
+  title     = {Cognitive Radio Channel with Cooperative {Multi-Antenna} Secondary Systems},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {539-549},
+}
+
+@article{DBLP:journals/jsac/XiongLL14,
+  author    = {Cong Xiong and
+               Lu Lu and
+               Geoffrey Ye Li},
+  title     = {{Energy-Efficient} Spectrum Access in Cognitive Radios},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {550-562},
+}
+
+@article{DBLP:journals/jsac/McLeanSHFHMTTD14,
+  author    = {Ryan K. McLean and
+               Mark D. Silvius and
+               Kenneth M. Hopkinson and
+               Bridget N. Flatley and
+               Ethan S. Hennessey and
+               Curtis C. Medve and
+               Jared J. Thompson and
+               Matthew R. Tolson and
+               Clark V. Dalton},
+  title     = {An Architecture for Coexistence with Multiple Users in Frequency Hopping Cognitive Radio Networks},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {563-571},
+}
+
+@article{DBLP:journals/jsac/XiaoNHC14,
+  author    = {Yong Xiao and
+               Dusit Niyato and
+               Zhu Han and
+               Kwang-Cheng Chen},
+  title     = {Secondary Users Entering the Pool: A Joint Optimization Framework for Spectrum Pooling},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {572-588},
+}
+
+@article{DBLP:journals/jsac/SouthwellCH14,
+  author    = {Richard Southwell and
+               Xu Chen and
+               Jianwei Huang},
+  title     = {Quality of Service Games for Spectrum Sharing},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {589-600},
+}
+
+@article{DBLP:journals/jsac/Castellanos-LopezCRH14,
+  author    = {Sandra Lirio Castellanos-Lopez and
+               Felipe A. Cruz-Pérez and
+               Mario E. Rivero-Angeles and
+               Genaro Hernández-Valdez},
+  title     = {Joint Connection Level and Packet Level Analysis of Cognitive Radio Networks with {VoIP} Traffic},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {601-614},
+}
+
+@article{DBLP:journals/jsac/PanLSFLG14,
+  author    = {Miao Pan and
+               Pan Li and
+               Yang Song and
+               Yuguang Fang and
+               Phone Lin and
+               Savo Glisic},
+  title     = {When Spectrum Meets Clouds: Optimal Session Based Spectrum Trading under Spectrum Uncertainty},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {615-627},
+}
+
+@article{DBLP:journals/jsac/JeonCLE14,
+  author    = {Jeongho Jeon and
+               Marian Codreanu and
+               Matti Latva-aho and
+               Anthony Ephremides},
+  title     = {The Stability Property of Cognitive Radio Systems with Imperfect Sensing},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {628-640},
+}
+
+@article{DBLP:journals/jsac/MarquesDG14,
+  author    = {Antonio G. Marqués and
+               Emiliano Dall'Anese and
+               Georgios B. Giannakis},
+  title     = {{Cross-Layer} Optimization and Receiver Localization for Cognitive Networks Using Interference Tweets},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {641-653},
+}
+
+@article{DBLP:journals/jsac/ZhengT14,
+  author    = {Liang Zheng and
+               Chee Wei Tan},
+  title     = {Maximizing Sum Rates in Cognitive Radio Networks: Convex Relaxation and Global Optimization Algorithms},
+  journal   = ieeesac,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {667-680},
+}
+
 @article{DBLP:journals/jsac/ShenSSTYW13,
   author    = {Gangxiang Shen and
                Ken-ichi Sato and
@@ -1245,6 +1919,17 @@
   pages     = {678-690},
 }
 
+@article{DBLP:journals/jsac/JornetA13,
+  author    = {Josep Miquel Jornet and
+               Ian F. Akyildiz},
+  title     = {Graphene-based Plasmonic {Nano-Antenna} for Terahertz Band Communication in Nanonetworks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {685-694},
+}
+
 @article{DBLP:journals/jsac/Tyagi13,
   author    = {Himanshu Tyagi},
   title     = {Distributed Function Computation with Confidentiality},
@@ -1253,6 +1938,17 @@
   number    = {4},
   year      = 2013,
   pages     = {691-701},
+}
+
+@article{DBLP:journals/jsac/MesitiB13,
+  author    = {Fabio Mesiti and
+               Ilangko Balasingham},
+  title     = {{Nanomachine-to-Neuron} Communication Interfaces for Neuronal Stimulation at Nanoscale},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {695-704},
 }
 
 @article{DBLP:journals/jsac/KannanV13,
@@ -1264,6 +1960,17 @@
   number    = {4},
   year      = 2013,
   pages     = {702-713},
+}
+
+@article{DBLP:journals/jsac/KilincA13,
+  author    = {Deniz Kilinç and
+               Özgür B. Akan},
+  title     = {Receiver Design for Molecular Communication},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {705-714},
 }
 
 @article{DBLP:journals/jsac/ShahDM13,
@@ -1278,6 +1985,30 @@
   pages     = {714-730},
 }
 
+@article{DBLP:journals/jsac/KuscuA13,
+  author    = {Murat Kuscu and
+               Özgür B. Akan},
+  title     = {{Multi-Step} {FRET-Based} {Long-Range} Nanoscale Communication Channel},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {715-725},
+}
+
+@article{DBLP:journals/jsac/LlatserCPA13,
+  author    = {Ignacio Llatser and
+               Albert Cabellos-Aparicio and
+               Massimiliano Pierobon and
+               Eduard Alarcón},
+  title     = {Detection Techniques for Diffusion-based Molecular Communication},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {726-734},
+}
+
 @article{DBLP:journals/jsac/SappidiRG13,
   author    = {Rajasekhar Sappidi and
                Catherine Rosenberg and
@@ -1288,6 +2019,21 @@
   number    = {4},
   year      = 2013,
   pages     = {731-742},
+}
+
+@article{DBLP:journals/jsac/KimLJKPP13,
+  author    = {Young-Min Kim and
+               Eun-Jung Lee and
+               Boo-Geum Jung and
+               Hak-Suh Kim and
+               Hea-Sook Park and
+               Hong-Shik Park},
+  title     = {Swarm Intelligence Based Self-organizing {QoS} Framework for Ever-changing Future Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {735-749},
 }
 
 @article{DBLP:journals/jsac/LuWFTB13,
@@ -1304,6 +2050,21 @@
   pages     = {743-755},
 }
 
+@article{DBLP:journals/jsac/YangYMZLL13,
+  author    = {Shusen Yang and
+               Xinyu Yang and
+               Julie A. McCann and
+               Tong Zhang and
+               Guozheng Liu and
+               Zheng Liu},
+  title     = {Distributed Networking in Autonomic Solar Powered Wireless Sensor Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {750-761},
+}
+
 @article{DBLP:journals/jsac/KanoriaT13,
   author    = {Yashodhan Kanoria and
                Omer Tamuz},
@@ -1313,6 +2074,20 @@
   number    = {4},
   year      = 2013,
   pages     = {756-765},
+}
+
+@article{DBLP:journals/jsac/ZhangZZBH13,
+  author    = {Qi Zhang and
+               Quanyan Zhu and
+               Mohamed Faten Zhani and
+               Raouf Boutaba and
+               Joseph L. Hellerstein},
+  title     = {Dynamic Service Placement in Geographically Distributed Clouds},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {762-772},
 }
 
 @article{DBLP:journals/jsac/LeBlancZKS13,
@@ -1328,6 +2103,38 @@
   pages     = {766-781},
 }
 
+@article{DBLP:journals/jsac/LinCH13,
+  author    = {Chun-Ting Lin and
+               Wei-Erh Chen and
+               Hou-Tzu Huang},
+  title     = {Simple 60-{GHz} {Radio-over-Fiber} System with Transmission Distance Improvement Employing {Signal-to-Signal} Beat Noise Compensation},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {773-779},
+}
+
+@article{DBLP:journals/jsac/HoJSLLWYLWCN13,
+  author    = {Chun-Hung Ho and
+               Wen-Jr Jiang and
+               Rakesh Sambaraju and
+               Wei-Yuan Lee and
+               Tsung-Hung Lu and
+               Chih-Yun Wang and
+               Hejie Yang and
+               Chun-Ting Lin and
+               Chia-Chien Wei and
+               Sien Chi and
+               Anthony Ngoma},
+  title     = {Performance Evaluation of a 60 {GHz} {Radio-over-Fiber} System Employing {MIMO} and {OFDM} Modulation},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {780-787},
+}
+
 @article{DBLP:journals/jsac/SasabeT13,
   author    = {Masahiro Sasabe and
                Tetsuya Takine},
@@ -1337,6 +2144,18 @@
   number    = {4},
   year      = 2013,
   pages     = {782-793},
+}
+
+@article{DBLP:journals/jsac/DaiXW13,
+  author    = {Linglong Dai and
+               Zhengyuan Xu and
+               Zhaocheng Wang},
+  title     = {Flexible {Multi-Block} {OFDM} Transmission for {High-Speed} {Fiber-Wireless} Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {788-796},
 }
 
 @article{DBLP:journals/jsac/PajicMPS13,
@@ -1350,6 +2169,36 @@
   number    = {4},
   year      = 2013,
   pages     = {794-807},
+}
+
+@article{DBLP:journals/jsac/YuGYJW13,
+  author    = {Song Yu and
+               Wanyi Gu and
+               Aiying Yang and
+               Tao Jiang and
+               Chonggang Wang},
+  title     = {A Frequency Quadrupling Optical {mm-Wave} Generation for Hybrid {Fiber-Wireless} Systems},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {797-803},
+}
+
+@article{DBLP:journals/jsac/CaoYLCSTC13,
+  author    = {Zizheng Cao and
+               Jianjun Yu and
+               Fan Li and
+               Long Chen and
+               Qinglong Shu and
+               Qi Tang and
+               Lin Chen},
+  title     = {Energy Efficient and Transparent Platform for Optical Wireless Networks Based on Reverse Modulation},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {804-814},
 }
 
 @article{DBLP:journals/jsac/WeiHBGJKT13,
@@ -1368,6 +2217,17 @@
   pages     = {808-818},
 }
 
+@article{DBLP:journals/jsac/BushG13,
+  author    = {Stephen F. Bush and
+               Sanjay Goel},
+  title     = {Persistence Length as a Metric for Modeling and Simulation of Nanoscale Communication Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {815-824},
+}
+
 @article{DBLP:journals/jsac/YangYJWLD13,
   author    = {Yang Yang and
                Xiaohu You and
@@ -1383,6 +2243,20 @@
   pages     = {825-828},
 }
 
+@article{DBLP:journals/jsac/SardinhaCNVV13,
+  author    = {Luiz H. B. Sardinha and
+               Artur Melo Mota Costa and
+               Omar P. Vilela Neto and
+               Luiz Filipe M. Vieira and
+               Marcos Augusto M. Vieira},
+  title     = {NanoRouter: A Quantum-dot Cellular Automata Design},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {825-834},
+}
+
 @article{DBLP:journals/jsac/NiC13,
   author    = {Wei Ni and
                Iain B. Collings},
@@ -1392,6 +2266,18 @@
   number    = {5},
   year      = 2013,
   pages     = {829-839},
+}
+
+@article{DBLP:journals/jsac/NakanoOV13,
+  author    = {Tadashi Nakano and
+               Yutaka Okaie and
+               Athanasios V. Vasilakos},
+  title     = {Transmission Rate Control for Molecular Communication among Biological Nanomachines},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {835-846},
 }
 
 @article{DBLP:journals/jsac/SohQKS13,
@@ -1407,6 +2293,17 @@
   pages     = {840-850},
 }
 
+@article{DBLP:journals/jsac/KimC13a,
+  author    = {Na-Rae Kim and
+               Chan-Byoung Chae},
+  title     = {Novel Modulation Techniques using Isomers as Messenger Molecules for Nano Communication Networks via Diffusion},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {847-856},
+}
+
 @article{DBLP:journals/jsac/GuoO13,
   author    = {Weisi Guo and
                Timothy O'Farrell},
@@ -1416,6 +2313,19 @@
   number    = {5},
   year      = 2013,
   pages     = {851-860},
+}
+
+@article{DBLP:journals/jsac/ShihLYC13,
+  author    = {Po-Jen Shih and
+               Chia-Han Lee and
+               Ping-Cheng Yeh and
+               Kwang-Cheng Chen},
+  title     = {Channel Codes for Reliability Enhancement in Molecular Communication},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {857-867},
 }
 
 @article{DBLP:journals/jsac/TaoXRXL13,
@@ -1432,6 +2342,18 @@
   pages     = {861-869},
 }
 
+@article{DBLP:journals/jsac/WeiBM13,
+  author    = {Guopeng Wei and
+               Paul Bogdan and
+               Radu Marculescu},
+  title     = {Efficient Modeling and Simulation of {Bacteria-Based} Nanonetworks with {BNSim}},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {868-878},
+}
+
 @article{DBLP:journals/jsac/ChoC13,
   author    = {Sungrae Cho and
                Wan Choi},
@@ -1441,6 +2363,18 @@
   number    = {5},
   year      = 2013,
   pages     = {870-882},
+}
+
+@article{DBLP:journals/jsac/WeiBM13a,
+  author    = {Guopeng Wei and
+               Paul Bogdan and
+               Radu Marculescu},
+  title     = {Bumpy Rides: Modeling the Dynamics of Chemotactic Interacting Bacteria},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12-Supplement},
+  year      = 2013,
+  pages     = {879-890},
 }
 
 @article{DBLP:journals/jsac/YuePFG13,
@@ -3226,6 +4160,173 @@
   number    = {11},
   year      = 2013,
   pages     = {2580-2591},
+}
+
+@article{DBLP:journals/jsac/WeiMNNTW13,
+  author    = {David S. L. Wei and
+               Sarit Mukherjee and
+               Kshirasagar Naik and
+               Amiya Nayak and
+               Yu-Chee Tseng and
+               Li-Chun Wang},
+  title     = {Guest Editorial: Networking Challenges in Cloud Computing Systems and Applications},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2593-2595},
+}
+
+@article{DBLP:journals/jsac/GuanDTL13,
+  author    = {Haibing Guan and
+               Yaozu Dong and
+               Kun Tian and
+               Jian Li},
+  title     = {{SR-IOV} Based Network {Interrupt-Free} Virtualization with Event Based Polling},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2596-2609},
+}
+
+@article{DBLP:journals/jsac/XuTKZX13,
+  author    = {Jielong Xu and
+               Jian Tang and
+               Kevin Kwiat and
+               Weiyi Zhang and
+               Guoliang Xue},
+  title     = {Enhancing Survivability in Virtualized Data Centers: A {Service-Aware} Approach},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2610-2619},
+}
+
+@article{DBLP:journals/jsac/WuZSJW13,
+  author    = {Zhenyu Wu and
+               Yueping Zhang and
+               Vishal K. Singh and
+               Guofei Jiang and
+               Haining Wang},
+  title     = {Automating Cloud Network Optimization and Evolution},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2620-2631},
+}
+
+@article{DBLP:journals/jsac/CaoGLXZZZCT13,
+  author    = {Jiaxin Cao and
+               Chuanxiong Guo and
+               Guohan Lu and
+               Yongqiang Xiong and
+               Yixin Zheng and
+               Yongguang Zhang and
+               Yibo Zhu and
+               Chen Chen and
+               Ye Tian},
+  title     = {Datacast: A Scalable and Efficient Reliable Group Data Delivery Service for Data Centers},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2632-2645},
+}
+
+@article{DBLP:journals/jsac/JiaW13,
+  author    = {Wen-Kang Jia and
+               Li-Chun Wang},
+  title     = {A Unified Unicast and Multicast Routing and Forwarding Algorithm for {Software-Defined} Datacenter Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2646-2657},
+}
+
+@article{DBLP:journals/jsac/CuiXLSL13,
+  author    = {Yong Cui and
+               Shihan Xiao and
+               Chunpeng Liao and
+               Ivan Stojmenovic and
+               Minming Li},
+  title     = {Data Centers as Software Defined Networks: Traffic Redundancy Elimination with Wireless Cards at Routers},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2658-2672},
+}
+
+@article{DBLP:journals/jsac/GhoshHCR13,
+  author    = {Amitabha Ghosh and
+               Sangtae Ha and
+               Edward Crabbe and
+               Jennifer Rexford},
+  title     = {Scalable {Multi-Class} Traffic Management in Data Center Backbone Networks},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2673-2684},
+}
+
+@article{DBLP:journals/jsac/KaewpuangNWH13,
+  author    = {Rakpong Kaewpuang and
+               Dusit Niyato and
+               Ping Wang and
+               Ekram Hossain},
+  title     = {A Framework for Cooperative Resource Management in Mobile Cloud Computing},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2685-2700},
+}
+
+@article{DBLP:journals/jsac/ErnvallRHP13,
+  author    = {Toni Ernvall and
+               Salim El Rouayheb and
+               Camilla Hollanti and
+               H. Vincent Poor},
+  title     = {Capacity and Security of Heterogeneous Distributed Storage Systems},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2701-2709},
+}
+
+@article{DBLP:journals/jsac/ZhangWLGCL13,
+  author    = {Linquan Zhang and
+               Chuan Wu and
+               Zongpeng Li and
+               Chuanxiong Guo and
+               Minghua Chen and
+               Francis C. M. Lau},
+  title     = {Moving Big Data to The Cloud: An Online {Cost-Minimizing} Approach},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2710-2721},
+}
+
+@article{DBLP:journals/jsac/HajjatNMRS13,
+  author    = {Mohammad Y. Hajjat and
+               Shankaranarayanan P. N. and
+               David A. Maltz and
+               Sanjay G. Rao and
+               Kunwadee Sripanidkulchai},
+  title     = {Dynamic Request Splitting for Interactive Cloud Applications},
+  journal   = ieeesac,
+  volume    = {31},
+  number    = {12},
+  year      = 2013,
+  pages     = {2722-2737},
 }
 
 @article{DBLP:journals/jsac/AttarBDPZ12,
@@ -11549,7 +12650,7 @@
 }
 
 @article{DBLP:journals/jsac/NakhkoobBYH09,
-  author    = {B. Nakhkoob and
+  author    = {Behrooz Nakhkoob and
                Mehmet Bilgi and
                Murat Yuksel and
                M. Hella},
@@ -16929,7 +18030,7 @@
 
 @article{DBLP:journals/jsac/SunMD06,
   author    = {Haitong Sun and
-               J. H. Manton and
+               Jonathan H. Manton and
                Zhi Ding},
   title     = {Progressive linear precoder optimization for {MIMO} packet retransmissions},
   journal   = ieeesac,
@@ -17288,7 +18389,7 @@
 }
 
 @article{DBLP:journals/jsac/DangTVL06,
-  author    = {Q. H. Dang and
+  author    = {Quang Hieu Dang and
                Antonio Trindade and
                Alle-Jan van der Veen and
                Geert Leus},
@@ -18790,7 +19891,7 @@
 @article{DBLP:journals/jsac/LiuHYT06,
   author    = {Yajian Liu and
                Reza Hoshyar and
-               X. Yang and
+               Xinjie Yang and
                Rahim Tafazolli},
   title     = {Integrated Radio Resource Allocation for Multihop Cellular Networks With Fixed Relay Stations},
   journal   = ieeesac,
@@ -23835,8 +24936,8 @@
                Markus Rupp and
                Dragan Samardzija and
                Arnold B. Siegel and
-               Tod Sizer II and
-               C. Tran and
+               Tod Sizer and
+               Cuong Tran and
                Susan Walker and
                Stephen A. Wilkus and
                Peter W. Wolniansky},
@@ -25203,7 +26304,7 @@
   author    = {Xiaoan Lu and
                Elza Erkip and
                Yao Wang and
-               D. J. Goodman},
+               David J. Goodman},
   title     = {Power efficient multimedia communication over wireless channels},
   journal   = ieeesac,
   volume    = {21},
@@ -25890,7 +26991,7 @@
                Theodore Sizer and
                R. H. Storz and
                D. Taylor and
-               W. M. MacDonald and
+               William M. MacDonald and
                Cuong Tran and
                Andrew Adamiecki},
   title     = {Outdoor {BLAST} measurement system at 2.44 GHz: calibration and initial results},
@@ -26566,7 +27667,7 @@
 }
 
 @article{DBLP:journals/jsac/KermoalSPMF02,
-  author    = {Jean-Philip Kermoal and
+  author    = {Jean-Philippe Kermoal and
                Laurent Schumacher and
                Klaus I. Pedersen and
                Preben E. Mogensen and
@@ -28327,7 +29428,7 @@
 }
 
 @article{DBLP:journals/jsac/LanAS01,
-  author    = {Wing C. Lan and
+  author    = {Wing C. Lau and
                Mohamed-Slim Alouini and
                Marvin K. Simon},
   title     = {Optimum spreading bandwidth for selective {RAKE} reception over Rayleigh fading channels},
@@ -30380,7 +31481,7 @@
 
 @article{DBLP:journals/jsac/StubblebineM00,
   author    = {Stuart G. Stubblebine and
-               Catherine A. Meadows},
+               Catherine Meadows},
   title     = {Formal characterization and automated analysis of known-pair and chosen-text attacks},
   journal   = ieeesac,
   volume    = {18},
@@ -31643,7 +32744,7 @@
 }
 
 @article{DBLP:journals/jsac/AliD00,
-  author    = {M. Ali and
+  author    = {Maher Ali and
                Jitender S. Deogun},
   title     = {Power-efficient design of multicast wavelength-routed networks},
   journal   = ieeesac,
@@ -35029,7 +36130,7 @@
 
 @article{DBLP:journals/jsac/SwansonZT98,
   author    = {Mitchell D. Swanson and
-               Bin Zhu and
+               Bin B. Zhu and
                Ahmed H. Tewfik},
   title     = {Multiresolution scene-based video watermarking using perceptual models},
   journal   = ieeesac,
@@ -35373,7 +36474,7 @@
 
 @article{DBLP:journals/jsac/MikkonenAALH98,
   author    = {Jouni Mikkonen and
-               James Aldis and
+               James P. Aldis and
                Geert A. Awater and
                Andrew Lunn and
                David Hutchison},
@@ -50796,4 +51897,3626 @@
   number    = {9},
   year      = 1990,
   pages     = {1763-1770},
+}
+
+@article{DBLP:journals/jsac/Harley89,
+  author    = {Philip Harley},
+  title     = {Short distance attenuation measurements at 900 {MHz} and 1.8 {GHz} using low antenna heights for microcells},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {5-11},
+}
+
+@article{DBLP:journals/jsac/HatzinakosN89,
+  author    = {Dimitrios Hatzinakos and
+               Chrysostomos L. Nikias},
+  title     = {Estimation of multipath channel response in frequency selective channels},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {12-19},
+}
+
+@article{DBLP:journals/jsac/BultitudeMS89,
+  author    = {Robert J. C. Bultitude and
+               Samy A. Mahmoud and
+               William A. Sullivan},
+  title     = {A comparison of indoor radio propagation characteristics at 910 {MHz} and 1.75 {GHz}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {20-30},
+}
+
+@article{DBLP:journals/jsac/BultitudeB89,
+  author    = {Robert J. C. Bultitude and
+               G. Keith Bedal},
+  title     = {Propagation characteristics on microcellular urban mobile radio channels at 910 {MHz}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {31-39},
+}
+
+@article{DBLP:journals/jsac/RappaportM89,
+  author    = {Theodore S. Rappaport and
+               Clare D. McGillem},
+  title     = {{UHF} fading in factories},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {40-48},
+}
+
+@article{DBLP:journals/jsac/Bernhardt89,
+  author    = {Richard C. Bernhardt},
+  title     = {User access in portable radio systems in a co-channel interference environment},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {49-58},
+}
+
+@article{DBLP:journals/jsac/SalehC89,
+  author    = {Adel A. M. Saleh and
+               Leonard J. Cimini Jr.},
+  title     = {Indoor radio communications using time-division multiple access with cyclical slow frequency hopping and coding},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {59-70},
+}
+
+@article{DBLP:journals/jsac/El-DolilWS89,
+  author    = {Sami A. El-Dolil and
+               Wai-Choong Wong and
+               Raymond Steele},
+  title     = {Teletraffic performance of highway microcells with overlay macrocell},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {71-78},
+}
+
+@article{DBLP:journals/jsac/HabbabKS89,
+  author    = {Isam M. I. Habbab and
+               Mohsen Kavehrad and
+               Carl-Erik W. Sundberg},
+  title     = {{ALOHA} with capture over slow and fast fading radio channels with coding and diversity},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {79-88},
+}
+
+@article{DBLP:journals/jsac/ChangC89,
+  author    = {Li-Fung Chang and
+               Justin C.-I. Chuang},
+  title     = {Diversity selection using coding in a portable radio communications channel with frequency-selective fading},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {89-98},
+}
+
+@article{DBLP:journals/jsac/Kaleh89,
+  author    = {Ghassan Kawas Kaleh},
+  title     = {A differentially coherent receiver for minimum shift keying signal},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {99-106},
+}
+
+@article{DBLP:journals/jsac/Matsumoto89,
+  author    = {Tadashi Matsumoto},
+  title     = {Soft decision decoding of block codes using received signal envelope in digital mobile radio},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {107-113},
+}
+
+@article{DBLP:journals/jsac/SextonP89,
+  author    = {Thomas A. Sexton and
+               Kaveh Pahlavan},
+  title     = {Channel modeling and adaptive equalization of indoor radio channels},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {114-121},
+}
+
+@article{DBLP:journals/jsac/DAvellaMS89,
+  author    = {Renato D'Avella and
+               Luigi Moreno and
+               Marcello Sant'Agostino},
+  title     = {An adaptive {MLSE} receiver for {TDMA} digital mobile radio},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {122-129},
+}
+
+@article{DBLP:journals/jsac/SaitoS89,
+  author    = {Shigeki Saito and
+               Hiroshi Suzuki},
+  title     = {Fast carrier-tracking coherent detection with dual-mode carrier recovery circuit for digital land mobile radio transmission},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {130-139},
+}
+
+@article{DBLP:journals/jsac/SolaimanGH89,
+  author    = {Bassel Solaiman and
+               Alain Glavieux and
+               Alain Hillion},
+  title     = {Equal gain diversity improvement in fast frequency hopping spread spectrum multiple-access (FFH-SSMA) communications over Rayleigh fading channels},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {140-147},
+}
+
+@article{DBLP:journals/jsac/GluckG89,
+  author    = {Jeffrey W. Gluck and
+               Evaggelos Geraniotis},
+  title     = {Throughput and packet error probability of cellular frequency-hopped spread-spectrum radio networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {148-160},
+}
+
+@article{DBLP:journals/jsac/AbdelmonemS89,
+  author    = {Ahmed H. Abdelmonem and
+               Tarek N. Saadawi},
+  title     = {Performance analysis of spread spectrum packet radio network with channel load sensing},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {161-166},
+}
+
+@article{DBLP:journals/jsac/Giubilei89,
+  author    = {R. Giubilei},
+  title     = {Comments on `Semianalytic {BER} evaluation by simulation for noisy nonlinear bandpass channels'},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {167-169},
+}
+
+@article{DBLP:journals/jsac/OnungaD89,
+  author    = {John O. Onunga and
+               Robert W. Donaldson},
+  title     = {Personal computer communications on intrabuilding power line {LAN's} using {CSMA} with priority acknowledgements},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {180-191},
+}
+
+@article{DBLP:journals/jsac/VuongM89,
+  author    = {Son T. Vuong and
+               A. H. T. Ma},
+  title     = {A low-cost and portable local area network for interconnecting {PC's} using electric power lines},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {192-201},
+}
+
+@article{DBLP:journals/jsac/ChenL89,
+  author    = {Jason S. J. Chen and
+               Victor O. K. Li},
+  title     = {Reservation CSMA/CD: a multiple access protocol for {LAN's}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {202-210},
+}
+
+@article{DBLP:journals/jsac/FriedmanZ89,
+  author    = {Eluzor Friedman and
+               Chaim Ziegler},
+  title     = {Packet voice communications over {PC-based} local area networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {211-218},
+}
+
+@article{DBLP:journals/jsac/AicardiDG89,
+  author    = {Michele Aicardi and
+               Franco Davoli and
+               Alberto Giordano},
+  title     = {Radio {ISA} Net: a single-hop centralized packet radio network for {PC-to-mainframe} interconnection},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {219-225},
+}
+
+@article{DBLP:journals/jsac/DiersingW89,
+  author    = {Robert J. Diersing and
+               Jeffrey W. Ward},
+  title     = {Packet radio in the Amateur Satellite Service},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {226-234},
+}
+
+@article{DBLP:journals/jsac/Ha89,
+  author    = {Tri T. Ha},
+  title     = {Personal computer communications via {VSAT} networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {235-245},
+}
+
+@article{DBLP:journals/jsac/Copeland89,
+  author    = {John A. Copeland},
+  title     = {Data compression technique for {PC} communications},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {246-248},
+}
+
+@article{DBLP:journals/jsac/ColeB89,
+  author    = {Robert Cole and
+               John Burns},
+  title     = {An architecture for a mobile {OSI} mail access system},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {249-256},
+}
+
+@article{DBLP:journals/jsac/ArnbakBV89,
+  author    = {Jens C. Arnbak and
+               Jan H. Bons and
+               J. W. Vieven},
+  title     = {Graphical correspondence in electronic-mail networks using personal computers},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {257-267},
+}
+
+@article{DBLP:journals/jsac/HauserFGT89,
+  author    = {Susan E. Hauser and
+               Marc I. Felsen and
+               Michael J. Gill and
+               George R. Thoma},
+  title     = {Networking {AT-class} computers for image distribution},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {268-275},
+}
+
+@article{DBLP:journals/jsac/HayashiM89,
+  author    = {Katsuhiko Hayashi and
+               Chiaki Motegi},
+  title     = {Personal computer image communications using facsimile},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {276-282},
+}
+
+@article{DBLP:journals/jsac/BlumbergW89,
+  author    = {Robert E. Blumberg and
+               David H. Walters},
+  title     = {A {PC-based} multimedia document manager},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {283-289},
+}
+
+@article{DBLP:journals/jsac/OkamotoT89,
+  author    = {Eiji Okamoto and
+               Kazue Tanaka},
+  title     = {Identity-based information security management system for personal computer networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {290-294},
+}
+
+@article{DBLP:journals/jsac/Willems89,
+  author    = {Mark H. G. Willems},
+  title     = {Design of a {PC} interface card for office communications using the {ISDN} basic access},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {295-302},
+}
+
+@article{DBLP:journals/jsac/FeldermanSK89,
+  author    = {Robert E. Felderman and
+               Eve M. Schooler and
+               Leonard Kleinrock},
+  title     = {The Benevolent Bandit Laboratory: a testbed for distributed algorithms},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {303-311},
+}
+
+@article{DBLP:journals/jsac/Burger89,
+  author    = {W. Burger},
+  title     = {Networking of secure systems},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {312-318},
+}
+
+@article{DBLP:journals/jsac/FriederH89,
+  author    = {Ophir Frieder and
+               Gary E. Herman},
+  title     = {Protocol verification using database technology},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {324-334},
+}
+
+@article{DBLP:journals/jsac/Topkis89,
+  author    = {Donald M. Topkis},
+  title     = {Performance analysis of information dissemination by flooding},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {335-340},
+}
+
+@article{DBLP:journals/jsac/LilienC89,
+  author    = {Leszek Lilien and
+               Thai M. Chung},
+  title     = {Pessimistic quasipartitioning protocols for distributed database systems},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {341-353},
+}
+
+@article{DBLP:journals/jsac/RenTH89,
+  author    = {Jing-Fei Ren and
+               Yutaka Takahashi and
+               Toshiharu Hasegawa},
+  title     = {An analysis of the effect of multiversions on the performance of timestamp algorithms},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {354-363},
+}
+
+@article{DBLP:journals/jsac/PonsV89,
+  author    = {Jean-François Pons and
+               Jean-François Vilarem},
+  title     = {A dynamic and integrated concurrency control for distributed databases},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {364-374},
+}
+
+@article{DBLP:journals/jsac/GhafoorB89,
+  author    = {Arif Ghafoor and
+               P. Bruce Berra},
+  title     = {An efficient communication structure for distributed commit protocols},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {375-389},
+}
+
+@article{DBLP:journals/jsac/ChenBTY89,
+  author    = {Arbee L. P. Chen and
+               David Brill and
+               Marjorie Templeton and
+               Clement T. Yu},
+  title     = {Distributed query processing a multiple database system},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {390-398},
+}
+
+@article{DBLP:journals/jsac/GuhY89,
+  author    = {Keh-Chang Guh and
+               Clement T. Yu},
+  title     = {Evaluation of transitive closure in distributed database systems},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {399-407},
+}
+
+@article{DBLP:journals/jsac/WhangB89,
+  author    = {Kyu-Young Whang and
+               Stephen Brady},
+  title     = {High-performance expert {system-DBMS} interface for network management and control},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {408-417},
+}
+
+@article{DBLP:journals/jsac/MurakamiK89,
+  author    = {Koso Murakami and
+               Masafumi Katoh},
+  title     = {Control architecture for next-generation communication networks based on distributed databases},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {418-423},
+}
+
+@article{DBLP:journals/jsac/GburzynskiR89,
+  author    = {Pawel Gburzynski and
+               Piotr Rudnicki},
+  title     = {A note on the performance of {ENET} {II}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {424-427},
+}
+
+@article{DBLP:journals/jsac/Molloy89,
+  author    = {Michael K. Molloy},
+  title     = {Comments on `A note on the performance of {ENET} II' by P. Gburzynski and P. Rudnicki},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {427-430},
+}
+
+@article{DBLP:journals/jsac/Simmons89,
+  author    = {Gustavus J. Simmons},
+  title     = {A protocol to provide verifiable proof of identity and unforgeable transaction receipts},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {435-447},
+}
+
+@article{DBLP:journals/jsac/Kemmerer89,
+  author    = {Richard A. Kemmerer},
+  title     = {Analyzing encryption protocols using formal verification techniques},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {448-457},
+}
+
+@article{DBLP:journals/jsac/BethG89,
+  author    = {Thomas Beth and
+               Dieter Gollmann},
+  title     = {Algorithm engineering for public key algorithms},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {458-466},
+}
+
+@article{DBLP:journals/jsac/TsujiiI89,
+  author    = {Shigeo Tsujii and
+               Toshiya Itoh},
+  title     = {An {ID-based} cryptosystem based on the discrete logarithm problem},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {467-473},
+}
+
+@article{DBLP:journals/jsac/ReFM89,
+  author    = {Enrico Del Re and
+               Romano Fantacci and
+               Damiano F. Maffucci},
+  title     = {A new speech signal scrambling method for secure communications: theory, implementation, and security evaluation},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {474-480},
+}
+
+@article{DBLP:journals/jsac/OkamotoT89a,
+  author    = {Eiji Okamoto and
+               Kazue Tanaka},
+  title     = {Key distribution system based on identification information},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {481-485},
+}
+
+@article{DBLP:journals/jsac/EstrinMT89,
+  author    = {Deborah Estrin and
+               Jeffrey C. Mogul and
+               Gene Tsudik},
+  title     = {Visa protocols for controlling interorganizational datagram flow},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {486-498},
+}
+
+@article{DBLP:journals/jsac/Tsudik89,
+  author    = {Gene Tsudik},
+  title     = {Datagram authentication in internet gateways: implications of fragmentation and dynamic routing},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {499-504},
+}
+
+@article{DBLP:journals/jsac/NakaoS89,
+  author    = {Koji Nakao and
+               Kenji Suzuki},
+  title     = {Proposal on a secure communications service element (SCSE) in the {OSI} application layer},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {505-516},
+}
+
+@article{DBLP:journals/jsac/MitchellWR89,
+  author    = {Christopher Mitchell and
+               Michael Walker and
+               David Rush},
+  title     = {CCITT/{ISO} standards for secure message handling},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {517-524},
+}
+
+@article{DBLP:journals/jsac/GollmannC89,
+  author    = {Dieter Gollmann and
+               William G. Chambers},
+  title     = {Clock-controlled shift registers: a review},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {525-533},
+}
+
+@article{DBLP:journals/jsac/LaihLHS89,
+  author    = {Chi-Sung Laih and
+               Jau-Yien Lee and
+               Lein Harn and
+               Yan-Kuin Su},
+  title     = {Linearly shift knapsack public-key cryptosystem},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {534-539},
+}
+
+@article{DBLP:journals/jsac/MatsunagaKO89,
+  author    = {Akira Matsunaga and
+               Keiichiro Koga and
+               Michihisa Ohkawa},
+  title     = {An analog speech scrambling system using the {FFT} technique with high-level security},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {540-547},
+}
+
+@article{DBLP:journals/jsac/SuM89,
+  author    = {Chun-Meng Su and
+               Laurence B. Milstein},
+  title     = {Channel equalization and performance analysis of a coherent frequency hopped spread spectrum system},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {548-560},
+}
+
+@article{DBLP:journals/jsac/VojcicP89,
+  author    = {Branimir R. Vojcic and
+               Raymond L. Pickholtz},
+  title     = {Performance of direct sequence spread spectrum in a fading dispersive channel with jamming},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {561-568},
+}
+
+@article{DBLP:journals/jsac/Torrieri89,
+  author    = {Don J. Torrieri},
+  title     = {Fundamental limitations on repeater jamming of frequency-hopping communications},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {569-575},
+}
+
+@article{DBLP:journals/jsac/DavidoviciK89,
+  author    = {Sorin Davidovici and
+               Emmanuel G. Kanterakis},
+  title     = {Radiometric detection of direct-sequence spread-spectrum signals using interference excision},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {576-589},
+}
+
+@article{DBLP:journals/jsac/Khasnabish89,
+  author    = {Bhumip Khasnabish},
+  title     = {A bound of deception capability in multiuser computer networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {590-594},
+}
+
+@article{DBLP:journals/jsac/ReedW89,
+  author    = {David E. Reed and
+               Mark A. Wickert},
+  title     = {Spread spectrum signals with low probability of chip rate detection},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {595-601},
+}
+
+@article{DBLP:journals/jsac/SnellingG89,
+  author    = {William E. Snelling and
+               Evaggelos Geraniotis},
+  title     = {Sequential detection of unknown frequency-hopped waveforms},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {602-617},
+}
+
+@article{DBLP:journals/jsac/LiM89,
+  author    = {Kwok H. Li and
+               Laurence B. Milstein},
+  title     = {On the optimum processing gain of a block-coded direct-sequence spread-spectrum system},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {618-626},
+}
+
+@article{DBLP:journals/jsac/ChenWM89,
+  author    = {Thomas M. Chen and
+               Jean C. Walrand and
+               David G. Messerschmitt},
+  title     = {Dynamic priority protocols for packet voice},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {632-643},
+}
+
+@article{DBLP:journals/jsac/PetrDF89,
+  author    = {David W. Petr and
+               Luiz A. DaSilva and
+               Victor S. Frost},
+  title     = {Priority discarding of speech in integrated packet networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {644-656},
+}
+
+@article{DBLP:journals/jsac/GonsalvesT89,
+  author    = {Timothy A. Gonsalves and
+               Fouad A. Tobagi},
+  title     = {Comparative performance of voice/data local area networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {657-669},
+}
+
+@article{DBLP:journals/jsac/WongY89,
+  author    = {Po-choi Wong and
+               T.-S. P. Yun},
+  title     = {An integrated services token-controlled ring network},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {670-679},
+}
+
+@article{DBLP:journals/jsac/ToddL89,
+  author    = {Terence D. Todd and
+               Peter A. Lopinski},
+  title     = {A compatible fixed-frame {ISDN} gateway for broadband metropolitan area networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {680-689},
+}
+
+@article{DBLP:journals/jsac/Miller89,
+  author    = {Michael J. Miller},
+  title     = {Error control techniques for integrated services packet networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {690-697},
+}
+
+@article{DBLP:journals/jsac/ZieglerWF89,
+  author    = {Chaim Ziegler and
+               Gerald Weiss and
+               Eluzor Friedman},
+  title     = {Implementation mechanisms for packet switched voice conferencing},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {698-706},
+}
+
+@article{DBLP:journals/jsac/SuzukiT89,
+  author    = {Junji Suzuki and
+               Masahiro Taka},
+  title     = {Missing packet recovery techniques for low-bit-rate coded speech},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {707-717},
+}
+
+@article{DBLP:journals/jsac/DravidaS89,
+  author    = {Subrahmanyam Dravida and
+               Kotikalapudi Sriram},
+  title     = {End-to-end performance models for variable bit rate voice over tandem links in packet networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {718-728},
+}
+
+@article{DBLP:journals/jsac/YuanS89,
+  author    = {Chin Yuan and
+               John A. Silvester},
+  title     = {Queueing analysis of delay constrained voice traffic in a packet switching system},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {729-738},
+}
+
+@article{DBLP:journals/jsac/KarlssonV89,
+  author    = {Gunnar Karlsson and
+               Martin Vetterli},
+  title     = {Packet video and its integration into the network architecture},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {739-751},
+}
+
+@article{DBLP:journals/jsac/NomuraFO89,
+  author    = {Mitsuru Nomura and
+               Tetsuro Fujii and
+               Naohisa Ohta},
+  title     = {Basic characteristics of variable rate video coding in {ATM} environment},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {752-760},
+}
+
+@article{DBLP:journals/jsac/VerbiestP89,
+  author    = {Willem Verbiest and
+               Luc Pinnoo},
+  title     = {A variable bit rate video codec for asynchronous transfer mode networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {761-770},
+}
+
+@article{DBLP:journals/jsac/Ghanbari89,
+  author    = {Mohammed Ghanbari},
+  title     = {Two-layer coding of video signals for {VBR} networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {771-781},
+}
+
+@article{DBLP:journals/jsac/ShimizuMT89,
+  author    = {Hiroshi Shimizu and
+               Mitsuru Mera and
+               Hideaki Tani},
+  title     = {Packet communication protocol for image services on a high-speed multimedia {LAN}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {782-788},
+}
+
+@article{DBLP:journals/jsac/DarraghB89,
+  author    = {John C. Darragh and
+               Richard L. Baker},
+  title     = {Fixed distortion subband coding of images for packet-switched networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {789-800},
+}
+
+@article{DBLP:journals/jsac/KishinoMHY89,
+  author    = {Fumio Kishino and
+               Katsutoshi Manabe and
+               Yasuhito Hayashi and
+               Hiroshi Yasuda},
+  title     = {Variable bit-rate coding of video signals for {ATM} networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {801-806},
+}
+
+@article{DBLP:journals/jsac/Wada89,
+  author    = {Masahiro Wada},
+  title     = {Selective recovery of video packet loss using error concealment},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {807-814},
+}
+
+@article{DBLP:journals/jsac/JosephRZ89,
+  author    = {Kuriacose Joseph and
+               Dipankar Raychaudhuri and
+               Joel W. Zdepski},
+  title     = {Shared access packet transmission systems for compressed digital video},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {815-825},
+}
+
+@article{DBLP:journals/jsac/ChinGGP89,
+  author    = {Hin Soon Chin and
+               John W. Goodge and
+               Roy Griffiths and
+               David J. Parish},
+  title     = {Statistics of video signals for viewphone-type pictures},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {826-832},
+}
+
+@article{DBLP:journals/jsac/KishimotoOI89,
+  author    = {R. Kishimoto and
+               Y. Ogata and
+               F. Inumara},
+  title     = {Generation interval distribution characteristics of packetized variable rate video coding data streams in an {ATM} network},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {833-841},
+}
+
+@article{DBLP:journals/jsac/KositpaiboonTOG89,
+  author    = {Rungroj Kositpaiboon and
+               Periklis Tsingotjidis and
+               Luis Orozco-Barbosa and
+               Nicolas D. Georganas},
+  title     = {Packetized radiographic image transfers over local area networks for diagnosis and conferencing},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {842-856},
+}
+
+@article{DBLP:journals/jsac/ChamzasD89,
+  author    = {Christodoulos Chamzas and
+               Donald L. Duttweiler},
+  title     = {Encoding facsimile images for packet-switched networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {857-864},
+}
+
+@article{DBLP:journals/jsac/SenMRA89,
+  author    = {Prodip Sen and
+               Basil S. Maglaris and
+               Nasser-Eddine Rikli and
+               Dimitris Anastassiou},
+  title     = {Models for packet switching of variable-bit-rate video sources},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {5},
+  year      = 1989,
+  pages     = {865-869},
+}
+
+@article{DBLP:journals/jsac/ForneyW89,
+  author    = {G. David Forney Jr. and
+               Lee-Fang Wei},
+  title     = {Multidimensional constellations. I. Introduction, figures of merit, and generalized cross constellations},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {877-892},
+}
+
+@article{DBLP:journals/jsac/Buda89,
+  author    = {Rudi de Buda},
+  title     = {Some optimal codes have structure},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {893-899},
+}
+
+@article{DBLP:journals/jsac/KschischangBP89,
+  author    = {Frank R. Kschischang and
+               Peter G. de Buda and
+               Subbarayan Pasupathy},
+  title     = {Block coset codes for M-ary phase shift keying},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {900-913},
+}
+
+@article{DBLP:journals/jsac/CalderbankM89,
+  author    = {A. Robert Calderbank and
+               James E. Mazo},
+  title     = {Baseband line codes via spectral factorization},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {914-928},
+}
+
+@article{DBLP:journals/jsac/RouanneC89,
+  author    = {Marc Rouanne and
+               Daniel J. Costello Jr.},
+  title     = {An algorithm for computing the distance spectrum of trellis codes},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {929-940},
+}
+
+@article{DBLP:journals/jsac/Forney89,
+  author    = {G. David Forney Jr.},
+  title     = {Multidimensional constellations. II. Voronoi constellations},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {941-958},
+}
+
+@article{DBLP:journals/jsac/BeerySS89,
+  author    = {Yair Be'ery and
+               Boaz Shahar and
+               Jakov Snyders},
+  title     = {Fast decoding of the Leech lattice},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {959-967},
+}
+
+@article{DBLP:journals/jsac/LangL89,
+  author    = {Gordon R. Lang and
+               Fred M. Longstaff},
+  title     = {A Leech lattice modem},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {968-973},
+}
+
+@article{DBLP:journals/jsac/SecordB89,
+  author    = {Norman P. Secord and
+               Rudi de Buda},
+  title     = {A two-stage sequential demodulator for the Gosset lattice},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {974-981},
+}
+
+@article{DBLP:journals/jsac/Hemmati89,
+  author    = {Farhad Hemmati},
+  title     = {Closest coset decoding of |u|u+v| codes},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {982-988},
+}
+
+@article{DBLP:journals/jsac/EyubogluQ89,
+  author    = {M. Vedat Eyuboglu and
+               Shahid U. H. Qureshi},
+  title     = {Reduced-state sequence estimation for coded modulation of intersymbol interference channels},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {989-995},
+}
+
+@article{DBLP:journals/jsac/Lin89,
+  author    = {D. W. Lin},
+  title     = {Wide-band digital subscriber access with multidimensional block modulation and decision-feedback equalization},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {996-1005},
+}
+
+@article{DBLP:journals/jsac/SeshadriA89,
+  author    = {Nambirajan Seshadri and
+               John B. Anderson},
+  title     = {Decoding of severely filtered modulation codes using the (M, L) algorithm},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {6},
+  year      = 1989,
+  pages     = {1006-1016},
+}
+
+@article{DBLP:journals/jsac/FraserM89,
+  author    = {Alexander G. Fraser and
+               William T. Marshall},
+  title     = {Data transport in a byte stream network},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1020-1033},
+}
+
+@article{DBLP:journals/jsac/HarmanN89,
+  author    = {Wendy M. Harman and
+               Cheryl F. Newman},
+  title     = {{ISDN} protocols for connection control},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1034-1042},
+}
+
+@article{DBLP:journals/jsac/Ross89,
+  author    = {Floyd E. Ross},
+  title     = {An overview of FDDI: the fiber distributed data interface},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1043-1051},
+}
+
+@article{DBLP:journals/jsac/Linington89,
+  author    = {Peter F. Linington},
+  title     = {File transfer protocols},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1052-1059},
+}
+
+@article{DBLP:journals/jsac/White89,
+  author    = {James E. White},
+  title     = {ASN.1 and ROS: the impact of X.400 on {OSI}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1060-1072},
+}
+
+@article{DBLP:journals/jsac/SandersJFF89,
+  author    = {Jack P. Sanders and
+               Mel R. Jones and
+               John E. Fetvedt and
+               Marsha E. Ferree},
+  title     = {A communications interface for systems application architecture},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1073-1081},
+}
+
+@article{DBLP:journals/jsac/KrishnakumarS89,
+  author    = {A. S. Krishnakumar and
+               Krishan K. Sabnani},
+  title     = {{VLSI} implementations of communication protocols-a survey},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1082-1090},
+}
+
+@article{DBLP:journals/jsac/AhmadiD89,
+  author    = {Hamid Ahmadi and
+               Wolfgang E. Denzel},
+  title     = {A survey of modern high-performance switching techniques},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1091-1103},
+}
+
+@article{DBLP:journals/jsac/CasselPW89,
+  author    = {Lillian N. Cassel and
+               Craig Partridge and
+               Jil Westcott},
+  title     = {Network management architectures and protocols: problems and approaches},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1104-1114},
+}
+
+@article{DBLP:journals/jsac/Svobodova89,
+  author    = {Liba Svobodova},
+  title     = {Implementing {OSI} systems},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1115-1130},
+}
+
+@article{DBLP:journals/jsac/BurgI89,
+  author    = {Fred M. Burg and
+               Nicola Di Iorio},
+  title     = {Networking of networks: interworking according to {OSI}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1131-1142},
+}
+
+@article{DBLP:journals/jsac/Linn89,
+  author    = {Richard J. Linn Jr.},
+  title     = {Conformance evaluation methodology and protocol testing},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {7},
+  year      = 1989,
+  pages     = {1143-1158},
+}
+
+@article{DBLP:journals/jsac/NiedzwieckiMC89,
+  author    = {Andrew Niedzwiecki and
+               Robert T. Matsunaga and
+               Paul V. Coverdale},
+  title     = {All-digital network transmission planning and terminal requirements},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1166-1171},
+}
+
+@article{DBLP:journals/jsac/EverittM89,
+  author    = {David Everitt and
+               David Manfield},
+  title     = {Performance analysis of cellular mobile communication systems with dynamic channel assignment},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1172-1180},
+}
+
+@article{DBLP:journals/jsac/GavishTDGM89,
+  author    = {Bezalel Gavish and
+               Pierre Trudeau and
+               Moshe Dror and
+               Michel Gendreau and
+               Lorne Mason},
+  title     = {Fiberoptic circuit network design under reliability constraints},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1181-1187},
+}
+
+@article{DBLP:journals/jsac/CardwellMW89,
+  author    = {Richard H. Cardwell and
+               Clyde L. Monma and
+               Tsong-Ho Wu},
+  title     = {Computer-aided design procedures for survivable fiber optic networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1188-1197},
+}
+
+@article{DBLP:journals/jsac/CruzHW89,
+  author    = {Gil C. Cruz and
+               Robert S. Hisiger and
+               Richard S. Wolff},
+  title     = {Strategic telecommunications networks planning in the context of emerging technologies, architectures, and services},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1198-1206},
+}
+
+@article{DBLP:journals/jsac/Moondra89,
+  author    = {Shyam L. Moondra},
+  title     = {Impact of emerging switching-transmission cost tradeoffs on future telecommunications network architectures},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1207-1218},
+}
+
+@article{DBLP:journals/jsac/AshCKKYW89,
+  author    = {Gerald R. Ash and
+               Prosper Chemouil and
+               Arik N. Kashper and
+               Steven S. Katz and
+               Katsuyuki Yamazaki and
+               Yu Watanabe},
+  title     = {Robust design and planning of a worldwide intelligent network},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1219-1230},
+}
+
+@article{DBLP:journals/jsac/ChenHS89,
+  author    = {Kim-Joan Chen and
+               Kelvin K. Y. Ho and
+               Vikram Raj Saksena},
+  title     = {Analysis and design of a highly reliable transport architecture for {ISDN} frame-relay networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1231-1242},
+}
+
+@article{DBLP:journals/jsac/Saksena89,
+  author    = {Vikram Raj Saksena},
+  title     = {Topological analysis of packet networks},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1243-1252},
+}
+
+@article{DBLP:journals/jsac/GerlaMP89,
+  author    = {Mario Gerla and
+               José Augusto Suruagy Monteiro and
+               Rodolfo A. Pazos},
+  title     = {Topology design and bandwidth allocation in {ATM} nets},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1253-1262},
+}
+
+@article{DBLP:journals/jsac/Filipiak89,
+  author    = {Janusz Filipiak},
+  title     = {Structured systems analysis methodology for design of an {ATM} network architecture},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {8},
+  year      = 1989,
+  pages     = {1263-1273},
+}
+
+@article{DBLP:journals/jsac/Wei89,
+  author    = {Lee-Fang Wei},
+  title     = {Rotationally invariant trellis-coded modulations with multidimensional {M-PSK}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1281-1295},
+}
+
+@article{DBLP:journals/jsac/BertelsmeierK89,
+  author    = {Manfred Bertelsmeier and
+               Günther Komp},
+  title     = {Trellis-coded 8{PSK} with embedded {QPSK}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1296-1306},
+}
+
+@article{DBLP:journals/jsac/LorenzelliTVBP89,
+  author    = {Flavio Lorenzelli and
+               Luca Testa and
+               Monica Visintin and
+               Ezio Biglieri and
+               Mario Pent},
+  title     = {Clock-aided carrier recovery in trellis-coded {PSK}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1307-1317},
+}
+
+@article{DBLP:journals/jsac/SchillingB89,
+  author    = {Donald L. Schilling and
+               Radomir Bozovic},
+  title     = {On the performance of spectrally efficient trellis coded {FM} modulation employing noncoherent {FM} demodulation},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1318-1327},
+}
+
+@article{DBLP:journals/jsac/CupoG89,
+  author    = {Robert L. Cupo and
+               Richard D. Gitlin},
+  title     = {Adaptive carrier recovery systems for digital data communications receivers},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1328-1339},
+}
+
+@article{DBLP:journals/jsac/Edbauer89,
+  author    = {Franz Edbauer},
+  title     = {Performance of interleaved trellis-coded differential 8-{PSK} modulation over fading channels},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1340-1346},
+}
+
+@article{DBLP:journals/jsac/MoherL89,
+  author    = {Michael L. Moher and
+               John H. Lodge},
+  title     = {{TCMP-a} modulation and coding strategy for Rician fading channels},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1347-1355},
+}
+
+@article{DBLP:journals/jsac/SchlegelC89,
+  author    = {Christian Schlegel and
+               Daniel J. Costello Jr.},
+  title     = {Bandwidth efficient coding for fading channels: code construction and performance analysis},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1356-1368},
+}
+
+@article{DBLP:journals/jsac/PottieT89,
+  author    = {Gregory J. Pottie and
+               Desmond P. Taylor},
+  title     = {A comparison of reduced complexity decoding algorithms for trellis codes},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1369-1380},
+}
+
+@article{DBLP:journals/jsac/BenedettoMMOZ89,
+  author    = {Sergio Benedetto and
+               Marco Ajmone Marsan and
+               Guido Masera and
+               Gabriella Olmo and
+               Z. Zhang},
+  title     = {Encoded 16-PSK: a study for the receiver design},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1381-1391},
+}
+
+@article{DBLP:journals/jsac/Tretter89,
+  author    = {Steven A. Tretter},
+  title     = {An eight-dimensional 64-state trellis code for transmitting 4 bits per 2-D symbol},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1392-1395},
+}
+
+@article{DBLP:journals/jsac/AtkinC89,
+  author    = {Guillermo E. Atkin and
+               Hector P. Corrales},
+  title     = {An efficient modulation/coding scheme for {MFSK} systems on bandwidth constrained channels},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1396-1401},
+}
+
+@article{DBLP:journals/jsac/AnderssonS89,
+  author    = {S. Torgny Andersson and
+               N. Arne B. Svensson},
+  title     = {Noncoherent detection of convolutionally encoded continuous phase modulation},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1402-1414},
+}
+
+@article{DBLP:journals/jsac/HarroldK89,
+  author    = {William Harrold and
+               Nick G. Kingsbury},
+  title     = {A partially coherent detector for continuous phase modulation},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1415-1426},
+}
+
+@article{DBLP:journals/jsac/Kaleh89a,
+  author    = {Ghassan Kawas Kaleh},
+  title     = {Simple coherent receivers for partial response continuous phase modulation},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1427-1436},
+}
+
+@article{DBLP:journals/jsac/HuberL89,
+  author    = {Johannes Huber and
+               Weilin Liu},
+  title     = {An alternative approach to reduced-complexity {CPM-receivers}},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1437-1449},
+}
+
+@article{DBLP:journals/jsac/HwangLC89,
+  author    = {Hong-Kuang Hwang and
+               Lin-Shan Lee and
+               Sin-Horng Chen},
+  title     = {{Multi-H} phase-coded modulations with asymmetric modulation indexes},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1450-1461},
+}
+
+@article{DBLP:journals/jsac/KuhSR89,
+  author    = {Steve S. Kuh and
+               Tyrone A. Strozier and
+               Carl R. Ryan},
+  title     = {Continuous phase quadrature phase shift keyed signaling technique with coding},
+  journal   = ieeesac,
+  volume    = {7},
+  number    = {9},
+  year      = 1989,
+  pages     = {1462-1469},
+}
+
+@article{DBLP:journals/jsac/Shanmugan88,
+  author    = {K. Sam Shanmugan},
+  title     = {An update on software packages for simulation of communication systems (links)},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {5-12},
+}
+
+@article{DBLP:journals/jsac/TranterR88,
+  author    = {William H. Tranter and
+               Carl R. Ryan},
+  title     = {Simulation of communication systems using personal computers},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {13-23},
+}
+
+@article{DBLP:journals/jsac/MatisM88,
+  author    = {Kirt R. Matis and
+               James W. Modestino},
+  title     = {Interactive communication system simulation on a high-speed {PC} workstation},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {24-33},
+}
+
+@article{DBLP:journals/jsac/PentPDL88,
+  author    = {Mario Pent and
+               Letizia Lo Presti and
+               Giovanna D'Aria and
+               Giuseppe De Luca},
+  title     = {Semianalytic {BER} evaluation by simulation for noisy nonlinear bandpass channels},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {34-41},
+}
+
+@article{DBLP:journals/jsac/BiglieriBC88,
+  author    = {Ezio Biglieri and
+               Sergio Barberis and
+               Maurizio Catena},
+  title     = {Analysis and compensation of nonlinearities in digital transmission systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {42-51},
+}
+
+@article{DBLP:journals/jsac/PintoB88,
+  author    = {Ernesto L. Pinto and
+               João C. Brandao},
+  title     = {On the efficient use of computer simulated digital signals to evaluate performance parameters},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {52-57},
+}
+
+@article{DBLP:journals/jsac/CoatesJL88,
+  author    = {Rodney F. W. Coates and
+               Gareth J. Janacek and
+               Kenneth V. Lever},
+  title     = {Monte Carlo simulation and random number generation},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {58-66},
+}
+
+@article{DBLP:journals/jsac/LuY88,
+  author    = {Dingqing Lu and
+               Kung Yao},
+  title     = {Improved importance sampling technique for efficient simulation of digital communication systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {67-75},
+}
+
+@article{DBLP:journals/jsac/GuidaIL88,
+  author    = {Maurizio Guida and
+               Domenico Iovino and
+               Maurizio Longo},
+  title     = {Comparative performance analysis of some extrapolative estimators of probability tails},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {76-84},
+}
+
+@article{DBLP:journals/jsac/Turin88,
+  author    = {William Turin},
+  title     = {Simulation of error sources in digital channels},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {85-93},
+}
+
+@article{DBLP:journals/jsac/ElrefaieTRS88,
+  author    = {Aly F. Elrefaie and
+               J. Keith Townsend and
+               Malcolm B. Romeiser and
+               K. Sam Shanmugan},
+  title     = {Computer simulation of digital lightwave links},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {94-105},
+}
+
+@article{DBLP:journals/jsac/ErupH88,
+  author    = {Lars Erup and
+               Robert A. Harris},
+  title     = {On numerical optimization of communications system design},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {106-125},
+}
+
+@article{DBLP:journals/jsac/KuroseM88,
+  author    = {James F. Kurose and
+               Hussein T. Mouftah},
+  title     = {Computer-aided modeling, analysis, and design of communication networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {130-145},
+}
+
+@article{DBLP:journals/jsac/FrostLS88,
+  author    = {Victor S. Frost and
+               William W. LaRue and
+               K. Sam Shanmugan},
+  title     = {Efficient techniques for the simulation of computer communications networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {146-157},
+}
+
+@article{DBLP:journals/jsac/CassandrasS88,
+  author    = {Christos G. Cassandras and
+               Stephen G. Strickland},
+  title     = {Perturbation analytic methodologies for design and optimization of communication networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {158-171},
+}
+
+@article{DBLP:journals/jsac/Doner88,
+  author    = {John R. Doner},
+  title     = {{GENESIM} [generic network simulator]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {172-179},
+}
+
+@article{DBLP:journals/jsac/MouftahK88,
+  author    = {Hussein T. Mouftah and
+               Edward A. Krause},
+  title     = {Computer-aided design and performance evaluation of communications controllers with mixed traffic},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {180-189},
+}
+
+@article{DBLP:journals/jsac/Brady88,
+  author    = {Paul T. Brady},
+  title     = {Performance of an edge-to-edge protocol in a simulated X.25/X.75 packet network},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {190-196},
+}
+
+@article{DBLP:journals/jsac/BakerHT88,
+  author    = {Dennis J. Baker and
+               James P. Hauser and
+               William A. Thoet},
+  title     = {A distributed simulation and prototyping testbed for radio communication networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {197-209},
+}
+
+@article{DBLP:journals/jsac/JosephR88,
+  author    = {Kuriacose Joseph and
+               Dipankar Raychaudhuri},
+  title     = {Simulation models for performance evaluation of satellite multiple access protocols},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {210-222},
+}
+
+@article{DBLP:journals/jsac/DecinaM88,
+  author    = {Maurizio Decina and
+               Giulio Modena},
+  title     = {{CCITT} standards on digital speech processing},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {227-234},
+}
+
+@article{DBLP:journals/jsac/DvorakR88,
+  author    = {Charles A. Dvorak and
+               John R. Rosenberger},
+  title     = {Deriving a subjective testing methodology for digital circuit multiplication and packetized voice systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {235-241},
+}
+
+@article{DBLP:journals/jsac/KitawakiNI88,
+  author    = {Nobuhiko Kitawaki and
+               Hiromi Nagabuchi and
+               Kenzo Itoh},
+  title     = {Objective quality evaluation for low-bit-rate speech coding systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {242-248},
+}
+
+@article{DBLP:journals/jsac/YatrouM88,
+  author    = {Paul Yatrou and
+               Paul Mermelstein},
+  title     = {Ensuring predictor tracking in {ADPCM} speech coders under noisy transmission conditions},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {249-261},
+}
+
+@article{DBLP:journals/jsac/HosodaNY88,
+  author    = {Kenichiro Hosoda and
+               Osamu Noguchi and
+               Yohtaro Yatsuzuka},
+  title     = {A 32 kbit/s {ADPCM} algorithm having high performance for both voice and 9.6 kbit/s modem signals},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {262-273},
+}
+
+@article{DBLP:journals/jsac/TakaMU88,
+  author    = {Masahiro Taka and
+               Rikio Maruta and
+               Shigeyuki Unagami},
+  title     = {{DSP} implementations of sophisticated speech codecs},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {274-282},
+}
+
+@article{DBLP:journals/jsac/Maitre88,
+  author    = {Xavier Maitre},
+  title     = {7 {kHz} audio coding within 64 kbit/s},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {283-298},
+}
+
+@article{DBLP:journals/jsac/TakaSA88,
+  author    = {Masahiro Taka and
+               Shoji Shimada and
+               Tomonori Aoyama},
+  title     = {Multimedia multipoint teleconference system using the 7 {kHz} audio coding standard at 64 kbit/s},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {299-306},
+}
+
+@article{DBLP:journals/jsac/IwadareN88,
+  author    = {Masahiro Iwadare and
+               Takao Nishitani},
+  title     = {64 kbit/s audio signal transmission approaches using 32 kbit/s {ADPCM} channel banks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {307-313},
+}
+
+@article{DBLP:journals/jsac/Johnston88,
+  author    = {James D. Johnston},
+  title     = {Transform coding of audio signals using perceptual noise criteria},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {314-323},
+}
+
+@article{DBLP:journals/jsac/Natvig88,
+  author    = {Jon Emil Natvig},
+  title     = {Evaluation of six medium bit-rate coders for the {Pan-European} digital mobile radio system},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {324-331},
+}
+
+@article{DBLP:journals/jsac/McLaughlinR88,
+  author    = {Michael J. McLaughlin and
+               Phillip D. Rasky},
+  title     = {Speech and channel coding for digital land-mobile radio},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {332-345},
+}
+
+@article{DBLP:journals/jsac/SudaM88,
+  author    = {Hirohito Suda and
+               Toshio Miki},
+  title     = {An error protected 16 kbit/s voice transmission for land mobile radio channel},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {346-352},
+}
+
+@article{DBLP:journals/jsac/KroonD88,
+  author    = {Peter Kroon and
+               Ed F. Deprettere},
+  title     = {A class of analysis-by-synthesis predictive coders for high quality speech coding at rates between 4.8 and 16 kbit/s},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {353-363},
+}
+
+@article{DBLP:journals/jsac/RamamoorthyJCS88,
+  author    = {V. Ramamoorthy and
+               Nikil S. Jayant and
+               Richard V. Cox and
+               Man Mohan Sondhi},
+  title     = {Enhancement of {ADPCM} speech coding with backward-adaptive algorithms for postfiltering and noise feedback},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {364-382},
+}
+
+@article{DBLP:journals/jsac/IrieTH88,
+  author    = {Kazunori Irie and
+               Yasuhiko Tada and
+               Kouichi Honma},
+  title     = {{APC-AB} codec modules operating at 16 and 8 kbit/s},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {383-390},
+}
+
+@article{DBLP:journals/jsac/CoxGSQSJ88,
+  author    = {Richard V. Cox and
+               Steven L. Gay and
+               Yair Shoham and
+               Schuyler R. Quackenbush and
+               Nambirajan Seshadri and
+               Nikil S. Jayant},
+  title     = {New directions in subband coding},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {391-409},
+}
+
+@article{DBLP:journals/jsac/TaniguchiUIT88,
+  author    = {Tomohiko Taniguchi and
+               Shigeyuki Unagami and
+               Kohei Iseda and
+               Shoji Tominaga},
+  title     = {{ADPCM} with a multiquantizer for speech coding},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {410-424},
+}
+
+@article{DBLP:journals/jsac/MoriyaH88,
+  author    = {Takehiro Moriya and
+               Masaaki Honda},
+  title     = {Transform coding of speech using a weighted vector quantizer},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {425-431},
+}
+
+@article{DBLP:journals/jsac/SugamuraF88,
+  author    = {Noboru Sugamura and
+               Nariman Farvardin},
+  title     = {Quantizer design in {LSP} speech analysis-synthesis},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {432-440},
+}
+
+@article{DBLP:journals/jsac/SukkarLP88,
+  author    = {Rafid A. Sukkar and
+               Joseph L. LoCicero and
+               Joseph Picone},
+  title     = {Design and implementation of a robust pitch detector based on a parallel processing technique},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {441-451},
+}
+
+@article{DBLP:journals/jsac/HaccounLS88,
+  author    = {David Haccoun and
+               Pierre Lavoie and
+               Yvon Savaria},
+  title     = {New architectures for fast convolutional encoders and threshold decoders},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {457},
+}
+
+@article{DBLP:journals/jsac/YamaguchiKKATTKS88,
+  author    = {Kazuo Yamaguchi and
+               Hiroo Kitasagami and
+               Masaaki Kawai and
+               Izumi Amemiya and
+               Takashi Touge and
+               Haruo Tamada and
+               Masayuki Kokado and
+               Masahiro Sugimoto},
+  title     = {Gigabit receiver {ICs} for optical communications},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {460-476},
+}
+
+@article{DBLP:journals/jsac/OkumuraY88,
+  author    = {Yasuyuki Okumura and
+               Takashi Yamamoto},
+  title     = {Circuit design and transmission performance of {ISDN} basic interface},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {468-475},
+}
+
+@article{DBLP:journals/jsac/FukudaTGH88,
+  author    = {Misao Fukuda and
+               Toshitaka Tsuda and
+               Hiroshisa Gambe and
+               Youzi Hino},
+  title     = {A line terminating {LSI} using echo cancelling method for {ISDN} subscriber loop transition},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {476-483},
+}
+
+@article{DBLP:journals/jsac/WangWC88,
+  author    = {Chin-Liang Wang and
+               Che-Ho Wei and
+               Sin-Horng Chen},
+  title     = {Efficient bit-level systolic array implementation of {FIR} and {IIR} digital filters},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {484-483},
+}
+
+@article{DBLP:journals/jsac/BorthGHT88,
+  author    = {David E. Borth and
+               Ira A. Gerson and
+               John R. Haug and
+               Charles D. Thompson},
+  title     = {A flexible adaptive {FIR} filter {VLSI} {IC}},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {494-503},
+}
+
+@article{DBLP:journals/jsac/TaheriJM88,
+  author    = {M. Taheri and
+               Graham A. Jullien and
+               William C. Miller},
+  title     = {High-speed signal processing using systolic arrays over finite rings},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {504-512},
+}
+
+@article{DBLP:journals/jsac/HarasakiTENYES88,
+  author    = {Hidenobu Harasaki and
+               Ichiro Tamitani and
+               Yukio Endo and
+               Takao Nishitani and
+               Masakatsu Yamashina and
+               Tadayoshi Enomoto and
+               Norio Suzuki},
+  title     = {A single-board video signal processor module employing newly developed {LSI} devices},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {513-519},
+}
+
+@article{DBLP:journals/jsac/FriedmanBCDEFM88,
+  author    = {Vladimir Friedman and
+               Douglas M. Brinthaupt and
+               D.-P. Chen and
+               Timothy W. Deppa and
+               John P. Elward Jr. and
+               Evelyn M. Fields and
+               Hanafy Meleis},
+  title     = {A bit-slice architecture for sigma-delta analog-to-digital converters},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {520-526},
+}
+
+@article{DBLP:journals/jsac/GulakK88,
+  author    = {P. Glenn Gulak and
+               Thomas Kailath},
+  title     = {Locally connected {VLSI} architectures for the Viterbi algorithm},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {527-537},
+}
+
+@article{DBLP:journals/jsac/Simmons88,
+  author    = {S. J. Simmons},
+  title     = {A nonsorting {VLSI} structure for implementing the (M, L ) algorithm},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {538-546},
+}
+
+@article{DBLP:journals/jsac/AbbaszadehR88,
+  author    = {Ayyoob D. Abbaszadeh and
+               Craig K. Rushforth},
+  title     = {{VLSI} implementation of a maximum-likelihood decoder for the Golay (24, 12) code},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {558-565},
+}
+
+@article{DBLP:journals/jsac/JayakumarY88,
+  author    = {Anthony Jayakumar and
+               Kenneth C. Young Jr.},
+  title     = {A 16×16 crosspoint switch for ternary encoded signals},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {566-571},
+}
+
+@article{DBLP:journals/jsac/WangZ88,
+  author    = {Yao Wang and
+               Xuelong Zhu},
+  title     = {A fast algorithm for the Fourier transform over finite fields and its {VLSI} implementation},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {572-577},
+}
+
+@article{DBLP:journals/jsac/ScottSTP88,
+  author    = {P. A. Scott and
+               Stanley J. Simmons and
+               Stafford E. Tavares and
+               Lloyd E. Peppard},
+  title     = {Architectures for exponentiation in GF(2m)},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {578-585},
+}
+
+@article{DBLP:journals/jsac/TewksburyH88,
+  author    = {Stuart K. Tewksbury and
+               Lawrence A. Hornak},
+  title     = {Communication network issues and high-density interconnects in large-scale distributed computing systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {587-609},
+}
+
+@article{DBLP:journals/jsac/ForthD88,
+  author    = {Leslie Forth and
+               Raymond S. Duley},
+  title     = {A coded data transceiver for the Star Local Area Network (StarLAN)},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {610-619},
+}
+
+@article{DBLP:journals/jsac/AppelP88,
+  author    = {J. J. Appel and
+               M. J. Polosky},
+  title     = {Pacific Bell's network and systems concept of the 90s},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {627-632},
+}
+
+@article{DBLP:journals/jsac/FleischmanP88,
+  author    = {J. S. Fleischman and
+               P. E. Proctor},
+  title     = {Operations planning for the information age [telecommunication networks]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {633-640},
+}
+
+@article{DBLP:journals/jsac/Lutz88,
+  author    = {K. J. Lutz},
+  title     = {Operations planning strategies for new network services and technologies},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {641-647},
+}
+
+@article{DBLP:journals/jsac/Vetter88,
+  author    = {R. W. Vetter Jr.},
+  title     = {Integrated operations},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {648-655},
+}
+
+@article{DBLP:journals/jsac/HinesP88,
+  author    = {William J. Hines and
+               Edward L. Pinnes},
+  title     = {Trends in the automation of service provisioning},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {656-661},
+}
+
+@article{DBLP:journals/jsac/MalekS88,
+  author    = {Manu Malek and
+               Orlando Sotomayor-Diaz},
+  title     = {On-line provisioning of network services},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {662-668},
+}
+
+@article{DBLP:journals/jsac/BayerGL88,
+  author    = {Jesse A. Bayer and
+               David J. Granfors and
+               Robert T. Lewis},
+  title     = {A generic integrated maintenance interface for network elements},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {669-676},
+}
+
+@article{DBLP:journals/jsac/Arvidson88,
+  author    = {W. P. Arvidson},
+  title     = {A generic operations system interface to support the next generation of digital loop carrier systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {677-684},
+}
+
+@article{DBLP:journals/jsac/SahinOB88,
+  author    = {Veli Sahin and
+               Cambyse Guy Omidyar and
+               Timothy M. Bauman},
+  title     = {Telecommunications management network (TMN) architecture and interworking designs},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {685-696},
+}
+
+@article{DBLP:journals/jsac/BirkwoodAT88,
+  author    = {Peter A. Birkwood and
+               Salah E. Aidarous and
+               Richard M. K. Tam},
+  title     = {Implementation of a distributed architecture for intelligent network operations},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {697-705},
+}
+
+@article{DBLP:journals/jsac/FoxS88,
+  author    = {J. R. Fox and
+               G. M. Slawsky},
+  title     = {The role of expert systems in switch maintenance operations and the generation of switch analysis requirements},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {706-714},
+}
+
+@article{DBLP:journals/jsac/JonesW88,
+  author    = {Edward A. Jones Jr. and
+               Daniel S. Walsh},
+  title     = {Monitoring and analysis strategies for digital networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {715-721},
+}
+
+@article{DBLP:journals/jsac/DeguchiKMY88,
+  author    = {Fumihiko Deguchi and
+               Yoshiki Katsuyama and
+               Masahiko Matsushita and
+               Haruo Yamaguchi},
+  title     = {Data communication network and database implementation strategy for a transmission network operations system},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {722-726},
+}
+
+@article{DBLP:journals/jsac/King88,
+  author    = {Neal J. King},
+  title     = {Service provisioning data relationship model for {ISDN} network maintenance},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {727-731},
+}
+
+@article{DBLP:journals/jsac/Tow88,
+  author    = {Don M. Tow},
+  title     = {Network management-recent advances and future trends},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {732-741},
+}
+
+@article{DBLP:journals/jsac/WarfieldM88,
+  author    = {Robert Warfield and
+               David McMillan},
+  title     = {A linear program model for the automation of network management},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {742-750},
+}
+
+@article{DBLP:journals/jsac/MikamiH88,
+  author    = {Tatsuo Mikami and
+               Tetsu Hirose},
+  title     = {Introduction of the International Network Management {Center-Its} activity and system},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {751-759},
+}
+
+@article{DBLP:journals/jsac/Eick88,
+  author    = {Stephen G. Eick},
+  title     = {Surveillance strategies for a class of adaptive-routing algorithms in circuit-switched {DNHR} communications networks: a simulation study},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {760-765},
+}
+
+@article{DBLP:journals/jsac/ShaneyfeltW88,
+  author    = {Barbara E. Shaneyfelt and
+               Tsong-Ho Wu},
+  title     = {Statistical analysis of network traffic for class of service in packet-switched networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {766-777},
+}
+
+@article{DBLP:journals/jsac/BernsteinY88,
+  author    = {Lawrence Bernstein and
+               Christine M. Yuhas},
+  title     = {Expert systems in network management-the second revolution},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {784-787},
+}
+
+@article{DBLP:journals/jsac/GanesanG88,
+  author    = {Kalyan Ganesan and
+               Murthy Ganti},
+  title     = {A multimedia front-end for an expert network management system},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {788-791},
+}
+
+@article{DBLP:journals/jsac/KhanCDTD88,
+  author    = {Nassem A. Khan and
+               Paul H. Callahan and
+               Rajesh Dube and
+               Jason L. Tsay and
+               William Van Dusen},
+  title     = {An engineering approach to model-based troubleshooting in communication networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {792-799},
+}
+
+@article{DBLP:journals/jsac/LiuP88,
+  author    = {Da-Min D. Liu and
+               Dennis A. Pelz},
+  title     = {I-Test: integrated testing expert system for trunks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {800-804},
+}
+
+@article{DBLP:journals/jsac/Yudkin88,
+  author    = {Roman O. Yudkin},
+  title     = {On testing communications networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {805-812},
+}
+
+@article{DBLP:journals/jsac/PeacockeR88,
+  author    = {Dick Peacocke and
+               Sameh Rabie},
+  title     = {Knowledge-based maintenance in networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {813-818},
+}
+
+@article{DBLP:journals/jsac/BrownCCG88,
+  author    = {Keith E. Brown and
+               Colin F. N. Cowan and
+               Tom M. Crawford and
+               Peter M. Grant},
+  title     = {Knowledge-based techniques for fault detection in digital microwave radio communication equipment},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {819-827},
+}
+
+@article{DBLP:journals/jsac/Tsai88,
+  author    = {Jeffrey J.-P. Tsai},
+  title     = {A knowledge-based system for software design},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {828-841},
+}
+
+@article{DBLP:journals/jsac/TakahashiSN88,
+  author    = {Kaoru Takahashi and
+               Norio Shiratori and
+               Shoichi Noguchi},
+  title     = {An intelligent support system for protocol and communication software development},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {842-849},
+}
+
+@article{DBLP:journals/jsac/KinoshitaSS88,
+  author    = {Tetsuo Kinoshita and
+               Kenji Sugawara and
+               Norio Shiratori},
+  title     = {Knowledge-based design support system for computer communication system},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {850-861},
+}
+
+@article{DBLP:journals/jsac/Harandi88,
+  author    = {Mehdi T. Harandi},
+  title     = {Building a knowledge-based software development environment},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {862-868},
+}
+
+@article{DBLP:journals/jsac/MuralidharI88,
+  author    = {Kurudi H. Muralidhar and
+               Bruce W. Irish},
+  title     = {MAPCON: an expert system for configuration of {MAP} networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {869-873},
+}
+
+@article{DBLP:journals/jsac/ZhangTSN88,
+  author    = {Yaoxue Zhang and
+               Kaoru Takahashi and
+               Norio Shiratori and
+               Shoichi Noguchi},
+  title     = {A knowledge-based system for protocol synthesis (KSPS)},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {874-883},
+}
+
+@article{DBLP:journals/jsac/ChandrasekaranP88,
+  author    = {Balakrishnan Chandrasekaran and
+               William F. Punch III},
+  title     = {Hierarchical classification: its usefulness for diagnosis and sensor validation},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {884-891},
+}
+
+@article{DBLP:journals/jsac/Macleish88,
+  author    = {Kenneth J. Macleish},
+  title     = {Mapping the integration of artificial intelligence into telecommunications},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {5},
+  year      = 1988,
+  pages     = {892-898},
+}
+
+@article{DBLP:journals/jsac/ChlamtacG88,
+  author    = {Imrich Chlamtac and
+               Aura Ganz},
+  title     = {A multibus train communication (AMTRAC) architecture for high-speed fiber optic networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {903-912},
+}
+
+@article{DBLP:journals/jsac/SchollC88,
+  author    = {Frederick W. Scholl and
+               Michael H. Coden},
+  title     = {Passive optical star systems for fiber optic local area networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {913-923},
+}
+
+@article{DBLP:journals/jsac/BhargavaKT88,
+  author    = {Amit Bhargava and
+               James F. Kurose and
+               Don Towsley},
+  title     = {A hybrid media access protocol for high-speed ring networks [fibre optic LAN]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {924-933},
+}
+
+@article{DBLP:journals/jsac/GerlaF88,
+  author    = {Mario Gerla and
+               Luigi Fratta},
+  title     = {Tree structured fiber optics {MANs}},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {934-943},
+}
+
+@article{DBLP:journals/jsac/KavehradH88,
+  author    = {Mohsen Kavehrad and
+               Isam M. I. Habbab},
+  title     = {A simple high-speed optical local area network based on flooding},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {944-949},
+}
+
+@article{DBLP:journals/jsac/KatzM88,
+  author    = {Jospeh L. Katz and
+               Bruce D. Metcalf},
+  title     = {SURVNET: a survivable network implementation},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {950-958},
+}
+
+@article{DBLP:journals/jsac/AlbaneseM88,
+  author    = {Andres Albanese and
+               Ronald C. Menendez},
+  title     = {Loop distribution using coherent detection [fiber optic networks]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {959-973},
+}
+
+@article{DBLP:journals/jsac/Foschini88,
+  author    = {Gerard J. Foschini},
+  title     = {Sharing of the optical band in local systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {974-986},
+}
+
+@article{DBLP:journals/jsac/MartiniSW88,
+  author    = {Peter Martini and
+               Otto Spaniol and
+               Thomas Welzel},
+  title     = {File transfer in high-speed token ring networks: performance evaluation by approximate analysis and simulation},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {987-996},
+}
+
+@article{DBLP:journals/jsac/DykemanB88,
+  author    = {Doug Dykeman and
+               Werner Bux},
+  title     = {Analysis of tuning of {FDDI} media access control protocol},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {997-1010},
+}
+
+@article{DBLP:journals/jsac/Zafirovic-VukoticNV88,
+  author    = {Mirjana Zafirovic-Vukotic and
+               Ignas G. Niemegeers and
+               Durk S. Valk},
+  title     = {Performance analysis of slotted ring protocols in {HSLANs}},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {1011-1024},
+}
+
+@article{DBLP:journals/jsac/LeeBT88,
+  author    = {E. Stewart Lee and
+               Peter I. P. Boulton and
+               Brian W. Thomson},
+  title     = {{HUBNET} performance measurement},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {6},
+  year      = 1988,
+  pages     = {1025-1032},
+}
+
+@article{DBLP:journals/jsac/Nussbaum88,
+  author    = {Eric Nussbaum},
+  title     = {Communication network needs and technologies-a place for photonic switching?},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1036-1043},
+}
+
+@article{DBLP:journals/jsac/CassidyY88,
+  author    = {Stephen A. Cassidy and
+               Peter Yennadhiou},
+  title     = {Optimum switching architectures using D-fiber optical space switches},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1044-1051},
+}
+
+@article{DBLP:journals/jsac/Smyth88,
+  author    = {Christopher J. Smyth},
+  title     = {Nonblocking photonic switch networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1052-1062},
+}
+
+@article{DBLP:journals/jsac/EisenbergM88,
+  author    = {Martin Eisenberg and
+               Nader Mehravari},
+  title     = {Performance of the multichannel multihop lightwave network under nonuniform traffic},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1063-1078},
+}
+
+@article{DBLP:journals/jsac/KishimotoYI88,
+  author    = {R. Kishimoto and
+               K. Yoshino and
+               M. Ikeda},
+  title     = {Fiber-optic digital video distribution system for using high-definition television signals using laser-diode optical switch},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1079-1086},
+}
+
+@article{DBLP:journals/jsac/EvankowT88,
+  author    = {Joseph D. Evankow Jr. and
+               Richard A. Thompson},
+  title     = {Photonic switching modules designed with laser-diode amplifiers},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1087-1095},
+}
+
+@article{DBLP:journals/jsac/Thompson88,
+  author    = {Richard A. Thompson},
+  title     = {Architectures with improved signal-to-noise ratio in photonic systems with fiber-loop delay lines},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1096-1106},
+}
+
+@article{DBLP:journals/jsac/Eng88,
+  author    = {Kai Y. Eng},
+  title     = {A photonic knockout switch for high-speed packet networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1107-1116},
+}
+
+@article{DBLP:journals/jsac/Alferness88,
+  author    = {Rod C. Alferness},
+  title     = {Waveguide electrooptic switch arrays},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1117-1130},
+}
+
+@article{DBLP:journals/jsac/IkegamiK88,
+  author    = {Tetsuhiko Ikegami and
+               Hitoshi Kawaguchi},
+  title     = {Semiconductor devices in photonic switching},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1131-1140},
+}
+
+@article{DBLP:journals/jsac/MacDonald88,
+  author    = {R. Ian MacDonald},
+  title     = {Terminology for photonic matrix switches},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1141-1151},
+}
+
+@article{DBLP:journals/jsac/MackenzieYIA88,
+  author    = {H. A. Mackenzie and
+               J. Young and
+               A. K. Iltaif and
+               H. A. Al-Attar},
+  title     = {The switching dynamics and noise limitations of indium antimonide bistable elements},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1152-1159},
+}
+
+@article{DBLP:journals/jsac/WrightMM88,
+  author    = {John V. Wright and
+               Stephen R. Mallinson and
+               Colin A. Millar},
+  title     = {A fiber-based crosspoint switch using high-refractive index interlay materials},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1160-1168},
+}
+
+@article{DBLP:journals/jsac/RadcliffeY88,
+  author    = {Stuart N. Radcliffe and
+               Terence P. Young},
+  title     = {New low-loss bend structures for high-density integrated optical switch arrays},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1169-1177},
+}
+
+@article{DBLP:journals/jsac/SkinnerL88,
+  author    = {J. Skinner and
+               C. H. R. Lane},
+  title     = {A low crosstalk microoptic liquid crystal switch},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1178-1185},
+}
+
+@article{DBLP:journals/jsac/MoriokaS88,
+  author    = {Toshio Morioka and
+               Masatoshi Saruwatari},
+  title     = {Ultrafast all-optical switching utilizing the optical Kerr effect in polarization-maintaining single-mode fibers},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1186-1198},
+}
+
+@article{DBLP:journals/jsac/WakaoNKY88,
+  author    = {Kiyohide Wakao and
+               Kenya Nakai and
+               Masaaki Kino and
+               Shigenobu Yamakoshi},
+  title     = {InGaAsP/{InP} optical switches embedded with semi-insulating {InP} current blocking layers},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1199-1204},
+}
+
+@article{DBLP:journals/jsac/BelangerNMC88,
+  author    = {Michel Belanger and
+               S. Iraj Najafi and
+               Romain Maciejko and
+               John F. Currie},
+  title     = {Fabrication and characterization of a linear mode confinement modulator on {GaAs}},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1205-1208},
+}
+
+@article{DBLP:journals/jsac/Hinton88,
+  author    = {H. Scott Hinton},
+  title     = {Architectural considerations for photonic switching networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1209-1226},
+}
+
+@article{DBLP:journals/jsac/Djupsjobacka88,
+  author    = {Anders Djupsjobacka},
+  title     = {Time division multiplexing using optical switches},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1227-1231},
+}
+
+@article{DBLP:journals/jsac/HoffmanHAF88,
+  author    = {D. Hoffman and
+               H. Heidrich and
+               H. Ahlers and
+               M. K. Fluge},
+  title     = {Performance of rearrangeable nonblocking 4×4 switch matrices on LiNbO3},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1232-1240},
+}
+
+@article{DBLP:journals/jsac/BunningBHRSSW88,
+  author    = {Helmut Bunning and
+               Manfred Burmeister and
+               Thomas Hermes and
+               Friedrich Raub and
+               Jürgen Saniter and
+               Fred Schmidt and
+               Wolfgang Werner},
+  title     = {{LOCNET-an} experimental communications system using optical routing},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1241-1247},
+}
+
+@article{DBLP:journals/jsac/KishimotoI88,
+  author    = {T. Kishimoto and
+               M. Ikeda},
+  title     = {Optical self-routing switch using integrated laser diode optical switch},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1248-1254},
+}
+
+@article{DBLP:journals/jsac/EricksonBHS88,
+  author    = {John R. Erickson and
+               Gail A. Bogert and
+               Roger F. Huisman and
+               Ronald A. Spanke},
+  title     = {Performance of two 4×4 guided-wave photonic switching systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1255-1261},
+}
+
+@article{DBLP:journals/jsac/InoueNMSKC88,
+  author    = {Hiroaki Inoue and
+               Hitoshi Nakamura and
+               Kenichi Morosawa and
+               Yoshimitsu Sasaki and
+               Toshio Katsuyama and
+               Naoki Chinone},
+  title     = {An 8 mm length nonblocking 4×4 optical switch array},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1262-1266},
+}
+
+@article{DBLP:journals/jsac/SawakiSNIYN88,
+  author    = {Ippei Sawaki and
+               Toshio Shimoe and
+               Hiroshi Nakamoto and
+               Takeo Iwama and
+               Takashi Yamane and
+               Horochika Nakajima},
+  title     = {Rectangularly configured 4×4 Ti: LiNbO3 matrix switch with low drive voltage},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1267-1272},
+}
+
+@article{DBLP:journals/jsac/ZhangJSKAGCSM88,
+  author    = {L. Zhang and
+               R. Jin and
+               Charles W. Stirk and
+               G. Khitrova and
+               Ravindra A. Athale and
+               Hyatt M. Gibbs and
+               H. M. Chou and
+               Robert W. Sprague and
+               H. Angus Macleod},
+  title     = {All-optical compare-and-exchange switches},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {7},
+  year      = 1988,
+  pages     = {1273-1279},
+}
+
+@article{DBLP:journals/jsac/Murthy88,
+  author    = {Vyasaraj V. Murthy},
+  title     = {Quality and reliability in communications},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1284-1286},
+}
+
+@article{DBLP:journals/jsac/Malec88,
+  author    = {Henry A. Malec},
+  title     = {Reliability growth from the customer perspective [telecommunications]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1287-1293},
+}
+
+@article{DBLP:journals/jsac/Thatcher88,
+  author    = {Ance W. Thatcher},
+  title     = {Quality after the scale: a marketing tool [telecommunication products]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1294-1298},
+}
+
+@article{DBLP:journals/jsac/KoonoTMS88,
+  author    = {Zenya Koono and
+               Masakatsu Toiya and
+               Tatsuo Matsuida and
+               Masahiro Soga},
+  title     = {In-service quality improvement activities [telecommunication products]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1299-1304},
+}
+
+@article{DBLP:journals/jsac/NeswadbaN88,
+  author    = {Horst Neswadba and
+               Rudolph Nitsch},
+  title     = {Quality of telecommunication systems after sales: evaluation of field data},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1305-1308},
+}
+
+@article{DBLP:journals/jsac/CainLM88,
+  author    = {Donald R. Cain and
+               Burton S. Liebesman and
+               W. E. Martin},
+  title     = {The quality improvement process in telecommunications},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1312-1321},
+}
+
+@article{DBLP:journals/jsac/WalkerH88,
+  author    = {J. Walker and
+               Samuel E. Hon III},
+  title     = {Supplier quality improvement-the key to long-term quality relationships},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1322-1325},
+}
+
+@article{DBLP:journals/jsac/ChaddhaKP88,
+  author    = {R. L. Chaddha and
+               A. W. King and
+               N. S. Pearson},
+  title     = {Providing buyer feedback on digital switch field performance},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1326-1329},
+}
+
+@article{DBLP:journals/jsac/Strandberg88,
+  author    = {Kjell Strandberg},
+  title     = {Field dependability evaluation principles},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1330-1337},
+}
+
+@article{DBLP:journals/jsac/KremerSS88,
+  author    = {Wilhelm Kremer and
+               Charalampos I. Saraidaridis and
+               Anekal B. Sripad},
+  title     = {Field tracking studies: theory and practice [electronic equipment population]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1338-1349},
+}
+
+@article{DBLP:journals/jsac/BowieHS88,
+  author    = {Leon A. Bowie and
+               Melanie A. Hickox and
+               Anekal B. Sripad},
+  title     = {An automated field repair tracking system [telecommunication products]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1350-1358},
+}
+
+@article{DBLP:journals/jsac/BroggiS88,
+  author    = {Roberto Broggi and
+               Luciano Salari},
+  title     = {FREDA: a methodology and a tool for monitoring quality and reliability of equipment and systems in the field [telecommunications]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1359-1363},
+}
+
+@article{DBLP:journals/jsac/PirovanoT88,
+  author    = {Gianni Pirovano and
+               Giorgio Turconi},
+  title     = {Telecommunications reliability databank: from components to systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1364-1370},
+}
+
+@article{DBLP:journals/jsac/CombotDT88,
+  author    = {Jean-Pierre Combot and
+               Jean-Pierre Desbois and
+               Dominique Treps},
+  title     = {{SCOOP-switching} centers operating observations processing},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1371-1377},
+}
+
+@article{DBLP:journals/jsac/Gruber88,
+  author    = {John G. Gruber},
+  title     = {Performance monitoring and surveillance in integrated services networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1378-1383},
+}
+
+@article{DBLP:journals/jsac/Parish88,
+  author    = {Robert J. Parish},
+  title     = {Software maintenance during system testing: enhanced methods for the System X project},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1385-1392},
+}
+
+@article{DBLP:journals/jsac/KumarRA88,
+  author    = {A. Kumar and
+               S. Rai and
+               D. P. Agrawal},
+  title     = {On computer communication network reliability under program execution constraints},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1393-1400},
+}
+
+@article{DBLP:journals/jsac/Ali88,
+  author    = {Syed Riffat Ali},
+  title     = {Implementation of firmware on {SPC} switching systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1401-1404},
+}
+
+@article{DBLP:journals/jsac/BarsL88,
+  author    = {Jean-Francois Bars and
+               Bernard Loyer},
+  title     = {Reliability and evolvability: requirements for the design of {ISDN} communication software},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1405-1413},
+}
+
+@article{DBLP:journals/jsac/ItohKSK88,
+  author    = {Yukio Itoh and
+               Hiroshi Kawashima and
+               Yuichi Shimojo and
+               Kenichiro Kawase},
+  title     = {Fault tolerance techniques in the NEAX61 digital switching system and its field performance},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1414-1421},
+}
+
+@article{DBLP:journals/jsac/SharifiW88,
+  author    = {M. H. Sharifi and
+               Lawrence J. Wolter},
+  title     = {Design and operational issues of {VSAT} application in {ISDN-type} networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1422-1430},
+}
+
+@article{DBLP:journals/jsac/BouanakaH88,
+  author    = {Hansali B. Bouanaka and
+               John D. Healy},
+  title     = {The effect of infant mortality of spares on switching system maintenance and downtime},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1431-1439},
+}
+
+@article{DBLP:journals/jsac/HawleyM88,
+  author    = {Frederick C. Hawley and
+               Patricia L. Murphy},
+  title     = {Effect of {DOA} spares on predicted system reliability [switching system]},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1440-1443},
+}
+
+@article{DBLP:journals/jsac/HamiltonL88,
+  author    = {Clinton M. Hamilton and
+               Barry R. Lewin},
+  title     = {An approach to developing an infant mortality requirement for fiber optic transport systems},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {8},
+  year      = 1988,
+  pages     = {1444-1447},
+}
+
+@article{DBLP:journals/jsac/Lee88,
+  author    = {Tony T. Lee},
+  title     = {Nonblocking copy networks for multicast packet switching},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1455-1467},
+}
+
+@article{DBLP:journals/jsac/Newman88,
+  author    = {Peter Newman},
+  title     = {A fast packet switch for the integrated services backbone network},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1468-1479},
+}
+
+@article{DBLP:journals/jsac/AnidoS88,
+  author    = {Gary J. Anido and
+               Anthony W. Seeto},
+  title     = {Multipath interconnection: a technique for reducing congestion within fast packet switching fabrics},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1480-1488},
+}
+
+@article{DBLP:journals/jsac/Pattavina88,
+  author    = {Achille Pattavina},
+  title     = {Multichannel bandwidth allocation in a broadband packet switch},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1489-1499},
+}
+
+@article{DBLP:journals/jsac/ArthursGKV88,
+  author    = {Edward Arthurs and
+               Matthew S. Goodman and
+               Haim Kobrinski and
+               Mario P. Vecchi},
+  title     = {HYPASS: an optoelectronic hybrid packet switching system},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1500-1510},
+}
+
+@article{DBLP:journals/jsac/Chao88,
+  author    = {H. Jonathan Chao},
+  title     = {Design of transmission and multiplexing systems for broadband packet networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1511-1520},
+}
+
+@article{DBLP:journals/jsac/UematsuW88,
+  author    = {Hitoshi Uematsu and
+               Ryuichi Watanabe},
+  title     = {Architecture of a packet switch based on banyan switching network with feedback loops},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1521-1527},
+}
+
+@article{DBLP:journals/jsac/DevaultCS88,
+  author    = {Michel Devault and
+               Jean-Yves Cochennec and
+               Michel Servel},
+  title     = {The `Prelude' {ATD} experiment: assessments and future prospects},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1528-1537},
+}
+
+@article{DBLP:journals/jsac/Prycker88,
+  author    = {Martin De Prycker},
+  title     = {Definition of network options for the Belgian {ATM} broadband experiment},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1538-1544},
+}
+
+@article{DBLP:journals/jsac/VorstermansV88,
+  author    = {Jan P. Vorstermans and
+               Andre P. De Vleeschouwer},
+  title     = {Layered {ATM} systems and architectural concepts for subscribers' premises networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1545-1555},
+}
+
+@article{DBLP:journals/jsac/SuzukiTAY88,
+  author    = {Hiroshi Suzuki and
+               Takao Takeuchi and
+               F. Akashi and
+               Takehuki Yamaguchi},
+  title     = {Very high speed and high capacity packet switching for broadband {ISDN}},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1556-1564},
+}
+
+@article{DBLP:journals/jsac/BhargavaKTV88,
+  author    = {Amit Bhargava and
+               James F. Kurose and
+               Don Towsley and
+               Guy Vanleemput},
+  title     = {Performance comparison of error control schemes in high-speed computer communication networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1565-1575},
+}
+
+@article{DBLP:journals/jsac/CidonGGS88,
+  author    = {Israel Cidon and
+               Inder S. Gopal and
+               George A. Grover and
+               Moshe Sidi},
+  title     = {Real-time packet switching: a performance analysis},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1576-1586},
+}
+
+@article{DBLP:journals/jsac/HluchyjK88,
+  author    = {Michael G. Hluchyj and
+               Mark J. Karol},
+  title     = {Queueing in high-performance packet switching},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1587-1597},
+}
+
+@article{DBLP:journals/jsac/Hui88,
+  author    = {Joseph Y. Hui},
+  title     = {Resource allocation for broadband networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1598-1608},
+}
+
+@article{DBLP:journals/jsac/OhnishiON88,
+  author    = {Hirokazu Ohnishi and
+               Tadanobu Okada and
+               Kiyohiro Noguchi},
+  title     = {Flow control schemes and delay/loss tradeoff in {ATM} networks},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1609-1616},
+}
+
+@article{DBLP:journals/jsac/Waxman88,
+  author    = {Bernard M. Waxman},
+  title     = {Routing of multipoint connections},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1617-1622},
+}
+
+@article{DBLP:journals/jsac/VerbiestPV88,
+  author    = {Willem Verbiest and
+               Luc Pinnoo and
+               Bart Voeten},
+  title     = {The impact of the {ATM} concept on video coding},
+  journal   = ieeesac,
+  volume    = {6},
+  number    = {9},
+  year      = 1988,
+  pages     = {1623-1632},
 }

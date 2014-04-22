@@ -555,7 +555,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/MickensD11,
-  author    = {James Mickens and
+  author    = {James W. Mickens and
                Mohan Dhawan},
   title     = {Atlantis: robust, extensible execution environments for web applications},
   booktitle = sosp,

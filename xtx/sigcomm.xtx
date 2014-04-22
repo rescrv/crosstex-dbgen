@@ -1133,7 +1133,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/SteinerGGHRSV12,
   author    = {Moritz Steiner and
-               Bob Gaglianello Gaglianello and
+               Bob Gaglianello and
                Vijay K. Gurbani and
                Volker Hilt and
                William D. Roome and
@@ -2213,7 +2213,7 @@
 @inproceedings{DBLP:conf/sigcomm/LlairoCTLKRSV11,
   author    = {Eduard Goma Llairo and
                Marco Canini and
-               Alberto Lopez Toledo and
+               Alberto López Toledo and
                Nikolaos Laoutaris and
                Dejan Kostic and
                Pablo Rodriguez and

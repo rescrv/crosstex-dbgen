@@ -1,5 +1,111 @@
 @include journals-cs
 
+@article{DBLP:journals/tods/KostylevRS14,
+  author    = {Egor V. Kostylev and
+               Juan L. Reutter and
+               András Z. Salamon},
+  title     = {Classification of annotation semirings over containment of conjunctive queries},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tods/YiWW14,
+  author    = {Ke Yi and
+               Lu Wang and
+               Zhewei Wei},
+  title     = {Indexing for summary queries: Theory and practice},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {2},
+}
+
+@article{DBLP:journals/tods/KiferM14,
+  author    = {Daniel Kifer and
+               Ashwin Machanavajjhala},
+  title     = {Pufferfish: A framework for mathematical privacy definitions},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {3},
+}
+
+@article{DBLP:journals/tods/MaCFHW14,
+  author    = {Shuai Ma and
+               Yang Cao and
+               Wenfei Fan and
+               Jinpeng Huai and
+               Tianyu Wo},
+  title     = {Strong simulation: Capturing topology in graph pattern matching},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {4},
+}
+
+@article{DBLP:journals/tods/GatterbauerS14,
+  author    = {Wolfgang Gatterbauer and
+               Dan Suciu},
+  title     = {Oblivious bounds on the probability of boolean functions},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {5},
+}
+
+@article{DBLP:journals/tods/FangNFL14,
+  author    = {Qiong Fang and
+               Wilfred Ng and
+               Jianlin Feng and
+               Yuliang Li},
+  title     = {Mining order-preserving submatrices from probabilistic matrices},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {6},
+}
+
+@article{DBLP:journals/tods/WangLF14,
+  author    = {Jiannan Wang and
+               Guoliang Li and
+               Jianhua Feng},
+  title     = {Extending string similarity join to tolerant fuzzy token matching},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {7},
+}
+
+@article{DBLP:journals/tods/SenT14,
+  author    = {Siddhartha Sen and
+               Robert Endre Tarjan},
+  title     = {Deletion without rebalancing in multiway search trees},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {8},
+}
+
+@article{DBLP:journals/tods/Nekrich14,
+  author    = {Yakov Nekrich},
+  title     = {Efficient range searching for categorical and plain data},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {9},
+}
+
 @article{DBLP:journals/tods/PapavasileiouFFKC13,
   author    = {Vicky Papavasileiou and
                Giorgos Flouris and

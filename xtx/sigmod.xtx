@@ -20885,7 +20885,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Team95,
-  author    = {Fox Development Team},
+  author    = {},
   title     = {Object-Oriented, Rapid Application Development in a {PC} Database Environment},
   booktitle = sigmod,
   year      = 1995,

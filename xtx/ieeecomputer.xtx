@@ -1,5 +1,594 @@
 @include journals-cs
 
+@article{DBLP:journals/computer/Brusilovsky14,
+  author    = {Peter Brusilovsky},
+  title     = {Collective Class Wisdom: Collaborative Lecture Annotation},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {6},
+}
+
+@article{DBLP:journals/computer/Forsyth14,
+  author    = {David Forsyth},
+  title     = {Object Detection with Discriminatively Trained {Part-Based} Models},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {6-7},
+}
+
+@article{DBLP:journals/computer/Milojicic14,
+  author    = {Dejan S. Milojicic},
+  title     = {Reinventing Relevance},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {6-8},
+}
+
+@article{DBLP:journals/computer/Severance14a,
+  author    = {Charles Severance},
+  title     = {Joseph Hardin: {NCSA} Mosaic},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {8-10},
+}
+
+@article{DBLP:journals/computer/Machiraju14,
+  author    = {Raghu Machiraju},
+  title     = {Fixing the Mercator Projection for the Internet Age},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {9},
+}
+
+@article{DBLP:journals/computer/Severance14b,
+  author    = {Charles Severance},
+  title     = {Len Kleinrock: The First Two Packets on the Internet},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {10-11},
+}
+
+@article{DBLP:journals/computer/Severance14,
+  author    = {Charles Severance},
+  title     = {Massimo Banzi: Building Arduino},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {11-12},
+}
+
+@article{DBLP:journals/computer/Gaff14a,
+  author    = {Brian M. Gaff},
+  title     = {{IP} 2013-2014: Looking Forward and Looking Back},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {11-13},
+}
+
+@article{DBLP:journals/computer/Gaff14b,
+  author    = {Brian M. Gaff},
+  title     = {Contracts 101},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {12-15},
+}
+
+@article{DBLP:journals/computer/Gaff14,
+  author    = {Brian M. Gaff},
+  title     = {Corporate Risks from Social Media},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {13-15},
+}
+
+@article{DBLP:journals/computer/Holmes14,
+  author    = {W. Neville Holmes},
+  title     = {32 & 16 Years Ago},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {14-15},
+}
+
+@article{DBLP:journals/computer/Garber14,
+  author    = {Lee Garber},
+  title     = {News Briefs},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {16-20},
+}
+
+@article{DBLP:journals/computer/Garber14a,
+  author    = {Lee Garber},
+  title     = {News Briefs},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {18-21},
+}
+
+@article{DBLP:journals/computer/BryceK14,
+  author    = {Renee Bryce and
+               Rick Kuhn},
+  title     = {Software Testing},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {21-22},
+}
+
+@article{DBLP:journals/computer/Vetter14,
+  author    = {Ron Vetter},
+  title     = {Digital Magazines: The Future of Publishing Is Here},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {22-23},
+}
+
+@article{DBLP:journals/computer/ShahCH14,
+  author    = {Chirag Shah and
+               Robert Capra and
+               Preben Hansen},
+  title     = {Collaborative Information Seeking},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {22-25},
+}
+
+@article{DBLP:journals/computer/AliAFBAP14,
+  author    = {Midhat Ali and
+               Francesco De Angelis and
+               Daniele Fanì and
+               Antonia Bertolino and
+               Guglielmo De Angelis and
+               Andrea Polini},
+  title     = {An Extensible Framework for Online Testing of Choreographed Services},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {23-29},
+}
+
+@article{DBLP:journals/computer/StraussB14,
+  author    = {Karin Strauss and
+               Doug Burger},
+  title     = {What the Future Holds for {Solid-State} Memory},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {24-31},
+}
+
+@article{DBLP:journals/computer/XuRR14,
+  author    = {Zhe Xu and
+               Jay Ramanathan and
+               Rajiv Ramnath},
+  title     = {Identifying Knowledge Brokers and Their Role in Enterprise Research through Social Media},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {26-31},
+}
+
+@article{DBLP:journals/computer/AntunesV14,
+  author    = {Nuno Antunes and
+               Marco Vieira},
+  title     = {Penetration Testing for Web Services},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {30-36},
+}
+
+@article{DBLP:journals/computer/BohmKH14,
+  author    = {Thilo Böhm and
+               Claus-Peter Klas and
+               Matthias Hemmje},
+  title     = {ezDL: Collaborative Information Seeking and Retrieval in a Heterogeneous Environment},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {32-37},
+}
+
+@article{DBLP:journals/computer/GollakotaRSW14,
+  author    = {Shyamnath Gollakota and
+               Matthew S. Reynolds and
+               Joshua R. Smith and
+               David Wetherall},
+  title     = {The Emergence of {RF-Powered} Computing},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {32-39},
+}
+
+@article{DBLP:journals/computer/YilmazFCPDK14,
+  author    = {Cemal Yilmaz and
+               Sandro Fouché and
+               Myra B. Cohen and
+               Adam A. Porter and
+               Gülsen Demiröz and
+               Ugur Koc},
+  title     = {Moving Forward with Combinatorial Interaction Testing},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {37-45},
+}
+
+@article{DBLP:journals/computer/TaoT14,
+  author    = {Yihan Tao and
+               Anastasios Tombros},
+  title     = {Investigating Collaborative Sensemaking Behavior in Collaborative Information Seeking},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {38-45},
+}
+
+@article{DBLP:journals/computer/KumarMK14,
+  author    = {Anuj Kumar and
+               Florian Metze and
+               Matthew Kam},
+  title     = {Enabling the Rapid Development and Adoption of {Speech-User} Interfaces},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {40-47},
+}
+
+@article{DBLP:journals/computer/YueHHJ14,
+  author    = {Zhen Yue and
+               Shuguang Han and
+               Daqing He and
+               Jiepu Jiang},
+  title     = {Influences on Query Reformulation in Collaborative Web Search},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {46-53},
+}
+
+@article{DBLP:journals/computer/GaoBTU14,
+  author    = {Jerry Gao and
+               Xiaoying Bai and
+               Wei-Tek Tsai and
+               Tadahiro Uehara},
+  title     = {Mobile Application Testing: A Tutorial},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {46-55},
+}
+
+@article{DBLP:journals/computer/Murphy-Hill14,
+  author    = {Emerson R. Murphy-Hill},
+  title     = {The Future of Social Learning in Software Engineering},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {48-54},
+}
+
+@article{DBLP:journals/computer/TeevanMA14,
+  author    = {Jaime Teevan and
+               Meredith Ringel Morris and
+               Shiri Azenkot},
+  title     = {Supporting Interpersonal Interaction during Collaborative Mobile Search},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {54-57},
+}
+
+@article{DBLP:journals/computer/DahnC14,
+  author    = {Andreas Dähn and
+               Clemens H. Cap},
+  title     = {Application Transparency and Manipulation},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {56-61},
+}
+
+@article{DBLP:journals/computer/KumKMA14,
+  author    = {Hye-Chung Kum and
+               Ashok Krishnamurthy and
+               Ashwin Machanavajjhala and
+               Stanley C. Ahalt},
+  title     = {Social Genome: Putting Big Data to Work for Population Informatics},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {56-63},
+}
+
+@article{DBLP:journals/computer/Hearst14,
+  author    = {Marti A. Hearst},
+  title     = {What's Missing from Collaborative Search?},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {58-61},
+}
+
+@article{DBLP:journals/computer/ChenSH14,
+  author    = {Zheng Chen and
+               Jian-Tao Sun and
+               Xuedong Huang},
+  title     = {Web Information at Your Fingertips: Paper as an Interaction Metaphor},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {62-66},
+}
+
+@article{DBLP:journals/computer/ChimiakPJ14,
+  author    = {William J. Chimiak and
+               Samuel T. Patton and
+               Stephen Janansky},
+  title     = {Enhanced IP: IPv4 with 64-Bit Addresses},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {62-69},
+}
+
+@article{DBLP:journals/computer/MontuschiB14,
+  author    = {Paolo Montuschi and
+               Alfredo Benso},
+  title     = {Augmented Reading: The Present and Future of Electronic Scientific Publications},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {64-74},
+}
+
+@article{DBLP:journals/computer/TimmererR14,
+  author    = {Christian Timmerer and
+               Benjamin Rainer},
+  title     = {The Social Multimedia Experience},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {67-69},
+}
+
+@article{DBLP:journals/computer/BroyS14,
+  author    = {Manfred Broy and
+               Albrecht Schmidt},
+  title     = {Challenges in Engineering {Cyber-Physical} Systems},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {70-72},
+}
+
+@article{DBLP:journals/computer/Berghel14b,
+  author    = {Hal Berghel},
+  title     = {STEM, Revisited},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {70-73},
+}
+
+@article{DBLP:journals/computer/Berghel14a,
+  author    = {Hal Berghel},
+  title     = {Moral Hazards, Negative Externalities, and the Surveillance Economy},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {73-77},
+}
+
+@article{DBLP:journals/computer/SilvaF14,
+  author    = {Hugo Plácido da Silva and
+               Ana L. N. Fred},
+  title     = {Harnessing the Power of Biosignals},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {74-77},
+}
+
+@article{DBLP:journals/computer/TilevichK14,
+  author    = {Eli Tilevich and
+               Young-Woo Kwon},
+  title     = {{Cloud-Based} Execution to Improve Mobile Application Energy Efficiency},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {75-77},
+}
+
+@article{DBLP:journals/computer/Cameron14,
+  author    = {Kirk Cameron},
+  title     = {The Evolution of Power Measurement},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {78-80},
+}
+
+@article{DBLP:journals/computer/VassilevH14,
+  author    = {Apostol Vassilev and
+               Timothy A. Hall},
+  title     = {The Importance of Entropy to Information Security},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {78-81},
+}
+
+@article{DBLP:journals/computer/Berghel14,
+  author    = {Hal Berghel},
+  title     = {Privacy Informatics: A Primer on Defensive Tactics for a Society under Siege},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {78-82},
+}
+
+@article{DBLP:journals/computer/McGraw14,
+  author    = {Gary McGraw},
+  title     = {Security Fatigue? Shift Your Paradigm},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {81-83},
+}
+
+@article{DBLP:journals/computer/Gruenbaum14,
+  author    = {Peter Gruenbaum},
+  title     = {Undergraduates Teach Game Programming Using Scratch},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {82-84},
+}
+
+@article{DBLP:journals/computer/Kshetri14,
+  author    = {Nir Kshetri},
+  title     = {Japan's Changing Cybersecurity Landscape},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {83-86},
+}
+
+@article{DBLP:journals/computer/Johnson14a,
+  author    = {Brian David Johnson},
+  title     = {The Darwin App},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {84-86},
+}
+
+@article{DBLP:journals/computer/CapillaOH14,
+  author    = {Rafael Capilla and
+               Óscar Ortiz and
+               Mike Hinchey},
+  title     = {Context Variability for {Context-Aware} Systems},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {85-87},
+}
+
+@article{DBLP:journals/computer/Johnson14,
+  author    = {Brian David Johnson},
+  title     = {Utopia Rising},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {87-89},
+}
+
+@article{DBLP:journals/computer/Froyd14,
+  author    = {Jeffrey E. Froyd},
+  title     = {The Nature of Scholarship in Computing Education: An Approach from {IEEE} Transactions on Education},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {88-90},
+}
+
+@article{DBLP:journals/computer/Grier14b,
+  author    = {David Alan Grier},
+  title     = {Assets to the Table},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {3},
+  year      = 2014,
+  pages     = {100},
+}
+
+@article{DBLP:journals/computer/Grier14,
+  author    = {David Alan Grier},
+  title     = {Just Out of It},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {1},
+  year      = 2014,
+  pages     = {104},
+}
+
+@article{DBLP:journals/computer/Grier14a,
+  author    = {David Alan Grier},
+  title     = {Practice and Theory},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {2},
+  year      = 2014,
+  pages     = {104},
+}
+
 @article{DBLP:journals/computer/Garber13a,
   author    = {Lee Garber},
   title     = {Letters},
@@ -1924,7 +2513,7 @@
                Feng Chen and
                Jaime Arredondo and
                David Mares and
-               Kristen Summers},
+               Kristen Maria Summers},
   title     = {Analyzing Civil Unrest through Social Media},
   journal   = ieeecomputer,
   volume    = {46},
@@ -4262,7 +4851,7 @@
   author    = {Arnold Brown and
                Benjamin Apple and
                James Bret Michael and
-               Michael Schumann},
+               Michael A. Schumann},
   title     = {{Atomic-Level} Security for Web Applications in a Cloud Environment},
   journal   = ieeecomputer,
   volume    = {45},

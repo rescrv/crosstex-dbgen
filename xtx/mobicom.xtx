@@ -1,5 +1,732 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/mobicom/Bonomi13,
+  author    = {Flavio Bonomi},
+  title     = {The evolution of mobility and wireless technologies in the age of the internet of things},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/mobicom/WangAKKR13,
+  author    = {Jue Wang and
+               Fadel Adib and
+               Ross A. Knepper and
+               Dina Katabi and
+               Daniela Rus},
+  title     = {RF-compass: robot object manipulation using {RFIDs}},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/mobicom/HuGP13,
+  author    = {Wenjun Hu and
+               Hao Gu and
+               Qifan Pu},
+  title     = {LightSync: unsynchronized visual communication over screen-camera links},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/mobicom/PuGGP13,
+  author    = {Qifan Pu and
+               Sidhant Gupta and
+               Shyamnath Gollakota and
+               Shwetak Patel},
+  title     = {Whole-home gesture recognition using wireless signals},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {27-38},
+}
+
+@inproceedings{DBLP:conf/mobicom/ShahzadLS13,
+  author    = {Muhammad Shahzad and
+               Alex X. Liu and
+               Arjmand Samuel},
+  title     = {Secure unlocking of mobile touch screen devices by simple gestures: you can see it but you can not do it},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {39-50},
+}
+
+@inproceedings{DBLP:conf/mobicom/WangKLTH13,
+  author    = {Shuai Wang and
+               Song Min Kim and
+               Yunhuai Liu and
+               Guang Tan and
+               Tian He},
+  title     = {CorLayer: a transparent link correlation layer for energy efficient broadcast},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {51-62},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChakrabortyNPR13,
+  author    = {Abhijnan Chakraborty and
+               Vishnu Navda and
+               Venkata N. Padmanabhan and
+               Ramachandran Ramjee},
+  title     = {Coordinating cellular background transfers using loadsense},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {63-74},
+}
+
+@inproceedings{DBLP:conf/mobicom/NawazEM13,
+  author    = {Sarfraz Nawaz and
+               Christos Efstratiou and
+               Cecilia Mascolo},
+  title     = {ParkSense: a smartphone based sensing system for on-street parking},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {75-86},
+}
+
+@inproceedings{DBLP:conf/mobicom/TuPWLL13,
+  author    = {Guan-hua Tu and
+               Chunyi Peng and
+               Hongqi Wang and
+               Chi-Yu Li and
+               Songwu Lu},
+  title     = {How voice calls affect data in operational {LTE} networks},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {87-98},
+}
+
+@inproceedings{DBLP:conf/mobicom/SundaresanASRK13,
+  author    = {Karthikeyan Sundaresan and
+               Mustafa Y. Arslan and
+               Shailendra Singh and
+               Sampath Rangarajan and
+               Srikanth V. Krishnamurthy},
+  title     = {FluidNet: a flexible cloud-based radio access network for small cells},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {99-110},
+}
+
+@inproceedings{DBLP:conf/mobicom/BlackburnSEIP13,
+  author    = {Jeremy Blackburn and
+               Rade Stanojevic and
+               Vijay Erramilli and
+               Adriana Iamnitchi and
+               Konstantina Papagiannaki},
+  title     = {Last call for the buffet: economics of cellular networks},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {111-122},
+}
+
+@inproceedings{DBLP:conf/mobicom/JoyYGWMS13,
+  author    = {Joshua Joy and
+               Yu-Ting Yu and
+               Mario Gerla and
+               Samuel Wood and
+               James Mathewson and
+               Mark-Oliver Stehr},
+  title     = {Network coding for content-based intermittently connected emergency networks},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {123-126},
+}
+
+@inproceedings{DBLP:conf/mobicom/KimMCEBMNCO13,
+  author    = {Joongheon Kim and
+               Feiyu Meng and
+               Peiyao Chen and
+               Hilmi E. Egilmez and
+               Dilip Bethanabhotla and
+               Andreas F. Molisch and
+               Michael J. Neely and
+               Giuseppe Caire and
+               Antonio Ortega},
+  title     = {Adaptive video streaming for device-to-device mobile platforms},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {127-130},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChenC13,
+  author    = {Lien-Wu Chen and
+               Po-Chun Chou},
+  title     = {A lane-level cooperative collision avoidance system based on vehicular sensor networks},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {131-134},
+}
+
+@inproceedings{DBLP:conf/mobicom/MahkonenRKSKSJ13,
+  author    = {Heikki Mahkonen and
+               Teemu Rinta-aho and
+               Tero Kauppinen and
+               Mohit Sethi and
+               Jimmy Kjällman and
+               Patrik Salmela and
+               Tony Jokikyyny},
+  title     = {Secure M2M cloud testbed},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {135-138},
+}
+
+@inproceedings{DBLP:conf/mobicom/HuangM13,
+  author    = {Wenjian Huang and
+               Wai Ho Mow},
+  title     = {PiCode: 2D barcode with embedded picture and ViCode: 3D barcode with embedded video},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {139-142},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZhangT13,
+  author    = {Jiansong Zhang and
+               Kun Tan},
+  title     = {Flexible array of inexpensive radios},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {143-146},
+}
+
+@inproceedings{DBLP:conf/mobicom/FlorianAB13,
+  author    = {Martin Florian and
+               Simeon Andreev and
+               Ingmar Baumgart},
+  title     = {OverDrive: an overlay-based geocast service for smart traffic applications},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {147-150},
+}
+
+@inproceedings{DBLP:conf/mobicom/ElbagouryYXE13,
+  author    = {Ahmed Elbagoury and
+               Moustafa Youssef and
+               Dongyue Xue and
+               Eylem Ekici},
+  title     = {v(t) CSMA: a link scheduling algorithm in wireless networks with improved delay characteristics},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {151-154},
+}
+
+@inproceedings{DBLP:conf/mobicom/YackoskiANBLSL13,
+  author    = {Justin Yackoski and
+               Babak Azimi-Sadjadi and
+               Ali Namazi and
+               Alexey Bogaevskiy and
+               Jason Li and
+               Yalin Evren Sagduyu and
+               Renato Levy},
+  title     = {Mobile network performance evaluation using the radio frequency network channel emulation simulation tool(RFnest™)},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {155-158},
+}
+
+@inproceedings{DBLP:conf/mobicom/BloesslSSD13,
+  author    = {Bastian Bloessl and
+               Michele Segata and
+               Christoph Sommer and
+               Falko Dressler},
+  title     = {Decoding {IEEE} 802.11a/g/p {OFDM} in software using {GNU} radio},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {159-162},
+}
+
+@inproceedings{DBLP:conf/mobicom/ShepardYZ13,
+  author    = {Clayton Shepard and
+               Hang Yu and
+               Lin Zhong},
+  title     = {ArgosV2: a flexible many-antenna research platform},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {163-166},
+}
+
+@inproceedings{DBLP:conf/mobicom/PassasCKLHKKMT13,
+  author    = {Virgilios Passas and
+               Kostas Chounos and
+               Stratos Keranidis and
+               Wei Liu and
+               Lieven Hollevoet and
+               Thanasis Korakis and
+               Iordanis Koutsopoulos and
+               Ingrid Moerman and
+               Leandros Tassiulas},
+  title     = {Online evaluation of sensing characteristics for radio platforms in the {CREW} federated testbed},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {167-170},
+}
+
+@inproceedings{DBLP:conf/mobicom/SuzukiNKHW13,
+  author    = {Hidekazu Suzuki and
+               Katsuhiro Naito and
+               Kazuma Kamienoo and
+               Tatsuya Hirose and
+               Akira Watanabe},
+  title     = {NTMobile: new end-to-end communication architecture in IPv4 and IPv6 networks},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {171-174},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiLX13,
+  author    = {Jie Li and
+               Li Liu and
+               Feng Xia},
+  title     = {BEEINFO: data forwarding based on interest and swarm intelligence for socially-aware networking},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {175-178},
+}
+
+@inproceedings{DBLP:conf/mobicom/AsalMSEMEY13,
+  author    = {Abdelrahman Asal and
+               Ahmad Mamdouh and
+               Ahmed Salama and
+               Moamen Elgendy and
+               Moamen Mokhtar and
+               Muhammed Elsayed and
+               Moustafa Youssef},
+  title     = {CRESCENT: a modular cost-efficient open-access testbed for cognitive radio networks routing protocols},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {179-182},
+}
+
+@inproceedings{DBLP:conf/mobicom/VenmaniGZ13,
+  author    = {Daniel Philip Venmani and
+               Yvon Gourhant and
+               Djamal Zeghlache},
+  title     = {OpenRoutes: augmenting backhaul network survivability with reduced redundancy- a topology based analysis},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {183-186},
+}
+
+@inproceedings{DBLP:conf/mobicom/BoZLHW13,
+  author    = {Cheng Bo and
+               Lan Zhang and
+               Xiang-Yang Li and
+               Qiuyuan Huang and
+               Yu Wang},
+  title     = {SilentSense: silent user identification via touch and movement behavioral biometrics},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {187-190},
+}
+
+@inproceedings{DBLP:conf/mobicom/TuncayBH13,
+  author    = {Güliz Seray Tuncay and
+               Giacomo Benincasa and
+               Ahmed Helmy},
+  title     = {Participant recruitment and data collection framework for opportunistic sensing: a comparative analysis},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {191-194},
+}
+
+@inproceedings{DBLP:conf/mobicom/BoLJMTY13,
+  author    = {Cheng Bo and
+               Xiang-Yang Li and
+               Taeho Jung and
+               XuFei Mao and
+               Yue Tao and
+               Lan Yao},
+  title     = {SmartLoc: push the limit of the inertial sensor based metropolitan localization using smartphone},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {195-198},
+}
+
+@inproceedings{DBLP:conf/mobicom/BoJLMWL13,
+  author    = {Cheng Bo and
+               Xuesi Jian and
+               Xiang-Yang Li and
+               XuFei Mao and
+               Yu Wang and
+               Fan Li},
+  title     = {You're driving and texting: detecting drivers using personal smart phones by leveraging inertial sensors},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {199-202},
+}
+
+@inproceedings{DBLP:conf/mobicom/FahimMH13,
+  author    = {Afnan Fahim and
+               Abderrahmen Mtibaa and
+               Khaled A. Harras},
+  title     = {Making the case for computational offloading in mobile device clouds},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {203-205},
+}
+
+@inproceedings{DBLP:conf/mobicom/RahmanBCRV13,
+  author    = {Mahmudur Rahman and
+               Jaime Ballesteros and
+               Bogdan Carbunar and
+               Naphtali Rishe and
+               Athanasios V. Vasilakos},
+  title     = {Toward preserving privacy and functionality in geosocial networks},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {207-210},
+}
+
+@inproceedings{DBLP:conf/mobicom/SavolainenHRKJRTT13,
+  author    = {Petri Savolainen and
+               Sumi Helal and
+               Jukka Reitmaa and
+               Kai Kuikkaniemi and
+               Giulio Jacucci and
+               Mikko Rinne and
+               Marko Turpeinen and
+               Sasu Tarkoma},
+  title     = {Spaceify: a client-edge-server ecosystem for mobile computing in smart spaces},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {211-214},
+}
+
+@inproceedings{DBLP:conf/mobicom/MorisawaKA13,
+  author    = {Yuta Morisawa and
+               Yoshihiro Kawahara and
+               Tohru Asami},
+  title     = {Reducing power consumption of IEEE802.11 stations in flexible multicast services},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {215-218},
+}
+
+@inproceedings{DBLP:conf/mobicom/IshiharaNN13,
+  author    = {Susumu Ishihara and
+               Nobuhiro Nakamura and
+               Yuya Niimi},
+  title     = {Demand-based location dependent data dissemination in {VANETs}},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {219-222},
+}
+
+@inproceedings{DBLP:conf/mobicom/UddinN13,
+  author    = {Mostafa Uddin and
+               Tamer Nadeem},
+  title     = {SpyLoc: a light weight localization system for smartphones},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {223-226},
+}
+
+@inproceedings{DBLP:conf/mobicom/HosseinabadiV13,
+  author    = {Ghazale Hosseinabadi and
+               Nitin H. Vaidya},
+  title     = {Concurrent-MAC: increasing concurrent transmissions in {multi-AP} wireless lans},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {227-230},
+}
+
+@inproceedings{DBLP:conf/mobicom/BaumannKS13,
+  author    = {Paul Baumann and
+               Wilhelm Kleiminger and
+               Silvia Santini},
+  title     = {How long are you staying?: predicting residence time from human mobility traces},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {231-234},
+}
+
+@inproceedings{DBLP:conf/mobicom/WangYLCGM13,
+  author    = {Yan Wang and
+               Jie Yang and
+               Hongbo Liu and
+               Yingying Chen and
+               Marco Gruteser and
+               Richard P. Martin},
+  title     = {Measuring human queues using {WiFi} signals},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {235-238},
+}
+
+@inproceedings{DBLP:conf/mobicom/HuiL13,
+  author    = {Jie Hui and
+               Kevin Lau},
+  title     = {{T-Mobile} {QoE} lab: making mobile browsing faster and open research problems},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {239-242},
+}
+
+@inproceedings{DBLP:conf/mobicom/KumarKH13,
+  author    = {Udayan Kumar and
+               Jeeyoung Kim and
+               Ahmed Helmy},
+  title     = {Comparing wireless network usage: laptop vs smart-phones},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {243-246},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChakrabortyDB13,
+  author    = {Ayon Chakraborty and
+               Samir R. Das and
+               Milind M. Buddhikot},
+  title     = {Radio environment mapping with mobile devices in the {TV} white space},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {247-250},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZhangB13,
+  author    = {Tan Zhang and
+               Suman Banerjee},
+  title     = {V-scope: an opportunistic wardriving approach to augmenting {TV} whitespace databases},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {251-254},
+}
+
+@inproceedings{DBLP:conf/mobicom/YingZYZCC13,
+  author    = {Xuhang Ying and
+               Jincheng Zhang and
+               Lichao Yan and
+               Guanglin Zhang and
+               Minghua Chen and
+               Ranveer Chandra},
+  title     = {Exploring indoor white spaces in metropolises},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {255-266},
+}
+
+@inproceedings{DBLP:conf/mobicom/SenRLK13,
+  author    = {Souvik Sen and
+               Bozidar Radunovic and
+               Jeongkeun Lee and
+               Kyu-Han Kim},
+  title     = {CSpy: finding the best quality channel without probing},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {267-278},
+}
+
+@inproceedings{DBLP:conf/mobicom/AdibKAGK13,
+  author    = {Fadel Adib and
+               Swarun Kumar and
+               Omid Aryan and
+               Shyamnath Gollakota and
+               Dina Katabi},
+  title     = {Interference alignment by motion},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {279-290},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChenZY13,
+  author    = {Binbin Chen and
+               Ziling Zhou and
+               Haifeng Yu},
+  title     = {Understanding {RFID} counting protocols},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {291-302},
+}
+
+@inproceedings{DBLP:conf/mobicom/BogoP13,
+  author    = {Federica Bogo and
+               Enoch Peserico},
+  title     = {Optimal throughput and delay in delay-tolerant networks with ballistic mobility},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {303-314},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiuS13,
+  author    = {Shu Liu and
+               Aaron Striegel},
+  title     = {Exploring the potential in practice for opportunistic networks amongst smart mobile devices},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {315-326},
+}
+
+@inproceedings{DBLP:conf/mobicom/YunKQ13,
+  author    = {Sangki Yun and
+               Daehyeok Kim and
+               Lili Qiu},
+  title     = {Fine-grained spectrum adaptation in {WiFi} networks},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {327-338},
+}
+
+@inproceedings{DBLP:conf/mobicom/PatroGB13,
+  author    = {Ashish Patro and
+               Srinivas Govindan and
+               Suman Banerjee},
+  title     = {Observing home wireless experience through {WiFi} {APs}},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {339-350},
+}
+
+@inproceedings{DBLP:conf/mobicom/BansalCSS13,
+  author    = {Tarun Bansal and
+               Bo Chen and
+               Prasun Sinha and
+               Kannan Srinivasan},
+  title     = {Symphony: cooperative packet recovery over the wired backbone in enterprise {WLANs}},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {351-362},
+}
+
+@inproceedings{DBLP:conf/mobicom/Sekar13,
+  author    = {Krishna Sekar},
+  title     = {Power and thermal challenges in mobile devices},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {363-368},
+}
+
+@inproceedings{DBLP:conf/mobicom/Buddhikot13,
+  author    = {Milind M. Buddhikot},
+  title     = {Towards a virtual cellular network with variable grade spectrum: challenges and opportunities},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {369-374},
+}
+
+@inproceedings{DBLP:conf/mobicom/Gruteser13,
+  author    = {Marco Gruteser},
+  title     = {Indoor localization: ready for primetime?},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {375-376},
+}
+
+@inproceedings{DBLP:conf/mobicom/HoqueSN13,
+  author    = {Mohammad Ashraful Hoque and
+               Matti Siekkinen and
+               Jukka K. Nurminen},
+  title     = {Using crowd-sourced viewing statistics to save energy in wireless video streaming},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {377-388},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChenMKRC13,
+  author    = {Jiasi Chen and
+               Rajesh Mahindra and
+               Amir Khojastepour and
+               Sampath Rangarajan and
+               Mung Chiang},
+  title     = {A scheduling framework for adaptive video delivery over cellular networks},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {389-400},
+}
+
+@inproceedings{DBLP:conf/mobicom/ShenA13,
+  author    = {Shan-Hsiang Shen and
+               Aditya Akella},
+  title     = {An information-aware {QoE-centric} mobile video cache},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {401-412},
+}
+
+@inproceedings{DBLP:conf/mobicom/Nandagopal13,
+  author    = {Thyagarajan Nandagopal},
+  title     = {Panel: the evolution of wireless video - technology and applications},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {413-414},
+}
+
+@inproceedings{DBLP:conf/mobicom/Tirri13,
+  author    = {Henry Tirri},
+  title     = {Indexing the real world: sensing, big data and mobility},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {415-416},
+}
+
+@inproceedings{DBLP:conf/mobicom/FarbLKMP13,
+  author    = {Michael Farb and
+               Yue-Hsun Lin and
+               Tiffany Hyun-Jin Kim and
+               Jonathan M. McCune and
+               Adrian Perrig},
+  title     = {SafeSlinger: easy-to-use and secure public-key exchange},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {417-428},
+}
+
+@inproceedings{DBLP:conf/mobicom/ArgyrakiDDFGK13,
+  author    = {Katerina J. Argyraki and
+               Suhas N. Diggavi and
+               Melissa Duarte and
+               Christina Fragouli and
+               Marios Gatzianas and
+               Panagiotis Kostopoulos},
+  title     = {Creating secrets out of erasures},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {429-440},
+}
+
+@inproceedings{DBLP:conf/mobicom/XiongJ13,
+  author    = {Jie Xiong and
+               Kyle Jamieson},
+  title     = {SecureArray: improving wifi security with fine-grained physical-layer information},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {441-452},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZhangSKRS13,
+  author    = {Xinyu Zhang and
+               Karthikeyan Sundaresan and
+               Mohammad Ali Khojastepour and
+               Sampath Rangarajan and
+               Kang G. Shin},
+  title     = {NEMOx: scalable network {MIMO} for wireless networks},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {453-464},
+}
+
+@inproceedings{DBLP:conf/mobicom/YanYLTZY13,
+  author    = {Yubo Yan and
+               Panlong Yang and
+               Xiangyang Li and
+               Yue Tao and
+               Lan Zhang and
+               Lizhao You},
+  title     = {ZIMO: building cross-technology {MIMO} to harmonize zigbee smog with {WiFi} flash without intervention},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {465-476},
+}
+
+@inproceedings{DBLP:conf/mobicom/XieZS13,
+  author    = {Xiufeng Xie and
+               Xinyu Zhang and
+               Karthikeyan Sundaresan},
+  title     = {Adaptive feedback compression for {MIMO} networks},
+  booktitle = mobicom,
+  year      = 2013,
+  pages     = {477-488},
+}
+
 @inproceedings{DBLP:conf/mobicom/Akyildiz12,
   author    = {Ian F. Akyildiz},
   title     = {Nanonetworks: a new frontier in communications},
@@ -1233,7 +1960,7 @@
 @inproceedings{DBLP:conf/mobicom/GiustinianoLTDMR10,
   author    = {Domenico Giustiniano and
                Eduard Goma Llairo and
-               Alberto Lopez Toledo and
+               Alberto López Toledo and
                Ian Dangerfield and
                Julián David Morillo-Pozo and
                Pablo Rodriguez},

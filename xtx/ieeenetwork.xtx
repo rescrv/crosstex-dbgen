@@ -1,5 +1,113 @@
 @include journals-cs
 
+@article{DBLP:journals/network/ZhangZXHV14,
+  author    = {Daqiang Zhang and
+               Daqing Zhang and
+               Haoyi Xiong and
+               Ching-Hsien Hsu and
+               Athanasios V. Vasilakos},
+  title     = {BASA: building mobile {Ad-Hoc} social networks on top of android},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {1},
+  year      = 2014,
+  pages     = {4-9},
+}
+
+@article{DBLP:journals/network/HeCZGCB14,
+  author    = {Daojing He and
+               Sammy Chan and
+               Yan Zhang and
+               Mohsen Guizani and
+               Chun Chen and
+               Jiajun Bu},
+  title     = {An enhanced public key infrastructure to secure smart grid wireless communication networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {1},
+  year      = 2014,
+  pages     = {10-16},
+}
+
+@article{DBLP:journals/network/CaiMOLDY14,
+  author    = {Yifeng Cai and
+               Yijun Mo and
+               Kaoru Ota and
+               Changqing Luo and
+               Mianxiong Dong and
+               Laurence T. Yang},
+  title     = {Optimal data fusion of collaborative spectrum sensing under attack in cognitive radio networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {1},
+  year      = 2014,
+  pages     = {17-23},
+}
+
+@article{DBLP:journals/network/MengMC14,
+  author    = {Weixiao Meng and
+               Ruofei Ma and
+               Hsiao-Hwa Chen},
+  title     = {Smart grid neighborhood area networks: a survey},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {1},
+  year      = 2014,
+  pages     = {24-32},
+}
+
+@article{DBLP:journals/network/BelqasmiAGSK14,
+  author    = {Fatna Belqasmi and
+               Christian Azar and
+               Roch H. Glitho and
+               Mbarka Soualhia and
+               Nadjia Kara},
+  title     = {A case study on {IVR} applications' provisioning as cloud computing services},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {1},
+  year      = 2014,
+  pages     = {33-41},
+}
+
+@article{DBLP:journals/network/ChengWC14,
+  author    = {Wei Cheng and
+               Shengling Wang and
+               Xiuzhen Cheng},
+  title     = {Virtual track: applications and challenges of the {RFID} system on roads},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {1},
+  year      = 2014,
+  pages     = {42-47},
+}
+
+@article{DBLP:journals/network/DengLJLL14,
+  author    = {Wei Deng and
+               Fangming Liu and
+               Hai Jin and
+               Bo Li and
+               Dan Li},
+  title     = {Harnessing renewable energy in cloud datacenters: opportunities and challenges},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {1},
+  year      = 2014,
+  pages     = {48-55},
+}
+
+@article{DBLP:journals/network/LinCF14,
+  author    = {Phone Lin and
+               Pai-Chun Chung and
+               Yuguang Fang},
+  title     = {P2P-iSN: a peer-to-peer architecture for heterogeneous social networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {1},
+  year      = 2014,
+  pages     = {56-64},
+}
+
 @article{DBLP:journals/network/0001LL13,
   author    = {Bo Li and
                Baochun Li and
@@ -1062,7 +1170,7 @@
   author    = {Ning Wang and
                Yan Zhang and
                Joan Serrat and
-               Juan Luis Gorricho and
+               Juan-Luis Gorricho and
                Tao Guo and
                Zheng Hu and
                Ping Zhang},
@@ -3187,7 +3295,7 @@
 @article{DBLP:journals/network/AkanKE09,
   author    = {Özgür B. Akan and
                O. Karli and
-               O. Ergul},
+               Özgür Ergül},
   title     = {Cognitive radio sensor networks},
   journal   = ieeenetwork,
   volume    = {23},

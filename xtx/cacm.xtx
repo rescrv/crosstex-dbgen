@@ -20,6 +20,16 @@
   pages     = {5},
 }
 
+@article{DBLP:journals/cacm/Vardi14a,
+  author    = {Moshe Y. Vardi},
+  title     = {Boolean satisfiability: theory and engineering},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {5},
+}
+
 @article{DBLP:journals/cacm/Cerf14,
   author    = {Vinton G. Cerf},
   title     = {Virtual reality redux},
@@ -36,6 +46,16 @@
   journal   = cacm,
   volume    = {57},
   number    = {2},
+  year      = 2014,
+  pages     = {7},
+}
+
+@article{DBLP:journals/cacm/Cerf14b,
+  author    = {Vinton G. Cerf},
+  title     = {What if it's us?},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
   year      = 2014,
   pages     = {7},
 }
@@ -60,6 +80,16 @@
   pages     = {9},
 }
 
+@article{DBLP:journals/cacm/X14d,
+  author    = {},
+  title     = {Develop research culture in the Arab Middle East},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {9},
+}
+
 @article{DBLP:journals/cacm/X14a,
   author    = {},
   title     = {{ACM's} FY13 annual report},
@@ -80,6 +110,26 @@
   pages     = {10-11},
 }
 
+@article{DBLP:journals/cacm/Matsudaira14,
+  author    = {Kate Matsudaira},
+  title     = {Capturing and structuring data mined from the web},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {10-11},
+}
+
+@article{DBLP:journals/cacm/Klarreich14,
+  author    = {Erica Klarreich},
+  title     = {Reading brains},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {12-14},
+}
+
 @article{DBLP:journals/cacm/Monroe14,
   author    = {Don Monroe},
   title     = {A new type of mathematics?},
@@ -88,6 +138,16 @@
   number    = {2},
   year      = 2014,
   pages     = {13-15},
+}
+
+@article{DBLP:journals/cacm/Kirkpatrick14,
+  author    = {Keith Kirkpatrick},
+  title     = {World without wires},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {15-17},
 }
 
 @article{DBLP:journals/cacm/X14b,
@@ -121,6 +181,16 @@
   pages     = {18-19},
 }
 
+@article{DBLP:journals/cacm/Savage14,
+  author    = {Neil Savage},
+  title     = {Playing at health},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {18-19},
+}
+
 @article{DBLP:journals/cacm/Greengard14,
   author    = {Samuel Greengard},
   title     = {Computational photography comes into focus},
@@ -129,6 +199,16 @@
   number    = {2},
   year      = 2014,
   pages     = {19-21},
+}
+
+@article{DBLP:journals/cacm/Samuelson14,
+  author    = {Pamela Samuelson},
+  title     = {Mass digitization as fair use},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {20-22},
 }
 
 @article{DBLP:journals/cacm/Anthes14,
@@ -151,6 +231,17 @@
   pages     = {22},
 }
 
+@article{DBLP:journals/cacm/NarayananV14,
+  author    = {Arvind Narayanan and
+               Shannon Vallor},
+  title     = {Why software engineering courses should include ethics coverage},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {23-25},
+}
+
 @article{DBLP:journals/cacm/Geller14,
   author    = {Tom Geller},
   title     = {How do you feel?: your computer knows},
@@ -171,6 +262,16 @@
   number    = {2},
   year      = 2014,
   pages     = {24-27},
+}
+
+@article{DBLP:journals/cacm/Denning14,
+  author    = {Peter J. Denning},
+  title     = {'Surfing toward the future'},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {26-29},
 }
 
 @article{DBLP:journals/cacm/Hyman14,
@@ -203,6 +304,16 @@
   pages     = {30-32},
 }
 
+@article{DBLP:journals/cacm/Ladner14,
+  author    = {Richard E. Ladner},
+  title     = {The impact of the United Nations convention on the rights of persons with disabilities},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {30-32},
+}
+
 @article{DBLP:journals/cacm/YoungL14,
   author    = {William Young and
                Nancy G. Leveson},
@@ -222,6 +333,16 @@
   number    = {1},
   year      = 2014,
   pages     = {33-35},
+}
+
+@article{DBLP:journals/cacm/Patterson14,
+  author    = {David Patterson},
+  title     = {How to build a bad research center},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {33-36},
 }
 
 @article{DBLP:journals/cacm/Neville-Neil14,
@@ -255,6 +376,20 @@
   number    = {2},
   year      = 2014,
   pages     = {38-39},
+}
+
+@article{DBLP:journals/cacm/GolabRAKL14,
+  author    = {Wojciech M. Golab and
+               Muntasir Raihan Rahman and
+               Alvin AuYoung and
+               Kimberly Keeton and
+               Xiaozhou (Steve) Li},
+  title     = {Eventually consistent: not what you were expecting?},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {38-44},
 }
 
 @article{DBLP:journals/cacm/Andriole14,
@@ -299,6 +434,17 @@
   pages     = {44-51},
 }
 
+@article{DBLP:journals/cacm/SproullW14,
+  author    = {Robert F. Sproull and
+               Jim Waldo},
+  title     = {The {API} performance contract},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {45-51},
+}
+
 @article{DBLP:journals/cacm/Bell14,
   author    = {Alex E. Bell},
   title     = {The software inferno},
@@ -317,6 +463,16 @@
   number    = {2},
   year      = 2014,
   pages     = {52-54},
+}
+
+@article{DBLP:journals/cacm/Kleen14,
+  author    = {Andi Kleen},
+  title     = {Scaling existing lock-based applications with lock elision},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {52-56},
 }
 
 @article{DBLP:journals/cacm/Lango14,
@@ -341,6 +497,20 @@
   pages     = {55-62},
 }
 
+@article{DBLP:journals/cacm/YangCWTH14,
+  author    = {Junfeng Yang and
+               Heming Cui and
+               Jingyue Wu and
+               Yang Tang and
+               Gang Hu},
+  title     = {Making parallel programs reliable with stable multithreading},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {58-69},
+}
+
 @article{DBLP:journals/cacm/MadhavapeddyS14,
   author    = {Anil Madhavapeddy and
                David J. Scott},
@@ -360,6 +530,17 @@
   number    = {2},
   year      = 2014,
   pages     = {64-73},
+}
+
+@article{DBLP:journals/cacm/AlvaradoJ14,
+  author    = {Christine Alvarado and
+               Eugene Judson},
+  title     = {Using targeted conferences to recruit women into computer science},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {70-77},
 }
 
 @article{DBLP:journals/cacm/OHaraGSPVMCCRDC14,
@@ -397,6 +578,18 @@
   pages     = {74-84},
 }
 
+@article{DBLP:journals/cacm/KimTC14,
+  author    = {Gang-Hoon Kim and
+               Silvana Trimi and
+               Ji-Hyong Chung},
+  title     = {Big-data applications in the government sector},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {78-85},
+}
+
 @article{DBLP:journals/cacm/LiVR14,
   author    = {Jessica Pu Li and
                Arun Vishwanath and
@@ -431,6 +624,18 @@
   pages     = {86-93},
 }
 
+@article{DBLP:journals/cacm/ZielinskaMS14,
+  author    = {Elzbieta Zielinska and
+               Wojciech Mazurczyk and
+               Krzysztof Szczypiorski},
+  title     = {Trends in steganography},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {86-95},
+}
+
 @article{DBLP:journals/cacm/HuangBR14,
   author    = {Xuedong Huang and
                James Baker and
@@ -452,6 +657,32 @@
   number    = {2},
   year      = 2014,
   pages     = {94-103},
+}
+
+@article{DBLP:journals/cacm/Wallach14,
+  author    = {Dan Wallach},
+  title     = {Smartphone security 'taint' what it used to be: technical perspective},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {98},
+}
+
+@article{DBLP:journals/cacm/EnckGCCJMS14,
+  author    = {William Enck and
+               Peter Gilbert and
+               Byung-Gon Chun and
+               Landon P. Cox and
+               Jaeyeon Jung and
+               Patrick McDaniel and
+               Anmol Sheth},
+  title     = {TaintDroid: an information flow tracking system for real-time privacy monitoring on smartphones},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {99-106},
 }
 
 @article{DBLP:journals/cacm/Iyer14,
@@ -498,6 +729,26 @@
   number    = {1},
   year      = 2014,
   pages     = {107-115},
+}
+
+@article{DBLP:journals/cacm/Winkler14a,
+  author    = {Peter Winkler},
+  title     = {Puzzled: Solutions and sources},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {109},
+}
+
+@article{DBLP:journals/cacm/Hoffmann14,
+  author    = {Leah Hoffmann},
+  title     = {Q&A: {RISC} and reward},
+  journal   = cacm,
+  volume    = {57},
+  number    = {3},
+  year      = 2014,
+  pages     = {112},
 }
 
 @article{DBLP:journals/cacm/Winkler14,
@@ -3509,7 +3760,7 @@
 }
 
 @article{DBLP:journals/cacm/Hall12a,
-  author    = {Mary Hall},
+  author    = {Mary W. Hall},
   title     = {Understanding {ACM's} past},
   journal   = cacm,
   volume    = {55},
@@ -91636,7 +91887,7 @@
 
 @article{DBLP:journals/cacm/OppenheimerW68,
   author    = {G. Oppenheimer and
-               N. Weizer},
+               Norman Weizer},
   title     = {Resource management for a medium scale time-sharing operating system},
   journal   = cacm,
   volume    = {11},
@@ -95398,8 +95649,8 @@
 
 @article{DBLP:journals/cacm/LedleyJB66,
   author    = {Robert S. Ledley and
-               J. Jacobsen and
-               M. Belson},
+               John Jacobsen and
+               Marilyn Belson},
   title     = {BUGSYS: a programming system for picture processing - not for debugging},
   journal   = cacm,
   volume    = {9},
@@ -96337,7 +96588,7 @@
 
 @article{DBLP:journals/cacm/RockwellSWM66,
   author    = {M. A. Rockwell and
-               H. Shubin and
+               Herbert Shubin and
                Max Harry Weil and
                P. F. Meagher},
   title     = {Shock III, a computer system as an aid in the management of critically {III} patients},
