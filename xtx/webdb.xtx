@@ -1,5 +1,115 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/webdb/AbiteboulDESWSS15,
+  author    = {Serge Abiteboul and
+               Xin Luna Dong and
+               Oren Etzioni and
+               Divesh Srivastava and
+               Gerhard Weikum and
+               Julia Stoyanovich and
+               Fabian M. Suchanek},
+  title     = {The elephant in the room: getting value from Big Data},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {1-5},
+}
+
+@inproceedings{DBLP:conf/webdb/LiZ0XZZ15,
+  author    = {Zhixu Li and
+               Xiangliang Zhang and
+               Hai Huang and
+               Qing Xie and
+               Jia Zhu and
+               Xiaofang Zhou},
+  title     = {Addressing Instance Ambiguity in Web Harvesting},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {6-12},
+}
+
+@inproceedings{DBLP:conf/webdb/TalaikaBAS15,
+  author    = {Aliaksandr Talaika and
+               Joanna Biega and
+               Antoine Amarilli and
+               Fabian M. Suchanek},
+  title     = {IBEX: Harvesting Entities from the Web Using Unique Identifiers},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {13-19},
+}
+
+@inproceedings{DBLP:conf/webdb/DasLSKW15,
+  author    = {G. Sujatha Das and
+               Xiang Li and
+               Ang Sun and
+               Hakan Kardes and
+               Xin Wang},
+  title     = {{Person-Name} Parsing for Linking User Web Profiles},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {20-26},
+}
+
+@inproceedings{DBLP:conf/webdb/BaHSW15,
+  author    = {Mouhamadou Lamine Ba and
+               Roxana Horincar and
+               Pierre Senellart and
+               Huayu Wu},
+  title     = {Truth Finding with Attribute Partitioning},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {27-33},
+}
+
+@inproceedings{DBLP:conf/webdb/RazniewskiN15,
+  author    = {Simon Razniewski and
+               Werner Nutt},
+  title     = {Long-term Optimization of Update Frequencies for Decaying Information},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {34-40},
+}
+
+@inproceedings{DBLP:conf/webdb/StoyanovichJG15,
+  author    = {Julia Stoyanovich and
+               Marie Jacob and
+               Xuemei Gong},
+  title     = {Analyzing Crowd Rankings},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {41-47},
+}
+
+@inproceedings{DBLP:conf/webdb/Przyjaciel-Zablocki15,
+  author    = {Martin Przyjaciel-Zablocki and
+               Alexander Schätzle and
+               Georg Lausen},
+  title     = {TriAL-QL: Distributed Processing of Navigational Queries},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {48-54},
+}
+
+@inproceedings{DBLP:conf/webdb/OitaS15,
+  author    = {Marilena Oita and
+               Pierre Senellart},
+  title     = {FOREST: Focused Object Retrieval by Exploiting Significant Tag Paths},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {55-61},
+}
+
+@inproceedings{DBLP:conf/webdb/Movshovitz-Attias15,
+  author    = {Dana Movshovitz-Attias and
+               Steven Euijong Whang and
+               Natalya Fridman Noy and
+               Alon Y. Halevy},
+  title     = {Discovering Subsumption Relationships for {Web-Based} Ontologies},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {62-69},
+}
+
 @inproceedings{DBLP:conf/webdb/Doan13,
   author    = {AnHai Doan},
   title     = {Badger: Toward Crowdsourcing the Building of Structured Knowledge Bases},
@@ -2037,7 +2147,7 @@
 
 @inproceedings{DBLP:conf/webdb/DoanDL00,
   author    = {AnHai Doan and
-               Pedro Domingos and
+               Pedro M. Domingos and
                Alon Y. Levy},
   title     = {Learning Source Description for Data Integration},
   booktitle = webdb,

@@ -71,7 +71,7 @@
   title     = {Parallel Matrix Multiplication on a Linear Array with a Reconfigurable Pipelined Bus System},
   booktitle = ipps,
   year      = 1999,
-  pages     = {31},
+  pages     = {31-35},
 }
 
 @inproceedings{DBLP:conf/ipps/Nolte99,
@@ -227,7 +227,7 @@
   title     = {A Capabilities Based Communication Model for {High-Performance} Distributed Applications: The Open HPC++ Approach},
   booktitle = ipps,
   year      = 1999,
-  pages     = {105},
+  pages     = {105-109},
 }
 
 @inproceedings{DBLP:conf/ipps/KellerC99,
@@ -284,7 +284,7 @@
   title     = {Experimental Evaluation of QSM, a Simple {Shared-Memory} Model},
   booktitle = ipps,
   year      = 1999,
-  pages     = {130},
+  pages     = {130-136},
 }
 
 @inproceedings{DBLP:conf/ipps/LeMahieuB99,
@@ -301,7 +301,7 @@
                Kentaro Inenaga and
                Makoto Amamiya and
                Xinan Tang and
-               Andrés Márquez and
+               Andrès Márquez and
                Guang R. Gao},
   title     = {Implementing a {Non-Strict} Functional Programming Language on a Threaded Architecture},
   booktitle = ipps,
@@ -383,7 +383,7 @@
   title     = {Reducing System Overheads in Home-based Software {DSMs}},
   booktitle = ipps,
   year      = 1999,
-  pages     = {167},
+  pages     = {167-173},
 }
 
 @inproceedings{DBLP:conf/ipps/WasiewiczBMW99,
@@ -472,7 +472,7 @@
   title     = {Ubiquitous Message Passing Interface Implementation in Java: jmpi},
   booktitle = ipps,
   year      = 1999,
-  pages     = {203},
+  pages     = {203-207},
 }
 
 @inproceedings{DBLP:conf/ipps/JedrzejowiczCSS99,
@@ -539,7 +539,7 @@
   title     = {Optimally Scaling Permutation Routing on Reconfigurable Linear Arrays with Optical Buses},
   booktitle = ipps,
   year      = 1999,
-  pages     = {233},
+  pages     = {233-237},
 }
 
 @inproceedings{DBLP:conf/ipps/TalbiRFR99,
@@ -627,7 +627,7 @@
   title     = {An Efficient {VLSI} Architecture Parallel Prefix Counting With Domino Logic},
   booktitle = ipps,
   year      = 1999,
-  pages     = {273},
+  pages     = {273-277},
 }
 
 @inproceedings{DBLP:conf/ipps/BoloniHJM99,
@@ -720,7 +720,7 @@
   title     = {{OpenMP} for Networks of {SMPs}},
   booktitle = ipps,
   year      = 1999,
-  pages     = {302},
+  pages     = {302-310},
 }
 
 @inproceedings{DBLP:conf/ipps/DindaKLO99,
@@ -791,7 +791,7 @@
   title     = {VBMAR: Virtual Network Load Balanced Minimal Adaptive Routing},
   booktitle = ipps,
   year      = 1999,
-  pages     = {330},
+  pages     = {330-335},
 }
 
 @inproceedings{DBLP:conf/ipps/BiswasODH99,
@@ -887,7 +887,7 @@
   title     = {An {Object-Oriented} Environment for Sparse Parallel Computation on Adaptive Grids},
   booktitle = ipps,
   year      = 1999,
-  pages     = {365},
+  pages     = {365-369},
 }
 
 @inproceedings{DBLP:conf/ipps/KimL99,
@@ -1012,7 +1012,7 @@
   title     = {Visualization and Performance Prediction of Multithreaded Solaris Programs by Tracing Kernel Threads},
   booktitle = ipps,
   year      = 1999,
-  pages     = {407},
+  pages     = {407-413},
 }
 
 @inproceedings{DBLP:conf/ipps/KohKS99,
@@ -1030,7 +1030,7 @@
   title     = {Delivering On Standards, Balancing Portability and Performance},
   booktitle = ipps,
   year      = 1999,
-  pages     = {416},
+  pages     = {416-418},
 }
 
 @inproceedings{DBLP:conf/ipps/HuangY99,
@@ -1103,7 +1103,7 @@
   title     = {The Recursive Grid Layout Scheme for {VLSI} Layout of Hierarchical Networks},
   booktitle = ipps,
   year      = 1999,
-  pages     = {441},
+  pages     = {441-445},
 }
 
 @inproceedings{DBLP:conf/ipps/Chatterjee99,
@@ -1187,7 +1187,7 @@
   title     = {A Systolic Algorithm to Process Compressed Binary Images},
   booktitle = ipps,
   year      = 1999,
-  pages     = {477},
+  pages     = {477-484},
 }
 
 @inproceedings{DBLP:conf/ipps/KaleBPV99,
@@ -1266,7 +1266,7 @@
   title     = {Supporting Priorities and Improving Utilization of the {IBM} {SP} Scheduler Using {Slack-Based} Backfilling},
   booktitle = ipps,
   year      = 1999,
-  pages     = {513},
+  pages     = {513-517},
 }
 
 @inproceedings{DBLP:conf/ipps/SimitciRFMOTW99,
@@ -1336,7 +1336,7 @@
   title     = {Randomized Initialization Protocols for Packet Radio Networks},
   booktitle = ipps,
   year      = 1999,
-  pages     = {544},
+  pages     = {544-548},
 }
 
 @inproceedings{DBLP:conf/ipps/Seidmann99,
@@ -1435,7 +1435,7 @@
   title     = {Infrastructure for Building Parallel Database Systems for {Multi-Dimensional} Data},
   booktitle = ipps,
   year      = 1999,
-  pages     = {582},
+  pages     = {582-587},
 }
 
 @inproceedings{DBLP:conf/ipps/SrinivasanRVW99,
@@ -1510,7 +1510,7 @@
   title     = {Marshaling/Demarshaling as a Compilation/Interpretation Process},
   booktitle = ipps,
   year      = 1999,
-  pages     = {616},
+  pages     = {616-621},
 }
 
 @inproceedings{DBLP:conf/ipps/Fernandez-ZepedaVT99,
@@ -1530,7 +1530,7 @@
   title     = {{IP} Validation for {FPGAs} using Hardware Object {TechnologyTM}},
   booktitle = ipps,
   year      = 1999,
-  pages     = {624},
+  pages     = {624-629},
 }
 
 @inproceedings{DBLP:conf/ipps/Middendorf99,
@@ -1619,7 +1619,7 @@
   title     = {Large Scale Simulation of Particulate Flows},
   booktitle = ipps,
   year      = 1999,
-  pages     = {660},
+  pages     = {660-666},
 }
 
 @inproceedings{DBLP:conf/ipps/LuLSBKF99,
@@ -1762,7 +1762,7 @@
   title     = {An Efficient Dynamic Load Balancing using the Dimension Exchange Method for Balancing of Quantized Loads on Hypercube Multiprocessors},
   booktitle = ipps,
   year      = 1999,
-  pages     = {708},
+  pages     = {708-712},
 }
 
 @inproceedings{DBLP:conf/ipps/SuyamaYN99,
@@ -1857,7 +1857,7 @@
   title     = {Hyperplane Partitioning: An Approach to Global Data Partitioning for Distributed Memory Machines},
   booktitle = ipps,
   year      = 1999,
-  pages     = {744},
+  pages     = {744-748},
 }
 
 @inproceedings{DBLP:conf/ipps/BakerCFKL99,
@@ -1879,7 +1879,7 @@
   title     = {Exploiting Application Tunability for Efficient, Predictable Parallel Resource Management},
   booktitle = ipps,
   year      = 1999,
-  pages     = {749},
+  pages     = {749-758},
 }
 
 @inproceedings{DBLP:conf/ipps/Sarmenta99,
@@ -3021,7 +3021,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/JenqL98,
-  author    = {Jing-Fu Fu Jenq and
+  author    = {Jing-Fu Jenq and
                Wing Ning Li},
   title     = {Artificial Neural Networks on Reconfigurable Meshes},
   booktitle = ipps,
@@ -7194,7 +7194,7 @@
   title     = {On generalized fat trees},
   booktitle = ipps,
   year      = 1995,
-  pages     = {37},
+  pages     = {37-44},
 }
 
 @inproceedings{DBLP:conf/ipps/BeichlTB95,
@@ -7253,7 +7253,7 @@
   title     = {Parallel algorithms for space-time adaptive processing},
   booktitle = ipps,
   year      = 1995,
-  pages     = {77},
+  pages     = {77-81},
 }
 
 @inproceedings{DBLP:conf/ipps/AndrewsACL95,
@@ -7310,7 +7310,7 @@
   title     = {A distributed algorithm for the detection of local cycles and knots},
   booktitle = ipps,
   year      = 1995,
-  pages     = {118},
+  pages     = {118-127},
 }
 
 @inproceedings{DBLP:conf/ipps/BruckDHOS95,
@@ -7372,7 +7372,7 @@
   title     = {Parallel algorithms for database operations and a database operation for parallel algorithms},
   booktitle = ipps,
   year      = 1995,
-  pages     = {173},
+  pages     = {173-179},
 }
 
 @inproceedings{DBLP:conf/ipps/TschokeLM95,
@@ -7428,7 +7428,7 @@
   title     = {The parameterized {Round-Robin} partitioned algorithm for parallel external sort},
   booktitle = ipps,
   year      = 1995,
-  pages     = {213},
+  pages     = {213-219},
 }
 
 @inproceedings{DBLP:conf/ipps/ZengA95,
@@ -7484,7 +7484,7 @@
   title     = {The emulation problem on trees},
   booktitle = ipps,
   year      = 1995,
-  pages     = {251},
+  pages     = {251-255},
 }
 
 @inproceedings{DBLP:conf/ipps/Johnson95,
@@ -7538,7 +7538,7 @@
   title     = {A parallel approach for multiprocessor scheduling},
   booktitle = ipps,
   year      = 1995,
-  pages     = {289},
+  pages     = {289-293},
 }
 
 @inproceedings{DBLP:conf/ipps/ElGindyW95,
@@ -7593,7 +7593,7 @@
   title     = {A near-optimal algorithm for gossiping in a d-dimensional mesh bus interconnection network},
   booktitle = ipps,
   year      = 1995,
-  pages     = {331},
+  pages     = {331-337},
 }
 
 @inproceedings{DBLP:conf/ipps/KennedyN95,
@@ -7637,7 +7637,7 @@
   title     = {Compiler techniques for increasing CU/{PE} overlap in {SIMD} machines},
   booktitle = ipps,
   year      = 1995,
-  pages     = {369},
+  pages     = {369-375},
 }
 
 @inproceedings{DBLP:conf/ipps/AllenS95,
@@ -7690,7 +7690,7 @@
   title     = {A unified theory for a traffic analysis in product networks},
   booktitle = ipps,
   year      = 1995,
-  pages     = {411},
+  pages     = {411-415},
 }
 
 @inproceedings{DBLP:conf/ipps/GilbertMT95,
@@ -7747,7 +7747,7 @@
   title     = {Folding spatial image filters on the CM-5},
   booktitle = ipps,
   year      = 1995,
-  pages     = {451},
+  pages     = {451-456},
 }
 
 @inproceedings{DBLP:conf/ipps/YenB95,
@@ -7797,7 +7797,7 @@
   title     = {Operating system support for concurrent remote task creation},
   booktitle = ipps,
   year      = 1995,
-  pages     = {486},
+  pages     = {486-492},
 }
 
 @inproceedings{DBLP:conf/ipps/BhattJSBW95,
@@ -7826,7 +7826,7 @@
   title     = {The {RACE} network architecture},
   booktitle = ipps,
   year      = 1995,
-  pages     = {508},
+  pages     = {508-513},
 }
 
 @inproceedings{DBLP:conf/ipps/MeadowsMY95,
@@ -7846,7 +7846,7 @@
   title     = {Transformable computers & hardware object technology},
   booktitle = ipps,
   year      = 1995,
-  pages     = {518},
+  pages     = {518-522},
 }
 
 @inproceedings{DBLP:conf/ipps/ParkA95,
@@ -7903,7 +7903,7 @@
   title     = {Efficient routing and message bounds for optimal parallel algorithms},
   booktitle = ipps,
   year      = 1995,
-  pages     = {556},
+  pages     = {556-562},
 }
 
 @inproceedings{DBLP:conf/ipps/PontelliGH95,
@@ -7961,7 +7961,7 @@
   title     = {Time scale combining of conservative parallel discrete event simulations},
   booktitle = ipps,
   year      = 1995,
-  pages     = {599},
+  pages     = {599-603},
 }
 
 @inproceedings{DBLP:conf/ipps/HelmMF95,
@@ -8017,7 +8017,7 @@
   title     = {A visualization-based environment for top-down debugging of parallel programs},
   booktitle = ipps,
   year      = 1995,
-  pages     = {640},
+  pages     = {640-645},
 }
 
 @inproceedings{DBLP:conf/ipps/Panda95,
@@ -8061,7 +8061,7 @@
   title     = {Timestamp consistency and trace-driven analysis for distributed parallel systems},
   booktitle = ipps,
   year      = 1995,
-  pages     = {680},
+  pages     = {680-686},
 }
 
 @inproceedings{DBLP:conf/ipps/LeeRN95,
@@ -8118,7 +8118,7 @@
   title     = {Scalable parallel list ranking of image edges on fine-grained machines},
   booktitle = ipps,
   year      = 1995,
-  pages     = {717},
+  pages     = {717-721},
 }
 
 @inproceedings{DBLP:conf/ipps/ChandyMMM95,
@@ -8183,7 +8183,7 @@
   title     = {On deriving data parallel code from a functional program},
   booktitle = ipps,
   year      = 1995,
-  pages     = {766},
+  pages     = {766-772},
 }
 
 @inproceedings{DBLP:conf/ipps/RamacherRHBBWSGWM95,
@@ -8237,7 +8237,7 @@
   title     = {Evaluating Bayes nets with concurrent process networks},
   booktitle = ipps,
   year      = 1995,
-  pages     = {805},
+  pages     = {805-810},
 }
 
 @inproceedings{DBLP:conf/ipps/MoonUS95,
@@ -8289,7 +8289,7 @@
   title     = {An adaptive synchronization method for unpredictable communication patterns in dataparallel programs},
   booktitle = ipps,
   year      = 1995,
-  pages     = {838},
+  pages     = {838-844},
 }
 
 @inproceedings{DBLP:conf/ipps/HydeKMMNSW95,
@@ -8407,7 +8407,7 @@
                Bernd Mohr and
                Peter H. Beckman and
                Dennis Gannon and
-               Shelby Yang and
+               Shelby X. Yang and
                François Bodin},
   title     = {Performance Analysis of pC++: A Portable {Data-Parallel} Programming System for Scalable Parallel Computers},
   booktitle = ipps,
@@ -11341,7 +11341,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/JenqS92,
-  author    = {Jing-Fu Fu Jenq and
+  author    = {Jing-Fu Jenq and
                Sartaj Sahni},
   title     = {Serial and Parallel Algorithms for the Medial Axis Transform},
   booktitle = ipps,
@@ -11496,7 +11496,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/JenqS92a,
-  author    = {Jing-Fu Fu Jenq and
+  author    = {Jing-Fu Jenq and
                Sartaj Sahni},
   title     = {Histogramming on a Reconfigurable Mesh Computer},
   booktitle = ipps,
@@ -12203,7 +12203,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/JenqS91,
-  author    = {Jing-Fu Fu Jenq and
+  author    = {Jing-Fu Jenq and
                Sartaj Sahni},
   title     = {Reconfigurable Mesh Algorithms for Image Shrinking, Expanding, Clustering, and Template Matching},
   booktitle = ipps,

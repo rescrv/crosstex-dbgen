@@ -1,5 +1,345 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cloud/LiuZZMGM14,
+  author    = {Chang Liu and
+               Jiaxing Zhang and
+               Hucheng Zhou and
+               Sean McDirmid and
+               Zhenyu Guo and
+               Thomas Moscibroda},
+  title     = {Automating Distributed Partial Aggregation},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/cloud/CurinoDDKRR14,
+  author    = {Carlo Curino and
+               Djellel Eddine Difallah and
+               Chris Douglas and
+               Subru Krishnan and
+               Raghu Ramakrishnan and
+               Sriram Rao},
+  title     = {Reservation-based Scheduling: If You're Late Don't Blame Us!},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/cloud/GhorbaniSMKCRW14,
+  author    = {Soudeh Ghorbani and
+               Cole Schlesinger and
+               Matthew Monaco and
+               Eric Keller and
+               Matthew Caesar and
+               Jennifer Rexford and
+               David Walker},
+  title     = {Transparent, Live Migration of a {Software-Defined} Network},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/cloud/DuI0Z14,
+  author    = {Jiaqing Du and
+               Calin Iorgulescu and
+               Amitabha Roy and
+               Willy Zwaenepoel},
+  title     = {GentleRain: Cheap and Scalable Causal Consistency with Physical Clocks},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/cloud/CuiTWXDHHGGGX14,
+  author    = {Henggang Cui and
+               Alexey Tumanov and
+               Jinliang Wei and
+               Lianghong Xu and
+               Wei Dai and
+               Jesse Haber-Kucharsky and
+               Qirong Ho and
+               Gregory R. Ganger and
+               Phillip B. Gibbons and
+               Garth A. Gibson and
+               Eric P. Xing},
+  title     = {Exploiting iterative-ness for parallel {ML} computations},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/cloud/LiGZSS14,
+  author    = {Haoyuan Li and
+               Ali Ghodsi and
+               Matei Zaharia and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {Tachyon: Reliable, Memory Speed Storage for Cluster Computing Frameworks},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/cloud/GunawiHLPDAELLM14,
+  author    = {Haryadi S. Gunawi and
+               Mingzhe Hao and
+               Tanakorn Leesatapornwongsa and
+               Tiratat Patana-anake and
+               Thanh Do and
+               Jeffry Adityatama and
+               Kurnia J. Eliazar and
+               Agung Laksono and
+               Jeffrey F. Lukman and
+               Vincentius Martin and
+               Anang D. Satria},
+  title     = {What Bugs Live in the Cloud?: A Study of 3000+ Issues in Cloud Systems},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/cloud/DeanNGZRAJ14,
+  author    = {Daniel Joseph Dean and
+               Hiep Nguyen and
+               Xiaohui Gu and
+               Hui Zhang and
+               Junghwan Rhee and
+               Nipun Arora and
+               Geoff Jiang},
+  title     = {PerfScope: Practical Online Server Performance Bug Inference in Production Cloud Computing Infrastructures},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/cloud/LiSPG14,
+  author    = {Jialin Li and
+               Naveen Kr. Sharma and
+               Dan R. K. Ports and
+               Steven D. Gribble},
+  title     = {Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/cloud/ButtGS14,
+  author    = {Shakeel Butt and
+               Vinod Ganapathy and
+               Abhinav Srivastava},
+  title     = {On the Control Plane of a Self-service Cloud Platform},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/cloud/ZhangEFS14,
+  author    = {Dongli Zhang and
+               Moussa Ehsan and
+               Michael Ferdman and
+               Radu Sion},
+  title     = {DIMMer: A case for turning off {DIMMs} in clouds},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/cloud/DobreVV14,
+  author    = {Dan Dobre and
+               Paolo Viotti and
+               Marko Vukolic},
+  title     = {Hybris: Robust Hybrid Cloud Storage},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/cloud/Leesatapornwongsa14,
+  author    = {Tanakorn Leesatapornwongsa and
+               Haryadi S. Gunawi},
+  title     = {The Case for {Drill-Ready} Cloud Computing},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/cloud/TembeyGS14,
+  author    = {Priyanka Tembey and
+               Ada Gavrilovska and
+               Karsten Schwan},
+  title     = {Merlin: Application- and Platform-aware Resource Allocation in Consolidated Server Systems},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/cloud/StuediTMP14,
+  author    = {Patrick Stuedi and
+               Animesh Trivedi and
+               Bernard Metzler and
+               Jonas Pfefferle},
+  title     = {DaRPC: Data Center {RPC}},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {15-1},
+}
+
+@inproceedings{DBLP:conf/cloud/DasZSS14,
+  author    = {Tathagata Das and
+               Yuan Zhong and
+               Ion Stoica and
+               Scott Shenker},
+  title     = {Adaptive Stream Processing using Dynamic Batch Sizing},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {16-1},
+}
+
+@inproceedings{DBLP:conf/cloud/YeoHHL14,
+  author    = {Sungkap Yeo and
+               Mohammad M. Hossain and
+               Jen-Cheng Huang and
+               Hsien-Hsin S. Lee},
+  title     = {ATAC: Ambient {Temperature-Aware} Capping for Power Efficient Datacenters},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {17-1},
+}
+
+@inproceedings{DBLP:conf/cloud/KiverisLMRV14,
+  author    = {Raimondas Kiveris and
+               Silvio Lattanzi and
+               Vahab S. Mirrokni and
+               Vibhor Rastogi and
+               Sergei Vassilvitskii},
+  title     = {Connected Components in {MapReduce} and Beyond},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {18-1},
+}
+
+@inproceedings{DBLP:conf/cloud/SfakianakisMPPF14,
+  author    = {Yannis Sfakianakis and
+               Stelios Mavridis and
+               Anastasios Papagiannis and
+               Spyridon Papageorgiou and
+               Markos Fountoulakis and
+               Manolis Marazakis and
+               Angelos Bilas},
+  title     = {Vanguard: Increasing Server Efficiency via Workload Isolation in the Storage I/O Path},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {19-1},
+}
+
+@inproceedings{DBLP:conf/cloud/CarvalhoCBW14,
+  author    = {Marcus Carvalho and
+               Walfredo Cirne and
+               Francisco Vilar Brasileiro and
+               John Wilkes},
+  title     = {Long-term {SLOs} for reclaimed cloud computing resources},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {20-1},
+}
+
+@inproceedings{DBLP:conf/cloud/DeyMK14,
+  author    = {Kallol Dey and
+               Debadatta Mishra and
+               Purushottam Kulkarni},
+  title     = {Vagabond: Dynamic Network Endpoint Reconfiguration in Virtualized Environments},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {21-1},
+}
+
+@inproceedings{DBLP:conf/cloud/MoraruAK14,
+  author    = {Iulian Moraru and
+               David G. Andersen and
+               Michael Kaminsky},
+  title     = {Paxos Quorum Leases: Fast Reads Without Sacrificing Writes},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {22-1},
+}
+
+@inproceedings{DBLP:conf/cloud/WangMZT14,
+  author    = {Yandong Wang and
+               Xiaoqiao Meng and
+               Li Zhang and
+               Jian Tan},
+  title     = {C-Hint: An Effective and Reliable Cache Management for {RDMA-Accelerated} {Key-Value} Stores},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {23-1},
+}
+
+@inproceedings{DBLP:conf/cloud/ChenSS14,
+  author    = {Liuhua Chen and
+               Haiying Shen and
+               Karan Sapra},
+  title     = {Distributed Autonomous Virtual Resource Management in Datacenters Using {Finite-Markov} Decision Process},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {24-1},
+}
+
+@inproceedings{DBLP:conf/cloud/LiJGG14,
+  author    = {Kaituo Li and
+               Pallavi Joshi and
+               Aarti Gupta and
+               Malay K. Ganai},
+  title     = {ReproLite: A Lightweight Tool to Quickly Reproduce Hard System Bugs},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {25-1},
+}
+
+@inproceedings{DBLP:conf/cloud/YadwadkarAK14,
+  author    = {Neeraja J. Yadwadkar and
+               Ganesh Ananthanarayanan and
+               Randy H. Katz},
+  title     = {Wrangler: Predictable and Faster Jobs using Fewer Resources},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {26-1},
+}
+
+@inproceedings{DBLP:conf/cloud/GamageXKX14,
+  author    = {Sahan Gamage and
+               Cong Xu and
+               Ramana Rao Kompella and
+               Dongyan Xu},
+  title     = {vPipe: Piped I/O Offloading for Efficient Data Movement in Virtualized Clouds},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {27-1},
+}
+
+@inproceedings{DBLP:conf/cloud/SaemundssonBCV14,
+  author    = {Trausti Saemundsson and
+               Hjortur Bjornsson and
+               Gregory Chockler and
+               Ymir Vigfusson},
+  title     = {Dynamic Performance Profiling of Cloud Caches},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {28-1},
+}
+
+@inproceedings{DBLP:conf/cloud/ZhuTKHG14,
+  author    = {Timothy Zhu and
+               Alexey Tumanov and
+               Michael A. Kozuch and
+               Mor Harchol-Balter and
+               Gregory R. Ganger},
+  title     = {PriorityMeister: Tail Latency {QoS} for Shared Networked Storage},
+  booktitle = socc,
+  year      = 2014,
+  pages     = {29-1},
+}
+
 @inproceedings{DBLP:conf/cloud/RajagopalanWJ13,
   author    = {Shriram Rajagopalan and
                Dan Williams and
@@ -7,7 +347,7 @@
   title     = {Pico replication: a high availability framework for middleboxes},
   booktitle = socc,
   year      = 2013,
-  pages     = {1},
+  pages     = {1-1},
 }
 
 @inproceedings{DBLP:conf/cloud/JuSSRS13,
@@ -19,7 +359,7 @@
   title     = {On fault resilience of {OpenStack}},
   booktitle = socc,
   year      = 2013,
-  pages     = {2},
+  pages     = {2-1},
 }
 
 @inproceedings{DBLP:conf/cloud/DongYJPMLG13,
@@ -33,7 +373,7 @@
   title     = {COLO: {COarse-grained} {LOck-stepping} virtual machines for non-stop service},
   booktitle = socc,
   year      = 2013,
-  pages     = {3},
+  pages     = {3-1},
 }
 
 @inproceedings{DBLP:conf/cloud/BhattacharyaCFGSS13,
@@ -46,7 +386,7 @@
   title     = {Hierarchical scheduling for diverse datacenter workloads},
   booktitle = socc,
   year      = 2013,
-  pages     = {4},
+  pages     = {4-1},
 }
 
 @inproceedings{DBLP:conf/cloud/VavilapalliMDAKEGLSSSCORRB13,
@@ -69,12 +409,12 @@
   title     = {Apache Hadoop YARN: yet another resource negotiator},
   booktitle = socc,
   year      = 2013,
-  pages     = {5},
+  pages     = {5-1},
 }
 
 @inproceedings{DBLP:conf/cloud/ChoRCGARL13,
   author    = {Brian Cho and
-               Muntasir Rahman and
+               Muntasir Raihan Rahman and
                Tej Chajed and
                Indranil Gupta and
                Cristina Abad and
@@ -83,7 +423,7 @@
   title     = {Natjam: design and evaluation of eviction policies for supporting priorities and deadlines in mapreduce clusters},
   booktitle = socc,
   year      = 2013,
-  pages     = {6},
+  pages     = {6-1},
 }
 
 @inproceedings{DBLP:conf/cloud/XuBNJ13,
@@ -94,7 +434,7 @@
   title     = {Small is better: avoiding latency traps in virtualized data centers},
   booktitle = socc,
   year      = 2013,
-  pages     = {7},
+  pages     = {7-1},
 }
 
 @inproceedings{DBLP:conf/cloud/BarberLMPRW13,
@@ -107,7 +447,7 @@
   title     = {Go, server, go!: parallel computing with moving servers},
   booktitle = socc,
   year      = 2013,
-  pages     = {8},
+  pages     = {8-1},
 }
 
 @inproceedings{DBLP:conf/cloud/WuWAS13,
@@ -118,7 +458,7 @@
   title     = {Virtual network diagnosis as a service},
   booktitle = socc,
   year      = 2013,
-  pages     = {9},
+  pages     = {9-1},
 }
 
 @inproceedings{DBLP:conf/cloud/StuediMT13,
@@ -128,7 +468,7 @@
   title     = {jVerbs: ultra-low latency for data center applications},
   booktitle = socc,
   year      = 2013,
-  pages     = {10},
+  pages     = {10-1},
 }
 
 @inproceedings{DBLP:conf/cloud/DuE0Z13,
@@ -139,7 +479,7 @@
   title     = {Orbe: scalable causal consistency using dependency matrices and physical clocks},
   booktitle = socc,
   year      = 2013,
-  pages     = {11},
+  pages     = {11-1},
 }
 
 @inproceedings{DBLP:conf/cloud/Abu-LibdehRV13,
@@ -149,7 +489,7 @@
   title     = {Leveraging sharding in the design of scalable replication protocols},
   booktitle = socc,
   year      = 2013,
-  pages     = {12},
+  pages     = {12-1},
 }
 
 @inproceedings{DBLP:conf/cloud/HongT13,
@@ -158,7 +498,7 @@
   title     = {Understanding and mitigating the impact of load imbalance in the memory caching tier},
   booktitle = socc,
   year      = 2013,
-  pages     = {13},
+  pages     = {13-1},
 }
 
 @inproceedings{DBLP:conf/cloud/DoHLPG13,
@@ -170,7 +510,7 @@
   title     = {Limplock: understanding the impact of limpware on scale-out cloud systems},
   booktitle = socc,
   year      = 2013,
-  pages     = {14},
+  pages     = {14-1},
 }
 
 @inproceedings{DBLP:conf/cloud/PotharajuJ13,
@@ -179,7 +519,7 @@
   title     = {When the network crumbles: an empirical study of cloud network failures and their impact on services},
   booktitle = socc,
   year      = 2013,
-  pages     = {15},
+  pages     = {15-1},
 }
 
 @inproceedings{DBLP:conf/cloud/AbeGJLS13,
@@ -191,7 +531,7 @@
   title     = {vTube: efficient streaming of virtual appliances over last-mile networks},
   booktitle = socc,
   year      = 2013,
-  pages     = {16},
+  pages     = {16-1},
 }
 
 @inproceedings{DBLP:conf/cloud/LogothetisDY13,
@@ -201,7 +541,7 @@
   title     = {Scalable lineage capture for debugging {DISC} analytics},
   booktitle = socc,
   year      = 2013,
-  pages     = {17},
+  pages     = {17-1},
 }
 
 @inproceedings{DBLP:conf/cloud/AmurRAKSBZ13,
@@ -215,7 +555,7 @@
   title     = {Memory-efficient groupby-aggregate using compressed buffer trees},
   booktitle = socc,
   year      = 2013,
-  pages     = {18},
+  pages     = {18-1},
 }
 
 @inproceedings{DBLP:conf/cloud/BlanasP13,
@@ -224,7 +564,7 @@
   title     = {Memory footprint matters: efficient equi-join algorithms for main memory data processing},
   booktitle = socc,
   year      = 2013,
-  pages     = {19},
+  pages     = {19-1},
 }
 
 @inproceedings{DBLP:conf/cloud/AppuswamyGNHR13,
@@ -236,7 +576,7 @@
   title     = {Scale-up vs scale-out for Hadoop: time to rethink?},
   booktitle = socc,
   year      = 2013,
-  pages     = {20},
+  pages     = {20-1},
 }
 
 @inproceedings{DBLP:conf/cloud/ChuangSYGKK13,
@@ -249,7 +589,7 @@
   title     = {EventWave: programming model and runtime support for tightly-coupled elastic cloud applications},
   booktitle = socc,
   year      = 2013,
-  pages     = {21},
+  pages     = {21-1},
 }
 
 @inproceedings{DBLP:conf/cloud/LegareMSTBMSJTWAW13,
@@ -268,7 +608,7 @@
   title     = {Tolerating business failures in hosted applications},
   booktitle = socc,
   year      = 2013,
-  pages     = {22},
+  pages     = {22-1},
 }
 
 @inproceedings{DBLP:conf/cloud/AlvaroBCH13,
@@ -279,7 +619,7 @@
   title     = {Consistency without borders},
   booktitle = socc,
   year      = 2013,
-  pages     = {23},
+  pages     = {23-1},
 }
 
 @inproceedings{DBLP:conf/cloud/MaoJWT13,
@@ -290,7 +630,7 @@
   title     = {Leveraging data deduplication to improve the performance of primary storage systems in the cloud},
   booktitle = socc,
   year      = 2013,
-  pages     = {24},
+  pages     = {24-1},
 }
 
 @inproceedings{DBLP:conf/cloud/HuaJFT13,
@@ -301,7 +641,7 @@
   title     = {FAST: near real-time data analytics for the cloud},
   booktitle = socc,
   year      = 2013,
-  pages     = {25},
+  pages     = {25-1},
 }
 
 @inproceedings{DBLP:conf/cloud/BartoliniSMDSS13,
@@ -314,7 +654,7 @@
   title     = {Towards a performance-as-a-service cloud},
   booktitle = socc,
   year      = 2013,
-  pages     = {26},
+  pages     = {26-1},
 }
 
 @inproceedings{DBLP:conf/cloud/MoshrefSMGG13,
@@ -326,7 +666,7 @@
   title     = {MRM: delivering predictability and service differentiation in shared compute clusters},
   booktitle = socc,
   year      = 2013,
-  pages     = {27},
+  pages     = {27-1},
 }
 
 @inproceedings{DBLP:conf/cloud/GolabRAKWG13,
@@ -339,7 +679,7 @@
   title     = {Client-centric benchmarking of eventual consistency for cloud storage systems},
   booktitle = socc,
   year      = 2013,
-  pages     = {28},
+  pages     = {28-1},
 }
 
 @inproceedings{DBLP:conf/cloud/KleinMAH13,
@@ -350,7 +690,7 @@
   title     = {Introducing service-level awareness in the cloud},
   booktitle = socc,
   year      = 2013,
-  pages     = {29},
+  pages     = {29-1},
 }
 
 @inproceedings{DBLP:conf/cloud/HwangUWH13,
@@ -361,7 +701,7 @@
   title     = {Mortar: filling the gaps in data center memory},
   booktitle = socc,
   year      = 2013,
-  pages     = {30},
+  pages     = {30-1},
 }
 
 @inproceedings{DBLP:conf/cloud/QaziLS13,
@@ -371,7 +711,7 @@
   title     = {PoWER: prediction of workload for energy efficient relocation of virtual machines},
   booktitle = socc,
   year      = 2013,
-  pages     = {31},
+  pages     = {31-1},
 }
 
 @inproceedings{DBLP:conf/cloud/LuG13,
@@ -380,7 +720,7 @@
   title     = {Simple and efficient coupling of Hadoop with a database engine},
   booktitle = socc,
   year      = 2013,
-  pages     = {32},
+  pages     = {32-1},
 }
 
 @inproceedings{DBLP:conf/cloud/IonescuG13,
@@ -389,7 +729,7 @@
   title     = {The wisdom of virtual crowds: mining datacenter telemetry to collaboratively debug performance},
   booktitle = socc,
   year      = 2013,
-  pages     = {33},
+  pages     = {33-1},
 }
 
 @inproceedings{DBLP:conf/cloud/JayathilakaA13,
@@ -398,18 +738,18 @@
   title     = {Extending modern {PaaS} clouds with {BSP} to execute legacy {MPI} applications},
   booktitle = socc,
   year      = 2013,
-  pages     = {34},
+  pages     = {34-1},
 }
 
 @inproceedings{DBLP:conf/cloud/VaqueroCLM13,
-  author    = {Luis Vaquero and
+  author    = {Luis M. Vaquero and
                Félix Cuadrado and
                Dionysios Logothetis and
                Claudio Martella},
   title     = {Adaptive partitioning for large-scale dynamic graphs},
   booktitle = socc,
   year      = 2013,
-  pages     = {35},
+  pages     = {35-1},
 }
 
 @inproceedings{DBLP:conf/cloud/ZhangCY13,
@@ -419,7 +759,7 @@
   title     = {Towards a general framework for secure {MapReduce} computation on hybrid clouds},
   booktitle = socc,
   year      = 2013,
-  pages     = {36},
+  pages     = {36-1},
 }
 
 @inproceedings{DBLP:conf/cloud/AradSH13,
@@ -429,7 +769,7 @@
   title     = {CATS: a linearizable and self-organizing key-value store},
   booktitle = socc,
   year      = 2013,
-  pages     = {37},
+  pages     = {37-1},
 }
 
 @inproceedings{DBLP:conf/cloud/HuSA13,
@@ -439,7 +779,7 @@
   title     = {FastMR: fast processing for large distributed data streams},
   booktitle = socc,
   year      = 2013,
-  pages     = {38},
+  pages     = {38-1},
 }
 
 @inproceedings{DBLP:conf/cloud/BinnigSMZKL13,
@@ -448,11 +788,11 @@
                Alexander C. Müller and
                Erfan Zamanian and
                Harald Kornmayer and
-               Sven Lising},
+               Sven Listing},
   title     = {XDB: a novel database architecture for data analytics as a service},
   booktitle = socc,
   year      = 2013,
-  pages     = {39},
+  pages     = {39-1},
 }
 
 @inproceedings{DBLP:conf/cloud/MengILWTSR13,
@@ -466,7 +806,7 @@
   title     = {CloudLEGO: scalable {cross-VM-type} application performance prediction},
   booktitle = socc,
   year      = 2013,
-  pages     = {40},
+  pages     = {40-1},
 }
 
 @inproceedings{DBLP:conf/cloud/BuLM13,
@@ -476,7 +816,7 @@
   title     = {Comparing {SSD-placement} strategies to scale a database-in-the-cloud},
   booktitle = socc,
   year      = 2013,
-  pages     = {41},
+  pages     = {41-1},
 }
 
 @inproceedings{DBLP:conf/cloud/GuoGRSVL13,
@@ -489,7 +829,7 @@
   title     = {VMShadow: optimizing the performance of virtual desktops in distributed clouds},
   booktitle = socc,
   year      = 2013,
-  pages     = {42},
+  pages     = {42-1},
 }
 
 @inproceedings{DBLP:conf/cloud/HegazyH13,
@@ -498,7 +838,7 @@
   title     = {Fault-tolerant industrial automation as a cloud service},
   booktitle = socc,
   year      = 2013,
-  pages     = {43},
+  pages     = {43-1},
 }
 
 @inproceedings{DBLP:conf/cloud/ZhangQ13,
@@ -507,7 +847,7 @@
   title     = {High performance clustering of social images in a map-collective programming model},
   booktitle = socc,
   year      = 2013,
-  pages     = {44},
+  pages     = {44-1},
 }
 
 @inproceedings{DBLP:conf/cloud/Wasi-ur-RahmanLIP13,
@@ -518,16 +858,16 @@
   title     = {Does {RDMA-based} enhanced Hadoop {MapReduce} need a new performance model?},
   booktitle = socc,
   year      = 2013,
-  pages     = {45},
+  pages     = {45-1},
 }
 
 @inproceedings{DBLP:conf/cloud/NelsonP13,
-  author    = {Jude Nelson and
-               Larry Peterson},
+  author    = {Jude C. Nelson and
+               Larry L. Peterson},
   title     = {Syndicate: democratizing cloud storage and caching through service composition},
   booktitle = socc,
   year      = 2013,
-  pages     = {46},
+  pages     = {46-1},
 }
 
 @inproceedings{DBLP:conf/cloud/ScolariSBSS13,
@@ -539,7 +879,7 @@
   title     = {Coloring the cloud for predictable performance},
   booktitle = socc,
   year      = 2013,
-  pages     = {47},
+  pages     = {47-1},
 }
 
 @inproceedings{DBLP:conf/cloud/ChenH13,
@@ -548,7 +888,7 @@
   title     = {Decentralized privacy protection strategies for location-based services},
   booktitle = socc,
   year      = 2013,
-  pages     = {48},
+  pages     = {48-1},
 }
 
 @inproceedings{DBLP:conf/cloud/ReissK13,
@@ -557,7 +897,7 @@
   title     = {Recommending just enough memory for analytics},
   booktitle = socc,
   year      = 2013,
-  pages     = {49},
+  pages     = {49-1},
 }
 
 @inproceedings{DBLP:conf/cloud/FuZLXB13,
@@ -569,7 +909,7 @@
   title     = {Process-oriented recovery for operations on cloud applications},
   booktitle = socc,
   year      = 2013,
-  pages     = {50},
+  pages     = {50-1},
 }
 
 @inproceedings{DBLP:conf/cloud/AlicherryACB13,
@@ -580,7 +920,7 @@
   title     = {CloudSSI: revisiting {SSI} in cloud era},
   booktitle = socc,
   year      = 2013,
-  pages     = {51},
+  pages     = {51-1},
 }
 
 @inproceedings{DBLP:conf/cloud/LeePS13,
@@ -590,7 +930,7 @@
   title     = {Firewall placement in cloud data centers},
   booktitle = socc,
   year      = 2013,
-  pages     = {52},
+  pages     = {52-1},
 }
 
 @inproceedings{DBLP:conf/cloud/GrandlCKYABA13,
@@ -604,7 +944,7 @@
   title     = {Harmony: coordinating network, compute, and storage in software-defined clouds},
   booktitle = socc,
   year      = 2013,
-  pages     = {53},
+  pages     = {53-1},
 }
 
 @inproceedings{DBLP:conf/cloud/Bu13,
@@ -612,7 +952,7 @@
   title     = {Pregelix: dataflow-based big graph analytics},
   booktitle = socc,
   year      = 2013,
-  pages     = {54},
+  pages     = {54-1},
 }
 
 @inproceedings{DBLP:conf/cloud/HeintzCS13,
@@ -622,18 +962,18 @@
   title     = {Wide-area streaming analytics: distributing the data cube},
   booktitle = socc,
   year      = 2013,
-  pages     = {55},
+  pages     = {55-1},
 }
 
 @inproceedings{DBLP:conf/cloud/ChengGPB13,
   author    = {Yue Cheng and
                Aayush Gupta and
                Anna Povzner and
-               Ali R. Butt},
+               Ali Raza Butt},
   title     = {High performance in-memory caching through flexible fine-grained services},
   booktitle = socc,
   year      = 2013,
-  pages     = {56},
+  pages     = {56-1},
 }
 
 @inproceedings{DBLP:conf/cloud/BoehmBERSTT13,
@@ -647,7 +987,7 @@
   title     = {Compiling machine learning algorithms with {SystemML}},
   booktitle = socc,
   year      = 2013,
-  pages     = {57},
+  pages     = {57-1},
 }
 
 @inproceedings{DBLP:conf/cloud/JiaRW13,
@@ -657,7 +997,7 @@
   title     = {SuperCloud: economical cloud service on multiple vendors},
   booktitle = socc,
   year      = 2013,
-  pages     = {58},
+  pages     = {58-1},
 }
 
 @inproceedings{DBLP:conf/cloud/BjornssonCSV13,
@@ -668,16 +1008,16 @@
   title     = {Dynamic performance profiling of cloud caches},
   booktitle = socc,
   year      = 2013,
-  pages     = {59},
+  pages     = {59-1},
 }
 
 @inproceedings{DBLP:conf/cloud/PauloP13,
-  author    = {J. Paulo and
-               J. Pereira},
+  author    = {João Paulo and
+               José Pereira},
   title     = {DEDIS: distributed exact deduplication for primary storage infrastructures},
   booktitle = socc,
   year      = 2013,
-  pages     = {60},
+  pages     = {60-1},
 }
 
 @inproceedings{DBLP:conf/cloud/ConwayMAHM12,

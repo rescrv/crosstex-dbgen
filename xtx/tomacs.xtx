@@ -1,5 +1,236 @@
 @include journals-cs
 
+@article{DBLP:journals/tomacs/AnkenmanCL15,
+  author    = {Bruce E. Ankenman and
+               Russell C. H. Cheng and
+               Susan M. Lewis},
+  title     = {Screening for Dispersion Effects by Sequential Bifurcation},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {1},
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tomacs/SengulAF15,
+  author    = {Cigdem Sengul and
+               Mustafa Al-Bado and
+               Anja Feldmann},
+  title     = {{Site-Specific} Models for Realistic Wireless Network Simulation},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {1},
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tomacs/LiL15,
+  author    = {Ting Li and
+               Jason Liu},
+  title     = {{Cluster-Based} Spatiotemporal Background Traffic Generation for Network Simulation},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {1},
+  year      = 2015,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tomacs/CancelaKRT15,
+  author    = {Héctor Cancela and
+               Mohamed El Khadiri and
+               Gerardo Rubino and
+               Bruno Tuffin},
+  title     = {Balanced and Approximate {Zero-Variance} Recursive Estimators for the Network Reliability Problem},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {1},
+  year      = 2015,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tomacs/WangZ15,
+  author    = {Hui Wang and
+               Xiang Zhou},
+  title     = {A {Cross-Entropy} Scheme for Mixtures},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {1},
+  year      = 2015,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tomacs/GuptaH15,
+  author    = {Ashutosh Gupta and
+               Thomas A. Henzinger},
+  title     = {Guest Editors' Introduction to Special Issue on Computational Methods in Systems Biology},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {2},
+  year      = 2015,
+  pages     = {7},
+}
+
+@article{DBLP:journals/tomacs/RuessL15,
+  author    = {Jakob Ruess and
+               John Lygeros},
+  title     = {{Moment-Based} Methods for Parameter Inference and Experiment Design for Stochastic Biochemical Reaction Networks},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {2},
+  year      = 2015,
+  pages     = {8},
+}
+
+@article{DBLP:journals/tomacs/DannenbergHK15,
+  author    = {Frits Dannenberg and
+               Ernst Moritz Hahn and
+               Marta Z. Kwiatkowska},
+  title     = {Computing Cumulative Rewards Using Fast Adaptive Uniformization},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {2},
+  year      = 2015,
+  pages     = {9},
+}
+
+@article{DBLP:journals/tomacs/SchwaningerMI15,
+  author    = {Clemens Arthur Schwaninger and
+               Denis Menshykau and
+               Dagmar Iber},
+  title     = {Simulating Organogenesis: Algorithms for the {Image-Based} Determination of Displacement Fields},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {2},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/tomacs/FiorettoDP15,
+  author    = {Ferdinando Fioretto and
+               Agostino Dovier and
+               Enrico Pontelli},
+  title     = {Constrained {Community-Based} Gene Regulatory Network Inference},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {2},
+  year      = 2015,
+  pages     = {11},
+}
+
+@article{DBLP:journals/tomacs/AndreychenkoMW15,
+  author    = {Alexandr Andreychenko and
+               Linar Mikeev and
+               Verena Wolf},
+  title     = {Model Reconstruction for {Moment-Based} Stochastic Chemical Kinetics},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {2},
+  year      = 2015,
+  pages     = {12},
+}
+
+@article{DBLP:journals/tomacs/ParvuGHLSS15,
+  author    = {Ovidiu Parvu and
+               David R. Gilbert and
+               Monika Heiner and
+               Fei Liu and
+               Nigel Saunders and
+               Simon Shaw},
+  title     = {{Spatial-Temporal} Modelling and Analysis of Bacterial Colonies with Phase Variable Genes},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {2},
+  year      = 2015,
+  pages     = {13},
+}
+
+@article{DBLP:journals/tomacs/ChiangFJS15,
+  author    = {Hui-Ju Katherine Chiang and
+               François Fages and
+               Jie-Hong Roland Jiang and
+               Sylvain Soliman},
+  title     = {Hybrid Simulations of Heterogeneous Biochemical Models in {SBML}},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {2},
+  year      = 2015,
+  pages     = {14},
+}
+
+@article{DBLP:journals/tomacs/MniszewskiJVPE15,
+  author    = {Susan M. Mniszewski and
+               Christoph Junghans and
+               Arthur F. Voter and
+               Danny Perez and
+               Stephan J. Eidenbenz},
+  title     = {TADSim: Discrete {Event-Based} Performance Prediction for {Temperature-Accelerated} Dynamics},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {3},
+  year      = 2015,
+  pages     = {15},
+}
+
+@article{DBLP:journals/tomacs/GoreRKDP15,
+  author    = {Ross Gore and
+               Paul F. Reynolds Jr. and
+               David Kamensky and
+               Saikou Y. Diallo and
+               Jose J. Padilla},
+  title     = {Statistical Debugging for Simulations},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {3},
+  year      = 2015,
+  pages     = {16},
+}
+
+@article{DBLP:journals/tomacs/CetinkayaVS15,
+  author    = {Deniz Çetinkaya and
+               Alexander Verbraeck and
+               Mamadou D. Seck},
+  title     = {Model Continuity in Discrete Event Simulation: A Framework for {Model-Driven} Development of Simulation Models},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {3},
+  year      = 2015,
+  pages     = {17},
+}
+
+@article{DBLP:journals/tomacs/YuanN15,
+  author    = {Jun Yuan and
+               Szu Hui Ng},
+  title     = {Calibration, Validation, and Prediction in Random Simulation Models: Gaussian Process Metamodels and a Bayesian Integrated Solution},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {3},
+  year      = 2015,
+  pages     = {18},
+}
+
+@article{DBLP:journals/tomacs/WangAP15,
+  author    = {Jingjing Wang and
+               Nael B. Abu-Ghazaleh and
+               Dmitry V. Ponomarev},
+  title     = {AIR: {Application-Level} Interference Resilience for {PDES} on Multicore Systems},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {3},
+  year      = 2015,
+  pages     = {19},
+}
+
+@article{DBLP:journals/tomacs/LoveB15,
+  author    = {David Love and
+               Güzin Bayraksan},
+  title     = {Overlapping Batches for the Assessment of Solution Quality in Stochastic Programs},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {3},
+  year      = 2015,
+  pages     = {20},
+}
+
 @article{DBLP:journals/tomacs/HaasHL14,
   author    = {Peter J. Haas and
                Shane G. Henderson and
@@ -12,8 +243,22 @@
   pages     = {1},
 }
 
+@article{DBLP:journals/tomacs/PasupathyHPLC14,
+  author    = {Raghu Pasupathy and
+               Susan R. Hunter and
+               Nugroho Artadi Pujowidianto and
+               Loo Hay Lee and
+               Chun-Hung Chen},
+  title     = {Stochastically Constrained Ranking and Selection via {SCORE}},
+  journal   = tomacs,
+  volume    = {25},
+  number    = {1},
+  year      = 2014,
+  pages     = {1-1},
+}
+
 @article{DBLP:journals/tomacs/PhanG14,
-  author    = {Dzung Phan and
+  author    = {Dzung T. Phan and
                Soumyadip Ghosh},
   title     = {Two-stage stochastic optimization for optimal power flow under renewable generation uncertainty},
   journal   = tomacs,
@@ -123,6 +368,109 @@
   number    = {2},
   year      = 2014,
   pages     = {11},
+}
+
+@article{DBLP:journals/tomacs/JasraKE14,
+  author    = {Ajay Jasra and
+               Nikolas Kantas and
+               Elena Ehrlich},
+  title     = {Approximate Inference for {Observation-Driven} Time Series Models with Intractable Likelihoods},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {3},
+  year      = 2014,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tomacs/HealeyAK14,
+  author    = {Christopher M. Healey and
+               Sigrún Andradóttir and
+               Seong-Hee Kim},
+  title     = {Selection Procedures for Simulations with Multiple Constraints under Independent and Correlated Sampling},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {3},
+  year      = 2014,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tomacs/LiuT14,
+  author    = {Elvis S. Liu and
+               Georgios K. Theodoropoulos},
+  title     = {{Space-Time} Matching Algorithms for Interest Management in Distributed Virtual Environments},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {3},
+  year      = 2014,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tomacs/PerumallaPT14,
+  author    = {Kalyan S. Perumalla and
+               Alfred J. Park and
+               Vinod Tipparaju},
+  title     = {Discrete Event Execution with {One-Sided} and {Two-Sided} {GVT} Algorithms on 216, 000 Processor Cores},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {3},
+  year      = 2014,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tomacs/GhoshdastidarDB14,
+  author    = {Debarghya Ghoshdastidar and
+               Ambedkar Dukkipati and
+               Shalabh Bhatnagar},
+  title     = {Smoothed Functional Algorithms for Stochastic Optimization Using {q-Gaussian} Distributions},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {3},
+  year      = 2014,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tomacs/Singham14,
+  author    = {Dashi I. Singham},
+  title     = {Selecting Stopping Rules for Confidence Interval Procedures},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {3},
+  year      = 2014,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tomacs/Nakayama14,
+  author    = {Marvin K. Nakayama},
+  title     = {Confidence Intervals for Quantiles Using Sectioning When Applying {Variance-Reduction} Techniques},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {4},
+  year      = 2014,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/tomacs/XuVN14,
+  author    = {Jie Xu and
+               Anand N. Vidyashankar and
+               Martin K. Nielsen},
+  title     = {Drug Resistance or Re-Emergence? Simulating Equine Parasites},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {4},
+  year      = 2014,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/tomacs/HuZF14,
+  author    = {Jiaqiao Hu and
+               Enlu Zhou and
+               Qi Fan},
+  title     = {{Model-Based} Annealing Random Search with Stochastic Averaging},
+  journal   = tomacs,
+  volume    = {24},
+  number    = {4},
+  year      = 2014,
+  pages     = {21-1},
 }
 
 @article{DBLP:journals/tomacs/DoucetR13,
@@ -359,7 +707,7 @@
 }
 
 @article{DBLP:journals/tomacs/BlanchetHL13,
-  author    = {Jose Blanchet and
+  author    = {Jose H. Blanchet and
                Henrik Hult and
                Kevin Leder},
   title     = {Rare-event simulation for stochastic recurrence equations with heavy-tailed innovations},
@@ -384,7 +732,7 @@
 }
 
 @article{DBLP:journals/tomacs/ChoiKLJA13,
-  author    = {Byoung K. Choi and
+  author    = {Byoung Kyu Choi and
                Donghun Kang and
                Taesik Lee and
                Arwa A. Jamjoom and
@@ -480,7 +828,7 @@
 }
 
 @article{DBLP:journals/tomacs/BlanchetGL12,
-  author    = {Jose Blanchet and
+  author    = {Jose H. Blanchet and
                Peter W. Glynn and
                Kevin Leder},
   title     = {On Lyapunov Inequalities and Subsolutions for Efficient Importance Sampling},
@@ -518,7 +866,7 @@
 
 @article{DBLP:journals/tomacs/WaeberFH12,
   author    = {Rolf Waeber and
-               Peter Frazier and
+               Peter I. Frazier and
                Shane G. Henderson},
   title     = {A Framework for Selecting a Selection Procedure},
   journal   = tomacs,
@@ -683,7 +1031,7 @@
 }
 
 @article{DBLP:journals/tomacs/BlanchetL11,
-  author    = {Jose Blanchet and
+  author    = {Jose H. Blanchet and
                Chenxin Li},
   title     = {Efficient rare event simulation for heavy-tailed compound sums},
   journal   = tomacs,
@@ -2900,7 +3248,7 @@
 }
 
 @article{DBLP:journals/tomacs/Uhrmacher01,
-  author    = {Adelinde Uhrmacher},
+  author    = {Adelinde M. Uhrmacher},
   title     = {Dynamic structures in modeling and simulation: a reflective approach},
   journal   = tomacs,
   volume    = {11},
@@ -3177,7 +3525,7 @@
 }
 
 @article{DBLP:journals/tomacs/UngerXCTW00,
-  author    = {Brian Unger and
+  author    = {Brian W. Unger and
                Zhonge Xiao and
                John G. Cleary and
                Jya-Jang Tsai and

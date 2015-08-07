@@ -37,11 +37,14 @@
 @workshop{hotnets,
   shortname = "HotNets Workshop",
   longname  = "Workshop on Hot Topics in Networks",
+  [year=2014] address=LosAngeles, month=oct,
   [year=2013] address=CollegePark, month=nov,
   [year=2012] address=Redmond, month=oct,
   [year=2011] address=CambridgeMA, month=nov,
   [year=2010] address=Monterey, month=oct,
   [year=2009] address=NYC, month=oct,
+  [year=2008] address=Calgary, month=oct,
+  [year=2007] address=Atlanta, month=nov,
 }
 
 @workshop{hotos,
@@ -52,6 +55,9 @@
   [year=2005] address=SantaFe, month=jun,
   [year=2003] address=Lihue, month=may,
   [year=2001] address=ElmauOberbayern, month=may,
+  [year=1999] address=RioRico, month=mar,
+  [year=1997] address=CapeCod, month=may,
+  [year=1995] address=OrcasIsland, month=may,
 }
 
 @workshop{iptps,
@@ -62,7 +68,7 @@
   [year=2008] address=Tampa, month=feb,
   [year=2007] address=Bellevue, month=feb,
   [year=2006] address=SantaBarbara, month=feb,
-  [year=2005] address=Ithaca, month=feb,
+  [year=2005] address=LaJolla, month=feb,
   [year=2003] address=Berkeley, month=feb,
   [year=2002] address=CambridgeMA, month=mar,
 }
@@ -70,6 +76,7 @@
 @workshop{webdb,
   shortname = "WebDB Workshop",
   longname  = "International Workshop on the Web and Databases",
+  [year=2015] address=Melbourne, month=may,
   [year=2013] address=NYC, month=jun,
   [year=2012] address=Scottsdale, month=may,
   [year=2011] address=Athens, month=jun,

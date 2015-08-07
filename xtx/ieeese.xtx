@@ -1,5 +1,469 @@
 @include journals-cs
 
+@article{DBLP:journals/tse/Dwyer15,
+  author    = {Matthew B. Dwyer},
+  title     = {State of the Journal Editorial},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {1},
+  year      = 2015,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/tse/WangSWLSDYL15,
+  author    = {Ting Wang and
+               Jun Sun and
+               Xinyu Wang and
+               Yang Liu and
+               Yuanjie Si and
+               Jin Song Dong and
+               Xiaohu Yang and
+               Xiaohong Li},
+  title     = {A Systematic Study on {Explicit-State} {Non-Zenoness} Checking for Timed Automata},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {1},
+  year      = 2015,
+  pages     = {3-18},
+}
+
+@article{DBLP:journals/tse/SamuelWEK15,
+  author    = {Binny M. Samuel and
+               Linwood Watkins and
+               Andrew Ehle and
+               Vijay Khatri},
+  title     = {Customizing the Representation Capabilities of Process Models: Understanding the Effects of Perceived Modeling Impediments},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {1},
+  year      = 2015,
+  pages     = {19-39},
+}
+
+@article{DBLP:journals/tse/LimBKIH15,
+  author    = {Soo Ling Lim and
+               Peter J. Bentley and
+               Natalie Kanakam and
+               Fuyuki Ishikawa and
+               Shinichi Honiden},
+  title     = {Investigating Country Differences in Mobile App User Behavior and Challenges for Software Engineering},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {1},
+  year      = 2015,
+  pages     = {40-64},
+}
+
+@article{DBLP:journals/tse/Murphy-HillZBN15,
+  author    = {Emerson R. Murphy-Hill and
+               Thomas Zimmermann and
+               Christian Bird and
+               Nachiappan Nagappan},
+  title     = {The Design Space of Bug Fixes and How Developers Navigate It},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {1},
+  year      = 2015,
+  pages     = {65-81},
+}
+
+@article{DBLP:journals/tse/ZhouM15,
+  author    = {Minghui Zhou and
+               Audris Mockus},
+  title     = {Who Will Stay in the {FLOSS} Community? Modeling Participant's Initial Behavior},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {1},
+  year      = 2015,
+  pages     = {82-99},
+}
+
+@article{DBLP:journals/tse/BelliB15,
+  author    = {Fevzi Belli and
+               Mutlu Beyazit},
+  title     = {Exploiting Model Morphology for {Event-Based} Testing},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {2},
+  year      = 2015,
+  pages     = {113-134},
+}
+
+@article{DBLP:journals/tse/ManganoLPH15,
+  author    = {Nicolas Mangano and
+               Thomas D. LaToza and
+               Marian Petre and
+               André van der Hoek},
+  title     = {How Software Designers Interact with Sketches at the Whiteboard},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {2},
+  year      = 2015,
+  pages     = {135-156},
+}
+
+@article{DBLP:journals/tse/BrosigMBKKK15,
+  author    = {Fabian Brosig and
+               Philipp Meier and
+               Steffen Becker and
+               Anne Koziolek and
+               Heiko Koziolek and
+               Samuel Kounev},
+  title     = {Quantitative Evaluation of {Model-Driven} Performance Analysis and Simulation of {Component-Based} Architectures},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {2},
+  year      = 2015,
+  pages     = {157-175},
+}
+
+@article{DBLP:journals/tse/SyerNAH15,
+  author    = {Mark D. Syer and
+               Meiyappan Nagappan and
+               Bram Adams and
+               Ahmed E. Hassan},
+  title     = {Replicating and {Re-Evaluating} the Theory of Relative {Defect-Proneness}},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {2},
+  year      = 2015,
+  pages     = {176-197},
+}
+
+@article{DBLP:journals/tse/ChenK15,
+  author    = {Ning Chen and
+               Sunghun Kim},
+  title     = {STAR: Stack Trace Based Automatic Crash Reproduction via Symbolic Execution},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {2},
+  year      = 2015,
+  pages     = {198-220},
+}
+
+@article{DBLP:journals/tse/BennaceurI15,
+  author    = {Amel Bennaceur and
+               Valérie Issarny},
+  title     = {Automated Synthesis of Mediators to Support Component Interoperability},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {3},
+  year      = 2015,
+  pages     = {221-240},
+}
+
+@article{DBLP:journals/tse/CunhaFMS15,
+  author    = {Jácome Cunha and
+               João Paulo Fernandes and
+               Jorge Mendes and
+               João Saraiva},
+  title     = {Embedding, Evolution, and Validation of {Model-Driven} Spreadsheets},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {3},
+  year      = 2015,
+  pages     = {241-263},
+}
+
+@article{DBLP:journals/tse/PerezCP15,
+  author    = {Juan F. Pérez and
+               Giuliano Casale and
+               Sergio Pacheco-Sanchez},
+  title     = {Estimating Computational Requirements in {Multi-Threaded} Applications},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {3},
+  year      = 2015,
+  pages     = {264-278},
+}
+
+@article{DBLP:journals/tse/Hierons15,
+  author    = {Robert M. Hierons},
+  title     = {Generating Complete Controllable Test Suites for Distributed Testing},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {3},
+  year      = 2015,
+  pages     = {279-293},
+}
+
+@article{DBLP:journals/tse/SaktiPG15,
+  author    = {Abdelilah Sakti and
+               Gilles Pesant and
+               Yann-Gaël Guéhéneuc},
+  title     = {Instance Generator and Problem Representation to Improve Object Oriented Code Coverage},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {3},
+  year      = 2015,
+  pages     = {294-313},
+}
+
+@article{DBLP:journals/tse/LeeKKS15,
+  author    = {Seonah Lee and
+               Sungwon Kang and
+               Sunghun Kim and
+               Matthew Staats},
+  title     = {The Impact of View Histories on Edit Recommendations},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {3},
+  year      = 2015,
+  pages     = {314-330},
+}
+
+@article{DBLP:journals/tse/YangZLCCXLZ15,
+  author    = {Yibiao Yang and
+               Yuming Zhou and
+               Hongmin Lu and
+               Lin Chen and
+               Zhenyu Chen and
+               Baowen Xu and
+               Hareton K. N. Leung and
+               Zhenyu Zhang},
+  title     = {Are {Slice-Based} Cohesion Metrics Actually Useful in {Effort-Aware} {Post-Release} {Fault-Proneness} Prediction? An Empirical Study},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {4},
+  year      = 2015,
+  pages     = {331-357},
+}
+
+@article{DBLP:journals/tse/PanichellaOPL15,
+  author    = {Annibale Panichella and
+               Rocco Oliveto and
+               Massimiliano Di Penta and
+               Andrea De Lucia},
+  title     = {Improving {Multi-Objective} Test Case Selection by Injecting Diversity in Genetic Algorithms},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {4},
+  year      = 2015,
+  pages     = {358-383},
+}
+
+@article{DBLP:journals/tse/BavotaVBPOP15,
+  author    = {Gabriele Bavota and
+               Mario Linares Vásquez and
+               Carlos Eduardo Bernal-Cárdenas and
+               Massimiliano Di Penta and
+               Rocco Oliveto and
+               Denys Poshyvanyk},
+  title     = {The Impact of {API} Change- and {Fault-Proneness} on the User Ratings of Android Apps},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {4},
+  year      = 2015,
+  pages     = {384-407},
+}
+
+@article{DBLP:journals/tse/BeschastnikhBAE15,
+  author    = {Ivan Beschastnikh and
+               Yuriy Brun and
+               Jenny Abrahamson and
+               Michael D. Ernst and
+               Arvind Krishnamurthy},
+  title     = {Using Declarative Specification to Improve the Understanding, Extensibility, and Comparison of {Model-Inference} Algorithms},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {4},
+  year      = 2015,
+  pages     = {408-428},
+}
+
+@article{DBLP:journals/tse/Mirshokraie0P15,
+  author    = {Shabnam Mirshokraie and
+               Ali Mesbah and
+               Karthik Pattabiraman},
+  title     = {Guided Mutation Testing for {JavaScript} Web Applications},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {5},
+  year      = 2015,
+  pages     = {429-444},
+}
+
+@article{DBLP:journals/tse/JovanovicLR15,
+  author    = {Aleksandra Jovanovic and
+               Didier Lime and
+               Olivier H. Roux},
+  title     = {Integer Parameter Synthesis for {Real-Time} Systems},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {5},
+  year      = 2015,
+  pages     = {445-461},
+}
+
+@article{DBLP:journals/tse/PalombaBPOPL15,
+  author    = {Fabio Palomba and
+               Gabriele Bavota and
+               Massimiliano Di Penta and
+               Rocco Oliveto and
+               Denys Poshyvanyk and
+               Andrea De Lucia},
+  title     = {Mining Version Histories for Detecting Code Smells},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {5},
+  year      = 2015,
+  pages     = {462-489},
+}
+
+@article{DBLP:journals/tse/BurguenoTWV15,
+  author    = {Loli Burgueño and
+               Javier Troya and
+               Manuel Wimmer and
+               Antonio Vallecillo},
+  title     = {Static Fault Localization in Model Transformations},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {5},
+  year      = 2015,
+  pages     = {490-506},
+}
+
+@article{DBLP:journals/tse/BarrHMSY15,
+  author    = {Earl T. Barr and
+               Mark Harman and
+               Phil McMinn and
+               Muzammil Shahbaz and
+               Shin Yoo},
+  title     = {The Oracle Problem in Software Testing: A Survey},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {5},
+  year      = 2015,
+  pages     = {507-525},
+}
+
+@article{DBLP:journals/tse/PittkeLM15,
+  author    = {Fabian Pittke and
+               Henrik Leopold and
+               Jan Mendling},
+  title     = {Automatic Detection and Resolution of Lexical Ambiguity in Process Models},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {6},
+  year      = 2015,
+  pages     = {526-544},
+}
+
+@article{DBLP:journals/tse/MasseyOA15,
+  author    = {Aaron K. Massey and
+               Paul N. Otto and
+               Annie I. Antón},
+  title     = {Evaluating Legal Implementation Readiness {Decision-Making}},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {6},
+  year      = 2015,
+  pages     = {545-564},
+}
+
+@article{DBLP:journals/tse/TreudeRD15,
+  author    = {Christoph Treude and
+               Martin P. Robillard and
+               Barthélémy Dagenais},
+  title     = {Extracting Development Tasks to Navigate Software Documentation},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {6},
+  year      = 2015,
+  pages     = {565-581},
+}
+
+@article{DBLP:journals/tse/ChaikalisC15,
+  author    = {Theodore Chaikalis and
+               Alexander Chatzigeorgiou},
+  title     = {Forecasting Java Software Evolution Trends Employing Network Models},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {6},
+  year      = 2015,
+  pages     = {582-602},
+}
+
+@article{DBLP:journals/tse/XiongZHSWC15,
+  author    = {Yingfei Xiong and
+               Hansheng Zhang and
+               Arnaud Hubaux and
+               Steven She and
+               Jie Wang and
+               Krzysztof Czarnecki},
+  title     = {Range Fixes: Interactive Error Resolution for Software Configuration},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {6},
+  year      = 2015,
+  pages     = {603-619},
+}
+
+@article{DBLP:journals/tse/AutiliGLPT15,
+  author    = {Marco Autili and
+               Lars Grunske and
+               Markus Lumpe and
+               Patrizio Pelliccione and
+               Antony Tang},
+  title     = {Aligning Qualitative, Real-Time, and Probabilistic Property Specification Patterns Using a Structured English Grammar},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {7},
+  year      = 2015,
+  pages     = {620-638},
+}
+
+@article{DBLP:journals/tse/RosnerGAVF15,
+  author    = {Nicolás Rosner and
+               Jaco Geldenhuys and
+               Nazareno Aguirre and
+               Willem Visser and
+               Marcelo F. Frias},
+  title     = {BLISS: Improved Symbolic Execution by Bounded Lazy Initialization with {SAT} Support},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {7},
+  year      = 2015,
+  pages     = {639-660},
+}
+
+@article{DBLP:journals/tse/El-AttarLKSO15,
+  author    = {Mohamed El-Attar and
+               Hamza Luqman and
+               Péter Kárpáti and
+               Guttorm Sindre and
+               Andreas L. Opdahl},
+  title     = {Extending the {UML} Statecharts Notation to Model Security Aspects},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {7},
+  year      = 2015,
+  pages     = {661-690},
+}
+
+@article{DBLP:journals/tse/MaplesdenTHG15,
+  author    = {David Maplesden and
+               Ewan D. Tempero and
+               John G. Hosking and
+               John C. Grundy},
+  title     = {Performance Analysis for {Object-Oriented} Software: A Systematic Mapping},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {7},
+  year      = 2015,
+  pages     = {691-710},
+}
+
+@article{DBLP:journals/tse/Thimbleby15,
+  author    = {Harold Thimbleby},
+  title     = {Safer User Interfaces: A Case Study in Improving Number Entry},
+  journal   = ieeese,
+  volume    = {41},
+  number    = {7},
+  year      = 2015,
+  pages     = {711-729},
+}
+
 @article{DBLP:journals/tse/Nuseibeh14,
   author    = {Bashar Nuseibeh},
   title     = {Signing Off: The State of the Journal},
@@ -147,6 +611,657 @@
   number    = {2},
   year      = 2014,
   pages     = {192-215},
+}
+
+@article{DBLP:journals/tse/NguyenM14,
+  author    = {Bao N. Nguyen and
+               Atif M. Memon},
+  title     = {An Observe-Model-Exercise* Paradigm to Test {Event-Driven} Systems with Undetermined Input Spaces},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {3},
+  year      = 2014,
+  pages     = {216-234},
+}
+
+@article{DBLP:journals/tse/Ramasubbu14,
+  author    = {Narayan Ramasubbu},
+  title     = {Governing Software Process Improvementsin Globally Distributed Product Development},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {3},
+  year      = 2014,
+  pages     = {235-250},
+}
+
+@article{DBLP:journals/tse/SongPF14,
+  author    = {Charles Song and
+               Adam A. Porter and
+               Jeffrey S. Foster},
+  title     = {iTree: Efficiently Discovering {High-Coverage} Configurations Using Interaction Trees},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {3},
+  year      = 2014,
+  pages     = {251-265},
+}
+
+@article{DBLP:journals/tse/CaiC14,
+  author    = {Yan Cai and
+               W. K. Chan},
+  title     = {Magiclock: Scalable Detection {ofPotential} Deadlocks in {Large-ScaleMultithreaded} Programs},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {3},
+  year      = 2014,
+  pages     = {266-281},
+}
+
+@article{DBLP:journals/tse/GalsterWTMA14,
+  author    = {Matthias Galster and
+               Danny Weyns and
+               Dan Tofan and
+               Bartosz Michalik and
+               Paris Avgeriou},
+  title     = {Variability in Software Systems - A Systematic Literature Review},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {3},
+  year      = 2014,
+  pages     = {282-306},
+}
+
+@article{DBLP:journals/tse/GroceKZSBWSDSBM14,
+  author    = {Alex Groce and
+               Todd Kulesza and
+               Chaoqiang Zhang and
+               Shalini Shamasunder and
+               Margaret M. Burnett and
+               Weng-Keen Wong and
+               Simone Stumpf and
+               Shubhomoy Das and
+               Amber Shinsel and
+               Forrest Bice and
+               Kevin McIntosh},
+  title     = {You Are the Only Possible Oracle: Effective Test Selection for End Users of Interactive Machine Learning Systems},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {3},
+  year      = 2014,
+  pages     = {307-323},
+}
+
+@article{DBLP:journals/tse/BasinCEDD14,
+  author    = {David A. Basin and
+               Manuel Clavel and
+               Marina Egea and
+               Miguel Angel García de Dios and
+               Carolina Dania},
+  title     = {A {Model-Driven} Methodology for Developing Secure {Data-Management} Applications},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {4},
+  year      = 2014,
+  pages     = {324-337},
+}
+
+@article{DBLP:journals/tse/DamasLL14,
+  author    = {Christophe Damas and
+               Bernard Lambeau and
+               Axel van Lamsweerde},
+  title     = {Analyzing Critical {Decision-Based} Processes},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {4},
+  year      = 2014,
+  pages     = {338-365},
+}
+
+@article{DBLP:journals/tse/RastkarMM14,
+  author    = {Sarah Rastkar and
+               Gail C. Murphy and
+               Gabriel Murray},
+  title     = {Automatic Summarization of Bug Reports},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {4},
+  year      = 2014,
+  pages     = {366-380},
+}
+
+@article{DBLP:journals/tse/Latorre14,
+  author    = {Roberto Latorre},
+  title     = {Effects of Developer Experience on Learningand Applying Unit {Test-Driven} Development},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {4},
+  year      = 2014,
+  pages     = {381-395},
+}
+
+@article{DBLP:journals/tse/LvYC14,
+  author    = {Junpeng Lv and
+               Bei-Bei Yin and
+               Kai-Yuan Cai},
+  title     = {On the Asymptotic Behavior of Adaptive Testing Strategy for Software Reliability Assessment},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {4},
+  year      = 2014,
+  pages     = {396-412},
+}
+
+@article{DBLP:journals/tse/Kim14,
+  author    = {Saehwa Kim},
+  title     = {Synthesizing Multithreaded Code from {Real-Time} {Object-Oriented} Models via {Schedulability-Aware} Thread Derivation},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {4},
+  year      = 2014,
+  pages     = {413-426},
+}
+
+@article{DBLP:journals/tse/0001FNWMZ14,
+  author    = {Yu Pei and
+               Carlo A. Furia and
+               Martin Nordio and
+               Yi Wei and
+               Bertrand Meyer and
+               Andreas Zeller},
+  title     = {Automated Fixing of Programs with Contracts},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {5},
+  year      = 2014,
+  pages     = {427-449},
+}
+
+@article{DBLP:journals/tse/Hatton14,
+  author    = {Les Hatton},
+  title     = {Conservation of Information: Software'{sHidden} Clockwork?},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {5},
+  year      = 2014,
+  pages     = {450-460},
+}
+
+@article{DBLP:journals/tse/HeHYJSV14,
+  author    = {Qiang He and
+               Jun Han and
+               Yun Yang and
+               Hai Jin and
+               Jean-Guy Schneider and
+               Steven Versteeg},
+  title     = {Formulating {Cost-Effective} Monitoring Strategies for {Service-Based} Systems},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {5},
+  year      = 2014,
+  pages     = {461-482},
+}
+
+@article{DBLP:journals/tse/LeungwattanakitAHTYT14,
+  author    = {Watcharin Leungwattanakit and
+               Cyrille Artho and
+               Masami Hagiya and
+               Yoshinori Tanabe and
+               Mitsuharu Yamamoto and
+               Koichi Takahashi},
+  title     = {Modular Software Model Checking for Distributed Systems},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {5},
+  year      = 2014,
+  pages     = {483-501},
+}
+
+@article{DBLP:journals/tse/ArnaoudovaEPOAG14,
+  author    = {Venera Arnaoudova and
+               Laleh Mousavi Eshkevari and
+               Massimiliano Di Penta and
+               Rocco Oliveto and
+               Giuliano Antoniol and
+               Yann-Gaël Guéhéneuc},
+  title     = {REPENT: Analyzing the Nature of Identifier Renamings},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {5},
+  year      = 2014,
+  pages     = {502-532},
+}
+
+@article{DBLP:journals/tse/MisirliB14,
+  author    = {Ayse Tosun Misirli and
+               Ayse Basar Bener},
+  title     = {Bayesian Networks For {Evidence-Based} {Decision-Making} in Software Engineering},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {6},
+  year      = 2014,
+  pages     = {533-554},
+}
+
+@article{DBLP:journals/tse/VaraBJM14,
+  author    = {Juan Manuel Vara and
+               Verónica Andrea Bollati and
+               Álvaro Jiménez and
+               Esperanza Marcos},
+  title     = {Dealing with Traceability in the {MDDof} Model Transformations},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {6},
+  year      = 2014,
+  pages     = {555-583},
+}
+
+@article{DBLP:journals/tse/LeeH14,
+  author    = {Jonathan Lee and
+               Kuo-Hsun Hsu},
+  title     = {GEA: A {Goal-Driven} Approach {toDiscovering} Early Aspects},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {6},
+  year      = 2014,
+  pages     = {584-602},
+}
+
+@article{DBLP:journals/tse/ShepperdBH14,
+  author    = {Martin J. Shepperd and
+               David Bowes and
+               Tracy Hall},
+  title     = {Researcher Bias: The Use of Machine Learning in Software Defect Prediction},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {6},
+  year      = 2014,
+  pages     = {603-616},
+}
+
+@article{DBLP:journals/tse/BartelKMT14,
+  author    = {Alexandre Bartel and
+               Jacques Klein and
+               Martin Monperrus and
+               Yves Le Traon},
+  title     = {Static Analysis for Extracting Permission Checks of a Large Scale Framework: The Challenges and Solutions for Analyzing Android},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {6},
+  year      = 2014,
+  pages     = {617-632},
+}
+
+@article{DBLP:journals/tse/KimZN14,
+  author    = {Miryung Kim and
+               Thomas Zimmermann and
+               Nachiappan Nagappan},
+  title     = {An Empirical Study of {RefactoringChallenges} and Benefits at Microsoft},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {7},
+  year      = 2014,
+  pages     = {633-649},
+}
+
+@article{DBLP:journals/tse/HenardPPKHT14,
+  author    = {Christopher Henard and
+               Mike Papadakis and
+               Gilles Perrouin and
+               Jacques Klein and
+               Patrick Heymans and
+               Yves Le Traon},
+  title     = {Bypassing the Combinatorial Explosion: Using Similarity to Generate and Prioritize {T-Wise} Test Configurations for Software Product Lines},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {7},
+  year      = 2014,
+  pages     = {650-670},
+}
+
+@article{DBLP:journals/tse/BavotaOGPL14,
+  author    = {Gabriele Bavota and
+               Rocco Oliveto and
+               Malcom Gethers and
+               Denys Poshyvanyk and
+               Andrea De Lucia},
+  title     = {Methodbook: Recommending Move Method Refactorings via Relational Topic Models},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {7},
+  year      = 2014,
+  pages     = {671-694},
+}
+
+@article{DBLP:journals/tse/SongCP14,
+  author    = {JaeSeung Song and
+               Cristian Cadar and
+               Peter Pietzuch},
+  title     = {SymbexNet: Testing Network Protocol Implementations with Symbolic Execution and {Rule-Based} Specifications},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {7},
+  year      = 2014,
+  pages     = {695-709},
+}
+
+@article{DBLP:journals/tse/CollingbourneCK14,
+  author    = {Peter Collingbourne and
+               Cristian Cadar and
+               Paul H. J. Kelly},
+  title     = {Symbolic Crosschecking of {Data-Parallel} {Floating-Point} Code},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {7},
+  year      = 2014,
+  pages     = {710-737},
+}
+
+@article{DBLP:journals/tse/HertisJ14,
+  author    = {Matej Hertis and
+               Matjaz B. Juric},
+  title     = {An Empirical Analysis of Business Process Execution Language Usage},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {8},
+  year      = 2014,
+  pages     = {738-757},
+}
+
+@article{DBLP:journals/tse/RamasubbuK14,
+  author    = {Narayan Ramasubbu and
+               Chris F. Kemerer},
+  title     = {Managing Technical Debt in {EnterpriseSoftware} Packages},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {8},
+  year      = 2014,
+  pages     = {758-772},
+}
+
+@article{DBLP:journals/tse/WangD0ZLM14,
+  author    = {Xiaoyin Wang and
+               Yingnong Dang and
+               Lu Zhang and
+               Dongmei Zhang and
+               Erica Lan and
+               Hong Mei},
+  title     = {Predicting {Consistency-Maintenance} Requirement of Code Clonesat {Copy-and-Paste} Time},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {8},
+  year      = 2014,
+  pages     = {773-794},
+}
+
+@article{DBLP:journals/tse/DiazCMS14,
+  author    = {Gregorio Díaz and
+               María-Emilia Cambronero and
+               Enrique Martínez and
+               Gerardo Schneider},
+  title     = {Specification and Verification of {NormativeTexts} Using {C-O} Diagrams},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {8},
+  year      = 2014,
+  pages     = {795-817},
+}
+
+@article{DBLP:journals/tse/LeopoldMP14,
+  author    = {Henrik Leopold and
+               Jan Mendling and
+               Artem Polyvyanyy},
+  title     = {Supporting Process Model Validation through Natural Language Generation},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {8},
+  year      = 2014,
+  pages     = {818-840},
+}
+
+@article{DBLP:journals/tse/KessentiniKSBO14,
+  author    = {Wael Kessentini and
+               Marouane Kessentini and
+               Houari A. Sahraoui and
+               Slim Bechikh and
+               Ali Ouni},
+  title     = {A Cooperative Parallel {Search-Based} Software Engineering Approach for {Code-Smells} Detection},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {9},
+  year      = 2014,
+  pages     = {841-861},
+}
+
+@article{DBLP:journals/tse/RodriguezLR14,
+  author    = {Ismael Rodríguez and
+               Luis Llana and
+               Pablo Rabanal},
+  title     = {A General Testability Theory: Classes, Properties, Complexity, and Testing Reductions},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {9},
+  year      = 2014,
+  pages     = {862-894},
+}
+
+@article{DBLP:journals/tse/Fernandez-AmorosHCC14,
+  author    = {David Fernández-Amorós and
+               Ruben Heradio and
+               José Antonio Cerrada and
+               Carlos Cerrada},
+  title     = {A Scalable Approach to Exact Model and Commonality Counting for Extended Feature Models},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {9},
+  year      = 2014,
+  pages     = {895-910},
+}
+
+@article{DBLP:journals/tse/LiuXCL14,
+  author    = {Yepang Liu and
+               Chang Xu and
+               Shing-Chi Cheung and
+               Jian Lu},
+  title     = {GreenDroid: Automated Diagnosis of Energy Inefficiency for Smartphone Applications},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {9},
+  year      = 2014,
+  pages     = {911-940},
+}
+
+@article{DBLP:journals/tse/CasagrandeWWZS14,
+  author    = {Erik Casagrande and
+               Selamawit Woldeamlak and
+               Wei Lee Woon and
+               Hatem H. Zeineldin and
+               Davor Svetinovic},
+  title     = {{NLP-KAOS} for Systems Goal Elicitation: Smart Metering System Case Study},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {10},
+  year      = 2014,
+  pages     = {941-956},
+}
+
+@article{DBLP:journals/tse/LinRCL14,
+  author    = {Ying-Dar Lin and
+               José F. Rojas and
+               Edward T.-H. Chu and
+               Yuan-Cheng Lai},
+  title     = {On the Accuracy, Efficiency, and Reusability of Automated Test Oracles for Android Devices},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {10},
+  year      = 2014,
+  pages     = {957-970},
+}
+
+@article{DBLP:journals/tse/AraujoBL14,
+  author    = {Wladimir Araujo and
+               Lionel C. Briand and
+               Yvan Labiche},
+  title     = {On the Effectiveness of Contracts as Test Oracles in the Detection and Diagnosis of Functional Faults in Concurrent {Object-Oriented} Software},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {10},
+  year      = 2014,
+  pages     = {971-992},
+}
+
+@article{DBLP:journals/tse/ScandariatoWHJ14,
+  author    = {Riccardo Scandariato and
+               James Walden and
+               Aram Hovsepyan and
+               Wouter Joosen},
+  title     = {Predicting Vulnerable Software Components via Text Mining},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {10},
+  year      = 2014,
+  pages     = {993-1006},
+}
+
+@article{DBLP:journals/tse/MillerLSBT14,
+  author    = {Tim Miller and
+               Bin Lu and
+               Leon Sterling and
+               Ghassan Beydoun and
+               Kuldar Taveter},
+  title     = {Requirements Elicitation and Specification Using the Agent Paradigm: The Case Study of an Aircraft Turnaround Simulator},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {10},
+  year      = 2014,
+  pages     = {1007-1024},
+}
+
+@article{DBLP:journals/tse/Dias-NetoT14,
+  author    = {Arilo Claudio Dias-Neto and
+               Guilherme Horta Travassos},
+  title     = {Supporting the Combined Selection of {Model-Based} Testing Techniques},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {10},
+  year      = 2014,
+  pages     = {1025-1041},
+}
+
+@article{DBLP:journals/tse/CuadradoGL14,
+  author    = {Jesús Sánchez Cuadrado and
+               Esther Guerra and
+               Juan de Lara},
+  title     = {A Component Model for Model Transformations},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {11},
+  year      = 2014,
+  pages     = {1042-1060},
+}
+
+@article{DBLP:journals/tse/DraxlerSB14,
+  author    = {Sebastian Draxler and
+               Gunnar Stevens and
+               Alexander Boden},
+  title     = {Keeping the Development Environment Up to Date - A Study of the Situated Practices of Appropriating the Eclipse {IDE}},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {11},
+  year      = 2014,
+  pages     = {1061-1074},
+}
+
+@article{DBLP:journals/tse/LinL14,
+  author    = {Chu-Ti Lin and
+               Yan-Fu Li},
+  title     = {{Rate-Based} Queueing Simulation Model of Open Source Software Debugging Activities},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {11},
+  year      = 2014,
+  pages     = {1075-1099},
+}
+
+@article{DBLP:journals/tse/AthanasiouNVZ14,
+  author    = {Dimitrios Athanasiou and
+               Ariadi Nugroho and
+               Joost Visser and
+               Andy Zaidman},
+  title     = {Test Code Quality and Its Relation to Issue Handling Performance},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {11},
+  year      = 2014,
+  pages     = {1100-1125},
+}
+
+@article{DBLP:journals/tse/DagenaisR14,
+  author    = {Barthélémy Dagenais and
+               Martin P. Robillard},
+  title     = {Using Traceability Links to Recommend Adaptive Changes for Documentation Evolution},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {11},
+  year      = 2014,
+  pages     = {1126-1146},
+}
+
+@article{DBLP:journals/tse/MassacciN14,
+  author    = {Fabio Massacci and
+               Viet Hung Nguyen},
+  title     = {An Empirical Methodology to Evaluate Vulnerability Discovery Models},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {12},
+  year      = 2014,
+  pages     = {1147-1162},
+}
+
+@article{DBLP:journals/tse/BergersenSD14,
+  author    = {Gunnar R. Bergersen and
+               Dag I. K. Sjøberg and
+               Tore Dybå},
+  title     = {Construction and Validation of an Instrument for Measuring Programming Skill},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {12},
+  year      = 2014,
+  pages     = {1163-1184},
+}
+
+@article{DBLP:journals/tse/CoppaDF14,
+  author    = {Emilio Coppa and
+               Camil Demetrescu and
+               Irene Finocchi},
+  title     = {{Input-Sensitive} Profiling},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {12},
+  year      = 2014,
+  pages     = {1185-1205},
+}
+
+@article{DBLP:journals/tse/TianDD14,
+  author    = {Cong Tian and
+               Zhenhua Duan and
+               Zhao Duan},
+  title     = {Making {CEGAR} More Efficient in Software Model Checking},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {12},
+  year      = 2014,
+  pages     = {1206-1223},
+}
+
+@article{DBLP:journals/tse/LanoR14,
+  author    = {Kevin Lano and
+               Shekoufeh Kolahdouz Rahimi},
+  title     = {{Model-Transformation} Design Patterns},
+  journal   = ieeese,
+  volume    = {40},
+  number    = {12},
+  year      = 2014,
+  pages     = {1224-1259},
 }
 
 @article{DBLP:journals/tse/ChenZ13,
@@ -414,7 +1529,7 @@
 
 @article{DBLP:journals/tse/RosaRLHS13,
   author    = {Liliana Rosa and
-               Luís Rodrigues and
+               Luís E. T. Rodrigues and
                Antónia Lopes and
                Matti A. Hiltunen and
                Richard D. Schlichting},
@@ -2076,7 +3191,7 @@
 }
 
 @article{DBLP:journals/tse/CordeiroFM12,
-  author    = {Lucas Cordeiro and
+  author    = {Lucas C. Cordeiro and
                Bernd Fischer and
                João Marques-Silva},
   title     = {{SMT-Based} Bounded Model Checking for Embedded {ANSI-C} Software},
@@ -2330,7 +3445,7 @@
   author    = {Franz Brosch and
                Heiko Koziolek and
                Barbora Buhnova and
-               Ralf Reussner},
+               Ralf H. Reussner},
   title     = {{Architecture-Based} Reliability Prediction with the Palladio Component Model},
   journal   = ieeese,
   volume    = {38},
@@ -3350,7 +4465,7 @@
                Nuno Ferreira Neves and
                Miguel Correia and
                Paulo Veríssimo and
-               Rui Neves},
+               Rui Ferreira Neves},
   title     = {Vulnerability Discovery with Attack Injection},
   journal   = ieeese,
   volume    = {36},
@@ -3752,7 +4867,7 @@
 @article{DBLP:journals/tse/KrogmannKR10,
   author    = {Klaus Krogmann and
                Michael Kuperberg and
-               Ralf Reussner},
+               Ralf H. Reussner},
   title     = {Using Genetic Search for Reverse Engineering of Parametric Behavior Models for Performance Prediction},
   journal   = ieeese,
   volume    = {36},
@@ -3972,7 +5087,7 @@
                Sven Johr and
                Thomas Peikenkamp and
                Reza Pulungan and
-               Jan Rakow and
+               Jan-Hendrik Rakow and
                Ralf Wimmer and
                Bernd Becker},
   title     = {Compositional Dependability Evaluation for {STATEMATE}},
@@ -5652,7 +6767,7 @@
   author    = {Beat Fluri and
                Michael Würsch and
                Martin Pinzger and
-               Harald Gall},
+               Harald C. Gall},
   title     = {Change Distilling: Tree Differencing for {Fine-Grained} Source Code Change Extraction},
   journal   = ieeese,
   volume    = {33},
@@ -19037,9 +20152,9 @@
 
 @article{DBLP:journals/tse/MarkTMS92,
   author    = {William S. Mark and
-               Sherman Tyler and
+               Sherman W. Tyler and
                James McGuire and
-               Jon Schlossberg},
+               Jon L. Schlossberg},
   title     = {{Commitment-Based} Software Development},
   journal   = ieeese,
   volume    = {18},
@@ -22990,7 +24105,7 @@
 }
 
 @article{DBLP:journals/tse/WegnerT89,
-  author    = {Lutz Michael Wegner and
+  author    = {Lutz M. Wegner and
                Jukka Teuhola},
   title     = {The External Heapsort},
   journal   = ieeese,
@@ -29388,7 +30503,7 @@
 }
 
 @article{DBLP:journals/tse/KeirseyMBNT85,
-  author    = {David Keirsey and
+  author    = {David M. Keirsey and
                J. Mitchell and
                B. Bullock and
                T. Nussmeier and

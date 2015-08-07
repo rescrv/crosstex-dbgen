@@ -2294,7 +2294,7 @@
   author    = {Kamal Bhattacharya and
                Robert Guttman and
                Kelly Lyman and
-               Fenno F. Heath III and
+               Fenno F. Terry Heath III and
                Santhosh Kumaran and
                Prabir Nandi and
                Frederick Y. Wu and
@@ -4338,7 +4338,7 @@
   volume    = {42},
   number    = {4},
   year      = 2003,
-  pages     = {686},
+  pages     = {686-701},
 }
 
 @article{DBLP:journals/ibmsj/McCarthyMSGLMMRSS02,
@@ -5239,7 +5239,7 @@
   pages     = {297-309},
 }
 
-@article{DBLP:journals/ibmsj/AllenAABBBBCCCCCDDEFFGGGGGHHHHJLMMMNNPPPPRRSSSSSSSSSVWWZ01,
+@article{DBLP:journals/ibmsj/AllenAA01,
   author    = {Frances E. Allen and
                George S. Almasi and
                Wanda Andreoni and
@@ -7962,7 +7962,7 @@
 
 @article{DBLP:journals/ibmsj/LippmanK96,
   author    = {Andrew Lippman and
-               Roger Kermode},
+               Roger G. Kermode},
   title     = {Media Banks: Entertainment and the Internet},
   journal   = ibmsj,
   volume    = {35},

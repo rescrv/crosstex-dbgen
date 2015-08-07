@@ -1,5 +1,551 @@
 @include journals-cs
 
+@article{DBLP:journals/network/Shen15,
+  author    = {Xuemin Shen},
+  title     = {Open call [Editor's Note]},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {1},
+  year      = 2015,
+  pages     = {2},
+}
+
+@article{DBLP:journals/network/Shen15a,
+  author    = {Xuemin Shen},
+  title     = {Device-to-device communication in 5G cellular networks},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {2-3},
+}
+
+@article{DBLP:journals/network/Shen15b,
+  author    = {Xuemin Shen},
+  title     = {Mobile crowdsourcing [Editor's note]},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {2-3},
+}
+
+@article{DBLP:journals/network/LuLFEC15,
+  author    = {Kejie Lu and
+               Shucheng Liu and
+               Fred Feisullin and
+               Mehmet Ersue and
+               Yu Cheng},
+  title     = {Network function virtualization: opportunities and challenges [Guest editorial]},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {4-5},
+}
+
+@article{DBLP:journals/network/WangHDR15,
+  author    = {Xianbin Wang and
+               Guangjie Han and
+               Xiaojiang Du and
+               Joel J. P. C. Rodrigues},
+  title     = {Mobile cloud computing in 5G: Emerging trends, issues, and challenges [Guest Editorial]},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {4-5},
+}
+
+@article{DBLP:journals/network/RohmerNN15,
+  author    = {Thibaud Rohmer and
+               Amir Nakib and
+               Abdelhamid Nafaa},
+  title     = {A learning-based resource allocation approach for P2P streaming systems},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {1},
+  year      = 2015,
+  pages     = {4-11},
+}
+
+@article{DBLP:journals/network/HirschmanMRRDSM15,
+  author    = {Brent Hirschman and
+               Pranav Mehta and
+               Kannan Babu Ramia and
+               Ashok Sunder Rajan and
+               Edwin Dylag and
+               Ajaypal Singh and
+               Martin Mcdonald},
+  title     = {High-performance evolved packet core signaling and bearer processing on general-purpose processors},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {6-14},
+}
+
+@article{DBLP:journals/network/PengLZW15,
+  author    = {Mugen Peng and
+               Yong Li and
+               Zhongyuan Zhao and
+               Chonggang Wang},
+  title     = {System architecture and key technologies for 5G heterogeneous cloud radio access networks},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {6-14},
+}
+
+@article{DBLP:journals/network/AbdelhamidHT15,
+  author    = {Sherin Abdel Hamid and
+               Hossam S. Hassanein and
+               Glen Takahara},
+  title     = {Vehicle as a resource (VaaR)},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {1},
+  year      = 2015,
+  pages     = {12-17},
+}
+
+@article{DBLP:journals/network/SzaboKWWJC15,
+  author    = {Róbert Szabó and
+               Mario Kind and
+               Fritz-Joachim Westphal and
+               Hagen Woesner and
+               David Jocha and
+               András Császár},
+  title     = {Elastic network functions: opportunities and challenges},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {15-21},
+}
+
+@article{DBLP:journals/network/WangCXAS15,
+  author    = {Hucheng Wang and
+               Shanzhi Chen and
+               Hui Xu and
+               Ming Ai and
+               Yan Shi},
+  title     = {SoftNet: A software defined decentralized mobile network architecture toward 5G},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {16-22},
+}
+
+@article{DBLP:journals/network/ZhouSWZ15,
+  author    = {Dizhi Zhou and
+               Wei Song and
+               Ping Wang and
+               Weihua Zhuang},
+  title     = {Multipath {TCP} for user cooperation in {LTE} networks},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {1},
+  year      = 2015,
+  pages     = {18-24},
+}
+
+@article{DBLP:journals/network/BronsteinRXM15,
+  author    = {Zvika Bronstein and
+               Evelyne Roch and
+               Jinwei Xia and
+               Adi Molkho},
+  title     = {Uniform handling and abstraction of {NFV} hardware accelerators},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {22-29},
+}
+
+@article{DBLP:journals/network/AmeigeirasRSPNL15,
+  author    = {Pablo Ameigeiras and
+               Juan J. Ramos-Muñoz and
+               Laurent Schumacher and
+               Jonathan Prados-Garzon and
+               Jorge Navarro-Ortiz and
+               Juan M. López-Soler},
+  title     = {Link-level access cloud architecture design based on {SDN} for 5G networks},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {24-31},
+}
+
+@article{DBLP:journals/network/HasanHBK15,
+  author    = {Monowar Hasan and
+               Ekram Hossain and
+               Sasitharan Balasubramaniam and
+               Yevgeni Koucheryavy},
+  title     = {Social behavior in bacterial nanonetworks: challenges and opportunities},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {1},
+  year      = 2015,
+  pages     = {26-34},
+}
+
+@article{DBLP:journals/network/DingQWC15,
+  author    = {Wanfu Ding and
+               Wen Qi and
+               Jianping Wang and
+               Biao Chen},
+  title     = {OpenSCaaS: an open service chain as a service platform toward the integration of {SDN} and {NFV}},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {30-35},
+}
+
+@article{DBLP:journals/network/ChenZLML15,
+  author    = {Min Chen and
+               Yin Zhang and
+               Yong Li and
+               Shiwen Mao and
+               Victor C. M. Leung},
+  title     = {EMC: Emotion-aware mobile cloud computing in 5G},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {32-38},
+}
+
+@article{DBLP:journals/network/WuZHW15,
+  author    = {Jun Wu and
+               Zhifeng Zhang and
+               Yu Hong and
+               Yonggang Wen},
+  title     = {Cloud radio access network (C-RAN): a primer},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {1},
+  year      = 2015,
+  pages     = {35-41},
+}
+
+@article{DBLP:journals/network/WoodRHLZ15,
+  author    = {Timothy Wood and
+               K. K. Ramakrishnan and
+               Jinho Hwang and
+               Grace Liu and
+               Wei Zhang},
+  title     = {Toward a software-based network: integrating software defined networking and network function virtualization},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {36-41},
+}
+
+@article{DBLP:journals/network/HanLZ15,
+  author    = {Qilong Han and
+               Shuang Liang and
+               Hongli Zhang},
+  title     = {Mobile cloud sensing, big data, and 5G networks make an intelligent and smart world},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {40-45},
+}
+
+@article{DBLP:journals/network/YuXKZ15,
+  author    = {Ruozhou Yu and
+               Guoliang Xue and
+               Vishnu Teja Kilari and
+               Xiang Zhang},
+  title     = {Network function virtualization in the multi-tenant cloud},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {42-47},
+}
+
+@article{DBLP:journals/network/ZouZWL15,
+  author    = {YuLong Zou and
+               Jia Zhu and
+               Xianbin Wang and
+               Victor C. M. Leung},
+  title     = {Improving physical-layer security in wireless communications using diversity techniques},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {1},
+  year      = 2015,
+  pages     = {42-48},
+}
+
+@article{DBLP:journals/network/LiuASLLS15,
+  author    = {Joseph K. Liu and
+               Man Ho Au and
+               Willy Susilo and
+               Kaitai Liang and
+               Rongxing Lu and
+               Bala Srinivasan},
+  title     = {Secure sharing and searching for real-time video data in mobile cloud},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {46-50},
+}
+
+@article{DBLP:journals/network/LinLYWL15,
+  author    = {Ying-Dar Lin and
+               Po-Ching Lin and
+               Chih-Hung Yeh and
+               Yao-Chun Wang and
+               Yuan-Cheng Lai},
+  title     = {An extended {SDN} architecture for network function virtualization with a case study on intrusion prevention},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {48-53},
+}
+
+@article{DBLP:journals/network/LaiHCHA15,
+  author    = {Chin-Feng Lai and
+               Ren-Hung Hwang and
+               Han-Chieh Chao and
+               Mohammad Mehedi Hassan and
+               Atif Alamri},
+  title     = {A buffer-aware {HTTP} live streaming approach for {SDN-enabled} 5G wireless networks},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {1},
+  year      = 2015,
+  pages     = {49-55},
+}
+
+@article{DBLP:journals/network/YuCC15,
+  author    = {Chia-Mu Yu and
+               Chi-Yuan Chen and
+               Han-Chieh Chao},
+  title     = {Proof of ownership in deduplicated cloud storage with mobile device efficiency},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {51-55},
+}
+
+@article{DBLP:journals/network/SunKGR15,
+  author    = {Songlin Sun and
+               Michel Kadoch and
+               Liang Gong and
+               Bo Rong},
+  title     = {Integrating network function virtualization with {SDR} and {SDN} for 4G/5G networks},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {54-59},
+}
+
+@article{DBLP:journals/network/DabbaghHGR15,
+  author    = {Mehiar Dabbagh and
+               Bechir Hamdaoui and
+               Mohsen Guizani and
+               Ammar Rayes},
+  title     = {Toward energy-efficient cloud computing: Prediction, consolidation, and overcommitment},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {56-61},
+}
+
+@article{DBLP:journals/network/Hernandez-Valencia15,
+  author    = {Enrique J. Hernandez-Valencia and
+               Steven Izzo and
+               Beth Polonsky},
+  title     = {How will NFV/{SDN} transform service provider opex?},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {60-67},
+}
+
+@article{DBLP:journals/network/KumarZCV15,
+  author    = {Neeraj Kumar and
+               Sherali Zeadally and
+               Naveen Chilamkurti and
+               Alexey V. Vinel},
+  title     = {Performance analysis of Bayesian coalition game-based energy-aware virtual machine migration in vehicular mobile cloud},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {62-69},
+}
+
+@article{DBLP:journals/network/LiangYZ15,
+  author    = {Chengchao Liang and
+               F. Richard Yu and
+               Xi Zhang},
+  title     = {Information-centric network function virtualization over 5g mobile wireless networks},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {68-74},
+}
+
+@article{DBLP:journals/network/HanCJ15,
+  author    = {Nguyen Dinh Han and
+               Yonghwa Chung and
+               Minho Jo},
+  title     = {Green data centers for cloud-assisted mobile ad hoc networks in 5G},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {70-76},
+}
+
+@article{DBLP:journals/network/LiuZYX15,
+  author    = {Yi Liu and
+               Yan Zhang and
+               Rong Yu and
+               Shengli Xie},
+  title     = {Integrated energy and spectrum harvesting for 5G wireless communications},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {75-81},
+}
+
+@article{DBLP:journals/network/TalebCPJRKM15,
+  author    = {Tarik Taleb and
+               Marius Corici and
+               Carlos Parada and
+               Almerima Jamakovic and
+               Simone Ruffino and
+               Georgios Karagiannis and
+               Thomas Magedanz},
+  title     = {EASE: {EPC} as a service to ease mobile core network deployment over cloud},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {2},
+  year      = 2015,
+  pages     = {78-88},
+}
+
+@article{DBLP:journals/network/LiuB15,
+  author    = {Bingyang Liu and
+               Jun Bi},
+  title     = {On the deployability of {inter-AS} spoofing defenses},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {82-87},
+}
+
+@article{DBLP:journals/network/JiangBZRPC15,
+  author    = {Chunxiao Jiang and
+               Norman C. Beaulieu and
+               Lin Zhang and
+               Yong Ren and
+               Mugen Peng and
+               Hsiao-Hwa Chen},
+  title     = {Cognitive radio networks with asynchronous spectrum sensing and access},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {89-95},
+}
+
+@article{DBLP:journals/network/HeCG15,
+  author    = {Daojing He and
+               Sammy Chan and
+               Mohsen Guizani},
+  title     = {Handover authentication for mobile networks: security and efficiency aspects},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {96-103},
+}
+
+@article{DBLP:journals/network/KhanBGCMP15,
+  author    = {Imran Khan and
+               Fatna Belqasmi and
+               Roch H. Glitho and
+               Noël Crespi and
+               Monique Morrow and
+               Paul Polakos},
+  title     = {Wireless sensor network virtualization: early architecture and research perspectives},
+  journal   = ieeenetwork,
+  volume    = {29},
+  number    = {3},
+  year      = 2015,
+  pages     = {104-112},
+}
+
+@article{DBLP:journals/network/Shen14,
+  author    = {Xuemin Shen},
+  title     = {Open call [Editor's Note]},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {2},
+}
+
+@article{DBLP:journals/network/JiaPWCN14,
+  author    = {Xiaohua Jia and
+               Kostas Pentikousis and
+               Jianping Wang and
+               Prosper Chemouil and
+               Kathleen Nichols},
+  title     = {Information-centric networking beyond baseline scenarios: research advances and implementation [Guest Editorial]},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {3},
+  year      = 2014,
+  pages     = {2-3},
+}
+
+@article{DBLP:journals/network/TalebCMT14,
+  author    = {Tarik Taleb and
+               Min Chen and
+               Thomas Magedanz and
+               Rahim Tafazolli},
+  title     = {Unveiling 5G wireless networks: emerging research advances, prospects, and challenges [Guest Editorial]},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {3-5},
+}
+
+@article{DBLP:journals/network/YuLM14,
+  author    = {Shui Yu and
+               Xiaodong Lin and
+               Jelena V. Misic},
+  title     = {Networking for big data [Guest Editorial]},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {4},
+}
+
 @article{DBLP:journals/network/ZhangZXHV14,
   author    = {Daqiang Zhang and
                Daqing Zhang and
@@ -12,6 +558,78 @@
   number    = {1},
   year      = 2014,
   pages     = {4-9},
+}
+
+@article{DBLP:journals/network/LuoCCZZQ14,
+  author    = {Hongbin Luo and
+               Zhe Chen and
+               Jianbo Cui and
+               Hongke Zhang and
+               Moshe Zukerman and
+               Chunming Qiao},
+  title     = {CoLoR: an information-centric internet architecture for innovations},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {3},
+  year      = 2014,
+  pages     = {4-10},
+}
+
+@article{DBLP:journals/network/YiLLJ14,
+  author    = {Xiaomeng Yi and
+               Fangming Liu and
+               Jiangchuan Liu and
+               Hai Jin},
+  title     = {Building a network highway for big data: architecture and challenges},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {5-13},
+}
+
+@article{DBLP:journals/network/GeCGH14,
+  author    = {Xiaohu Ge and
+               Hui Cheng and
+               Mohsen Guizani and
+               Tao Han},
+  title     = {5G wireless backhaul networks: challenges and research advances},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {6-11},
+}
+
+@article{DBLP:journals/network/Rizzo14,
+  author    = {Luigi Rizzo},
+  title     = {Portable packet processing modules for {OS} kernels},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {2},
+  year      = 2014,
+  pages     = {6-11},
+}
+
+@article{DBLP:journals/network/AntichiSGZCBMFFBMO14,
+  author    = {Gianni Antichi and
+               Muhammad Shahbaz and
+               Yilong Geng and
+               Noa Zilberman and
+               G. Adam Covington and
+               Marc Bruyere and
+               Nick McKeown and
+               Nick Feamster and
+               Bob Felderman and
+               Michaela Blott and
+               Andrew W. Moore and
+               Philippe Owezarski},
+  title     = {OSNT: open source network tester},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {6-12},
 }
 
 @article{DBLP:journals/network/HeCZGCB14,
@@ -29,6 +647,79 @@
   pages     = {10-16},
 }
 
+@article{DBLP:journals/network/ZhouZLZCNZ14,
+  author    = {Xuan Zhou and
+               Zhifeng Zhao and
+               Rongpeng Li and
+               Yifan Zhou and
+               Tao Chen and
+               Zhisheng Niu and
+               Honggang Zhang},
+  title     = {Toward 5G: when explosive bursts meet soft cloud},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {12-17},
+}
+
+@article{DBLP:journals/network/WuLZJHLX14,
+  author    = {Qinghua Wu and
+               Zhenyu Li and
+               Jianer Zhou and
+               Heng Jiang and
+               Zhiyang Hu and
+               Yunjie Liu and
+               Gaogang Xie},
+  title     = {SOFIA: toward service-oriented information centric networking},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {3},
+  year      = 2014,
+  pages     = {12-18},
+}
+
+@article{DBLP:journals/network/MartinelloROV14,
+  author    = {Magnos Martinello and
+               Moisés R. N. Ribeiro and
+               Rafael Emerick Z. de Oliveira and
+               Romulo de Angelis Vitoi},
+  title     = {Keyflow: a prototype for evolving {SDN} toward core network fabrics},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {2},
+  year      = 2014,
+  pages     = {12-19},
+}
+
+@article{DBLP:journals/network/ForconesiSLVA14,
+  author    = {Marco Forconesi and
+               Gustavo Sutter and
+               Sergio López-Buedo and
+               Jorge E. López de Vergara and
+               Javier Aracil},
+  title     = {Bridging the gap between hardware and software open source network developments},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {13-19},
+}
+
+@article{DBLP:journals/network/YinJLLL14,
+  author    = {Hao Yin and
+               Yong Jiang and
+               Chuang Lin and
+               Yan Luo and
+               Yunjie Liu},
+  title     = {Big data: transforming the design philosophy of future internet},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {14-19},
+}
+
 @article{DBLP:journals/network/CaiMOLDY14,
   author    = {Yifeng Cai and
                Yijun Mo and
@@ -44,6 +735,71 @@
   pages     = {17-23},
 }
 
+@article{DBLP:journals/network/HawiloSMA14,
+  author    = {Hassan Hawilo and
+               Abdallah Shami and
+               Maysam Mirahmadi and
+               Rasool Asal},
+  title     = {NFV: state of the art, challenges, and implementation in next generation mobile networks (vEPC)},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {18-26},
+}
+
+@article{DBLP:journals/network/GelenbeA14,
+  author    = {Erol Gelenbe and
+               Omer H. Abdelrahman},
+  title     = {Search in the universe of big networks and data},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {20-25},
+}
+
+@article{DBLP:journals/network/SaucezSB14,
+  author    = {Damien Saucez and
+               Stefano Secci and
+               Chadi Barakat},
+  title     = {On the incentives and incremental deployments of {ICN} technologies for {OTT} services},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {3},
+  year      = 2014,
+  pages     = {20-25},
+}
+
+@article{DBLP:journals/network/VrijdersSCSGTB14,
+  author    = {Sander Vrijders and
+               Dimitri Staessens and
+               Didier Colle and
+               Francesco Salvestrini and
+               Eduard Grasa and
+               Miquel Tarzan and
+               Leonardo Bergesio},
+  title     = {Prototyping the recursive internet architecture: the {IRATI} project approach},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {2},
+  year      = 2014,
+  pages     = {20-25},
+}
+
+@article{DBLP:journals/network/AtungireRGS14,
+  author    = {Patricia Atungire and
+               Talha Faizur Rahman and
+               Fabrizio Granelli and
+               Claudio Sacchi},
+  title     = {Open-field emulation of cooperative relaying in {LTE-A} downlink using the {GNU} radio platform},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {20-26},
+}
+
 @article{DBLP:journals/network/MengMC14,
   author    = {Weixiao Meng and
                Ruofei Ma and
@@ -54,6 +810,95 @@
   number    = {1},
   year      = 2014,
   pages     = {24-32},
+}
+
+@article{DBLP:journals/network/JardakMR14,
+  author    = {Christine Jardak and
+               Petri Mähönen and
+               Janne Riihijärvi},
+  title     = {Spatial big data and wireless networks: experiences, applications, and research challenges},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {26-31},
+}
+
+@article{DBLP:journals/network/BollaLBM14,
+  author    = {Raffaele Bolla and
+               Chiara Lombardo and
+               Roberto Bruschi and
+               S. Mangialardi},
+  title     = {DROPv2: energy efficiency through network function virtualization},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {2},
+  year      = 2014,
+  pages     = {26-32},
+}
+
+@article{DBLP:journals/network/RenLWWXLL14,
+  author    = {Jing Ren and
+               Kejie Lu and
+               Sheng Wang and
+               Xiong Wang and
+               Shizhong Xu and
+               Lemin Li and
+               Shucheng Liu},
+  title     = {VICN: a versatile deployment framework for information-centric networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {3},
+  year      = 2014,
+  pages     = {26-34},
+}
+
+@article{DBLP:journals/network/VilchesD14,
+  author    = {Tyare Vilches and
+               Diego Dujovne},
+  title     = {{GNUradio} and 802.11: performance evaluation and limitations},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {27-31},
+}
+
+@article{DBLP:journals/network/ImranZ14,
+  author    = {Muhammad Ali Imran and
+               Ahmed Zoha},
+  title     = {Challenges in 5G: how to empower {SON} with big data for enabling 5G},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {27-33},
+}
+
+@article{DBLP:journals/network/ThompsonARMD14,
+  author    = {Michael S. Thompson and
+               Abdallah S. Abdallah and
+               Jonathan M. Reed and
+               Allen B. MacKenzie and
+               Luiz A. DaSilva},
+  title     = {The {FINS} framework: an open source userspace networking subsystem for linux},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {32-37},
+}
+
+@article{DBLP:journals/network/LiuLA14,
+  author    = {Jun Liu and
+               Feng Liu and
+               Nirwan Ansari},
+  title     = {Monitoring and analyzing big traffic data of a large-scale cellular network with Hadoop},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {32-39},
 }
 
 @article{DBLP:journals/network/BelqasmiAGSK14,
@@ -70,6 +915,91 @@
   pages     = {33-41},
 }
 
+@article{DBLP:journals/network/KhanAHCDL14,
+  author    = {Zaheer Khan and
+               Hamed Ahmadi and
+               Ekram Hossain and
+               Marceau Coupechoux and
+               Luiz A. DaSilva and
+               Janne J. Lehtomäki},
+  title     = {Carrier aggregation/channel bonding in next generation cellular networks: methods and challenges},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {34-40},
+}
+
+@article{DBLP:journals/network/PhungSSI14,
+  author    = {Dung Phung Phung and
+               Stefano Secci and
+               Damien Saucez and
+               Luigi Iannone},
+  title     = {The {OpenLISP} control plane architecture},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {2},
+  year      = 2014,
+  pages     = {34-40},
+}
+
+@article{DBLP:journals/network/Al-NadayRTY14,
+  author    = {Mays F. Al-Naday and
+               Martin J. Reed and
+               Dirk Trossen and
+               Kun Yang},
+  title     = {Information resilience: source recovery in an information-centric network},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {3},
+  year      = 2014,
+  pages     = {36-42},
+}
+
+@article{DBLP:journals/network/CasariTGFCTAMZ14,
+  author    = {Paolo Casari and
+               Cristiano Tapparello and
+               Federico Guerra and
+               Federico Favaro and
+               Ivano Calabrese and
+               Giovanni Toso and
+               Saiful Azad and
+               Riccardo Masiero and
+               Michele Zorzi},
+  title     = {Open source suites for underwater networking: {WOSS} and {DESERT} underwater},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {38-46},
+}
+
+@article{DBLP:journals/network/SutoNKNFT14,
+  author    = {Katsuya Suto and
+               Hiroki Nishiyama and
+               Nei Kato and
+               Takayuki Nakachi and
+               Tatsuya Fujii and
+               Atsushi Takahara},
+  title     = {Toward integrating overlay and physical networks for robust parallel processing architecture},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {40-45},
+}
+
+@article{DBLP:journals/network/WuW14,
+  author    = {Shaoen Wu and
+               Honggang Wang},
+  title     = {Visible light communications for 5G wireless networking systems: from fixed to mobile communications},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {41-45},
+}
+
 @article{DBLP:journals/network/ChengWC14,
   author    = {Wei Cheng and
                Shengling Wang and
@@ -80,6 +1010,69 @@
   number    = {1},
   year      = 2014,
   pages     = {42-47},
+}
+
+@article{DBLP:journals/network/JakmaL14,
+  author    = {P. Jakma and
+               D. Lamparter},
+  title     = {Introduction to the quagga routing suite},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {2},
+  year      = 2014,
+  pages     = {42-48},
+}
+
+@article{DBLP:journals/network/TysonBBM14,
+  author    = {Gareth Tyson and
+               Eliane L. Bodanese and
+               John Bigham and
+               Andreas Mauthe},
+  title     = {Beyond content delivery: can {ICNs} help emergency scenarios?},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {3},
+  year      = 2014,
+  pages     = {44-49},
+}
+
+@article{DBLP:journals/network/LuZLLS14,
+  author    = {Rongxing Lu and
+               Hui Zhu and
+               Ximeng Liu and
+               Joseph K. Liu and
+               Jun Shao},
+  title     = {Toward efficient and privacy-preserving computing in big data era},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {46-50},
+}
+
+@article{DBLP:journals/network/ZhangCZ14,
+  author    = {Xi Zhang and
+               Wenchi Cheng and
+               Hailin Zhang},
+  title     = {Heterogeneous statistical {QoS} provisioning over 5G mobile wireless networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {46-53},
+}
+
+@article{DBLP:journals/network/AbrahamLWZ14,
+  author    = {Jerald Paul Abraham and
+               Yaoqing Liu and
+               Lan Wang and
+               Beichuan Zhang},
+  title     = {A flexible Quagga-based virtual network with {FIB} aggregation},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {47-53},
 }
 
 @article{DBLP:journals/network/DengLJLL14,
@@ -96,6 +1089,82 @@
   pages     = {48-55},
 }
 
+@article{DBLP:journals/network/Moreno-SanchezMV14,
+  author    = {Pedro Moreno-Sanchez and
+               R. Marin-Lopez and
+               Francisco Vidal-Meca},
+  title     = {An open source implementation of the protocol for carrying authentication for network access: {OpenPANA}},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {2},
+  year      = 2014,
+  pages     = {49-55},
+}
+
+@article{DBLP:journals/network/ShangDMBZ14,
+  author    = {Wentao Shang and
+               Qiuhan Ding and
+               Alessandro Marianantoni and
+               Jeff Burke and
+               Lixia Zhang},
+  title     = {Securing building management systems using named data networking},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {3},
+  year      = 2014,
+  pages     = {50-56},
+}
+
+@article{DBLP:journals/network/ZhangCMHL14,
+  author    = {Yin Zhang and
+               Min Chen and
+               Shiwen Mao and
+               Long Hu and
+               Victor C. M. Leung},
+  title     = {CAP: community activity prediction based on big data analysis},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {52-57},
+}
+
+@article{DBLP:journals/network/CaiYB14,
+  author    = {Yegui Cai and
+               F. Richard Yu and
+               Shengrong Bu},
+  title     = {Cloud computing meets mobile wireless communications in next generation cellular networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {54-59},
+}
+
+@article{DBLP:journals/network/FemminellaGR14,
+  author    = {Mauro Femminella and
+               Francesco Giacinti and
+               Gianluca Reali},
+  title     = {Optimal deployment of open source application servers providing multimedia services},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {54-63},
+}
+
+@article{DBLP:journals/network/DonatoPD14,
+  author    = {Walter de Donato and
+               Antonio Pescapè and
+               Alberto Dainotti},
+  title     = {Traffic identification engine: an open platform for traffic classification},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {2},
+  year      = 2014,
+  pages     = {56-64},
+}
+
 @article{DBLP:journals/network/LinCF14,
   author    = {Phone Lin and
                Pai-Chun Chung and
@@ -106,6 +1175,224 @@
   number    = {1},
   year      = 2014,
   pages     = {56-64},
+}
+
+@article{DBLP:journals/network/KatsarosCWPBP14,
+  author    = {Konstantinos V. Katsaros and
+               Wei Koong Chai and
+               Ning Wang and
+               George Pavlou and
+               Herman Bontius and
+               Mario Paolone},
+  title     = {Information-centric networking for machine-to-machine data delivery: a case study in smart grid applications},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {3},
+  year      = 2014,
+  pages     = {58-64},
+}
+
+@article{DBLP:journals/network/LuoZZQ14,
+  author    = {Hongbin Luo and
+               Hongke Zhang and
+               Moshe Zukerman and
+               Chunming Qiao},
+  title     = {An incrementally deployable network architecture to support both data-centric and host-centric services},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {58-65},
+}
+
+@article{DBLP:journals/network/AsaedaLC14,
+  author    = {Hitoshi Asaeda and
+               Ruidong Li and
+               Nakjung Choi},
+  title     = {Container-based unified testbed for information-centric networking},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {60-66},
+}
+
+@article{DBLP:journals/network/WenJXYZ14,
+  author    = {Sheng Wen and
+               Jiao Jiao Jiang and
+               Yang Xiang and
+               Shui Yu and
+               Wanlei Zhou},
+  title     = {Are the popular users always important for information dissemination in online social networks?},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {64-67},
+}
+
+@article{DBLP:journals/network/ChenSHA14,
+  author    = {Shanzhi Chen and
+               Yan Shi and
+               Bo Hu and
+               Ming Ai},
+  title     = {Mobility-driven networks (MDN): from evolution to visions of mobility management},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {66-73},
+}
+
+@article{DBLP:journals/network/ZhangW14,
+  author    = {Weiwen Zhang and
+               Yonggang Wen},
+  title     = {Toward transcoding as a service: energy-efficient offloading policy for green mobile cloud},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {67-73},
+}
+
+@article{DBLP:journals/network/CaoJW14,
+  author    = {Yang Cao and
+               Tao Jiang and
+               Chonggang Wang},
+  title     = {Optimal radio resource allocation for mobile task offloading in cellular networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {68-73},
+}
+
+@article{DBLP:journals/network/NanMLZGWG14,
+  author    = {Guofang Nan and
+               Zhifei Mao and
+               Minqiang Li and
+               Yan Zhang and
+               Stein Gjessing and
+               Honggang Wang and
+               Mohsen Guizani},
+  title     = {Distributed resource allocation in cloud-based wireless multimedia social networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {74-80},
+}
+
+@article{DBLP:journals/network/XuCLXMQ14,
+  author    = {Ke Xu and
+               Wenlong Chen and
+               Chuang Lin and
+               Mingwei Xu and
+               Dongchao Ma and
+               Yi Qu},
+  title     = {Toward a practical reconfigurable router: a software component development approach},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {74-80},
+}
+
+@article{DBLP:journals/network/DixitLCVPD14,
+  author    = {Abhishek Dixit and
+               Bart Lannoo and
+               Didier Colle and
+               Sofie Verbrugge and
+               Mario Pickavet and
+               Piet Demeester},
+  title     = {Fiber and wavelength open access in {WDM} and {TWDM} passive optical networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {74-82},
+}
+
+@article{DBLP:journals/network/ZengSHZL14,
+  author    = {Huacheng Zeng and
+               Yi Shi and
+               Yiwei Thomas Hou and
+               Rongbo Zhu and
+               Wenjing Lou},
+  title     = {A novel {MIMO} {DoF} model for multi-hop networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {81-85},
+}
+
+@article{DBLP:journals/network/ShinQZ14,
+  author    = {Dong-Hoon Shin and
+               Dajun Qian and
+               Junshan Zhang},
+  title     = {Cascading effects in interdependent networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {4},
+  year      = 2014,
+  pages     = {82-87},
+}
+
+@article{DBLP:journals/network/NieminenGISPSXO14,
+  author    = {Johanna Nieminen and
+               Carles Gomez and
+               Markus Isomäki and
+               Teemu Savolainen and
+               Basavaraj Patil and
+               Zach Shelby and
+               Minjun Xi and
+               Joaquim Oller},
+  title     = {Networking solutions for connecting bluetooth low energy enabled machines to the internet of things},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {83-90},
+}
+
+@article{DBLP:journals/network/WinRLC14,
+  author    = {Moe Z. Win and
+               Alberto Rabbachin and
+               Jemin Lee and
+               Andrea Conti},
+  title     = {Cognitive network secrecy with interference engineering},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {86-90},
+}
+
+@article{DBLP:journals/network/Wang0LF14,
+  author    = {Honggang Wang and
+               Zhaoyang Zhang and
+               Xiaodong Lin and
+               Hua Fang},
+  title     = {Socialized {WBANs} in mobile sensing environments},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {5},
+  year      = 2014,
+  pages     = {91-95},
+}
+
+@article{DBLP:journals/network/LedererMTH14,
+  author    = {Stefan Lederer and
+               Christopher Müller and
+               Christian Timmerer and
+               Hermann Hellwagner},
+  title     = {Adaptive multimedia streaming in information-centric networks},
+  journal   = ieeenetwork,
+  volume    = {28},
+  number    = {6},
+  year      = 2014,
+  pages     = {91-96},
 }
 
 @article{DBLP:journals/network/0001LL13,
@@ -486,7 +1773,7 @@
 @article{DBLP:journals/network/YousafLMS13,
   author    = {Faqir Zarrar Yousaf and
                Marco Liebsch and
-               Andreas Maeder and
+               Andreas Mäder and
                Stefan Schmid},
   title     = {Mobile {CDN} enhancements for {QoE-improved} content delivery in mobile operator networks},
   journal   = ieeenetwork,
@@ -598,7 +1885,7 @@
 
 @article{DBLP:journals/network/VelascoACBCLP13,
   author    = {Luis Velasco and
-               Adria Asensio and
+               Adrian Asensio and
                Alberto Castro and
                Josep Lluis Berral and
                David Carrera and
@@ -1102,8 +2389,8 @@
 }
 
 @article{DBLP:journals/network/SivaramanRCR12,
-  author    = {V. Sivaraman and
-               C. Russell and
+  author    = {Vijay Sivaraman and
+               Craig Russell and
                Iain B. Collings and
                A. Radford},
   title     = {Architecting a national optical fiber open-access network: The Australian Challenge},
@@ -1226,8 +2513,8 @@
   author    = {Maria Guinaldo and
                Gonzalo Farias and
                Ernesto Fabregas and
-               J. Sanchez and
-               Sebastian Dormido-Canto and
+               José Sánchez Moreno and
+               Sebastián Dormido-Canto and
                Sebastián Dormido},
   title     = {An interactive simulator for networked mobile robots},
   journal   = ieeenetwork,
@@ -1880,7 +3167,7 @@
 }
 
 @article{DBLP:journals/network/SantosUHL11,
-  author    = {G. R. De Los Santos and
+  author    = {Gerson Rodríguez de los Santos and
                Manuel Urueña and
                José Alberto Hernández and
                David Larrabeiti},
@@ -3345,7 +4632,7 @@
 }
 
 @article{DBLP:journals/network/AguiarGVMVBP09,
-  author    = {Javier Aguiar and
+  author    = {Javier M. Aguiar and
                C. Garcia and
                H. Vega and
                A. Martinez and
@@ -3400,7 +4687,7 @@
 }
 
 @article{DBLP:journals/network/AguiarZCAMCC09,
-  author    = {Javier Aguiar and
+  author    = {Javier M. Aguiar and
                Carlos Baladrón Zorita and
                Borja de la Cuesta Diego and
                I. O. Arnal and
@@ -5112,7 +6399,7 @@
 
 @article{DBLP:journals/network/BonaventureFGGM05,
   author    = {Olivier Bonaventure and
-               A. Feldmann and
+               Anja Feldmann and
                L. Gao and
                T. Griffin and
                Z. M. Mao},
@@ -5414,7 +6701,7 @@
 }
 
 @article{DBLP:journals/network/LeraMPR05,
-  author    = {A. Lera and
+  author    = {Antonio Iera and
                Antonella Molinaro and
                Sergio Polito and
                Giuseppe Ruggeri},
@@ -5472,8 +6759,8 @@
 
 @article{DBLP:journals/network/GhoshBD05,
   author    = {S. Ghosh and
-               K. Basu and
-               S. K. Das},
+               Kalyan Basu and
+               Sajal K. Das},
   title     = {An architecture for next-generation radio access networks},
   journal   = ieeenetwork,
   volume    = {19},

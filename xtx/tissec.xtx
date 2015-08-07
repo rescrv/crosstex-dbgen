@@ -1,5 +1,314 @@
 @include journals-cs
 
+@article{DBLP:journals/tissec/CarnavaletM15,
+  author    = {Xavier de Carné De Carnavalet and
+               Mohammad Mannan},
+  title     = {A {Large-Scale} Evaluation of {High-Impact} Password Strength Meters},
+  journal   = tissec,
+  volume    = {18},
+  number    = {1},
+  year      = 2015,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tissec/KarameARGC15,
+  author    = {Ghassan O. Karame and
+               Elli Androulaki and
+               Marc Roeschlin and
+               Arthur Gervais and
+               Srdjan Capkun},
+  title     = {Misbehavior in Bitcoin: A Study of {Double-Spending} and Accountability},
+  journal   = tissec,
+  volume    = {18},
+  number    = {1},
+  year      = 2015,
+  pages     = {2},
+}
+
+@article{DBLP:journals/tissec/CulnaneRST15,
+  author    = {Chris Culnane and
+               Peter Y. A. Ryan and
+               Steve A. Schneider and
+               Vanessa Teague},
+  title     = {vVote: A Verifiable Voting System},
+  journal   = tissec,
+  volume    = {18},
+  number    = {1},
+  year      = 2015,
+  pages     = {3},
+}
+
+@article{DBLP:journals/tissec/DoychevKMR15,
+  author    = {Goran Doychev and
+               Boris Köpf and
+               Laurent Mauborgne and
+               Jan Reineke},
+  title     = {CacheAudit: A Tool for the Static Analysis of Cache Side Channels},
+  journal   = tissec,
+  volume    = {18},
+  number    = {1},
+  year      = 2015,
+  pages     = {4},
+}
+
+@article{DBLP:journals/tissec/PietroO15,
+  author    = {Roberto Di Pietro and
+               Gabriele Oligeri},
+  title     = {Silence is Golden: Exploiting Jamming and Radio Silence to Communicate},
+  journal   = tissec,
+  volume    = {17},
+  number    = {3},
+  year      = 2015,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tissec/RuppBHP15,
+  author    = {Andy Rupp and
+               Foteini Baldimtsi and
+               Gesine Hinterwälder and
+               Christof Paar},
+  title     = {Cryptographic Theory Meets Practice: Efficient and {Privacy-Preserving} Payments for Public Transport},
+  journal   = tissec,
+  volume    = {17},
+  number    = {3},
+  year      = 2015,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tissec/SerraJPRS15,
+  author    = {Edoardo Serra and
+               Sushil Jajodia and
+               Andrea Pugliese and
+               Antonino Rullo and
+               V. S. Subrahmanian},
+  title     = {{Pareto-Optimal} Adversarial Defense of Enterprise Systems},
+  journal   = tissec,
+  volume    = {17},
+  number    = {3},
+  year      = 2015,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tissec/DingFD15,
+  author    = {Steven H. H. Ding and
+               Benjamin C. M. Fung and
+               Mourad Debbabi},
+  title     = {A Visualizable {Evidence-Driven} Approach for Authorship Attribution},
+  journal   = tissec,
+  volume    = {17},
+  number    = {3},
+  year      = 2015,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tissec/LeeSFKN15,
+  author    = {Hyojeong Lee and
+               Jeff Seibert and
+               Dylan Fistrovic and
+               Charles Edwin Killian and
+               Cristina Nita-Rotaru},
+  title     = {Gatling: Automatic Performance Attack Discovery in {Large-Scale} Distributed Systems},
+  journal   = tissec,
+  volume    = {17},
+  number    = {4},
+  year      = 2015,
+  pages     = {13},
+}
+
+@article{DBLP:journals/tissec/ZhaoAH15,
+  author    = {Ziming Zhao and
+               Gail-Joon Ahn and
+               Hongxin Hu},
+  title     = {Picture Gesture Authentication: Empirical Analysis, Automated Attacks, and Scheme Evaluation},
+  journal   = tissec,
+  volume    = {17},
+  number    = {4},
+  year      = 2015,
+  pages     = {14},
+}
+
+@article{DBLP:journals/tissec/ErwayKPT15,
+  author    = {C. Christopher Erway and
+               Alptekin Küpçü and
+               Charalampos Papamanthou and
+               Roberto Tamassia},
+  title     = {Dynamic Provable Data Possession},
+  journal   = tissec,
+  volume    = {17},
+  number    = {4},
+  year      = 2015,
+  pages     = {15},
+}
+
+@article{DBLP:journals/tissec/OrenK15,
+  author    = {Yossef Oren and
+               Angelos D. Keromytis},
+  title     = {Attacking the Internet Using Broadcast Digital Television},
+  journal   = tissec,
+  volume    = {17},
+  number    = {4},
+  year      = 2015,
+  pages     = {16},
+}
+
+@article{DBLP:journals/tissec/AllodiM14,
+  author    = {Luca Allodi and
+               Fabio Massacci},
+  title     = {Comparing Vulnerability Severity and Exploits Using {Case-Control} Studies},
+  journal   = tissec,
+  volume    = {17},
+  number    = {1},
+  year      = 2014,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tissec/MarinovicDS14,
+  author    = {Srdjan Marinovic and
+               Naranker Dulay and
+               Morris Sloman},
+  title     = {Rumpole: An Introspective {Break-Glass} Access Control Language},
+  journal   = tissec,
+  volume    = {17},
+  number    = {1},
+  year      = 2014,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tissec/JafariSFB14,
+  author    = {Mohammad Jafari and
+               Reihaneh Safavi-Naini and
+               Philip W. L. Fong and
+               Ken Barker},
+  title     = {A Framework for Expressing and Enforcing {Purpose-Based} Privacy Policies},
+  journal   = tissec,
+  volume    = {17},
+  number    = {1},
+  year      = 2014,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tissec/SytaCWWFJ14,
+  author    = {Ewa Syta and
+               Henry Corrigan-Gibbs and
+               Shu-Chun Weng and
+               David Wolinsky and
+               Bryan Ford and
+               Aaron Johnson},
+  title     = {Security Analysis of Accountable Anonymity in Dissent},
+  journal   = tissec,
+  volume    = {17},
+  number    = {1},
+  year      = 2014,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tissec/ChapinS14,
+  author    = {Peter C. Chapin and
+               Christian Skalka},
+  title     = {SpartanRPC: Remote Procedure Call Authorization in Wireless Sensor Networks},
+  journal   = tissec,
+  volume    = {17},
+  number    = {2},
+  year      = 2014,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tissec/GotzfriedM14,
+  author    = {Johannes Götzfried and
+               Tilo Müller},
+  title     = {Mutual Authentication and Trust Bootstrapping towards Secure Disk Encryption},
+  journal   = tissec,
+  volume    = {17},
+  number    = {2},
+  year      = 2014,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tissec/BasinC14,
+  author    = {David A. Basin and
+               Cas Cremers},
+  title     = {Know Your Enemy: Compromising Adversaries in Protocol Analysis},
+  journal   = tissec,
+  volume    = {17},
+  number    = {2},
+  year      = 2014,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tissec/LiGR14,
+  author    = {Peng Li and
+               Debin Gao and
+               Michael K. Reiter},
+  title     = {StopWatch: A Cloud Architecture for Timing Channel Mitigation},
+  journal   = tissec,
+  volume    = {17},
+  number    = {2},
+  year      = 2014,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tissec/GiladH14,
+  author    = {Yossi Gilad and
+               Amir Herzberg},
+  title     = {{Off-Path} {TCP} Injection Attacks},
+  journal   = tissec,
+  volume    = {16},
+  number    = {4},
+  year      = 2014,
+  pages     = {13},
+}
+
+@article{DBLP:journals/tissec/BilgeSBKK14,
+  author    = {Leyla Bilge and
+               Sevil Sen and
+               Davide Balzarotti and
+               Engin Kirda and
+               Christopher Kruegel},
+  title     = {Exposure: A Passive {DNS} Analysis Service to Detect and Report Malicious Domains},
+  journal   = tissec,
+  volume    = {16},
+  number    = {4},
+  year      = 2014,
+  pages     = {14},
+}
+
+@article{DBLP:journals/tissec/ChenLY14,
+  author    = {Liqun Chen and
+               Hoon Wei Lim and
+               Guomin Yang},
+  title     = {{Cross-Domain} {Password-Based} Authenticated Key Exchange Revisited},
+  journal   = tissec,
+  volume    = {16},
+  number    = {4},
+  year      = 2014,
+  pages     = {15},
+}
+
+@article{DBLP:journals/tissec/ChenSDM14,
+  author    = {Teh-Chung Chen and
+               Torin Stepan and
+               Scott Dick and
+               James Miller},
+  title     = {An {Anti-Phishing} System Employing Diffused Information},
+  journal   = tissec,
+  volume    = {16},
+  number    = {4},
+  year      = 2014,
+  pages     = {16},
+}
+
+@article{DBLP:journals/tissec/ArkoudasCC14,
+  author    = {Konstantine Arkoudas and
+               Ritu Chadha and
+               Cho-Yu Jason Chiang},
+  title     = {Sophisticated Access Control via {SMT} and Logical Frameworks},
+  journal   = tissec,
+  volume    = {16},
+  number    = {4},
+  year      = 2014,
+  pages     = {17},
+}
+
 @article{DBLP:journals/tissec/PhilippaertsYMPLW13,
   author    = {Pieter Philippaerts and
                Yves Younan and
@@ -306,7 +615,7 @@
 }
 
 @article{DBLP:journals/tissec/KhouryT12,
-  author    = {Raphael Khoury and
+  author    = {Raphaël Khoury and
                Nadia Tawbi},
   title     = {Corrective Enforcement: A New Paradigm of Security Policy Enforcement by Monitors},
   journal   = tissec,

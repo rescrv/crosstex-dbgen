@@ -1,5 +1,1697 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sigcomm/Taht14,
+  author    = {M. Dave Täht},
+  title     = {The value of repeatable experiments and negative results: - a journey through the history and future of {AQM} and fair queuing algorithms},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Varghese14,
+  author    = {George Varghese},
+  title     = {Keynote: life in the fast lane},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Zhong14,
+  author    = {Lin Zhong},
+  title     = {Networking with massive {MU-MIMO} base stations},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Sobie14,
+  author    = {Randall J. Sobie},
+  title     = {Distributed cloud computing in high energy physics},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {1-4},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GarikipatiS14,
+  author    = {Krishna C. Garikipati and
+               Kang G. Shin},
+  title     = {Improving transport design for {WARP} {SDR} deployments},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KuhnLM14,
+  author    = {Nicolas Kuhn and
+               Emmanuel Lochin and
+               Olivier Mehani},
+  title     = {Revisiting old friends: is {CoDel} really achieving what {RED} cannot?},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {3-8},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LimCNTG14,
+  author    = {Yeon-sup Lim and
+               Yung-Chih Chen and
+               Erich M. Nahum and
+               Don Towsley and
+               Richard J. Gibbens},
+  title     = {How green is multipath {TCP} for mobile devices?},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {3-8},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JeyakumarAGKM14,
+  author    = {Vimalkumar Jeyakumar and
+               Mohammad Alizadeh and
+               Yilong Geng and
+               Changhoon Kim and
+               David Mazières},
+  title     = {Millions of little minions: using packets for low latency network programming and visibility},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AroraBR14,
+  author    = {Dushyant Arora and
+               Theophilus Benson and
+               Jennifer Rexford},
+  title     = {{ProActive} routing in scalable data centers with {PARIS}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {5-10},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AlyafawiDB14,
+  author    = {Islam Alyafawi and
+               Desislava C. Dimitrova and
+               Torsten Braun},
+  title     = {{SDR-based} passive indoor localization system for {GSM}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {7-14},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BaiLS14,
+  author    = {Jingwen Bai and
+               Chenxi Liu and
+               Ashutosh Sabharwal},
+  title     = {Increasing cellular capacity using {ISM} band side-channels: a first study},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {9-14},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MartinHW14,
+  author    = {James J. Martin and
+               Gongbing Hong and
+               James Westall},
+  title     = {Managing fairness and application performance with active queue management in docsis-based cable networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {9-14},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AntonescuB14,
+  author    = {Alexandru-Florian Antonescu and
+               Torsten Braun},
+  title     = {Modeling and simulation of concurrent workload processing in cloud-distributed enterprise information systems},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {11-16},
+}
+
+@inproceedings{DBLP:conf/sigcomm/IacoboaieaSJB14,
+  author    = {Ovidiu Constantin Iacoboaiea and
+               Berna Sayraç and
+               Sana Ben Jemaa and
+               Pascal Bianchi},
+  title     = {{SON} conflict resolution using reinforcement learning with state aggregation},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {15-20},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ShowailJS14,
+  author    = {Ahmad Showail and
+               Kamran Jamshaid and
+               Basem Shihada},
+  title     = {WQM: an aggregation-aware queue management scheme for {IEEE} 802.11n based networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {15-20},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NguyenSSKD14,
+  author    = {Danh Nguyen and
+               Cem Sahin and
+               Boris Shishkin and
+               Nagarajan Kandasamy and
+               Kapil R. Dandekar},
+  title     = {A real-time and protocol-aware reactive jamming framework built on software-defined radios},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {15-22},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KoganNRCE14,
+  author    = {Kirill Kogan and
+               Sergey I. Nikolenko and
+               Ori Rottenstreich and
+               William Culhane and
+               Patrick Eugster},
+  title     = {{SAX-PAC} (Scalable And {eXpressive} {PAcket} Classification)},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ShanmugamSBRM14,
+  author    = {Praveen Kumar Shanmugam and
+               Naveen Dasa Subramanyam and
+               Joe Breen and
+               Corey Roach and
+               Jacobus E. van der Merwe},
+  title     = {DEIDtect: towards distributed elastic intrusion detection},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {17-24},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChoNBRMW14,
+  author    = {Junguk Cho and
+               Binh Nguyen and
+               Arijit Banerjee and
+               Robert Ricci and
+               Jacobus E. van der Merwe and
+               Kirk Webb},
+  title     = {SMORE: software-defined networking mobile offloading architecture},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {21-26},
+}
+
+@inproceedings{DBLP:conf/sigcomm/IslamWGK14,
+  author    = {Safiqul Islam and
+               Michael Welzl and
+               Stein Gjessing and
+               Naeem Khademi},
+  title     = {Coupled congestion control for {RTP} media},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {21-26},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangAPM14,
+  author    = {Peng Wang and
+               Junaid Ansari and
+               Marina Petrova and
+               Petri Mähönen},
+  title     = {Demo: CogMAC+ - a decentralized multichannel {MAC} protocol for cognitive wireless networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {23-26},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Cerroni14,
+  author    = {Walter Cerroni},
+  title     = {Performance of network and computing resource sharing in federated cloud systems},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/sigcomm/StewartGMRV14,
+  author    = {Gordon Stewart and
+               Mahanth Gowda and
+               Geoffrey Mainland and
+               Bozidar Radunovic and
+               Dimitrios Vytiniotis},
+  title     = {Demo: 802.11 a/g {PHY} implementation in ziria, domain-specific language for wireless programming},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {27-30},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HeinonenPKLFH14,
+  author    = {Johanna Heinonen and
+               Tapio Partti and
+               Marko Kallio and
+               Kari Lappalainen and
+               Hannu Flinck and
+               Jarmo Hillo},
+  title     = {Dynamic tunnel switching for {SDN-based} cellular core networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {27-32},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PaaschFAB14,
+  author    = {Christoph Paasch and
+               Simone Ferlin and
+               Ozgu Alay and
+               Olivier Bonaventure},
+  title     = {Experimental evaluation of multipath {TCP} schedulers},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {27-32},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GandhiLHLPYZ14,
+  author    = {Rohan Gandhi and
+               Hongqiang Harry Liu and
+               Y. Charlie Hu and
+               Guohan Lu and
+               Jitendra Padhye and
+               Lihua Yuan and
+               Ming Zhang},
+  title     = {Duet: cloud scale load balancing with hardware and software},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {27-38},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LochSH14,
+  author    = {Adrian Loch and
+               Matthias Schulz and
+               Matthias Hollick},
+  title     = {Demo: {WARP} drive - accelerating wireless multi-hop cross-layer experimentation on {SDRs}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XinBHMR14,
+  author    = {Yufeng Xin and
+               Ilya Baldin and
+               Chris Heermann and
+               Anirban Mandal and
+               Paul Ruth},
+  title     = {Capacity of inter-cloud layer-2 virtual networking},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BaillargeonJ14,
+  author    = {Steve Baillargeon and
+               Ingemar Johansson},
+  title     = {Conex lite for mobile networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {33-38},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BastaKHMH14,
+  author    = {Arsany Basta and
+               Wolfgang Kellerer and
+               Marco Hoffmann and
+               Hans Jochen Morper and
+               Klaus Hoffmann},
+  title     = {Applying {NFV} and {SDN} to {LTE} mobile core gateways, the functions placement problem},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {33-38},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HadjiL14,
+  author    = {Makhlouf Hadji and
+               Paul Laborgère},
+  title     = {A virtual machine repacking in clouds: faster live migration algorithms},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {37-38},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LingamSB14,
+  author    = {Srinivas Lingam and
+               Timothy Schmidl and
+               Anuj Batra},
+  title     = {Software defined radio for smart utility networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {37-44},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiLPMZ14,
+  author    = {Li Erran Li and
+               Songwu Lu and
+               Chunyi Peng and
+               Jacobus E. van der Merwe and
+               Lin Zhong},
+  title     = {Building a cellular networking research program},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {39-40},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SelimiFMCEB14,
+  author    = {Mennan Selimi and
+               Felix Freitag and
+               Daniel Martí and
+               Roger Pueyo Centelles and
+               Pau Escrich Garcia and
+               Roger Baig},
+  title     = {Experiences with distributed heterogeneous clouds over community networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {39-40},
+}
+
+@inproceedings{DBLP:conf/sigcomm/FrancescoMD14,
+  author    = {Paolo Di Francesco and
+               Francesco Malandrino and
+               Luiz A. DaSilva},
+  title     = {Mobile network sharing between operators: a demand trace-driven study},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {39-44},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YangXLFLLM14,
+  author    = {Tong Yang and
+               Gaogang Xie and
+               Yanbiao Li and
+               Qiaobin Fu and
+               Alex X. Liu and
+               Qi Li and
+               Laurent Mathy},
+  title     = {Guarantee {IP} lookup performance with {FIB} explosion},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {39-50},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CelloXCM14,
+  author    = {Marco Cello and
+               Kang Xi and
+               H. Jonathan Chao and
+               Mario Marchese},
+  title     = {Traffic-aware clustering and {VM} migration in distributed data center},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {41-42},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NguyenBGKLSM14,
+  author    = {Binh Nguyen and
+               Arijit Banerjee and
+               Vijay Gopalakrishnan and
+               Sneha Kumar Kasera and
+               Seungjoon Lee and
+               Aman Shaikh and
+               Jacobus E. van der Merwe},
+  title     = {Towards understanding {TCP} performance on LTE/{EPC} mobile networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {41-46},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WillisDB14,
+  author    = {Dale F. Willis and
+               Arkodeb Dasgupta and
+               Suman Banerjee},
+  title     = {ParaDrop: a multi-tenant platform for dynamically installed third party services on home gateways},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {43-44},
+}
+
+@inproceedings{DBLP:conf/sigcomm/FanDH14,
+  author    = {Yuqi Fan and
+               Hongli Ding and
+               Donghui Hu},
+  title     = {Green latency-aware data deployment in data centers: balancing latency, energy in networks and servers},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {45-46},
+}
+
+@inproceedings{DBLP:conf/sigcomm/TimnerPHWJ14,
+  author    = {Ylva Timner and
+               Jonas Pettersson and
+               Hans Hannu and
+               Min Wang and
+               Ingemar Johansson},
+  title     = {Network assisted rate adaptation for conversational video over LTE, concept and performance evaluation},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {45-50},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AshokSVSAPH14,
+  author    = {Arun Ashok and
+               Iyappan Subbiah and
+               Gabor Varga and
+               Moritz Schrey and
+               Andreas Achtzehn and
+               Marina Petrova and
+               Stefan Heinen},
+  title     = {whiteLAN: facilitate cost-efficient {SDR} research with cots ieee 802.11b/g devices},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {45-52},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KellerK14,
+  author    = {Matthias Keller and
+               Holger Karl},
+  title     = {Response time-optimized distributed cloud resource allocation},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {47-52},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MerzWSM14,
+  author    = {Ruben Merz and
+               Daniel Wenger and
+               Damiano Scanferla and
+               Stefan Mauron},
+  title     = {Performance of {LTE} in a high-velocity environment: a measurement study},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {47-52},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Johansson14,
+  author    = {Ingemar Johansson},
+  title     = {Self-clocked rate adaptation for conversational video in {LTE}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {51-56},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HeilmanCRG14,
+  author    = {Ethan Heilman and
+               Danny Cooper and
+               Leonid Reyzin and
+               Sharon Goldberg},
+  title     = {From the consent of the routed: improving the transparency of the {RPKI}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {51-62},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AbdesslemL14,
+  author    = {Fehmi Ben Abdesslem and
+               Anders Lindgren},
+  title     = {Cacheability of {YouTube} videos in cellular networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {53-58},
+}
+
+@inproceedings{DBLP:conf/sigcomm/EspositoM14,
+  author    = {Flavio Esposito and
+               Ibrahim Matta},
+  title     = {A decomposition-based architecture for distributed virtual network embedding},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {53-58},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AnsariZGM14,
+  author    = {Junaid Ansari and
+               Xi Zhang and
+               Sameer Gaikwad and
+               Petri Mähönen},
+  title     = {Paper: exploring {MAC} parallelization on software defined radio platforms},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {53-60},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WamserZTZ14,
+  author    = {Florian Wamser and
+               Thomas Zinner and
+               Phuoc Tran-Gia and
+               Jing Zhu},
+  title     = {Dynamic bandwidth allocation for multiple network connections: improving user {QoE} and network usage of {YouTube} in mobile broadband},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {57-62},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XiangLLHS14,
+  author    = {Yu Xiang and
+               Hang Liu and
+               Tian Lan and
+               H. Howie Huang and
+               Suresh Subramaniam},
+  title     = {Optimizing job reliability via contention-free, distributed scheduling of vm checkpointing},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {59-64},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KerttulaMRJT14,
+  author    = {Jussi Kerttula and
+               Nicolas Malm and
+               Kalle Ruttik and
+               Riku Jäntti and
+               Olav Tirkkonen},
+  title     = {Implementing {TD-LTE} as software defined radio in general purpose processor},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {61-68},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangMA14,
+  author    = {Zhiyong Zhang and
+               Ovidiu Mara and
+               Katerina J. Argyraki},
+  title     = {Network neutrality inference},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {63-74},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CaoKL14,
+  author    = {Zizhong Cao and
+               Murali S. Kodialam and
+               T. V. Lakshman},
+  title     = {Traffic steering in software defined networks: planning and online routing},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {65-70},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangLY14,
+  author    = {Taotao Wang and
+               Soung Chang Liew and
+               Lizhao You},
+  title     = {Joint phase tracking and channel decoding for {OFDM} PNC: algorithm and experimental evaluation},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {69-76},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ParniewiczCORMG14,
+  author    = {Damian Parniewicz and
+               Roberto Doriguzzi Corin and
+               Lukasz Ogrodowczyk and
+               Mehdi Rashidi-Fard and
+               Jon Matías and
+               Matteo Gerola and
+               Victor Fuentes and
+               Umar Toseef and
+               Adel Zaalouk and
+               Bartosz Belter and
+               Eduardo Jacob and
+               Kostas Pentikousis},
+  title     = {Design and implementation of an {OpenFlow} hardware abstraction layer},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {71-76},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NaylorMS14,
+  author    = {David Naylor and
+               Matthew K. Mukerjee and
+               Peter Steenkiste},
+  title     = {Balancing accountability and privacy in the network},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {75-86},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuL0VY14,
+  author    = {Yujie Liu and
+               Yong Li and
+               Yue Wang and
+               Athanasios V. Vasilakos and
+               Jian Yuan},
+  title     = {Achieving efficient and fast update for multiple flows in software-defined networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {77-82},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AyaduraiP14,
+  author    = {Vicknesan Ayadurai and
+               Mikael Prytz},
+  title     = {Proof-of-concept implementation for network orchestrated relay selection mechanism},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {77-84},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MartelliKSG14,
+  author    = {Francesca Martelli and
+               Alexander Kocian and
+               Paolo Santi and
+               Vanessa Gardellin},
+  title     = {{MIMO-OFDM} spatial multiplexing technique implementation for {GNU} radio},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {85-92},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CzyzAZIOB14,
+  author    = {Jakub Czyz and
+               Mark Allman and
+               Jing Zhang and
+               Scott Iekel-Johnson and
+               Eric Osterweil and
+               Michael Bailey},
+  title     = {Measuring IPv6 adoption},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {87-98},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PeterJZWAK14,
+  author    = {Simon Peter and
+               Umar Javed and
+               Qiao Zhang and
+               Doug Woos and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy},
+  title     = {One tunnel is (often) enough},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {99-110},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NamKCS14,
+  author    = {Hyunwoo Nam and
+               Kyung-Hwa Kim and
+               Doru Calin and
+               Henning Schulzrinne},
+  title     = {YouSlow: a performance analysis tool for adaptive bitrate video streaming},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {111-112},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MalhotraG14,
+  author    = {Aanchal Malhotra and
+               Sharon Goldberg},
+  title     = {{RPKI} vs ROVER: comparing the risks of {BGP} security solutions},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {113-114},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangBWB14,
+  author    = {Baobao Zhang and
+               Jun Bi and
+               Jianping Wu and
+               Fred Baker},
+  title     = {CTE: cost-effective intra-domain traffic engineering},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {115-116},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Shirali-ShahrezaG14,
+  author    = {Sajad Shirali-Shahreza and
+               Yashar Ganjali},
+  title     = {Traffic statistics collection with {FleXam}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {117-118},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KakhkiRGCGM14,
+  author    = {Arash Molavi Kakhki and
+               Abbas Razaghpanah and
+               Rajesh Golani and
+               David R. Choffnes and
+               Phillipa Gill and
+               Alan Mislove},
+  title     = {Identifying traffic differentiation on cellular data networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {119-120},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MiaoYJ14,
+  author    = {Rui Miao and
+               Minlan Yu and
+               Navendu Jain},
+  title     = {NIMBUS: cloud-scale attack detection and mitigation},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {121-122},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MokLC14,
+  author    = {Ricky K. P. Mok and
+               Weichao Li and
+               Rocky K. C. Chang},
+  title     = {A user behavior based cheat detection mechanism for crowdtesting},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {123-124},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CsomaSCNGTS14,
+  author    = {Attila Csoma and
+               Balázs Sonkoly and
+               Levente Csikor and
+               Felician Németh and
+               András Gulyás and
+               Wouter Tavernier and
+               Sahel Sahhaf},
+  title     = {ESCAPE: extensible service chain prototyping environment using mininet, click, {NETCONF} and {POX}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {125-126},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GabielkovRL14,
+  author    = {Maksym Gabielkov and
+               Ashwin Rao and
+               Arnaud Legout},
+  title     = {Sampling online social networks: an experimental study of twitter},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {127-128},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NetravaliSWDGB14,
+  author    = {Ravi Netravali and
+               Anirudh Sivaraman and
+               Keith Winstein and
+               Somak Das and
+               Ameesh Goyal and
+               Hari Balakrishnan},
+  title     = {Mahimahi: a lightweight toolkit for reproducible web measurement},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {129-130},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BischofB14,
+  author    = {Zachary S. Bischof and
+               Fabián E. Bustamante},
+  title     = {A time for reliability: the growing importance of being always on},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {131-132},
+}
+
+@inproceedings{DBLP:conf/sigcomm/FiadinoSC14,
+  author    = {Pierdomenico Fiadino and
+               Mirko Schiavone and
+               Pedro Casas},
+  title     = {Vivisecting whatsapp through large-scale measurements in mobile networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {133-134},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RulaB14,
+  author    = {John P. Rula and
+               Fabian E. Bustamante},
+  title     = {Behind the curtain: the importance of replica selection in next generation cellular networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {135-136},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiYB14,
+  author    = {Yuliang Li and
+               Guang Yao and
+               Jun Bi},
+  title     = {Flowinsight: decoupling visibility from operability in {SDN} data plane},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {137-138},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JiangBB14,
+  author    = {Angela H. Jiang and
+               Zachary S. Bischof and
+               Fabian E. Bustamante},
+  title     = {A cliq of content curators},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {139-140},
+}
+
+@inproceedings{DBLP:conf/sigcomm/VallentinCSPW14,
+  author    = {Matthias Vallentin and
+               Dominik Charousset and
+               Thomas C. Schmidt and
+               Vern Paxson and
+               Matthias Wählisch},
+  title     = {Native actors: how to scale network forensics},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {141-142},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KollLF14,
+  author    = {David Koll and
+               Jun Li and
+               Xiaoming Fu},
+  title     = {SOUP: an online social network by the people, for the people},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {143-144},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangWWCJH14,
+  author    = {Bo Zhang and
+               Jinfan Wang and
+               Xinyu Wang and
+               Yingying Cheng and
+               Xiaohua Jia and
+               Jianfei He},
+  title     = {AI3: application-independent information infrastructure},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {145-146},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BharadiaJK14,
+  author    = {Dinesh Bharadia and
+               Kiran Raj Joshi and
+               Sachin Katti},
+  title     = {Robust full duplex radio link},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {147-148},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WamserZIT14,
+  author    = {Florian Wamser and
+               Thomas Zinner and
+               Lukas Iffländer and
+               Phuoc Tran-Gia},
+  title     = {Demonstrating the prospects of dynamic application-aware networking in a home environment},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {149-150},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CravenBA14,
+  author    = {Ryan Craven and
+               Robert Beverly and
+               Mark Allman},
+  title     = {A middlebox-cooperative {TCP} for a non end-to-end internet},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {151-162},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Gember-JacobsonVPGKDA14,
+  author    = {Aaron Gember-Jacobson and
+               Raajay Viswanathan and
+               Chaithan Prakash and
+               Robert Grandl and
+               Junaid Khalid and
+               Sourav Das and
+               Aditya Akella},
+  title     = {OpenNF: enabling innovation in network function control},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {163-174},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MarinosWH14,
+  author    = {Ilias Marinos and
+               Robert N. M. Watson and
+               Mark Handley},
+  title     = {Network stack specialization for performance},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {175-186},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HuangJMTW14,
+  author    = {Te-Yuan Huang and
+               Ramesh Johari and
+               Nick McKeown and
+               Matthew Trunnell and
+               Mark Watson},
+  title     = {A buffer-based approach to rate adaptation: evidence from a large video streaming service},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {187-198},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BharadiaK14,
+  author    = {Dinesh Bharadia and
+               Sachin Katti},
+  title     = {FastForward: fast and constructive full duplex relays},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {199-210},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KumarHKL14,
+  author    = {Swarun Kumar and
+               Ezzeldin Hamed and
+               Dina Katabi and
+               Li Erran Li},
+  title     = {{LTE} radio analytics made easy and accessible},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {211-222},
+}
+
+@inproceedings{DBLP:conf/sigcomm/TuLPLWL14,
+  author    = {Guan-Hua Tu and
+               Yuanjie Li and
+               Chunyi Peng and
+               Chi-Yu Li and
+               Hongyi Wang and
+               Songwu Lu},
+  title     = {Control-plane protocol interactions in cellular networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {223-234},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangVK14,
+  author    = {Jue Wang and
+               Deepak Vasisht and
+               Dina Katabi},
+  title     = {RF-IDraw: virtual touch screen in the air using {RF} signals},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {235-246},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SharmaTUVWY14,
+  author    = {Abhigyan Sharma and
+               Xiaozheng Tie and
+               Hardeep Uppal and
+               Arun Venkataramani and
+               David Westbrook and
+               Aditya Yadav},
+  title     = {A global name service for a highly mobile internetwork},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {247-258},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GaoVKH14,
+  author    = {Zhaoyu Gao and
+               Arun Venkataramani and
+               James F. Kurose and
+               Simon Heimlicher},
+  title     = {Towards a quantitative comparison of location-independent network architectures},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {259-270},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KimBJLHP14,
+  author    = {Tiffany Hyun-Jin Kim and
+               Cristina Basescu and
+               Limin Jia and
+               Soo Bum Lee and
+               Yih-Chun Hu and
+               Adrian Perrig},
+  title     = {Lightweight source authentication and path validation},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {271-282},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuGWK14,
+  author    = {Yunpeng James Liu and
+               Peter Xiang Gao and
+               Bernard Wong and
+               Srinivasan Keshav},
+  title     = {Quartz: a new design element for low-latency {DCNs}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {283-294},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KaliaKA14,
+  author    = {Anuj Kalia and
+               Michael Kaminsky and
+               David G. Andersen},
+  title     = {Using {RDMA} efficiently for key-value services},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {295-306},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PerryOBSF14,
+  author    = {Jonathan Perry and
+               Amy Ousterhout and
+               Hari Balakrishnan and
+               Devavrat Shah and
+               Hans Fugal},
+  title     = {Fastpass: a centralized "zero-queue" datacenter network},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {307-318},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AzimiQGSDLST14,
+  author    = {Navid Hamed Azimi and
+               Zafar Ayyub Qazi and
+               Himanshu Gupta and
+               Vyas Sekar and
+               Samir R. Das and
+               Jon P. Longtin and
+               Himanshu Shah and
+               Ashish Tanwer},
+  title     = {FireFly: a reconfigurable wireless data center fabric using free-space optics},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {319-330},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RashmiSGKBR14,
+  author    = {K. V. Rashmi and
+               Nihar B. Shah and
+               Dikang Gu and
+               Hairong Kuang and
+               Dhruba Borthakur and
+               Kannan Ramchandran},
+  title     = {A "hitchhiker's" guide to fast and efficient data reconstruction in erasure-coded data centers},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {331-342},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MukerjeeHJNHSZ14,
+  author    = {Matthew K. Mukerjee and
+               JungAh Hong and
+               Junchen Jiang and
+               David Naylor and
+               Dongsu Han and
+               Srinivasan Seshan and
+               Hui Zhang},
+  title     = {Enabling near real-time central control for live video delivery in {CDNs}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {343-344},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DonovanF14,
+  author    = {Sean P. Donovan and
+               Nick Feamster},
+  title     = {NetAssay: providing new monitoring primitives for network operators},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {345-346},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BaoZYFWG14,
+  author    = {Jinzhen Bao and
+               Baokang Zhao and
+               Wanrong Yu and
+               Zhenqian Feng and
+               Chunqing Wu and
+               Zhenghu Gong},
+  title     = {OpenSAN: a software-defined satellite network architecture},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {347-348},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AlwabelYZM14,
+  author    = {Abdulla Alwabel and
+               Minlan Yu and
+               Ying Zhang and
+               Jelena Mirkovic},
+  title     = {SENSS: observe and control your own traffic in the internet},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {349-350},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SundaresanFT14,
+  author    = {Srikanth Sundaresan and
+               Nick Feamster and
+               Renata Teixeira},
+  title     = {Locating throughput bottlenecks in home networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {351-352},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GeLDZGCZH14,
+  author    = {Xiongzi Ge and
+               Yi Liu and
+               David H. C. Du and
+               Liang Zhang and
+               Hongguang Guan and
+               Jian Chen and
+               Yuping Zhao and
+               Xinyu Hu},
+  title     = {OpenANFV: accelerating network function virtualization with a consolidated framework in openstack},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {353-354},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MancoMH14,
+  author    = {Filipe Manco and
+               João Martins and
+               Felipe Huici},
+  title     = {Towards the super fluid cloud},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {355-356},
+}
+
+@inproceedings{DBLP:conf/sigcomm/StewartGMRVP14,
+  author    = {Gordon Stewart and
+               Mahanth Gowda and
+               Geoffrey Mainland and
+               Bozidar Radunovic and
+               Dimitrios Vytiniotis and
+               Doug Patterson},
+  title     = {Ziria: language for rapid prototyping of wireless {PHY}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {357-358},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GebertHZTHJSBBK14,
+  author    = {Steffen Gebert and
+               David Hock and
+               Thomas Zinner and
+               Phuoc Tran-Gia and
+               Marco Hoffmann and
+               Michael Jarschel and
+               Ernst-Dieter Schmidt and
+               Ralf-Peter Braun and
+               Christian Banse and
+               Andreas Köpsel},
+  title     = {Demonstrating the optimal placement of virtualized cellular network functions in case of large crowd events},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {359-360},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HesmansB14,
+  author    = {Benjamin Hesmans and
+               Olivier Bonaventure},
+  title     = {Tracing multipath {TCP} connections},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {361-362},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SchmidtHM14,
+  author    = {Mark Schmidt and
+               Florian Heimgaertner and
+               Michael Menth},
+  title     = {Demo: a virtualized lab testbed with physical network outlets for hands-on computer networking education},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {363-364},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DongLZGS14,
+  author    = {Mo Dong and
+               Qingxi Li and
+               Doron Zarchy and
+               Brighten Godfrey and
+               Michael Schapira},
+  title     = {Rethinking congestion control architecture: performance-oriented congestion control},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {365-366},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RoyBZAB14,
+  author    = {Arup Raton Roy and
+               Md. Faizul Bari and
+               Mohamed Faten Zhani and
+               Reaz Ahmed and
+               Raouf Boutaba},
+  title     = {DOT: distributed {OpenFlow} testbed},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {367-368},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GamperliKD14,
+  author    = {Adrian Gämperli and
+               Vasileios Kotronis and
+               Xenofontas Dimitropoulos},
+  title     = {Evaluating the effect of centralization on routing convergence on a hybrid {BGP-SDN} emulation framework},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {369-370},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YuanLWX14,
+  author    = {Zhenlong Yuan and
+               Yongqiang Lu and
+               Zhaoguo Wang and
+               Yibo Xue},
+  title     = {Droid-Sec: deep learning in android malware detection},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {371-372},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SamadiGBWZB14,
+  author    = {Payman Samadi and
+               Varun Gupta and
+               Berk Birand and
+               Howard Wang and
+               Gil Zussman and
+               Keren Bergman},
+  title     = {Accelerating incast and multicast traffic delivery for data-intensive applications using physical layer optics},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {373-374},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SathiaseelanSST14,
+  author    = {Arjuna Sathiaseelan and
+               M. Said Seddiki and
+               Stoyan Stoyanov and
+               Dirk Trossen},
+  title     = {Social SDN: online social networks integration in wireless network provisioning},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {375-376},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MoshrefBGYG14,
+  author    = {Masoud Moshref and
+               Apoorv Bhargava and
+               Adhip Gupta and
+               Minlan Yu and
+               Ramesh Govindan},
+  title     = {Flow-level state transition as a new switch primitive for {SDN}},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {377-378},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhuHHWMS14,
+  author    = {Liang Zhu and
+               Zi Hu and
+               John S. Heidemann and
+               Duane Wessels and
+               Allison Mankin and
+               Nikita Somaiya},
+  title     = {T-DNS: connection-oriented {DNS} to improve privacy and security},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {379-380},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MichelCK14,
+  author    = {Oliver Michel and
+               Michael Coughlin and
+               Eric Keller},
+  title     = {Extending the software-defined network boundary},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {381-382},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WuZHZL14,
+  author    = {Yang Wu and
+               Mingchen Zhao and
+               Andreas Haeberlen and
+               Wenchao Zhou and
+               Boon Thau Loo},
+  title     = {Diagnosing missing events in distributed systems with negative provenance},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {383-394},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ScottWRPOLHLEWAZS14,
+  author    = {Colin Scott and
+               Andreas Wundsam and
+               Barath Raghavan and
+               Aurojit Panda and
+               Andrew Or and
+               Jefferson Lai and
+               Eugene Huang and
+               Zhi Liu and
+               Ahmed El-Hassany and
+               Sam Whitlock and
+               Hrishikesh B. Acharya and
+               Kyriakos Zarifis and
+               Scott Shenker},
+  title     = {Troubleshooting blackbox {SDN} control software with minimal causal sequences},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {395-406},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RasleySDRFABF14,
+  author    = {Jeff Rasley and
+               Brent Stephens and
+               Colin Dixon and
+               Eric Rozner and
+               Wes Felter and
+               Kanak Agarwal and
+               John B. Carter and
+               Rodrigo Fonseca},
+  title     = {Planck: millisecond-scale monitoring and control for commodity networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {407-418},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MoshrefYGV14,
+  author    = {Masoud Moshref and
+               Minlan Yu and
+               Ramesh Govindan and
+               Amin Vahdat},
+  title     = {DREAM: dynamic resource allocation for software-defined measurement},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {419-430},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DogarKBR14,
+  author    = {Fahad R. Dogar and
+               Thomas Karagiannis and
+               Hitesh Ballani and
+               Antony I. T. Rowstron},
+  title     = {Decentralized task-aware scheduling for data center networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {431-442},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChowdhuryZS14,
+  author    = {Mosharaf Chowdhury and
+               Yuan Zhong and
+               Ion Stoica},
+  title     = {Efficient coflow scheduling with Varys},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {443-454},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GrandlAKRA14,
+  author    = {Robert Grandl and
+               Ganesh Ananthanarayanan and
+               Srikanth Kandula and
+               Sriram Rao and
+               Aditya Akella},
+  title     = {Multi-resource packing for cluster schedulers},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {455-466},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LeeTLPBKS14,
+  author    = {Jeongkeun Lee and
+               Yoshio Turner and
+               Myungjin Lee and
+               Lucian Popa and
+               Sujata Banerjee and
+               Joon-Myung Kang and
+               Puneet Sharma},
+  title     = {Application-driven bandwidth guarantees in datacenters},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {467-478},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SivaramanWTB14,
+  author    = {Anirudh Sivaraman and
+               Keith Winstein and
+               Pratiksha Thaker and
+               Hari Balakrishnan},
+  title     = {An experimental study of the learnability of congestion control},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {479-490},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MunirBIQLD14,
+  author    = {Ali Munir and
+               Ghufran Baig and
+               Syed Mohammad Irteza and
+               Ihsan Ayyub Qazi and
+               Alex X. Liu and
+               Fahad R. Dogar},
+  title     = {Friends, not foes: synthesizing existing transport strategies for data center networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {491-502},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AlizadehEDVCFLMPYV14,
+  author    = {Mohammad Alizadeh and
+               Tom Edsall and
+               Sarang Dharmapurikar and
+               Ramanan Vaidyanathan and
+               Kevin Chu and
+               Andy Fingerhut and
+               Vinh The Lam and
+               Francis Matus and
+               Rong Pan and
+               Navindra Yadav and
+               George Varghese},
+  title     = {CONGA: distributed congestion-aware load balancing for datacenters},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {503-514},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KandulaMSB14,
+  author    = {Srikanth Kandula and
+               Ishai Menache and
+               Roy Schwartz and
+               Spandana Raj Babbula},
+  title     = {Calendaring for wide area networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {515-526},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuKMZG14,
+  author    = {Hongqiang Harry Liu and
+               Srikanth Kandula and
+               Ratul Mahajan and
+               Ming Zhang and
+               David Gelernter},
+  title     = {Traffic engineering with forward fault correction},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {527-538},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JinLGKMZRW14,
+  author    = {Xin Jin and
+               Hongqiang Harry Liu and
+               Rohan Gandhi and
+               Srikanth Kandula and
+               Ratul Mahajan and
+               Ming Zhang and
+               Jennifer Rexford and
+               Roger Wattenhofer},
+  title     = {Dynamic scheduling of network updates},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {539-550},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GuptaVSDSFRSCK14,
+  author    = {Arpit Gupta and
+               Laurent Vanbever and
+               Muhammad Shahbaz and
+               Sean P. Donovan and
+               Brandon Schlinker and
+               Nick Feamster and
+               Jennifer Rexford and
+               Scott Shenker and
+               Russell J. Clark and
+               Ethan Katz-Bassett},
+  title     = {SDX: a software defined internet exchange},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {551-562},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SunMRYZA14,
+  author    = {Peng Sun and
+               Ratul Mahajan and
+               Jennifer Rexford and
+               Lihua Yuan and
+               Ming Zhang and
+               Ahsan Arefin},
+  title     = {A network-state management service},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {563-574},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MushtaqIWMQU14,
+  author    = {Aisha Mushtaq and
+               Asad Khalid Ismail and
+               Abdul Wasay and
+               Bilal Mahmood and
+               Ihsan Ayyub Qazi and
+               Zartash Afzal Uzmi},
+  title     = {Rethinking buffer management in data center networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {575-576},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ObstfeldKKWBB14,
+  author    = {Joel Obstfeld and
+               Simon Knight and
+               Ed Kern and
+               Qiang Sheng Wang and
+               Tom Bryan and
+               Dan Bourque},
+  title     = {VIRL: the virtual internet routing lab},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {577-578},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GuptaVSDSFRSCK14a,
+  author    = {Arpit Gupta and
+               Laurent Vanbever and
+               Muhammad Shahbaz and
+               Sean Patrick Donovan and
+               Brandon Schlinker and
+               Nick Feamster and
+               Jennifer Rexford and
+               Scott Shenker and
+               Russell J. Clark and
+               Ethan Katz-Bassett},
+  title     = {SDX: a software defined internet exchange},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {579-580},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HuJWCL14,
+  author    = {Han Hu and
+               Yichao Jin and
+               Yonggang Wen and
+               Tat-Seng Chua and
+               Xuelong Li},
+  title     = {Toward a biometric-aware cloud service engine for multi-screen video applications},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {581-582},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuLJ14,
+  author    = {Jiaqiang Liu and
+               Yong Li and
+               Depeng Jin},
+  title     = {{SDN-based} live {VM} migration across datacenters},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {583-584},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChangWMC14,
+  author    = {Wentao Chang and
+               An Wang and
+               Aziz Mohaisen and
+               Songqing Chen},
+  title     = {Characterizing botnets-as-a-service},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {585-586},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChenFCXJ14,
+  author    = {Shaofeng Chen and
+               Dingyi Fang and
+               Xiaojiang Chen and
+               Tingting Xia and
+               Meng Jin},
+  title     = {Aerial wireless localization using target-guided flight route},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {587-588},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LeeKM14,
+  author    = {Keunhong Lee and
+               Joongi Kim and
+               Sue B. Moon},
+  title     = {An educational networking framework for full layer implementation and testing},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {589-590},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiBZRW14,
+  author    = {Jun Li and
+               Skyler Berg and
+               Mingwei Zhang and
+               Peter L. Reiher and
+               Tao Wei},
+  title     = {Drawbridge: software-defined {DDoS-resistant} traffic engineering},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {591-592},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HuYGDZ14,
+  author    = {Chengchen Hu and
+               Ji Yang and
+               Zhimin Gong and
+               Shuoling Deng and
+               Hongbo Zhao},
+  title     = {DesktopDC: setting all programmable data center networking testbed on desk},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {593-594},
+}
+
+@inproceedings{DBLP:conf/sigcomm/YenamandraS14,
+  author    = {Vivek Yenamandra and
+               Kannan Srinivasan},
+  title     = {Vidyut: exploiting power line infrastructure for enterprise wireless networks},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {595-606},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KelloggPGSW14,
+  author    = {Bryce Kellogg and
+               Aaron N. Parks and
+               Shyamnath Gollakota and
+               Joshua R. Smith and
+               David Wetherall},
+  title     = {Wi-fi backscatter: internet connectivity for {RF-powered} devices},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {607-618},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ParksLGS14,
+  author    = {Aaron N. Parks and
+               Angli Liu and
+               Shyamnath Gollakota and
+               Joshua R. Smith},
+  title     = {Turbocharging ambient backscatter communication},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {619-630},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NikitopoulosZCJ14,
+  author    = {Konstantinos Nikitopoulos and
+               Juan Zhou and
+               Ben Congdon and
+               Kyle Jamieson},
+  title     = {Geosphere: consistently turning {MIMO} capacity into throughput},
+  booktitle = sigcomm,
+  year      = 2014,
+  pages     = {631-642},
+}
+
 @inproceedings{DBLP:conf/sigcomm/Peterson13,
   author    = {Larry Peterson},
   title     = {Zen and the art of network architecture},
@@ -101,7 +1793,7 @@
 @inproceedings{DBLP:conf/sigcomm/VoellmyWYFH13,
   author    = {Andreas Voellmy and
                Junchang Wang and
-               Y. Richard Yang and
+               Yang Richard Yang and
                Bryan Ford and
                Paul Hudak},
   title     = {Maple: simplifying {SDN} programming using algorithmic policies},
@@ -328,7 +2020,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/Le-BlondCZDBF13,
-  author    = {Stevens Le-Blond and
+  author    = {Stevens Le Blond and
                David R. Choffnes and
                Wenxuan Zhou and
                Peter Druschel and
@@ -1749,7 +3441,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/CiucuS12,
   author    = {Florin Ciucu and
-               Jens Schmitt},
+               Jens B. Schmitt},
   title     = {Perspectives on network calculus: no free lunch, but still good value},
   booktitle = sigcomm,
   year      = 2012,
@@ -2816,7 +4508,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/Perlman10,
-  author    = {Radia Perlman},
+  author    = {Radia J. Perlman},
   title     = {Protocol design for effective communication among silicon or carbon-based nodes},
   booktitle = sigcomm,
   year      = 2010,
@@ -4286,7 +5978,7 @@
 @inproceedings{DBLP:conf/sigcomm/ErikssonBN08,
   author    = {Brian Eriksson and
                Paul Barford and
-               Robert Nowak},
+               Robert D. Nowak},
   title     = {Network discovery from passive measurements},
   booktitle = sigcomm,
   year      = 2008,
@@ -4423,7 +6115,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/CasadoFPLMS07,
-  author    = {Martin Casado and
+  author    = {Martín Casado and
                Michael J. Freedman and
                Justin Pettit and
                Jianying Luo and
@@ -7422,7 +9114,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/Kermode98,
-  author    = {Roger Kermode},
+  author    = {Roger G. Kermode},
   title     = {Scoped Hybrid Automatic Repeat {reQuest} with Forward Error Correction (SHARQFEC)},
   booktitle = sigcomm,
   year      = 1998,
@@ -9615,7 +11307,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/VerissimoRB89,
   author    = {Paulo Veríssimo and
-               Luís Rodrigues and
+               Luís E. T. Rodrigues and
                M. Baptista},
   title     = {AMp: A Highly Parallel Atomic Multicast Protocol},
   booktitle = sigcomm,

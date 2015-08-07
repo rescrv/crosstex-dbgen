@@ -1,5 +1,512 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sacmat/Preneel15,
+  author    = {Bart Preneel},
+  title     = {{Post-Snowden} Threat Models},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/sacmat/CramptonGK15,
+  author    = {Jason Crampton and
+               Gregory Gutin and
+               Daniel Karapetyan},
+  title     = {Valued Workflow Satisfiability Problem},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {3-13},
+}
+
+@inproceedings{DBLP:conf/sacmat/ShahenNT15,
+  author    = {Jonathan Shahen and
+               Jianwei Niu and
+               Mahesh V. Tripunitara},
+  title     = {Mohawk+T: Efficient Analysis of Administrative Temporal {Role-Based} Access Control (ATRBAC) Policies},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/sacmat/LeNBH15,
+  author    = {Ha-Thanh Le and
+               Cu Duy Nguyen and
+               Lionel C. Briand and
+               Benjamin Hourte},
+  title     = {Automated Inference of Access Control Policies for Web Applications},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {27-37},
+}
+
+@inproceedings{DBLP:conf/sacmat/SorienteKRMC15,
+  author    = {Claudio Soriente and
+               Ghassan O. Karame and
+               Hubert Ritzdorf and
+               Srdjan Marinovic and
+               Srdjan Capkun},
+  title     = {Commune: Shared Ownership in an Agnostic Cloud},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {39-50},
+}
+
+@inproceedings{DBLP:conf/sacmat/LiSLLJ15,
+  author    = {Jingwei Li and
+               Anna Cinzia Squicciarini and
+               Dan Lin and
+               Shuang Liang and
+               Chunfu Jia},
+  title     = {SecLoc: Securing {Location-Sensitive} Storage in the Cloud},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {51-61},
+}
+
+@inproceedings{DBLP:conf/sacmat/BijonKS15,
+  author    = {Khalid Zaman Bijon and
+               Ram Krishnan and
+               Ravi S. Sandhu},
+  title     = {Mitigating {Multi-Tenancy} Risks in {IaaS} Cloud Through {Constraints-Driven} Virtual Resource Scheduling},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {63-74},
+}
+
+@inproceedings{DBLP:conf/sacmat/CramerPZ15,
+  author    = {Marcos Cramer and
+               Jun Pang and
+               Yang Zhang},
+  title     = {A Logical Approach to Restricting Access in Online Social Networks},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {75-86},
+}
+
+@inproceedings{DBLP:conf/sacmat/PaciZ15,
+  author    = {Federica Paci and
+               Nicola Zannone},
+  title     = {Preventing Information Inference in Access Control},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {87-97},
+}
+
+@inproceedings{DBLP:conf/sacmat/CramptonMZ15,
+  author    = {Jason Crampton and
+               Charles Morisset and
+               Nicola Zannone},
+  title     = {On Missing Attributes in Access Control: Non-deterministic and Probabilistic Attribute Retrieval},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {99-109},
+}
+
+@inproceedings{DBLP:conf/sacmat/Jaeger15,
+  author    = {Trent Jaeger},
+  title     = {Challenges in Making Access Control Sensitive to the "Right" Contexts},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {111},
+}
+
+@inproceedings{DBLP:conf/sacmat/RizviFCS15,
+  author    = {Syed Zain R. Rizvi and
+               Philip W. L. Fong and
+               Jason Crampton and
+               James Sellwood},
+  title     = {{Relationship-Based} Access Control for an {Open-Source} Medical Records System},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {113-124},
+}
+
+@inproceedings{DBLP:conf/sacmat/Rubio-MedranoZD15,
+  author    = {Carlos E. Rubio-Medrano and
+               Ziming Zhao and
+               Adam Doupé and
+               Gail-Joon Ahn},
+  title     = {Federated Access Management for Collaborative Network Environments: Framework and Case Study},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {125-134},
+}
+
+@inproceedings{DBLP:conf/sacmat/HanZGB15,
+  author    = {Weili Han and
+               Yin Zhang and
+               Zeqing Guo and
+               Elisa Bertino},
+  title     = {{Fine-Grained} Business Data Confidentiality Control in {Cross-Organizational} Tracking},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {135-145},
+}
+
+@inproceedings{DBLP:conf/sacmat/Fischer15,
+  author    = {Rainer Fischer},
+  title     = {A Prototype to Reduce the Amount of Accessible Information},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {147-149},
+}
+
+@inproceedings{DBLP:conf/sacmat/ArmandoRTW15,
+  author    = {Alessandro Armando and
+               Silvio Ranise and
+               Riccardo Traverso and
+               Konrad Wrona},
+  title     = {A {SMT-based} Tool for the Analysis and Enforcement of {NATO} Content-based Protection and Release Policies},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {151-155},
+}
+
+@inproceedings{DBLP:conf/sacmat/NaroueiT15,
+  author    = {Masoud Narouei and
+               Hassan Takabi},
+  title     = {Towards an Automatic Top-down Role Engineering Approach Using Natural Language Processing Techniques},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {157-160},
+}
+
+@inproceedings{DBLP:conf/sacmat/MousaviT15,
+  author    = {Nima Mousavi and
+               Mahesh V. Tripunitara},
+  title     = {Hard Instances for Verification Problems in Access Control},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {161-164},
+}
+
+@inproceedings{DBLP:conf/sacmat/WangKS15,
+  author    = {Feng Wang and
+               Mathias Kohler and
+               Andreas Schaad},
+  title     = {Initial Encryption of large Searchable Data Sets using Hadoop},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {165-168},
+}
+
+@inproceedings{DBLP:conf/sacmat/LorenziCUVSA15,
+  author    = {David Lorenzi and
+               Pratik Chattopadhyay and
+               Emre Uzun and
+               Jaideep Vaidya and
+               Shamik Sural and
+               Vijayalakshmi Atluri},
+  title     = {Generating Secure Images for {CAPTCHAs} through Noise Addition},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {169-172},
+}
+
+@inproceedings{DBLP:conf/sacmat/CramerAH15,
+  author    = {Marcos Cramer and
+               Diego Agustin Ambrossio and
+               Pieter Van Hertum},
+  title     = {A Logic of Trust for Reasoning about Delegation and Revocation},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {173-184},
+}
+
+@inproceedings{DBLP:conf/sacmat/MontrieuxH15,
+  author    = {Lionel Montrieux and
+               Zhenjiang Hu},
+  title     = {Towards {Attribute-Based} Authorisation for Bidirectional Programming},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {185-196},
+}
+
+@inproceedings{DBLP:conf/sacmat/SquicciariniY15,
+  author    = {Anna Cinzia Squicciarini and
+               Ting Yu},
+  title     = {Privacy and Access Control: How are These Two concepts Related?},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {197-198},
+}
+
+@inproceedings{DBLP:conf/sacmat/ZhuCLT15,
+  author    = {Jun Zhu and
+               Bill Chu and
+               Heather Richter Lipford and
+               Tyler Thomas},
+  title     = {Mitigating Access Control Vulnerabilities through Interactive Static Analysis},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {199-209},
+}
+
+@inproceedings{DBLP:conf/sacmat/JafarianTTHS15,
+  author    = {Jafar Haadi Jafarian and
+               Hassan Takabi and
+               Hakim Touati and
+               Ehsan Hesamifard and
+               Mohamed Shehab},
+  title     = {Towards a General Framework for Optimal Role Mining: A Constraint Satisfaction Approach},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {211-220},
+}
+
+@inproceedings{DBLP:conf/sacmat/GuoHLXBN15,
+  author    = {Zeqing Guo and
+               Weili Han and
+               Liangxing Liu and
+               Wenyuan Xu and
+               Ruiqi Bu and
+               Minyue Ni},
+  title     = {SPA: Inviting Your Friends to Help Set Android Apps},
+  booktitle = sacmat,
+  year      = 2015,
+  pages     = {221-231},
+}
+
+@inproceedings{DBLP:conf/sacmat/Juels14,
+  author    = {Ari Juels},
+  title     = {A bodyguard of lies: the use of honey objects in information security},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {1-4},
+}
+
+@inproceedings{DBLP:conf/sacmat/BloomS14,
+  author    = {Gedare Bloom and
+               Rahul Simha},
+  title     = {Hardware-enhanced distributed access enforcement for role-based access control},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {5-16},
+}
+
+@inproceedings{DBLP:conf/sacmat/GanselSGFDRM14,
+  author    = {Simon Gansel and
+               Stephan Schnitzer and
+               Ahmad Gilbeau-Hammoud and
+               Viktor Friesen and
+               Frank Dürr and
+               Kurt Rothermel and
+               Christian Maihöfer},
+  title     = {An access control concept for novel automotive {HMI} systems},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {17-28},
+}
+
+@inproceedings{DBLP:conf/sacmat/TaleleTEJ14,
+  author    = {Nirupama Talele and
+               Jason Teutsch and
+               Robert F. Erbacher and
+               Trent Jaeger},
+  title     = {Monitor placement for large-scale systems},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {29-40},
+}
+
+@inproceedings{DBLP:conf/sacmat/LeitnerR14,
+  author    = {Maria Leitner and
+               Stefanie Rinderle-Ma},
+  title     = {Anomaly detection and visualization in generative {RBAC} models},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {41-52},
+}
+
+@inproceedings{DBLP:conf/sacmat/MorissetZ14,
+  author    = {Charles Morisset and
+               Nicola Zannone},
+  title     = {Reduction of access control decisions},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {53-62},
+}
+
+@inproceedings{DBLP:conf/sacmat/KuijperE14,
+  author    = {Wouter Kuijper and
+               Victor Ermolaev},
+  title     = {Sorting out role based access control},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {63-74},
+}
+
+@inproceedings{DBLP:conf/sacmat/SzeMS14,
+  author    = {Wai-Kit Sze and
+               Bhuvan Mital and
+               R. Sekar},
+  title     = {Towards more usable information flow policies for contemporary operating systems},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {75-84},
+}
+
+@inproceedings{DBLP:conf/sacmat/ArmandoCCR14,
+  author    = {Alessandro Armando and
+               Roberto Carbone and
+               Eyasu Getahun Chekole and
+               Silvio Ranise},
+  title     = {Attribute based access control for {APIs} in spring security},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {85-88},
+}
+
+@inproceedings{DBLP:conf/sacmat/SzeS14,
+  author    = {Wai-Kit Sze and
+               R. Sekar},
+  title     = {Comprehensive integrity protection for desktop linux},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {89-92},
+}
+
+@inproceedings{DBLP:conf/sacmat/HuAZY14,
+  author    = {Hongxin Hu and
+               Gail-Joon Ahn and
+               Ziming Zhao and
+               Dejun Yang},
+  title     = {Game theoretic analysis of multiparty access control in online social networks},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {93-102},
+}
+
+@inproceedings{DBLP:conf/sacmat/RaniseTA14,
+  author    = {Silvio Ranise and
+               Anh Tuan Truong and
+               Alessandro Armando},
+  title     = {Scalable and precise automated analysis of administrative temporal role-based access control},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {103-114},
+}
+
+@inproceedings{DBLP:conf/sacmat/TarameshlooF14,
+  author    = {Ebrahim Tarameshloo and
+               Philip W. L. Fong},
+  title     = {Access control models for geo-social computing systems},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {115-126},
+}
+
+@inproceedings{DBLP:conf/sacmat/BauerK14,
+  author    = {Lujo Bauer and
+               Florian Kerschbaum},
+  title     = {What are the most important challenges for access control in new computing domains, such as mobile, cloud and cyber-physical systems?},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {127-128},
+}
+
+@inproceedings{DBLP:conf/sacmat/GuriKCE14,
+  author    = {Mordechai Guri and
+               Gabi Kedma and
+               Buky Carmeli and
+               Yuval Elovici},
+  title     = {Limiting access to unintentionally leaked sensitive documents using malware signatures},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {129-140},
+}
+
+@inproceedings{DBLP:conf/sacmat/SchaadBKCCG14,
+  author    = {Andreas Schaad and
+               Anis Bkakria and
+               Florian Kerschbaum and
+               Frédéric Cuppens and
+               Nora Cuppens-Boulahia and
+               David Gross-Amblard},
+  title     = {Optimized and controlled provisioning of encrypted outsourced data},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {141-152},
+}
+
+@inproceedings{DBLP:conf/sacmat/SlamanigSZ14,
+  author    = {Daniel Slamanig and
+               Klaus Stranacher and
+               Bernd Zwattendorfer},
+  title     = {User-centric identity as a service-architecture for {eIDs} with selective attribute disclosure},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {153-164},
+}
+
+@inproceedings{DBLP:conf/sacmat/RachapalliKKT14,
+  author    = {Jyothsna Rachapalli and
+               Vaibhav Khadilkar and
+               Murat Kantarcioglu and
+               Bhavani M. Thuraisingham},
+  title     = {Towards fine grained {RDF} access control},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {165-176},
+}
+
+@inproceedings{DBLP:conf/sacmat/RachapalliKKT14a,
+  author    = {Jyothsna Rachapalli and
+               Vaibhav Khadilkar and
+               Murat Kantarcioglu and
+               Bhavani M. Thuraisingham},
+  title     = {Redaction based {RDF} access control language},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {177-180},
+}
+
+@inproceedings{DBLP:conf/sacmat/AhmedO14,
+  author    = {Sharmin Ahmed and
+               Sylvia L. Osborn},
+  title     = {A system for risk awareness during role mining},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {181-184},
+}
+
+@inproceedings{DBLP:conf/sacmat/Clement14,
+  author    = {Andrew Clement},
+  title     = {Re-thinking networked privacy, security, identity and access control in our surveillance states},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {185-186},
+}
+
+@inproceedings{DBLP:conf/sacmat/CramptonS14,
+  author    = {Jason Crampton and
+               James Sellwood},
+  title     = {Path conditions and principal matching: a new approach to access control},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {187-198},
+}
+
+@inproceedings{DBLP:conf/sacmat/GarrisonLH14,
+  author    = {William C. Garrison III and
+               Adam J. Lee and
+               Timothy L. Hinrichs},
+  title     = {An actor-based, application-aware access control evaluation framework},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {199-210},
+}
+
+@inproceedings{DBLP:conf/sacmat/VijayakumarGJ14,
+  author    = {Hayawardh Vijayakumar and
+               Xinyang Ge and
+               Trent Jaeger},
+  title     = {Policy models to protect resource retrieval},
+  booktitle = sacmat,
+  year      = 2014,
+  pages     = {211-222},
+}
+
 @inproceedings{DBLP:conf/sacmat/Sadeghi13,
   author    = {Ahmad-Reza Sadeghi},
   title     = {Mobile security and privacy: the quest for the mighty access control},
@@ -109,7 +616,7 @@
   author    = {Xing Xie and
                Indrakshi Ray and
                Raman Adaikkalavan and
-               Rose Gamble},
+               Rose F. Gamble},
   title     = {Information flow control for stream processing in clouds},
   booktitle = sacmat,
   year      = 2013,

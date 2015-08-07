@@ -1156,7 +1156,7 @@
   author    = {Shantenu Jha and
                Daniel S. Katz and
                Manish Parashar and
-               Omer Rana and
+               Omer F. Rana and
                Jon B. Weissman},
   title     = {Critical perspectives on large-scale distributed applications and production Grids},
   booktitle = grid,
@@ -2979,8 +2979,8 @@
 }
 
 @inproceedings{DBLP:conf/grid/MaqueiraB06,
-  author    = {J. M. Maqueira and
-               S. Bruque},
+  author    = {Juan Manuel Maqueira-Marín and
+               Sebastián Bruque},
   title     = {Towards an Adoption Model of Grid Information Technology in the Organisational Arena},
   booktitle = grid,
   year      = 2006,

@@ -1,5 +1,317 @@
 @include journals-cs
 
+@article{DBLP:journals/toplas/FrechtlingL15,
+  author    = {Michael Frechtling and
+               Philip H. W. Leong},
+  title     = {MCALIB: Measuring Sensitivity to Rounding Error with Monte Carlo Programming},
+  journal   = toplas,
+  volume    = {37},
+  number    = {2},
+  year      = 2015,
+  pages     = {5},
+}
+
+@article{DBLP:journals/toplas/PatrignaniAS0CP15,
+  author    = {Marco Patrignani and
+               Pieter Agten and
+               Raoul Strackx and
+               Bart Jacobs and
+               Dave Clarke and
+               Frank Piessens},
+  title     = {Secure Compilation to Protected Module Architectures},
+  journal   = toplas,
+  volume    = {37},
+  number    = {2},
+  year      = 2015,
+  pages     = {6},
+}
+
+@article{DBLP:journals/toplas/Appel15,
+  author    = {Andrew W. Appel},
+  title     = {Verification of a Cryptographic Primitive: SHA-256},
+  journal   = toplas,
+  volume    = {37},
+  number    = {2},
+  year      = 2015,
+  pages     = {7},
+}
+
+@article{DBLP:journals/toplas/KasikciZC15,
+  author    = {Baris Kasikci and
+               Cristian Zamfir and
+               George Candea},
+  title     = {Automated Classification of Data Races Under Both Strong and Weak Memory Models},
+  journal   = toplas,
+  volume    = {37},
+  number    = {3},
+  year      = 2015,
+  pages     = {8},
+}
+
+@article{DBLP:journals/toplas/WangSH15,
+  author    = {Farn Wang and
+               Sven Schewe and
+               Chung-Hao Huang},
+  title     = {An Extension of {ATL} with Strategy Interaction},
+  journal   = toplas,
+  volume    = {37},
+  number    = {3},
+  year      = 2015,
+  pages     = {9},
+}
+
+@article{DBLP:journals/toplas/BettsCDKQTW15,
+  author    = {Adam Betts and
+               Nathan Chong and
+               Alastair F. Donaldson and
+               Jeroen Ketema and
+               Shaz Qadeer and
+               Paul Thomson and
+               John Wickerson},
+  title     = {The Design and Implementation of a Verification Technique for {GPU} Kernels},
+  journal   = toplas,
+  volume    = {37},
+  number    = {3},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/toplas/0008EW14,
+  author    = {Sheng Chen and
+               Martin Erwig and
+               Eric Walkingshaw},
+  title     = {Extending Type Inference to Variational Programs},
+  journal   = toplas,
+  volume    = {36},
+  number    = {1},
+  year      = 2014,
+  pages     = {1},
+}
+
+@article{DBLP:journals/toplas/Palsberg14,
+  author    = {Jens Palsberg},
+  title     = {Editorial},
+  journal   = toplas,
+  volume    = {37},
+  number    = {1},
+  year      = 2014,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/toplas/NowatzkiSCSER14,
+  author    = {Tony Nowatzki and
+               Michael Sartin-Tarm and
+               Lorenzo De Carli and
+               Karthikeyan Sankaralingam and
+               Cristian Estan and
+               Behnam Robatmili},
+  title     = {A Scheduling Framework for Spatial Architectures Across Multiple {Constraint-Solving} Theories},
+  journal   = toplas,
+  volume    = {37},
+  number    = {1},
+  year      = 2014,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/toplas/StorkNSMFMA14,
+  author    = {Sven Stork and
+               Karl Naden and
+               Joshua Sunshine and
+               Manuel Mohr and
+               Alcides Fonseca and
+               Paulo Marques and
+               Jonathan Aldrich},
+  title     = {Æminium: A {Permission-Based} {Concurrent-by-Default} Programming Language Approach},
+  journal   = toplas,
+  volume    = {36},
+  number    = {1},
+  year      = 2014,
+  pages     = {2},
+}
+
+@article{DBLP:journals/toplas/DemetrescuFR14,
+  author    = {Camil Demetrescu and
+               Irene Finocchi and
+               Andrea Ribichini},
+  title     = {Reactive Imperative Programming with Dataflow Constraints},
+  journal   = toplas,
+  volume    = {37},
+  number    = {1},
+  year      = 2014,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/toplas/LiangFF14,
+  author    = {Hongjin Liang and
+               Xinyu Feng and
+               Ming Fu},
+  title     = {{Rely-Guarantee-Based} Simulation for Compositional Verification of Concurrent Program Transformations},
+  journal   = toplas,
+  volume    = {36},
+  number    = {1},
+  year      = 2014,
+  pages     = {3},
+}
+
+@article{DBLP:journals/toplas/PorterBRMW14,
+  author    = {Donald E. Porter and
+               Michael D. Bond and
+               Indrajit Roy and
+               Kathryn S. McKinley and
+               Emmett Witchel},
+  title     = {Practical {Fine-Grained} Information Flow Control Using Laminar},
+  journal   = toplas,
+  volume    = {37},
+  number    = {1},
+  year      = 2014,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/toplas/BartheDP14,
+  author    = {Gilles Barthe and
+               Delphine Demange and
+               David Pichardie},
+  title     = {Formal Verification of an {SSA-Based} {Middle-End} for {CompCert}},
+  journal   = toplas,
+  volume    = {36},
+  number    = {1},
+  year      = 2014,
+  pages     = {4},
+}
+
+@article{DBLP:journals/toplas/AungHJR14,
+  author    = {Min Aung and
+               Susan Horwitz and
+               Richard Joiner and
+               Thomas W. Reps},
+  title     = {Specialization Slicing},
+  journal   = toplas,
+  volume    = {36},
+  number    = {2},
+  year      = 2014,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/toplas/JagannathanLPPV14,
+  author    = {Suresh Jagannathan and
+               Vincent Laporte and
+               Gustavo Petri and
+               David Pichardie and
+               Jan Vitek},
+  title     = {Atomicity Refinement for Verified Compilation},
+  journal   = toplas,
+  volume    = {36},
+  number    = {2},
+  year      = 2014,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/toplas/AlglaveMT14,
+  author    = {Jade Alglave and
+               Luc Maranget and
+               Michael Tautschnig},
+  title     = {Herding Cats: Modelling, Simulation, Testing, and Data Mining for Weak Memory},
+  journal   = toplas,
+  volume    = {36},
+  number    = {2},
+  year      = 2014,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/toplas/OhHLLPKY14,
+  author    = {Hakjoo Oh and
+               Kihong Heo and
+               Wonchan Lee and
+               Woosuk Lee and
+               Daejun Park and
+               Jeehoon Kang and
+               Kwangkeun Yi},
+  title     = {Global Sparse Analysis Framework},
+  journal   = toplas,
+  volume    = {36},
+  number    = {3},
+  year      = 2014,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/toplas/EsparzaGP14,
+  author    = {Javier Esparza and
+               Pierre Ganty and
+               Tomás Poch},
+  title     = {{Pattern-Based} Verification for Multithreaded Programs},
+  journal   = toplas,
+  volume    = {36},
+  number    = {3},
+  year      = 2014,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/toplas/TzannesCVB14,
+  author    = {Alexandros Tzannes and
+               George C. Caragea and
+               Uzi Vishkin and
+               Rajeev Barua},
+  title     = {Lazy Scheduling: A Runtime Adaptive Scheduler for Declarative Parallelism},
+  journal   = toplas,
+  volume    = {36},
+  number    = {3},
+  year      = 2014,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/toplas/ElderLSAR14,
+  author    = {Matt Elder and
+               Junghee Lim and
+               Tushar Sharma and
+               Tycho Andersen and
+               Thomas W. Reps},
+  title     = {Abstract Domains of Affine Relations},
+  journal   = toplas,
+  volume    = {36},
+  number    = {4},
+  year      = 2014,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/toplas/GarciaTWA14,
+  author    = {Ronald Garcia and
+               Éric Tanter and
+               Roger Wolff and
+               Jonathan Aldrich},
+  title     = {Foundations of {Typestate-Oriented} Programming},
+  journal   = toplas,
+  volume    = {36},
+  number    = {4},
+  year      = 2014,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/toplas/HaydenSSHF14,
+  author    = {Christopher M. Hayden and
+               Karla Saur and
+               Edward K. Smith and
+               Michael W. Hicks and
+               Jeffrey S. Foster},
+  title     = {Kitsune: Efficient, {General-Purpose} Dynamic Software Updating for C},
+  journal   = toplas,
+  volume    = {36},
+  number    = {4},
+  year      = 2014,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/toplas/0001KW14,
+  author    = {Alexander Kaiser and
+               Daniel Kroening and
+               Thomas Wahl},
+  title     = {A Widening Approach to Multithreaded Program Verification},
+  journal   = toplas,
+  volume    = {36},
+  number    = {4},
+  year      = 2014,
+  pages     = {14-1},
+}
+
 @article{DBLP:journals/toplas/Palsberg13,
   author    = {Jens Palsberg},
   title     = {Editorial},
@@ -636,16 +948,6 @@
   year      = 2010,
 }
 
-@article{DBLP:journals/toplas/ApelH10,
-  author    = {Sven Apel and
-               DeLesley Hutchins},
-  title     = {A calculus for uniform feature composition},
-  journal   = toplas,
-  volume    = {32},
-  number    = {5},
-  year      = 2010,
-}
-
 @article{DBLP:journals/toplas/BalakrishnanR10,
   author    = {Gogul Balakrishnan and
                Thomas W. Reps},
@@ -688,18 +990,6 @@
   year      = 2010,
 }
 
-@article{DBLP:journals/toplas/JeffreyNGG10,
-  author    = {Dennis Jeffrey and
-               Vijay Nagarajan and
-               Rajiv Gupta and
-               Neelam Gupta},
-  title     = {Execution suppression: An automated iterative technique for locating memory errors},
-  journal   = toplas,
-  volume    = {32},
-  number    = {5},
-  year      = 2010,
-}
-
 @article{DBLP:journals/toplas/KnowlesF10,
   author    = {Kenneth Knowles and
                Cormac Flanagan},
@@ -707,16 +997,6 @@
   journal   = toplas,
   volume    = {32},
   number    = {2},
-  year      = 2010,
-}
-
-@article{DBLP:journals/toplas/KobayashiS10,
-  author    = {Naoki Kobayashi and
-               Davide Sangiorgi},
-  title     = {A hybrid type system for lock-freedom of mobile processes},
-  journal   = toplas,
-  volume    = {32},
-  number    = {5},
   year      = 2010,
 }
 
@@ -830,16 +1110,6 @@
   year      = 2010,
 }
 
-@article{DBLP:journals/toplas/YahavS10,
-  author    = {Eran Yahav and
-               Mooly Sagiv},
-  title     = {Verifying safety properties of concurrent heap-manipulating programs},
-  journal   = toplas,
-  volume    = {32},
-  number    = {5},
-  year      = 2010,
-}
-
 @article{DBLP:journals/toplas/ZhuangP10,
   author    = {Xiaotong Zhuang and
                Santosh Pande},
@@ -848,6 +1118,52 @@
   volume    = {32},
   number    = {4},
   year      = 2010,
+}
+
+@article{DBLP:journals/toplas/KobayashiS10,
+  author    = {Naoki Kobayashi and
+               Davide Sangiorgi},
+  title     = {A hybrid type system for lock-freedom of mobile processes},
+  journal   = toplas,
+  volume    = {32},
+  number    = {5},
+  year      = 2010,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/toplas/JeffreyNGG10,
+  author    = {Dennis Jeffrey and
+               Vijay Nagarajan and
+               Rajiv Gupta and
+               Neelam Gupta},
+  title     = {Execution suppression: An automated iterative technique for locating memory errors},
+  journal   = toplas,
+  volume    = {32},
+  number    = {5},
+  year      = 2010,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/toplas/YahavS10,
+  author    = {Eran Yahav and
+               Mooly Sagiv},
+  title     = {Verifying safety properties of concurrent heap-manipulating programs},
+  journal   = toplas,
+  volume    = {32},
+  number    = {5},
+  year      = 2010,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/toplas/ApelH10,
+  author    = {Sven Apel and
+               DeLesley Hutchins},
+  title     = {A calculus for uniform feature composition},
+  journal   = toplas,
+  volume    = {32},
+  number    = {5},
+  year      = 2010,
+  pages     = {19-1},
 }
 
 @article{DBLP:journals/toplas/AcarBBHT09,
@@ -5226,7 +5542,7 @@
                Srinivas Devadas and
                Kurt Keutzer and
                Steven W. K. Tjiang and
-               Albert Wang},
+               Albert R. Wang},
   title     = {Storage Assignment to Decrease Code Size},
   journal   = toplas,
   volume    = {18},
@@ -6268,7 +6584,7 @@
   author    = {Stefan M. Freudenberger and
                Thomas R. Gross and
                P. Geoffrey Lowney},
-  title     = {Avoidance and Supression of Compensation Code in a Trace Scheduling Compiler},
+  title     = {Avoidance and Suppression of Compensation Code in a Trace Scheduling Compiler},
   journal   = toplas,
   volume    = {16},
   number    = {4},
@@ -8631,7 +8947,7 @@
 
 @article{DBLP:journals/toplas/SwinehartZBH86,
   author    = {Daniel C. Swinehart and
-               Polle Zellweger and
+               Polle T. Zellweger and
                Richard J. Beach and
                Robert Hagemann},
   title     = {A Structural View of the Cedar Programming Environment},

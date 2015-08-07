@@ -1,5 +1,109 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/mobicom/ChenTQS14,
+  author    = {Bo Chen and
+               Gopi Krishna Tummala and
+               Yue Qiao and
+               Kannan Srinivasan},
+  title     = {In-band wireless cut-through: is it possible?},
+  booktitle = mobicom,
+  year      = 2014,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/mobicom/GowdaRCN14,
+  author    = {Mahanth Gowda and
+               Nirupam Roy and
+               Romit Roy Choudhury and
+               Srihari Nelakuditi},
+  title     = {Backing out of linear backoff in wireless networks},
+  booktitle = mobicom,
+  year      = 2014,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/mobicom/HuZG14,
+  author    = {Pan Hu and
+               Pengyu Zhang and
+               Deepak Ganesan},
+  title     = {Leveraging interleaved signal edges for concurrent backscatter},
+  booktitle = mobicom,
+  year      = 2014,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/mobicom/KempkePD14,
+  author    = {Benjamin P. Kempke and
+               Pat Pannuto and
+               Prabal Dutta},
+  title     = {Harmonia: wideband spreading for accurate indoor rf localization},
+  booktitle = mobicom,
+  year      = 2014,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/mobicom/NikaZZZZ14,
+  author    = {Ana Nika and
+               Zengbin Zhang and
+               Xia Zhou and
+               Ben Y. Zhao and
+               Haitao Zheng},
+  title     = {Towards commoditized real-time spectrum monitoring},
+  booktitle = mobicom,
+  year      = 2014,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/mobicom/NychisSS14,
+  author    = {George Nychis and
+               Srinivasan Seshan and
+               Peter Steenkiste},
+  title     = {Using your smartphone to detect and map heterogeneous networks and devices in the home},
+  booktitle = mobicom,
+  year      = 2014,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/mobicom/QiaoSA14,
+  author    = {Yue Qiao and
+               Kannan Srinivasan and
+               Anish Arora},
+  title     = {Shape matters, not the size: a new approach to extract secrets from channel},
+  booktitle = mobicom,
+  year      = 2014,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/mobicom/XiongJS14,
+  author    = {Jie Xiong and
+               Kyle Jamieson and
+               Karthikeyan Sundaresan},
+  title     = {Synchronicity: pushing the envelope of fine-grained localization with distributed mimo},
+  booktitle = mobicom,
+  year      = 2014,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZengPXM14,
+  author    = {Yunze Zeng and
+               Parth H. Pathak and
+               Chao Xu and
+               Prasant Mohapatra},
+  title     = {Your {AP} knows how you move: fine-grained device motion recognition through {WiFi}},
+  booktitle = mobicom,
+  year      = 2014,
+  pages     = {49-54},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZhouC14,
+  author    = {Xia Zhou and
+               Andrew T. Campbell},
+  title     = {Visible light networking and sensing},
+  booktitle = mobicom,
+  year      = 2014,
+  pages     = {55-60},
+}
+
 @inproceedings{DBLP:conf/mobicom/Bonomi13,
   author    = {Flavio Bonomi},
   title     = {The evolution of mobility and wireless technologies in the age of the internet of things},
@@ -85,7 +189,7 @@
 }
 
 @inproceedings{DBLP:conf/mobicom/TuPWLL13,
-  author    = {Guan-hua Tu and
+  author    = {Guan-Hua Tu and
                Chunyi Peng and
                Hongqi Wang and
                Chi-Yu Li and
@@ -707,7 +811,7 @@
 @inproceedings{DBLP:conf/mobicom/YanYLTZY13,
   author    = {Yubo Yan and
                Panlong Yang and
-               Xiangyang Li and
+               Xiang-Yang Li and
                Yue Tao and
                Lan Zhang and
                Lizhao You},
@@ -794,9 +898,9 @@
   author    = {Clayton Shepard and
                Hang Yu and
                Narendra Anand and
-               Erran Li and
+               Erran L. Li and
                Thomas L. Marzetta and
-               Richard Yang and
+               Yang Richard Yang and
                Lin Zhong},
   title     = {Argos: practical many-antenna base stations},
   booktitle = mobicom,
@@ -854,7 +958,7 @@
 
 @inproceedings{DBLP:conf/mobicom/PengTLL12,
   author    = {Chunyi Peng and
-               Guan-hua Tu and
+               Guan-Hua Tu and
                Chi-Yu Li and
                Songwu Lu},
   title     = {Can we pay for what we get in 3G data access?},
@@ -940,7 +1044,7 @@
                Akash Baid and
                Simon Gao and
                Marco Gruteser and
-               Richard Howard and
+               Richard E. Howard and
                Janne Lindqvist and
                Predrag Spasojevic and
                Jeffrey Walling},
@@ -3134,7 +3238,7 @@
 
 @inproceedings{DBLP:conf/mobicom/LiTF07,
   author    = {Xiang-Yang Li and
-               ShaoJie Tang and
+               Shaojie Tang and
                Ophir Frieder},
   title     = {Multicast capacity for large scale wireless ad hoc networks},
   booktitle = mobicom,

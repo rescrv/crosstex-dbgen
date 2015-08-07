@@ -1,5 +1,457 @@
 @include journals-cs
 
+@article{DBLP:journals/mms/RhoRN15,
+  author    = {Seungmin Rho and
+               J. Wenny Rahayu and
+               Uyen Trang Nguyen},
+  title     = {New technologies and research trends for smartphone sensing in intelligent multimedia systems},
+  journal   = mms,
+  volume    = {21},
+  number    = {1},
+  year      = 2015,
+  pages     = {1-3},
+}
+
+@article{DBLP:journals/mms/ZhaoWZSY15,
+  author    = {Qi Zhao and
+               Zhijie Wu and
+               Daqiang Zhang and
+               Mina Shim and
+               Changqing Yin},
+  title     = {Cooperative spectrum sensing via relay-assisted random broadcast in cognitive smartphone networks},
+  journal   = mms,
+  volume    = {21},
+  number    = {1},
+  year      = 2015,
+  pages     = {5-13},
+}
+
+@article{DBLP:journals/mms/MoonL15,
+  author    = {Yang-Sae Moon and
+               Woong-Kee Loh},
+  title     = {Triangular inequality-based rotation-invariant boundary image matching for smart devices},
+  journal   = mms,
+  volume    = {21},
+  number    = {1},
+  year      = 2015,
+  pages     = {15-28},
+}
+
+@article{DBLP:journals/mms/LohKHM15,
+  author    = {Woong-Kee Loh and
+               Sang-Pil Kim and
+               Sun-Kyong Hong and
+               Yang-Sae Moon},
+  title     = {Envelope-based boundary image matching for smart devices under arbitrary rotations},
+  journal   = mms,
+  volume    = {21},
+  number    = {1},
+  year      = 2015,
+  pages     = {29-47},
+}
+
+@article{DBLP:journals/mms/HeKCLCY15,
+  author    = {Debiao He and
+               Neeraj Kumar and
+               Jianhua Chen and
+               Cheng-Chi Lee and
+               Naveen K. Chilamkurti and
+               Seng-Soo Yeo},
+  title     = {Robust anonymous authentication protocol for health-care applications using wireless medical sensor networks},
+  journal   = mms,
+  volume    = {21},
+  number    = {1},
+  year      = 2015,
+  pages     = {49-60},
+}
+
+@article{DBLP:journals/mms/ChenHPY15,
+  author    = {Chia-Chen Chen and
+               Tien-Chi Huang and
+               James J. Park and
+               Neil Y. Yen},
+  title     = {Real-time smartphone sensing and recommendations towards context-awareness shopping},
+  journal   = mms,
+  volume    = {21},
+  number    = {1},
+  year      = 2015,
+  pages     = {61-72},
+}
+
+@article{DBLP:journals/mms/KimKHR15,
+  author    = {Daehoon Kim and
+               Daeyong Kim and
+               Eenjun Hwang and
+               Seungmin Rho},
+  title     = {TwitterTrends: a spatio-temporal trend detection and related keywords recommendation scheme},
+  journal   = mms,
+  volume    = {21},
+  number    = {1},
+  year      = 2015,
+  pages     = {73-86},
+}
+
+@article{DBLP:journals/mms/XiaHLLDZ15,
+  author    = {Feng Xia and
+               Ching-Hsien Hsu and
+               Xiaojing Liu and
+               Haifeng Liu and
+               Fangwei Ding and
+               Wei Zhang},
+  title     = {The power of smartphones},
+  journal   = mms,
+  volume    = {21},
+  number    = {1},
+  year      = 2015,
+  pages     = {87-101},
+}
+
+@article{DBLP:journals/mms/RashvandH15,
+  author    = {Habib F. Rashvand and
+               Kuei-Fang Hsiao},
+  title     = {Smartphone intelligent applications: a brief review},
+  journal   = mms,
+  volume    = {21},
+  number    = {1},
+  year      = 2015,
+  pages     = {103-119},
+}
+
+@article{DBLP:journals/mms/TsaiCBPWT15,
+  author    = {Hsin-Chun Tsai and
+               Bo-Wei Chen and
+               Karunanithi Bharanitharan and
+               Anand Paul and
+               Jhing-Fa Wang and
+               Hung-Chieh Tai},
+  title     = {User-centric incremental learning model of dynamic personal identification for mobile devices},
+  journal   = mms,
+  volume    = {21},
+  number    = {1},
+  year      = 2015,
+  pages     = {121-130},
+}
+
+@article{DBLP:journals/mms/WangLHS15,
+  author    = {Meng Wang and
+               Ke Lu and
+               Gang Hua and
+               Cees Snoek},
+  title     = {Guest editorial: selected papers from {ICIMCS} 2013},
+  journal   = mms,
+  volume    = {21},
+  number    = {2},
+  year      = 2015,
+  pages     = {131-132},
+}
+
+@article{DBLP:journals/mms/YangZX15,
+  author    = {Xiaoshan Yang and
+               Tianzhu Zhang and
+               Changsheng Xu},
+  title     = {A new discriminative coding method for image classification},
+  journal   = mms,
+  volume    = {21},
+  number    = {2},
+  year      = 2015,
+  pages     = {133-145},
+}
+
+@article{DBLP:journals/mms/XuTLX15,
+  author    = {Chang Xu and
+               Dacheng Tao and
+               Yangxi Li and
+               Chao Xu},
+  title     = {Large-margin multi-view Gaussian process},
+  journal   = mms,
+  volume    = {21},
+  number    = {2},
+  year      = 2015,
+  pages     = {147-157},
+}
+
+@article{DBLP:journals/mms/ZhaoCHC15,
+  author    = {Handong Zhao and
+               Jingjing Chen and
+               Yahong Han and
+               Xiaochun Cao},
+  title     = {Image aesthetics enhancement using composition-based saliency detection},
+  journal   = mms,
+  volume    = {21},
+  number    = {2},
+  year      = 2015,
+  pages     = {159-168},
+}
+
+@article{DBLP:journals/mms/FengGRJ15,
+  author    = {Xue Feng and
+               Cui Guoying and
+               Hong Richang and
+               Gu Jing},
+  title     = {Camouflage texture evaluation using a saliency map},
+  journal   = mms,
+  volume    = {21},
+  number    = {2},
+  year      = 2015,
+  pages     = {169-175},
+}
+
+@article{DBLP:journals/mms/HuCHWL15,
+  author    = {Min-Chun Hu and
+               Wen-Huang Cheng and
+               Chuan-Shen Hu and
+               Ja-Ling Wu and
+               Jhe-Wei Li},
+  title     = {Efficient human detection in crowded environment},
+  journal   = mms,
+  volume    = {21},
+  number    = {2},
+  year      = 2015,
+  pages     = {177-187},
+}
+
+@article{DBLP:journals/mms/RenQLYB15,
+  author    = {Tongwei Ren and
+               Zhongyan Qiu and
+               Yan Liu and
+               Tong Yu and
+               Jia Bei},
+  title     = {Soft-assigned bag of features for object tracking},
+  journal   = mms,
+  volume    = {21},
+  number    = {2},
+  year      = 2015,
+  pages     = {189-205},
+}
+
+@article{DBLP:journals/mms/WeiJJZNZ15,
+  author    = {Shikui Wei and
+               Su Jiang and
+               Wenxian Jin and
+               Yao Zhao and
+               Rongrong Ni and
+               Zhenfeng Zhu},
+  title     = {Redundancy filtering and fusion verification for video copy detection},
+  journal   = mms,
+  volume    = {21},
+  number    = {2},
+  year      = 2015,
+  pages     = {207-216},
+}
+
+@article{DBLP:journals/mms/YangZYNM15,
+  author    = {Xiaopeng Yang and
+               Yongdong Zhang and
+               Ting Yao and
+               Chong-Wah Ngo and
+               Tao Mei},
+  title     = {Click-boosting multi-modality graph-based reranking for image search},
+  journal   = mms,
+  volume    = {21},
+  number    = {2},
+  year      = 2015,
+  pages     = {217-227},
+}
+
+@article{DBLP:journals/mms/ZhangTHGR15,
+  author    = {Shiliang Zhang and
+               Qi Tian and
+               Qingming Huang and
+               Wen Gao and
+               Yong Rui},
+  title     = {Multi-order visual phrase for scalable partial-duplicate visual search},
+  journal   = mms,
+  volume    = {21},
+  number    = {2},
+  year      = 2015,
+  pages     = {229-241},
+}
+
+@article{DBLP:journals/mms/ZhaLSYL15,
+  author    = {Zheng-Jun Zha and
+               Yan Liu and
+               Shin'ichi Satoh and
+               Xinguo Yu and
+               Rainer Lienhart},
+  title     = {Guest editorial: selected papers from {ICIMCS} 2012},
+  journal   = mms,
+  volume    = {21},
+  number    = {3},
+  year      = 2015,
+  pages     = {243-244},
+}
+
+@article{DBLP:journals/mms/ZhouLLWT15,
+  author    = {Wengang Zhou and
+               Houqiang Li and
+               Yijuan Lu and
+               Meng Wang and
+               Qi Tian},
+  title     = {Visual word expansion and {BSIFT} verification for large-scale image search},
+  journal   = mms,
+  volume    = {21},
+  number    = {3},
+  year      = 2015,
+  pages     = {245-254},
+}
+
+@article{DBLP:journals/mms/LiuLML15,
+  author    = {Heng Liu and
+               Houqiang Li and
+               Tao Mei and
+               Jiebo Luo},
+  title     = {Accurate sensing of scene geo-context via mobile visual localization},
+  journal   = mms,
+  volume    = {21},
+  number    = {3},
+  year      = 2015,
+  pages     = {255-265},
+}
+
+@article{DBLP:journals/mms/TangLLZ15,
+  author    = {Jinhui Tang and
+               Minxian Li and
+               Zechao Li and
+               Chunxia Zhao},
+  title     = {Tag ranking based on salient region graph propagation},
+  journal   = mms,
+  volume    = {21},
+  number    = {3},
+  year      = 2015,
+  pages     = {267-275},
+}
+
+@article{DBLP:journals/mms/PanZCL15,
+  author    = {Daru Pan and
+               Hui Zhang and
+               WeiJing Chen and
+               Ke Lu},
+  title     = {Transmission of multimedia contents in opportunistic networks with social selfish nodes},
+  journal   = mms,
+  volume    = {21},
+  number    = {3},
+  year      = 2015,
+  pages     = {277-288},
+}
+
+@article{DBLP:journals/mms/LuWHPP15,
+  author    = {Ke Lu and
+               Qian Wang and
+               Ning He and
+               Daru Pan and
+               Weiguo Pan},
+  title     = {Nonlocal variational image segmentation models on graphs using the Split Bregman},
+  journal   = mms,
+  volume    = {21},
+  number    = {3},
+  year      = 2015,
+  pages     = {289-299},
+}
+
+@article{DBLP:journals/mms/WangFL15,
+  author    = {Jinqiao Wang and
+               Jianlong Fu and
+               Hanqing Lu},
+  title     = {Finding logos in real-world images with point-context representation-based region search},
+  journal   = mms,
+  volume    = {21},
+  number    = {3},
+  year      = 2015,
+  pages     = {301-311},
+}
+
+@article{DBLP:journals/mms/YingZX15,
+  author    = {Long Ying and
+               Tianzhu Zhang and
+               Changsheng Xu},
+  title     = {Multi-object tracking via {MHT} with multiple information fusion in surveillance video},
+  journal   = mms,
+  volume    = {21},
+  number    = {3},
+  year      = 2015,
+  pages     = {313-326},
+}
+
+@article{DBLP:journals/mms/QiaoZZKLMF15,
+  author    = {Yuansong Qiao and
+               Shuaijun Zhang and
+               Chunrong Zhang and
+               A. K. Karunakar and
+               Brian Lee and
+               Niall Murray and
+               Guiming Fang},
+  title     = {SVDN: packetization and layer synchronization for scalable video delivery over peer-to-peer networks},
+  journal   = mms,
+  volume    = {21},
+  number    = {4},
+  year      = 2015,
+  pages     = {327-343},
+}
+
+@article{DBLP:journals/mms/WangLW15,
+  author    = {Jinwei Wang and
+               Shiguo Lian and
+               Jin Wang},
+  title     = {Hybrid additive multi-watermarking and decoding},
+  journal   = mms,
+  volume    = {21},
+  number    = {4},
+  year      = 2015,
+  pages     = {345-361},
+}
+
+@article{DBLP:journals/mms/CobosLNR15,
+  author    = {Maximo Cobos and
+               José J. López and
+               Juan M. Navarro and
+               Germán Ramos},
+  title     = {Subjective quality assessment of multichannel audio accompanied with video in representative broadcasting genres},
+  journal   = mms,
+  volume    = {21},
+  number    = {4},
+  year      = 2015,
+  pages     = {363-379},
+}
+
+@article{DBLP:journals/mms/WeiGDYM15,
+  author    = {Benchang Wei and
+               Tao Guan and
+               Liya Duan and
+               Junqing Yu and
+               Tan Mao},
+  title     = {Wide area localization and tracking on camera phones for mobile augmented reality systems},
+  journal   = mms,
+  volume    = {21},
+  number    = {4},
+  year      = 2015,
+  pages     = {381-399},
+}
+
+@article{DBLP:journals/mms/SadatB15,
+  author    = {Elaheh Sadat Sadat and
+               Alireza Behrad},
+  title     = {Star tracking and attitude determination using fuzzy based positional pattern and rotation compensation in Fourier domain},
+  journal   = mms,
+  volume    = {21},
+  number    = {4},
+  year      = 2015,
+  pages     = {401-410},
+}
+
+@article{DBLP:journals/mms/WuQXYC15,
+  author    = {Jiyan Wu and
+               Xiuquan Qiao and
+               Yamei Xia and
+               Chau Yuen and
+               Junliang Chen},
+  title     = {A low-latency scheduling approach for high-definition video streaming in a heterogeneous wireless network with multihomed clients},
+  journal   = mms,
+  volume    = {21},
+  number    = {4},
+  year      = 2015,
+  pages     = {411-425},
+}
+
 @article{DBLP:journals/mms/BhandarkarRD14,
   author    = {Suchendra M. Bhandarkar and
                Lakshmish Ramaswamy and
@@ -201,6 +653,382 @@
   number    = {2},
   year      = 2014,
   pages     = {239-252},
+}
+
+@article{DBLP:journals/mms/LiH14,
+  author    = {Chunyuan Li and
+               A. Ben Hamza},
+  title     = {Spatially aggregating spectral descriptors for nonrigid 3D shape retrieval: a comparative survey},
+  journal   = mms,
+  volume    = {20},
+  number    = {3},
+  year      = 2014,
+  pages     = {253-281},
+}
+
+@article{DBLP:journals/mms/KazemiSS14,
+  author    = {Mohammad Kazemi and
+               Shervin Shirmohammadi and
+               Khosrow Haj Sadeghi},
+  title     = {A review of multiple description coding techniques for error-resilient video delivery},
+  journal   = mms,
+  volume    = {20},
+  number    = {3},
+  year      = 2014,
+  pages     = {283-309},
+}
+
+@article{DBLP:journals/mms/ImranSF14,
+  author    = {Noreen Imran and
+               Boon-Chong Seet and
+               Alvis Cheuk M. Fong},
+  title     = {A semi-oblivious energy-aware adaptive watermarking for wireless image sensor networks},
+  journal   = mms,
+  volume    = {20},
+  number    = {3},
+  year      = 2014,
+  pages     = {311-326},
+}
+
+@article{DBLP:journals/mms/ShinYH14,
+  author    = {Suchul Shin and
+               Byounghyun Yoo and
+               Soonhung Han},
+  title     = {A framework for automatic creation of motion effects from theatrical motion pictures},
+  journal   = mms,
+  volume    = {20},
+  number    = {3},
+  year      = 2014,
+  pages     = {327-346},
+}
+
+@article{DBLP:journals/mms/FengCZX14,
+  author    = {Bailan Feng and
+               Zhineng Chen and
+               Rong Zheng and
+               Bo Xu},
+  title     = {Multiple style exploration for story unit segmentation of broadcast news video},
+  journal   = mms,
+  volume    = {20},
+  number    = {4},
+  year      = 2014,
+  pages     = {347-361},
+}
+
+@article{DBLP:journals/mms/ChangQXT14,
+  author    = {Kan Chang and
+               Tuanfa Qin and
+               Wenbo Xu and
+               Zhenhua Tang},
+  title     = {Reconstruction of multi-view compressed imaging using weighted total variation},
+  journal   = mms,
+  volume    = {20},
+  number    = {4},
+  year      = 2014,
+  pages     = {363-378},
+}
+
+@article{DBLP:journals/mms/SongWEN14,
+  author    = {Xianhua Song and
+               Shen Wang and
+               Ahmed A. Abd El-Latif and
+               Xiamu Niu},
+  title     = {Dynamic watermarking scheme for quantum images based on Hadamard transform},
+  journal   = mms,
+  volume    = {20},
+  number    = {4},
+  year      = 2014,
+  pages     = {379-388},
+}
+
+@article{DBLP:journals/mms/YilmazYK14,
+  author    = {Turgay Yilmaz and
+               Adnan Yazici and
+               Masaru Kitsuregawa},
+  title     = {RELIEF-MM: effective modality weighting for multimedia information retrieval},
+  journal   = mms,
+  volume    = {20},
+  number    = {4},
+  year      = 2014,
+  pages     = {389-413},
+}
+
+@article{DBLP:journals/mms/RejaieM14,
+  author    = {Reza Rejaie and
+               Nazanin Magharei},
+  title     = {On performance evaluation of swarm-based live peer-to-peer streaming applications},
+  journal   = mms,
+  volume    = {20},
+  number    = {4},
+  year      = 2014,
+  pages     = {415-427},
+}
+
+@article{DBLP:journals/mms/ZhongM14,
+  author    = {Cencen Zhong and
+               Zhenjiang Miao},
+  title     = {Graph regularized {GM-pLSA} and its applications to video content analysis},
+  journal   = mms,
+  volume    = {20},
+  number    = {4},
+  year      = 2014,
+  pages     = {429-445},
+}
+
+@article{DBLP:journals/mms/AbdallahBO14,
+  author    = {Maha Abdallah and
+               Khaled Boussetta and
+               Wei Tsang Ooi},
+  title     = {Guest editorial: special issue on network and systems support for games},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {447-449},
+}
+
+@article{DBLP:journals/mms/ManzanoUSCHM14,
+  author    = {Marc Manzano and
+               M. Urueña and
+               Mirko Suznjevic and
+               Eusebi Calle and
+               J. A. Hernández and
+               Maja Matijasevic},
+  title     = {Dissecting the protocol and network traffic of the {OnLive} cloud gaming platform},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {451-470},
+}
+
+@article{DBLP:journals/mms/ClaypoolFGS14,
+  author    = {Mark Claypool and
+               David Finkel and
+               Alexander Grant and
+               Michael Solano},
+  title     = {On the performance of {OnLive} thin client games},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {471-484},
+}
+
+@article{DBLP:journals/mms/AhmadiTHS14,
+  author    = {Hamed Ahmadi and
+               Saman Zad Tootaghaj and
+               Mahmoud Reza Hashemi and
+               Shervin Shirmohammadi},
+  title     = {A game attention model for efficient bit rate allocation in cloud gaming},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {485-501},
+}
+
+@article{DBLP:journals/mms/ChoyWSR14,
+  author    = {Sharon Choy and
+               Bernard Wong and
+               Gwendal Simon and
+               Catherine Rosenberg},
+  title     = {A hybrid edge-cloud architecture for reducing on-demand gaming latency},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {503-519},
+}
+
+@article{DBLP:journals/mms/NaePI14,
+  author    = {Vlad Nae and
+               Radu Prodan and
+               Alexandru Iosup},
+  title     = {{SLA-based} operations of massively multiplayer online games in clouds},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {521-544},
+}
+
+@article{DBLP:journals/mms/MaggioriniQR14,
+  author    = {Dario Maggiorini and
+               Christian Quadri and
+               Laura Anna Ripamonti},
+  title     = {Opportunistic mobile games using public transportation systems: a deployability study},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {545-562},
+}
+
+@article{DBLP:journals/mms/DietrichC14,
+  author    = {Benedikt Dietrich and
+               Samarjit Chakraborty},
+  title     = {Lightweight graphics instrumentation for game state-specific power management in Android},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {563-578},
+}
+
+@article{DBLP:journals/mms/VeronMMG14,
+  author    = {Maxime Veron and
+               Olivier Marin and
+               Sébastien Monnet and
+               Zahia Guessoum},
+  title     = {Towards a scalable refereeing system for online gaming},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {579-593},
+}
+
+@article{DBLP:journals/mms/GauthierDickeyR14,
+  author    = {Chris GauthierDickey and
+               Craig Ritzdorf},
+  title     = {Secure peer-to-peer trading in small- and large-scale multiplayer games},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {595-607},
+}
+
+@article{DBLP:journals/mms/LehnTRGKBE14,
+  author    = {Max Lehn and
+               Tonio Triebel and
+               Robert Rehner and
+               Benjamin Guthier and
+               Stephan Kopf and
+               Alejandro P. Buchmann and
+               Wolfgang Effelsberg},
+  title     = {On synthetic workloads for multiplayer online games: a methodology for generating representative shooter game workloads},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {609-620},
+}
+
+@article{DBLP:journals/mms/IshibashiHZFS14,
+  author    = {Yutaka Ishibashi and
+               Sosuke Hoshino and
+               Qi Zeng and
+               Norishige Fukushima and
+               Shinji Sugawara},
+  title     = {{QoE} assessment of fairness in networked game with olfaction: influence of time it takes for smell to reach player},
+  journal   = mms,
+  volume    = {20},
+  number    = {5},
+  year      = 2014,
+  pages     = {621-631},
+}
+
+@article{DBLP:journals/mms/TangTQH14,
+  author    = {Jinhui Tang and
+               Dacheng Tao and
+               Guo-Jun Qi and
+               Benoit Huet},
+  title     = {Social media mining and knowledge discovery},
+  journal   = mms,
+  volume    = {20},
+  number    = {6},
+  year      = 2014,
+  pages     = {633-634},
+}
+
+@article{DBLP:journals/mms/LiuLL14,
+  author    = {Jing Liu and
+               Zechao Li and
+               Hanqing Lu},
+  title     = {Sparse semantic metric learning for image retrieval},
+  journal   = mms,
+  volume    = {20},
+  number    = {6},
+  year      = 2014,
+  pages     = {635-643},
+}
+
+@article{DBLP:journals/mms/JiangSH14,
+  author    = {Shuqiang Jiang and
+               Xinhang Song and
+               Qingming Huang},
+  title     = {Relative image similarity learning with contextual information for Internet cross-media retrieval},
+  journal   = mms,
+  volume    = {20},
+  number    = {6},
+  year      = 2014,
+  pages     = {645-657},
+}
+
+@article{DBLP:journals/mms/ZhangTLSSC14,
+  author    = {Luming Zhang and
+               Dapeng Tao and
+               Xiao Liu and
+               Li Sun and
+               Mingli Song and
+               Chun Chen},
+  title     = {Grassmann multimodal implicit feature selection},
+  journal   = mms,
+  volume    = {20},
+  number    = {6},
+  year      = 2014,
+  pages     = {659-674},
+}
+
+@article{DBLP:journals/mms/MaWLLJ14,
+  author    = {Xiaoqiang Ma and
+               Haiyang Wang and
+               Haitao Li and
+               Jiangchuan Liu and
+               Hongbo Jiang},
+  title     = {Exploring sharing patterns for video recommendation on {YouTube-like} social media},
+  journal   = mms,
+  volume    = {20},
+  number    = {6},
+  year      = 2014,
+  pages     = {675-691},
+}
+
+@article{DBLP:journals/mms/SchedlHU14,
+  author    = {Markus Schedl and
+               David Hauger and
+               Julián Urbano},
+  title     = {Harvesting microblogs for contextual music similarity estimation: a co-occurrence-based framework},
+  journal   = mms,
+  volume    = {20},
+  number    = {6},
+  year      = 2014,
+  pages     = {693-705},
+}
+
+@article{DBLP:journals/mms/SeoKPK14,
+  author    = {Dongmahn Seo and
+               Suhyun Kim and
+               Hogun Park and
+               Heedong Ko},
+  title     = {Real-time panoramic video streaming system with overlaid interface concept for social media},
+  journal   = mms,
+  volume    = {20},
+  number    = {6},
+  year      = 2014,
+  pages     = {707-719},
+}
+
+@article{DBLP:journals/mms/Wang14,
+  author    = {Zhenchen Wang},
+  title     = {Personalising live zooming using the {ePlayer}},
+  journal   = mms,
+  volume    = {20},
+  number    = {6},
+  year      = 2014,
+  pages     = {721-733},
 }
 
 @article{DBLP:journals/mms/NgoXWE13,
@@ -2088,7 +2916,7 @@
 @article{DBLP:journals/mms/SheltamiASM09,
   author    = {Tarek R. Sheltami and
                Anas Al-Roubaiey and
-               Elhadi Shakshuki and
+               Elhadi M. Shakshuki and
                Ashraf S. Hasan Mahmoud},
   title     = {Video transmission enhancement in presence of misbehaving nodes in {MANETs}},
   journal   = mms,
@@ -4349,7 +5177,7 @@
 @article{DBLP:journals/mms/SebeCCGH05,
   author    = {Nicu Sebe and
                Ira Cohen and
-               Fabio Gagliardi Cozman and
+               Fábio Gagliardi Cozman and
                Theo Gevers and
                Thomas S. Huang},
   title     = {Learning probabilistic classifiers for human-computer interaction applications},
@@ -4856,7 +5684,7 @@
 }
 
 @article{DBLP:journals/mms/BorchersLSM04a,
-  author    = {Jan Borchers and
+  author    = {Jan O. Borchers and
                Eric Lee and
                Wolfgang Samminger and
                Max Mühlhäuser},
@@ -4938,7 +5766,7 @@
 
 @article{DBLP:journals/mms/KimR03,
   author    = {Jinsoo Kim and
-               Byeong-her Roh},
+               Byeong-Hee Roh},
   title     = {An adaptive multiplexing algorithm of delay-sensitive multiple {VBR-coded} bit streams},
   journal   = mms,
   volume    = {9},
@@ -8084,7 +8912,7 @@
 }
 
 @article{DBLP:journals/mms/WangNWR94,
-  author    = {K. S. Wang and
+  author    = {Katherine S. Wang and
                James O. Normile and
                Hsi-Jung Wu and
                Arturo A. Rodriguez},

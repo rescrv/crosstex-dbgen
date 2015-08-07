@@ -1,5 +1,297 @@
 @include journals-cs
 
+@article{DBLP:journals/jacm/SinghL15,
+  author    = {Mohit Singh and
+               Lap Chi Lau},
+  title     = {Approximating Minimum Bounded Degree Spanning Trees to within One of Optimal},
+  journal   = jacm,
+  volume    = {62},
+  number    = {1},
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/jacm/AgrawalAGT15,
+  author    = {Manindra Agrawal and
+               S. Akshay and
+               Blaise Genest and
+               P. S. Thiagarajan},
+  title     = {Approximate Verification of the Symbolic Dynamics of Markov Chains},
+  journal   = jacm,
+  volume    = {62},
+  number    = {1},
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/jacm/AspnesACE15,
+  author    = {James Aspnes and
+               Hagit Attiya and
+               Keren Censor-Hillel and
+               Faith Ellen},
+  title     = {{Limited-Use} Atomic Snapshots with Polylogarithmic Step Complexity},
+  journal   = jacm,
+  volume    = {62},
+  number    = {1},
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/jacm/BrunschR15,
+  author    = {Tobias Brunsch and
+               Heiko Röglin},
+  title     = {Improved Smoothed Analysis of Multiobjective Optimization},
+  journal   = jacm,
+  volume    = {62},
+  number    = {1},
+  year      = 2015,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/jacm/LinP15,
+  author    = {Huijia Lin and
+               Rafael Pass},
+  title     = {{Constant-Round} Nonmalleable Commitments from Any {One-Way} Function},
+  journal   = jacm,
+  volume    = {62},
+  number    = {1},
+  year      = 2015,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/jacm/Vianu15,
+  author    = {Victor Vianu},
+  title     = {Invited Articles Foreword},
+  journal   = jacm,
+  volume    = {62},
+  number    = {1},
+  year      = 2015,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/jacm/KuttenPP0T15,
+  author    = {Shay Kutten and
+               Gopal Pandurangan and
+               David Peleg and
+               Peter Robinson and
+               Amitabh Trehan},
+  title     = {On the Complexity of Universal Leader Election},
+  journal   = jacm,
+  volume    = {62},
+  number    = {1},
+  year      = 2015,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/jacm/KhotV15,
+  author    = {Subhash Khot and
+               Nisheeth K. Vishnoi},
+  title     = {The Unique Games Conjecture, Integrality Gap for Cut Problems and Embeddability of {Negative-Type} Metrics into ℓ1},
+  journal   = jacm,
+  volume    = {62},
+  number    = {1},
+  year      = 2015,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/jacm/ChatterjeeHJ015,
+  author    = {Krishnendu Chatterjee and
+               Thomas A. Henzinger and
+               Barbara Jobstmann and
+               Rohit Singh},
+  title     = {Measuring and Synthesizing Systems in Probabilistic Environments},
+  journal   = jacm,
+  volume    = {62},
+  number    = {1},
+  year      = 2015,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/jacm/BabaioffKS15,
+  author    = {Moshe Babaioff and
+               Robert D. Kleinberg and
+               Aleksandrs Slivkins},
+  title     = {Truthful Mechanisms with Implicit Payment Computation},
+  journal   = jacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/jacm/EtessamiY15,
+  author    = {Kousha Etessami and
+               Mihalis Yannakakis},
+  title     = {Recursive Markov Decision Processes and Recursive Stochastic Games},
+  journal   = jacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2015,
+  pages     = {11},
+}
+
+@article{DBLP:journals/jacm/FaginKRV15,
+  author    = {Ronald Fagin and
+               Benny Kimelfeld and
+               Frederick Reiss and
+               Stijn Vansummeren},
+  title     = {Document Spanners: A Formal Approach to Information Extraction},
+  journal   = jacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2015,
+  pages     = {12},
+}
+
+@article{DBLP:journals/jacm/Valiant15,
+  author    = {Gregory Valiant},
+  title     = {Finding Correlations in Subquadratic Time, with Applications to Learning Parities and the Closest Pair Problem},
+  journal   = jacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2015,
+  pages     = {13},
+}
+
+@article{DBLP:journals/jacm/BaruahBDLMSS15,
+  author    = {Sanjoy K. Baruah and
+               Vincenzo Bonifaci and
+               Gianlorenzo D'Angelo and
+               Haohan Li and
+               Alberto Marchetti-Spaccamela and
+               Suzanne van der Ster and
+               Leen Stougie},
+  title     = {Preemptive Uniprocessor Scheduling of {Mixed-Criticality} Sporadic Task Systems},
+  journal   = jacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2015,
+  pages     = {14},
+}
+
+@article{DBLP:journals/jacm/BasinKMZ15,
+  author    = {David A. Basin and
+               Felix Klaedtke and
+               Samuel Müller and
+               Eugen Zalinescu},
+  title     = {Monitoring Metric {First-Order} Temporal Properties},
+  journal   = jacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2015,
+  pages     = {15},
+}
+
+@article{DBLP:journals/jacm/Vianu15a,
+  author    = {Victor Vianu},
+  title     = {Invited Article Foreword},
+  journal   = jacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2015,
+  pages     = {16},
+}
+
+@article{DBLP:journals/jacm/FioriniMPTW15,
+  author    = {Samuel Fiorini and
+               Serge Massar and
+               Sebastian Pokutta and
+               Hans Raj Tiwary and
+               Ronald de Wolf},
+  title     = {Exponential Lower Bounds for Polytopes in Combinatorial Optimization},
+  journal   = jacm,
+  volume    = {62},
+  number    = {2},
+  year      = 2015,
+  pages     = {17},
+}
+
+@article{DBLP:journals/jacm/GoelML15,
+  author    = {Gagan Goel and
+               Vahab S. Mirrokni and
+               Renato Paes Leme},
+  title     = {Polyhedral Clinching Auctions and the {AdWords} Polytope},
+  journal   = jacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2015,
+  pages     = {18},
+}
+
+@article{DBLP:journals/jacm/BodirskyP15,
+  author    = {Manuel Bodirsky and
+               Michael Pinsker},
+  title     = {Schaefer's Theorem for Graphs},
+  journal   = jacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2015,
+  pages     = {19},
+}
+
+@article{DBLP:journals/jacm/Jain15,
+  author    = {Rahul Jain},
+  title     = {New Strong Direct Product Results in Communication Complexity},
+  journal   = jacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/jacm/Mendelson15,
+  author    = {Shahar Mendelson},
+  title     = {Learning without Concentration},
+  journal   = jacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2015,
+  pages     = {21},
+}
+
+@article{DBLP:journals/jacm/BaranyCS15,
+  author    = {Vince Bárány and
+               Balder ten Cate and
+               Luc Segoufin},
+  title     = {Guarded Negation},
+  journal   = jacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2015,
+  pages     = {22},
+}
+
+@article{DBLP:journals/jacm/BonacinaG15,
+  author    = {Ilario Bonacina and
+               Nicola Galesi},
+  title     = {A Framework for Space Complexity in Algebraic Proof Systems},
+  journal   = jacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2015,
+  pages     = {23},
+}
+
+@article{DBLP:journals/jacm/Vianu15b,
+  author    = {Victor Vianu},
+  title     = {Invited Article Foreword},
+  journal   = jacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2015,
+  pages     = {24},
+}
+
+@article{DBLP:journals/jacm/Rubin15,
+  author    = {Natan Rubin},
+  title     = {On Kinetic Delaunay Triangulations: A {Near-Quadratic} Bound for Unit Speed Motions},
+  journal   = jacm,
+  volume    = {62},
+  number    = {3},
+  year      = 2015,
+  pages     = {25},
+}
+
 @article{DBLP:journals/jacm/DuanP14,
   author    = {Ran Duan and
                Seth Pettie},
@@ -8,7 +300,7 @@
   volume    = {61},
   number    = {1},
   year      = 2014,
-  pages     = {1},
+  pages     = {1-1},
 }
 
 @article{DBLP:journals/jacm/Williams14,
@@ -18,7 +310,7 @@
   volume    = {61},
   number    = {1},
   year      = 2014,
-  pages     = {2},
+  pages     = {2-1},
 }
 
 @article{DBLP:journals/jacm/BartoK14,
@@ -29,7 +321,7 @@
   volume    = {61},
   number    = {1},
   year      = 2014,
-  pages     = {3},
+  pages     = {3-1},
 }
 
 @article{DBLP:journals/jacm/KaneN14,
@@ -40,7 +332,7 @@
   volume    = {61},
   number    = {1},
   year      = 2014,
-  pages     = {4},
+  pages     = {4-1},
 }
 
 @article{DBLP:journals/jacm/ChaputDPP14,
@@ -53,7 +345,7 @@
   volume    = {61},
   number    = {1},
   year      = 2014,
-  pages     = {5},
+  pages     = {5-1},
 }
 
 @article{DBLP:journals/jacm/Vianu14,
@@ -63,7 +355,7 @@
   volume    = {61},
   number    = {1},
   year      = 2014,
-  pages     = {6},
+  pages     = {6-1},
 }
 
 @article{DBLP:journals/jacm/HelmiHPW14,
@@ -76,7 +368,7 @@
   volume    = {61},
   number    = {1},
   year      = 2014,
-  pages     = {7},
+  pages     = {7-1},
 }
 
 @article{DBLP:journals/jacm/BarceloLR14,
@@ -88,7 +380,402 @@
   volume    = {61},
   number    = {1},
   year      = 2014,
-  pages     = {8},
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/jacm/HonSTV14,
+  author    = {Wing-Kai Hon and
+               Rahul Shah and
+               Sharma V. Thankachan and
+               Jeffrey Scott Vitter},
+  title     = {{Space-Efficient} Frameworks for Top-k String Retrieval},
+  journal   = jacm,
+  volume    = {61},
+  number    = {2},
+  year      = 2014,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/jacm/CassaigneCSS14,
+  author    = {Julien Cassaigne and
+               James D. Currie and
+               Luke Schaeffer and
+               Jeffrey Shallit},
+  title     = {Avoiding Three Consecutive Blocks of the Same Size and Same Sum},
+  journal   = jacm,
+  volume    = {61},
+  number    = {2},
+  year      = 2014,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/jacm/DeDFS14,
+  author    = {Anindya De and
+               Ilias Diakonikolas and
+               Vitaly Feldman and
+               Rocco A. Servedio},
+  title     = {Nearly Optimal Solutions for the Chow Parameters Problem and {Low-Weight} Approximation of Halfspaces},
+  journal   = jacm,
+  volume    = {61},
+  number    = {2},
+  year      = 2014,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/jacm/AmanoDLM14,
+  author    = {Shun'ichi Amano and
+               Claire David and
+               Leonid Libkin and
+               Filip Murlak},
+  title     = {{XML} Schema Mappings: Data Exchange and Metadata Management},
+  journal   = jacm,
+  volume    = {61},
+  number    = {2},
+  year      = 2014,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/jacm/Ben-ZviM14,
+  author    = {Ido Ben-Zvi and
+               Yoram Moses},
+  title     = {Beyond Lamport's Happened-before: On Time Bounds and the Ordering of Events in Distributed Systems},
+  journal   = jacm,
+  volume    = {61},
+  number    = {2},
+  year      = 2014,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/jacm/BrotherstonK14,
+  author    = {James Brotherston and
+               Max I. Kanovich},
+  title     = {Undecidability of Propositional Separation Logic and Its Neighbours},
+  journal   = jacm,
+  volume    = {61},
+  number    = {2},
+  year      = 2014,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/jacm/ChatterjeeH14,
+  author    = {Krishnendu Chatterjee and
+               Monika Henzinger},
+  title     = {Efficient and Dynamic Algorithms for Alternating Büchi Games and Maximal {End-Component} Decomposition},
+  journal   = jacm,
+  volume    = {61},
+  number    = {3},
+  year      = 2014,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/jacm/HelmertHHN14,
+  author    = {Malte Helmert and
+               Patrik Haslum and
+               Jörg Hoffmann and
+               Raz Nissim},
+  title     = {{Merge-and-Shrink} Abstraction: A Method for Generating Lower Bounds in Factored State Spaces},
+  journal   = jacm,
+  volume    = {61},
+  number    = {3},
+  year      = 2014,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/jacm/CadekKMSVW14,
+  author    = {Martin Cadek and
+               Marek Krcál and
+               Jirí Matousek and
+               Francis Sergeraert and
+               Lukás Vokrínek and
+               Uli Wagner},
+  title     = {Computing All Maps into a Sphere},
+  journal   = jacm,
+  volume    = {61},
+  number    = {3},
+  year      = 2014,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/jacm/AlistarhACGG14,
+  author    = {Dan Alistarh and
+               James Aspnes and
+               Keren Censor-Hillel and
+               Seth Gilbert and
+               Rachid Guerraoui},
+  title     = {Tight Bounds for Asynchronous Renaming},
+  journal   = jacm,
+  volume    = {61},
+  number    = {3},
+  year      = 2014,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/jacm/ChenYZG14,
+  author    = {Binbin Chen and
+               Haifeng Yu and
+               Yuda Zhao and
+               Phillip B. Gibbons},
+  title     = {The Cost of Fault Tolerance in {Multi-Party} Communication Complexity},
+  journal   = jacm,
+  volume    = {61},
+  number    = {3},
+  year      = 2014,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/jacm/FaenzaOS14,
+  author    = {Yuri Faenza and
+               Gianpaolo Oriolo and
+               Gautier Stauffer},
+  title     = {Solving the Weighted Stable Set Problem in {Claw-Free} Graphs via Decomposition},
+  journal   = jacm,
+  volume    = {61},
+  number    = {4},
+  year      = 2014,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/jacm/Chazelle14,
+  author    = {Bernard Chazelle},
+  title     = {The Convergence of Bird Flocking},
+  journal   = jacm,
+  volume    = {61},
+  number    = {4},
+  year      = 2014,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/jacm/Ben-SassonLR14,
+  author    = {Eli Ben-Sasson and
+               Shachar Lovett and
+               Noga Ron-Zewi},
+  title     = {An Additive Combinatorics Approach Relating Rank to Communication Complexity},
+  journal   = jacm,
+  volume    = {61},
+  number    = {4},
+  year      = 2014,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/jacm/DellM14,
+  author    = {Holger Dell and
+               Dieter van Melkebeek},
+  title     = {Satisfiability Allows No Nontrivial Sparsification unless the {Polynomial-Time} Hierarchy Collapses},
+  journal   = jacm,
+  volume    = {61},
+  number    = {4},
+  year      = 2014,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/jacm/BaldanC14,
+  author    = {Paolo Baldan and
+               Silvia Crafa},
+  title     = {A Logic for True Concurrency},
+  journal   = jacm,
+  volume    = {61},
+  number    = {4},
+  year      = 2014,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/jacm/Vianu14a,
+  author    = {Victor Vianu},
+  title     = {Invited Articles Foreword},
+  journal   = jacm,
+  volume    = {61},
+  number    = {4},
+  year      = 2014,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/jacm/Ben-AmramG14,
+  author    = {Amir M. Ben-Amram and
+               Samir Genaim},
+  title     = {Ranking Functions for {Linear-Constraint} Loops},
+  journal   = jacm,
+  volume    = {61},
+  number    = {4},
+  year      = 2014,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/jacm/LoschP14,
+  author    = {Steffen Lösch and
+               Andrew M. Pitts},
+  title     = {Denotational Semantics with Nominal Scott Domains},
+  journal   = jacm,
+  volume    = {61},
+  number    = {4},
+  year      = 2014,
+  pages     = {27-1},
+}
+
+@article{DBLP:journals/jacm/KoppartySY14,
+  author    = {Swastik Kopparty and
+               Shubhangi Saraf and
+               Sergey Yekhanin},
+  title     = {High-rate codes with sublinear-time decoding},
+  journal   = jacm,
+  volume    = {61},
+  number    = {5},
+  year      = 2014,
+  pages     = {28-1},
+}
+
+@article{DBLP:journals/jacm/ChandranKOR14,
+  author    = {Nishanth Chandran and
+               Bhavana Kanukurthi and
+               Rafail Ostrovsky and
+               Leonid Reyzin},
+  title     = {Privacy amplification with asymptotically optimal entropy loss},
+  journal   = jacm,
+  volume    = {61},
+  number    = {5},
+  year      = 2014,
+  pages     = {29-1},
+}
+
+@article{DBLP:journals/jacm/DolevFSL14,
+  author    = {Danny Dolev and
+               Matthias Függer and
+               Ulrich Schmid and
+               Christoph Lenzen},
+  title     = {Fault-tolerant algorithms for tick-generation in asynchronous logic: Robust pulse generation},
+  journal   = jacm,
+  volume    = {61},
+  number    = {5},
+  year      = 2014,
+  pages     = {30-1},
+}
+
+@article{DBLP:journals/jacm/Vianu14b,
+  author    = {Victor Vianu},
+  title     = {Invited article foreword},
+  journal   = jacm,
+  volume    = {61},
+  number    = {5},
+  year      = 2014,
+  pages     = {31-1},
+}
+
+@article{DBLP:journals/jacm/KimelfeldR14,
+  author    = {Benny Kimelfeld and
+               Christopher Ré},
+  title     = {Transducing Markov sequences},
+  journal   = jacm,
+  volume    = {61},
+  number    = {5},
+  year      = 2014,
+  pages     = {32-1},
+}
+
+@article{DBLP:journals/jacm/0001KKS14,
+  author    = {Ankit Gupta and
+               Pritish Kamath and
+               Neeraj Kayal and
+               Ramprasad Saptharishi},
+  title     = {Approaching the Chasm at Depth Four},
+  journal   = jacm,
+  volume    = {61},
+  number    = {6},
+  year      = 2014,
+  pages     = {33-1},
+}
+
+@article{DBLP:journals/jacm/Sherstov14,
+  author    = {Alexander A. Sherstov},
+  title     = {Communication Lower Bounds Using Directional Derivatives},
+  journal   = jacm,
+  volume    = {61},
+  number    = {6},
+  year      = 2014,
+  pages     = {34-1},
+}
+
+@article{DBLP:journals/jacm/BrakerskiKN14,
+  author    = {Zvika Brakerski and
+               Yael Tauman Kalai and
+               Moni Naor},
+  title     = {Fast Interactive Coding against Adversarial Noise},
+  journal   = jacm,
+  volume    = {61},
+  number    = {6},
+  year      = 2014,
+  pages     = {35-1},
+}
+
+@article{DBLP:journals/jacm/JacobRSST14,
+  author    = {Riko Jacob and
+               Andréa W. Richa and
+               Christian Scheideler and
+               Stefan Schmid and
+               Hanjo Täubig},
+  title     = {SKIP+: A {Self-Stabilizing} Skip Graph},
+  journal   = jacm,
+  volume    = {61},
+  number    = {6},
+  year      = 2014,
+  pages     = {36-1},
+}
+
+@article{DBLP:journals/jacm/LeeGT14,
+  author    = {James R. Lee and
+               Shayan Oveis Gharan and
+               Luca Trevisan},
+  title     = {Multiway Spectral Partitioning and {Higher-Order} Cheeger Inequalities},
+  journal   = jacm,
+  volume    = {61},
+  number    = {6},
+  year      = 2014,
+  pages     = {37-1},
+}
+
+@article{DBLP:journals/jacm/DuchiJW14,
+  author    = {John C. Duchi and
+               Michael I. Jordan and
+               Martin J. Wainwright},
+  title     = {Privacy Aware Learning},
+  journal   = jacm,
+  volume    = {61},
+  number    = {6},
+  year      = 2014,
+  pages     = {38-1},
+}
+
+@article{DBLP:journals/jacm/WangYCF14,
+  author    = {Xiaojing Wang and
+               Qizhao Yuan and
+               Hongliang Cai and
+               Jiajia Fang},
+  title     = {A New Approach to Image Sharing with {High-Security} Threshold Structure},
+  journal   = jacm,
+  volume    = {61},
+  number    = {6},
+  year      = 2014,
+  pages     = {39-1},
+}
+
+@article{DBLP:journals/jacm/Vianu14c,
+  author    = {Victor Vianu},
+  title     = {Invited Article Foreword},
+  journal   = jacm,
+  volume    = {61},
+  number    = {6},
+  year      = 2014,
+  pages     = {40-1},
+}
+
+@article{DBLP:journals/jacm/BrazdilKK14,
+  author    = {Tomás Brázdil and
+               Stefan Kiefer and
+               Antonín Kucera},
+  title     = {Efficient Analysis of Probabilistic Programs with an Unbounded Counter},
+  journal   = jacm,
+  volume    = {61},
+  number    = {6},
+  year      = 2014,
+  pages     = {41-1},
 }
 
 @article{DBLP:journals/jacm/HansenMZ13,
@@ -9758,7 +10445,7 @@
 
 @article{DBLP:journals/jacm/MullerS89,
   author    = {John H. Muller and
-               Jeremy Spinrad},
+               Jeremy P. Spinrad},
   title     = {Incremental modular decomposition},
   journal   = jacm,
   volume    = {36},
@@ -10602,7 +11289,7 @@
 
 @article{DBLP:journals/jacm/GrigoriadisK88,
   author    = {Michael D. Grigoriadis and
-               B. Kalantari},
+               Bahman Kalantari},
   title     = {A new class of heuristic algorithms for weighted perfect matching},
   journal   = jacm,
   volume    = {35},
@@ -13646,7 +14333,7 @@
 }
 
 @article{DBLP:journals/jacm/Bryant82,
-  author    = {R. M. Bryant},
+  author    = {Raymond M. Bryant},
   title     = {Maximum Processing Rates of Memory Bound Systems},
   journal   = jacm,
   volume    = {29},
@@ -14552,7 +15239,7 @@
 @article{DBLP:journals/jacm/KatohIM81,
   author    = {Naoki Katoh and
                Toshihide Ibaraki and
-               H. Mine},
+               Hisashi Mine},
   title     = {An Algorithm for the K Best Solutions of the Resource Allocation Problem},
   journal   = jacm,
   volume    = {28},
@@ -16057,7 +16744,7 @@
 
 @article{DBLP:journals/jacm/KungT78,
   author    = {H. T. Kung and
-               J. F. Traub},
+               Joseph F. Traub},
   title     = {All Algebraic Functions Can Be Computed Fast},
   journal   = jacm,
   volume    = {25},
@@ -16865,7 +17552,7 @@
   author    = {K. L. Krause and
                V. Y. Shen and
                Herbert D. Schwetman},
-  title     = {Errata: ``Analysis of Several {Task-Scheduling} Algorithms for a Model of Multiprogramming Computer Systems''},
+  title     = {Errata: "Analysis of Several {Task-Scheduling} Algorithms for a Model of Multiprogramming Computer Systems"},
   journal   = jacm,
   volume    = {24},
   number    = {3},
@@ -17626,7 +18313,7 @@
 @article{DBLP:journals/jacm/HellerST76,
   author    = {D. E. Heller and
                D. K. Stevenson and
-               J. F. Traub},
+               Joseph F. Traub},
   title     = {Accelerated Iterative Methods for the Solution of Tridiagonal Systems on Parallel Computers},
   journal   = jacm,
   volume    = {23},
@@ -18424,7 +19111,7 @@
 
 @article{DBLP:journals/jacm/ShawT74,
   author    = {Mary Shaw and
-               J. F. Traub},
+               Joseph F. Traub},
   title     = {On the Number of Multiplications for the Evaluation of a Polynomial and Some of Its Derivatives},
   journal   = jacm,
   volume    = {21},
@@ -18922,7 +19609,7 @@
 
 @article{DBLP:journals/jacm/KungT74,
   author    = {H. T. Kung and
-               J. F. Traub},
+               Joseph F. Traub},
   title     = {Optimal Order of {One-Point} and Multipoint Iteration},
   journal   = jacm,
   volume    = {21},
@@ -19110,7 +19797,7 @@
 
 @article{DBLP:journals/jacm/SrinivasanT73,
   author    = {V. Srinivasan and
-               G. L. Thompson},
+               Gerald L. Thompson},
   title     = {{Benefit-Cost} Analysis of Coding Techniques for the Primal Transportation Algorithm},
   journal   = jacm,
   volume    = {20},
@@ -20068,7 +20755,7 @@
 
 @article{DBLP:journals/jacm/SrinivasanT72,
   author    = {V. Srinivasan and
-               G. L. Thompson},
+               Gerald L. Thompson},
   title     = {Accelerated Algorithms for Labeling and Relabeling of Trees, with Applications to Distribution Problems},
   journal   = jacm,
   volume    = {19},
@@ -20509,7 +21196,7 @@
 
 @article{DBLP:journals/jacm/BrownT71,
   author    = {W. S. Brown and
-               J. F. Traub},
+               Joseph F. Traub},
   title     = {On Euclid's Algorithm and the Theory of Subresultants},
   journal   = jacm,
   volume    = {18},
@@ -20985,7 +21672,7 @@
 }
 
 @article{DBLP:journals/jacm/Fox70,
-  author    = {B. L. Fox},
+  author    = {Bennett L. Fox},
   title     = {Accelerating List Processing in Discrete Programming},
   journal   = jacm,
   volume    = {17},
@@ -21329,7 +22016,7 @@
 
 @article{DBLP:journals/jacm/BrownT69,
   author    = {W. S. Brown and
-               J. F. Traub},
+               Joseph F. Traub},
   title     = {MERCURY: H system for the computer-aided distribution of technical reports},
   journal   = jacm,
   volume    = {16},
@@ -22039,7 +22726,7 @@
 }
 
 @article{DBLP:journals/jacm/OrdenN68,
-  author    = {A. Orden and
+  author    = {Alex Orden and
                V. Nalbandian},
   title     = {A Bidirectional Simplex Algorithm},
   journal   = jacm,

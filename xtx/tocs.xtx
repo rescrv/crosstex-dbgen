@@ -1,5 +1,137 @@
 @include journals-cs
 
+@article{DBLP:journals/tocs/WangZKS15,
+  author    = {Xi Wang and
+               Nickolai Zeldovich and
+               M. Frans Kaashoek and
+               Armando Solar-Lezama},
+  title     = {A Differential Approach to Undefined Behavior Detection},
+  journal   = tocs,
+  volume    = {33},
+  number    = {1},
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tocs/BilaWLJLPGHS15,
+  author    = {Nilton Bila and
+               Eric J. Wright and
+               Eyal de Lara and
+               Kaustubh R. Joshi and
+               H. Andrés Lagar-Cavilla and
+               Eunbyung Park and
+               Ashvin Goel and
+               Matti A. Hiltunen and
+               Mahadev Satyanarayanan},
+  title     = {{Energy-Oriented} Partial Desktop Virtual Machine Migration},
+  journal   = tocs,
+  volume    = {33},
+  number    = {1},
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tocs/BlemMVS15,
+  author    = {Emily R. Blem and
+               Jaikrishnan Menon and
+               Thiruvengadam Vijayaraghavan and
+               Karthikeyan Sankaralingam},
+  title     = {{ISA} Wars: Understanding the Relevance of {ISA} being {RISC} or {CISC} to Performance, Power, and Energy on Modern Architectures},
+  journal   = tocs,
+  volume    = {33},
+  number    = {1},
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tocs/LinWZ15,
+  author    = {Felix Xiaozhu Lin and
+               Zhen Wang and
+               Lin Zhong},
+  title     = {K2: A Mobile Operating System for Heterogeneous Coherence Domains},
+  journal   = tocs,
+  volume    = {33},
+  number    = {2},
+  year      = 2015,
+  pages     = {4},
+}
+
+@article{DBLP:journals/tocs/JohansenRVJ15,
+  author    = {Håvard D. Johansen and
+               Robbert van Renesse and
+               Ymir Vigfusson and
+               Dag Johansen},
+  title     = {Fireflies: A Secure and Scalable Membership and Gossip Service},
+  journal   = tocs,
+  volume    = {33},
+  number    = {2},
+  year      = 2015,
+  pages     = {5},
+}
+
+@article{DBLP:journals/tocs/ChenZLDLGLWWSCT15,
+  author    = {Tianshi Chen and
+               Shijin Zhang and
+               Shaoli Liu and
+               Zidong Du and
+               Tao Luo and
+               Yuan Gao and
+               Junjie Liu and
+               Dongsheng Wang and
+               Chengyong Wu and
+               Ninghui Sun and
+               Yunji Chen and
+               Olivier Temam},
+  title     = {A {Small-Footprint} Accelerator for {Large-Scale} Neural Networks},
+  journal   = tocs,
+  volume    = {33},
+  number    = {2},
+  year      = 2015,
+  pages     = {6},
+}
+
+@article{DBLP:journals/tocs/ClementsKZMK15,
+  author    = {Austin T. Clements and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich and
+               Robert Tappan Morris and
+               Eddie Kohler},
+  title     = {The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors},
+  journal   = tocs,
+  volume    = {32},
+  number    = {4},
+  year      = 2015,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tocs/NairECJE15,
+  author    = {Arun Arvind Nair and
+               Stijn Eyerman and
+               Jian Chen and
+               Lizy Kurian John and
+               Lieven Eeckhout},
+  title     = {Mechanistic Modeling of Architectural Vulnerability Factor},
+  journal   = tocs,
+  volume    = {32},
+  number    = {4},
+  year      = 2015,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tocs/AublinGKQV15,
+  author    = {Pierre-Louis Aublin and
+               Rachid Guerraoui and
+               Nikola Knezevic and
+               Vivien Quéma and
+               Marko Vukolic},
+  title     = {The Next 700 {BFT} Protocols},
+  journal   = tocs,
+  volume    = {32},
+  number    = {4},
+  year      = 2015,
+  pages     = {12-1},
+}
+
 @article{DBLP:journals/tocs/SilbersteinFKW14,
   author    = {Mark Silberstein and
                Bryan Ford and
@@ -39,6 +171,97 @@
   number    = {1},
   year      = 2014,
   pages     = {3},
+}
+
+@article{DBLP:journals/tocs/PalixTSCML14,
+  author    = {Nicolas Palix and
+               Gaël Thomas and
+               Suman Saha and
+               Christophe Calvès and
+               Gilles Muller and
+               Julia Lawall},
+  title     = {Faults in Linux 2.6},
+  journal   = tocs,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tocs/EnckGHTCCJMS14,
+  author    = {William Enck and
+               Peter Gilbert and
+               Seungyeop Han and
+               Vasant Tendulkar and
+               Byung-Gon Chun and
+               Landon P. Cox and
+               Jaeyeon Jung and
+               Patrick McDaniel and
+               Anmol N. Sheth},
+  title     = {TaintDroid: An {Information-Flow} Tracking System for Realtime Privacy Monitoring on Smartphones},
+  journal   = tocs,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tocs/YuSSSCKEY14,
+  author    = {Young Jin Yu and
+               Dong In Shin and
+               Woong Shin and
+               Nae Young Song and
+               Jae-Woo Choi and
+               Hyeong Seog Kim and
+               Hyeonsang Eom and
+               Heon Young Yeom},
+  title     = {Optimizing the Block I/O Subsystem for Fast Storage Devices},
+  journal   = tocs,
+  volume    = {32},
+  number    = {2},
+  year      = 2014,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tocs/SamadiLJMH14,
+  author    = {Mehrzad Samadi and
+               Janghaeng Lee and
+               Davoud Anoushe Jamshidi and
+               Scott A. Mahlke and
+               Amir Hormati},
+  title     = {Scaling Performance via {Self-Tuning} Approximation for Graphics Engines},
+  journal   = tocs,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tocs/WuPBKR14,
+  author    = {Lisa Wu and
+               Orestis Polychroniou and
+               Raymond J. Barker and
+               Martha A. Kim and
+               Kenneth A. Ross},
+  title     = {Energy Analysis of Hardware and Software Range Partitioning},
+  journal   = tocs,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tocs/SampsonNSC14,
+  author    = {Adrian Sampson and
+               Jacob Nelson and
+               Karin Strauss and
+               Luis Ceze},
+  title     = {Approximate Storage in {Solid-State} Memories},
+  journal   = tocs,
+  volume    = {32},
+  number    = {3},
+  year      = 2014,
+  pages     = {9-1},
 }
 
 @article{DBLP:journals/tocs/WuY13,
@@ -2001,7 +2224,7 @@
 }
 
 @article{DBLP:journals/tocs/BrooksM00,
-  author    = {David Brooks and
+  author    = {David M. Brooks and
                Margaret Martonosi},
   title     = {Value-based clock gating and operation packing: dynamic strategies for improving processor power and performance},
   journal   = tocs,
@@ -4061,7 +4284,7 @@
   author    = {Jeffrey Joyce and
                Greg Lomow and
                Konrad Slind and
-               Brian Unger},
+               Brian W. Unger},
   title     = {Monitoring Distributed Systems},
   journal   = tocs,
   volume    = {5},

@@ -1,5 +1,2121 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/nsdi/GrosvenorSGW0HC15,
+  author    = {Matthew P. Grosvenor and
+               Malte Schwarzkopf and
+               Ionel Gog and
+               Robert N. M. Watson and
+               Andrew W. Moore and
+               Steven Hand and
+               Jon Crowcroft},
+  title     = {Queues Don't Matter When You Can {JUMP} Them!},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/nsdi/Hu0WBLWZG15,
+  author    = {Shuihai Hu and
+               Kai Chen and
+               Haitao Wu and
+               Wei Bai and
+               Chang Lan and
+               Hao Wang and
+               Hongze Zhao and
+               Chuanxiong Guo},
+  title     = {Explicit Path Control in Commodity Data Centers: Design and Applications},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {15-28},
+}
+
+@inproceedings{DBLP:conf/nsdi/AgacheDR15,
+  author    = {Alexandru Agache and
+               Razvan Deaconescu and
+               Costin Raiciu},
+  title     = {Increasing Datacenter Network Utilisation with {GRIN}},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {29-42},
+}
+
+@inproceedings{DBLP:conf/nsdi/PortsLLSK15,
+  author    = {Dan R. K. Ports and
+               Jialin Li and
+               Vincent Liu and
+               Naveen Kr. Sharma and
+               Arvind Krishnamurthy},
+  title     = {Designing Distributed Systems Using Approximate Synchrony in Data Center Networks},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {43-57},
+}
+
+@inproceedings{DBLP:conf/nsdi/KimRGSFC15,
+  author    = {Hyojoon Kim and
+               Joshua Reich and
+               Arpit Gupta and
+               Muhammad Shahbaz and
+               Nick Feamster and
+               Russell J. Clark},
+  title     = {Kinetic: Verifiable Dynamic Network Control},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {59-72},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhouJCCG15,
+  author    = {Wenxuan Zhou and
+               Dong (Kevin) Jin and
+               Jason Croft and
+               Matthew Caesar and
+               Philip Brighten Godfrey},
+  title     = {Enforcing Customizable Consistency Properties in {Software-Defined} Networks},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {73-85},
+}
+
+@inproceedings{DBLP:conf/nsdi/JinGRW15,
+  author    = {Xin Jin and
+               Jennifer Gossels and
+               Jennifer Rexford and
+               David Walker},
+  title     = {CoVisor: A Compositional Hypervisor for {Software-Defined} Networks},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {87-101},
+}
+
+@inproceedings{DBLP:conf/nsdi/JoseYVM15,
+  author    = {Lavanya Jose and
+               Lisa Yan and
+               George Varghese and
+               Nick McKeown},
+  title     = {Compiling Packet Programs to Reconfigurable Switches},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {103-115},
+}
+
+@inproceedings{DBLP:conf/nsdi/PfaffPKJZRGWSSA15,
+  author    = {Ben Pfaff and
+               Justin Pettit and
+               Teemu Koponen and
+               Ethan J. Jackson and
+               Andy Zhou and
+               Jarno Rajahalme and
+               Jesse Gross and
+               Alex Wang and
+               Joe Stringer and
+               Pravin Shelar and
+               Keith Amidon and
+               Martín Casado},
+  title     = {The Design and Implementation of Open {vSwitch}},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {117-130},
+}
+
+@inproceedings{DBLP:conf/nsdi/GanjamSZLSJS015,
+  author    = {Aditya Ganjam and
+               Faisal Siddiqui and
+               Jibin Zhan and
+               Xi Liu and
+               Ion Stoica and
+               Junchen Jiang and
+               Vyas Sekar and
+               Hui Zhang},
+  title     = {C3: {Internet-Scale} Control Plane for Video Quality Optimization},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {131-144},
+}
+
+@inproceedings{DBLP:conf/nsdi/Judd15,
+  author    = {Glenn Judd},
+  title     = {Attaining the Promise and Avoiding the Pitfalls of {TCP} in the Datacenter},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {145-157},
+}
+
+@inproceedings{DBLP:conf/nsdi/ShiBK15,
+  author    = {Lixin Shi and
+               Paramvir Bahl and
+               Dina Katabi},
+  title     = {Beyond Sensing: {Multi-GHz} Realtime Spectrum Analytics},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {159-172},
+}
+
+@inproceedings{DBLP:conf/nsdi/BansalSK15,
+  author    = {Manu Bansal and
+               Aaron Schulman and
+               Sachin Katti},
+  title     = {Atomix: A Framework for Deploying Signal Processing Applications on Wireless Infrastructure},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {173-188},
+}
+
+@inproceedings{DBLP:conf/nsdi/JoshiBKK15,
+  author    = {Kiran Raj Joshi and
+               Dinesh Bharadia and
+               Manikanta Kotaru and
+               Sachin Katti},
+  title     = {WiDeo: Fine-grained Device-free Motion Tracing using {RF} Backscatter},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {189-204},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChenYS15,
+  author    = {Bo Chen and
+               Vivek Yenamandra and
+               Kannan Srinivasan},
+  title     = {FlexRadio: Fully Flexible Radios and Networks},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {205-218},
+}
+
+@inproceedings{DBLP:conf/nsdi/CroitoruNR15,
+  author    = {Andrei Croitoru and
+               Dragos Niculescu and
+               Costin Raiciu},
+  title     = {Towards Wifi Mobility without Fast Handover},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {219-234},
+}
+
+@inproceedings{DBLP:conf/nsdi/HassaniehWKK15,
+  author    = {Haitham Hassanieh and
+               Jue Wang and
+               Dina Katabi and
+               Tadayoshi Kohno},
+  title     = {Securing {RFIDs} by Randomizing the Modulation and Channel},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {235-249},
+}
+
+@inproceedings{DBLP:conf/nsdi/ShangguanYLZL15,
+  author    = {Longfei Shangguan and
+               Zheng Yang and
+               Alex X. Liu and
+               Zimu Zhou and
+               Yunhao Liu},
+  title     = {Relative Localization of {RFID} Tags using {Spatial-Temporal} Phase Profiling},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {251-263},
+}
+
+@inproceedings{DBLP:conf/nsdi/RoyGC15,
+  author    = {Nirupam Roy and
+               Mahanth Gowda and
+               Romit Roy Choudhury},
+  title     = {Ripple: Communicating through Physical Vibration},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {265-278},
+}
+
+@inproceedings{DBLP:conf/nsdi/AdibKK15,
+  author    = {Fadel Adib and
+               Zachary Kabelac and
+               Dina Katabi},
+  title     = {{Multi-Person} Localization via {RF} Body Reflections},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {279-292},
+}
+
+@inproceedings{DBLP:conf/nsdi/OusterhoutRRSC15,
+  author    = {Kay Ousterhout and
+               Ryan Rasti and
+               Sylvia Ratnasamy and
+               Scott Shenker and
+               Byung-Gon Chun},
+  title     = {Making Sense of Performance in Data Analytics Frameworks},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {293-307},
+}
+
+@inproceedings{DBLP:conf/nsdi/IyerLS15,
+  author    = {Anand P. Iyer and
+               Li Erran Li and
+               Ion Stoica},
+  title     = {{CellIQ} : {Real-Time} Cellular Network Analytics at Scale},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {309-322},
+}
+
+@inproceedings{DBLP:conf/nsdi/VulimiriCGJPV15,
+  author    = {Ashish Vulimiri and
+               Carlo Curino and
+               Philip Brighten Godfrey and
+               Thomas Jungblut and
+               Jitu Padhye and
+               George Varghese},
+  title     = {Global Analytics in the Face of Bandwidth and Regulatory Constraints},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {323-336},
+}
+
+@inproceedings{DBLP:conf/nsdi/AgarwalKS15,
+  author    = {Rachit Agarwal and
+               Anurag Khandelwal and
+               Ion Stoica},
+  title     = {Succinct: Enabling Queries on Compressed Data},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {337-350},
+}
+
+@inproceedings{DBLP:conf/nsdi/SharmaAACCDFGKK15,
+  author    = {Yogeshwer Sharma and
+               Philippe Ajoux and
+               Petchean Ang and
+               David Callies and
+               Abhishek Choudhary and
+               Laurent Demailly and
+               Thomas Fersch and
+               Liat Atsmon Guz and
+               Andrzej Kotulski and
+               Sachin Kulkarni and
+               Sanjeev Kumar and
+               Harry C. Li and
+               Jun Li and
+               Evgeniy Makeev and
+               Kowshik Prakasam and
+               Robbert van Renesse and
+               Sabyasachi Roy and
+               Pratyush Seth and
+               Yee Jiun Song and
+               Benjamin Wester and
+               Kaushik Veeraraghavan and
+               Peter Xie},
+  title     = {Wormhole: Reliable {Pub-Sub} to Support Geo-replicated Internet Services},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {351-366},
+}
+
+@inproceedings{DBLP:conf/nsdi/AgababovBCCGMPS15,
+  author    = {Victor Agababov and
+               Michael Buettner and
+               Victor Chudnovsky and
+               Mark Cogan and
+               Ben Greenstein and
+               Shane McDaniel and
+               Michael Piatek and
+               Colin Scott and
+               Matt Welsh and
+               Bolian Yin},
+  title     = {Flywheel: Google's Data Compression Proxy for the Mobile Web},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {367-380},
+}
+
+@inproceedings{DBLP:conf/nsdi/FlavelMMHLCS15,
+  author    = {Ashley Flavel and
+               Pradeepkumar Mani and
+               David A. Maltz and
+               Nick Holt and
+               Jie Liu and
+               Yingying Chen and
+               Oleg Surmachev},
+  title     = {FastRoute: A Scalable {Load-Aware} Anycast Routing Architecture for Modern {CDNs}},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {381-394},
+}
+
+@inproceedings{DBLP:conf/nsdi/DongLZGS15,
+  author    = {Mo Dong and
+               Qingxi Li and
+               Doron Zarchy and
+               Philip Brighten Godfrey and
+               Michael Schapira},
+  title     = {PCC: Re-architecting Congestion Control for Consistent High Performance},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {395-408},
+}
+
+@inproceedings{DBLP:conf/nsdi/KaliaZKA15,
+  author    = {Anuj Kalia and
+               Dong Zhou and
+               Michael Kaminsky and
+               David G. Andersen},
+  title     = {Raising the Bar for Using {GPUs} in Software Packet Processing},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {409-423},
+}
+
+@inproceedings{DBLP:conf/nsdi/PathakP15,
+  author    = {Sharvanath Pathak and
+               Vivek S. Pai},
+  title     = {ModNet: A Modular Approach to Network Stack Extension},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {425-438},
+}
+
+@inproceedings{DBLP:conf/nsdi/ButkiewiczWWMS15,
+  author    = {Michael Butkiewicz and
+               Daimeng Wang and
+               Zhe Wu and
+               Harsha V. Madhyastha and
+               Vyas Sekar},
+  title     = {Klotski: Reprioritizing Web Content to Improve User Experience on Mobile Devices},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {439-453},
+}
+
+@inproceedings{DBLP:conf/nsdi/Bai0WCHT15,
+  author    = {Wei Bai and
+               Kai Chen and
+               Hao Wang and
+               Li Chen and
+               Dongsu Han and
+               Chen Tian},
+  title     = {{Information-Agnostic} Flow Scheduling for Commodity Data Centers},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {455-468},
+}
+
+@inproceedings{DBLP:conf/nsdi/FogelFPWGMM15,
+  author    = {Ari Fogel and
+               Stanley Fung and
+               Luis Pedrosa and
+               Meg Walraed-Sullivan and
+               Ramesh Govindan and
+               Ratul Mahajan and
+               Todd D. Millstein},
+  title     = {A General Approach to Network Configuration Analysis},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {469-483},
+}
+
+@inproceedings{DBLP:conf/nsdi/PedrosaFKGMM15,
+  author    = {Luis Pedrosa and
+               Ari Fogel and
+               Nupur Kothari and
+               Ramesh Govindan and
+               Ratul Mahajan and
+               Todd D. Millstein},
+  title     = {Analyzing Protocol Implementations for Interoperability},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {485-498},
+}
+
+@inproceedings{DBLP:conf/nsdi/LopesBGJV15,
+  author    = {Nuno P. Lopes and
+               Nikolaj Bjørner and
+               Patrice Godefroid and
+               Karthick Jayaraman and
+               George Varghese},
+  title     = {Checking Beliefs in Dynamic Networks},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {499-512},
+}
+
+@inproceedings{DBLP:conf/nsdi/SureshCSF15,
+  author    = {P. Lalith Suresh and
+               Marco Canini and
+               Stefan Schmid and
+               Anja Feldmann},
+  title     = {C3: Cutting Tail Latency in Cloud Data Stores via Adaptive Replica Selection},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {513-527},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangGLCWX15,
+  author    = {Yiming Zhang and
+               Chuanxiong Guo and
+               Dongsheng Li and
+               Rui Chu and
+               Haitao Wu and
+               Yongqiang Xiong},
+  title     = {CubicRing: Enabling {One-Hop} Failure Detection and Recovery for Distributed {In-Memory} Storage Systems},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {529-542},
+}
+
+@inproceedings{DBLP:conf/nsdi/WuYM15,
+  author    = {Zhe Wu and
+               Curtis Yu and
+               Harsha V. Madhyastha},
+  title     = {CosTLO: {Cost-Effective} Redundancy for Lower Latency Variance on Cloud Storage Services},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {543-557},
+}
+
+@inproceedings{DBLP:conf/nsdi/MadhavapeddyLSG15,
+  author    = {Anil Madhavapeddy and
+               Thomas Leonard and
+               Magnus Skjegstad and
+               Thomas Gazagnaire and
+               David Sheets and
+               David J. Scott and
+               Richard Mortier and
+               Amir Chaudhry and
+               Balraj Singh and
+               Jon Ludlam and
+               Jon Crowcroft and
+               Ian Leslie},
+  title     = {Jitsu: {Just-In-Time} Summoning of Unikernels},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {559-573},
+}
+
+@inproceedings{DBLP:conf/nsdi/LorchBGMW15,
+  author    = {Jacob R. Lorch and
+               Andrew Baumann and
+               Lisa Glendenning and
+               Dutch T. Meyer and
+               Andrew Warfield},
+  title     = {Tardigrade: Leveraging Lightweight Virtual Machines to Easily and Efficiently Construct {Fault-Tolerant} Services},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {575-588},
+}
+
+@inproceedings{DBLP:conf/nsdi/MaceBFM15,
+  author    = {Jonathan Mace and
+               Peter Bodík and
+               Rodrigo Fonseca and
+               Madanlal Musuvathi},
+  title     = {Retro: Targeted Resource Management in Multi-tenant Distributed Systems},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {589-603},
+}
+
+@inproceedings{DBLP:conf/nsdi/BehrensSJAF15,
+  author    = {Diogo Behrens and
+               Marco Serafini and
+               Flavio Paiva Junqueira and
+               Sergei Arnautov and
+               Christof Fetzer},
+  title     = {Scalable Error Isolation for Distributed Systems},
+  booktitle = nsdi,
+  year      = 2015,
+  pages     = {605-620},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuLFKTVPSP14,
+  author    = {He Liu and
+               Feng Lu and
+               Alex Forencich and
+               Rishi Kapoor and
+               Malveeka Tewari and
+               Geoffrey M. Voelker and
+               George Papen and
+               Alex C. Snoeren and
+               George Porter},
+  title     = {Circuit Switching Under the Radar with {REACToR}},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChengRSL14,
+  author    = {Peng Cheng and
+               Fengyuan Ren and
+               Ran Shu and
+               Chuang Lin},
+  title     = {Catch the Whole Lot in an Action: Rapid Precise Packet Loss Notification in Data Center},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {17-28},
+}
+
+@inproceedings{DBLP:conf/nsdi/SinglaGK14,
+  author    = {Ankit Singla and
+               Philip Brighten Godfrey and
+               Alexandra Kolla},
+  title     = {High Throughput Data Center Topology Design},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {29-41},
+}
+
+@inproceedings{DBLP:conf/nsdi/BhagwanKRVMMS14,
+  author    = {Ranjita Bhagwan and
+               Rahul Kumar and
+               Ramachandran Ramjee and
+               George Varghese and
+               Surjyakanta Mohapatra and
+               Hemanth Manoharan and
+               Piyush Shah},
+  title     = {Adtributor: Revenue Debugging in Advertising Systems},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {43-55},
+}
+
+@inproceedings{DBLP:conf/nsdi/0004NGL14,
+  author    = {Bin Liu and
+               Suman Nath and
+               Ramesh Govindan and
+               Jie Liu},
+  title     = {DECAF: Detecting and Characterizing Ad Fraud in Mobile Apps},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {57-70},
+}
+
+@inproceedings{DBLP:conf/nsdi/HandigolHJMM14,
+  author    = {Nikhil Handigol and
+               Brandon Heller and
+               Vimalkumar Jeyakumar and
+               David Mazières and
+               Nick McKeown},
+  title     = {I Know What Your Packet Did Last Hop: Using Packet Histories to Troubleshoot Networks},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {71-85},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZengZYJJLMV14,
+  author    = {Hongyi Zeng and
+               Shidong Zhang and
+               Fei Ye and
+               Vimalkumar Jeyakumar and
+               Mickey Ju and
+               Junda Liu and
+               Nick McKeown and
+               Amin Vahdat},
+  title     = {Libra: Divide and Conquer to Verify Forwarding Tables in Huge Networks},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {87-99},
+}
+
+@inproceedings{DBLP:conf/nsdi/DobrescuA14,
+  author    = {Mihai Dobrescu and
+               Katerina J. Argyraki},
+  title     = {Software Dataplane Verification},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {101-114},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhuangGPFMBC14,
+  author    = {Yanyan Zhuang and
+               Eleni Gessiou and
+               Steven Portzer and
+               Fraida Fund and
+               Monzur Muhammad and
+               Ivan Beschastnikh and
+               Justin Cappos},
+  title     = {NetCheck: Network Diagnoses from Blackbox Traces},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {115-128},
+}
+
+@inproceedings{DBLP:conf/nsdi/0009KSAD14,
+  author    = {Yang Wang and
+               Manos Kapritsos and
+               Lara Schmidt and
+               Lorenzo Alvisi and
+               Mike Dahlin},
+  title     = {Exalt: Empowering Researchers to Evaluate {Large-Scale} Storage Systems},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {129-141},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChakrabortySRSMS14,
+  author    = {Supriyo Chakraborty and
+               Chenguang Shen and
+               Kasturi Rangan Raghavan and
+               Yasser Shoukry and
+               Matt Millar and
+               Mani B. Srivastava},
+  title     = {ipShield: A Framework For Enforcing {Context-Aware} Privacy},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {143-156},
+}
+
+@inproceedings{DBLP:conf/nsdi/PopaSVHZB14,
+  author    = {Raluca Ada Popa and
+               Emily Stark and
+               Steven Valdez and
+               Jonas Helfer and
+               Nickolai Zeldovich and
+               Hari Balakrishnan},
+  title     = {Building Web Applications on Top of Encrypted Data Using Mylar},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {157-172},
+}
+
+@inproceedings{DBLP:conf/nsdi/LeeWW14,
+  author    = {Ki-Suh Lee and
+               Han Wang and
+               Hakim Weatherspoon},
+  title     = {{PHY} Covert Channels: Can you see the Idles?},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {173-185},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChenRSW14,
+  author    = {Chen Chen and
+               Himanshu Raj and
+               Stefan Saroiu and
+               Alec Wolman},
+  title     = {cTPM: A Cloud {TPM} for {Cross-Device} Trusted Applications},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {187-201},
+}
+
+@inproceedings{DBLP:conf/nsdi/KoponenABCCFGGIJLLLPPPRSSSTWYZ14,
+  author    = {Teemu Koponen and
+               Keith Amidon and
+               Peter Balland and
+               Martín Casado and
+               Anupam Chanda and
+               Bryan Fulton and
+               Igor Ganichev and
+               Jesse Gross and
+               Paul Ingram and
+               Ethan J. Jackson and
+               Andrew Lambeth and
+               Romain Lenglet and
+               Shih-Hao Li and
+               Amar Padmanabhan and
+               Justin Pettit and
+               Ben Pfaff and
+               Rajiv Ramanathan and
+               Scott Shenker and
+               Alan Shieh and
+               Jeremy Stribling and
+               Pankaj Thakkar and
+               Dan Wendlandt and
+               Alexander Yip and
+               Ronghua Zhang},
+  title     = {Network Virtualization in Multi-tenant Datacenters},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {203-216},
+}
+
+@inproceedings{DBLP:conf/nsdi/AtkinsonWR14,
+  author    = {Kevin Atkinson and
+               Gary Wong and
+               Robert Ricci},
+  title     = {Operational Experiences with Disk Imaging in a {Multi-Tenant} Datacenter},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {217-228},
+}
+
+@inproceedings{DBLP:conf/nsdi/NoboriS14,
+  author    = {Daiyuu Nobori and
+               Yasushi Shinjo},
+  title     = {{VPN} Gate: A {Volunteer-Organized} Public {VPN} Relay System with Blocking Resistance for Bypassing Government Censorship Firewalls},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {229-241},
+}
+
+@inproceedings{DBLP:conf/nsdi/GuptaSPJM14,
+  author    = {Trinabh Gupta and
+               Rayman Preet Singh and
+               Amar Phanishayee and
+               Jaeyeon Jung and
+               Ratul Mahajan},
+  title     = {Bolt: Data Management for Connected Homes},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {243-256},
+}
+
+@inproceedings{DBLP:conf/nsdi/MickensNEGFKCKN14,
+  author    = {James W. Mickens and
+               Edmund B. Nightingale and
+               Jeremy Elson and
+               Darren Gehring and
+               Bin Fan and
+               Asim Kadav and
+               Vijay Chidambaram and
+               Osama Khan and
+               Krishna Nareddy},
+  title     = {Blizzard: Fast, Cloud-scale Block Storage for Cloud-oblivious Applications},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {257-273},
+}
+
+@inproceedings{DBLP:conf/nsdi/RabkinASPF14,
+  author    = {Ariel Rabkin and
+               Matvey Arye and
+               Siddhartha Sen and
+               Vivek S. Pai and
+               Michael J. Freedman},
+  title     = {Aggregation and Degradation in JetStream: Streaming Analytics in the Wide Area},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {275-288},
+}
+
+@inproceedings{DBLP:conf/nsdi/AnanthanarayananHRSWY14,
+  author    = {Ganesh Ananthanarayanan and
+               Michael Chien-Chun Hung and
+               Xiaoqi Ren and
+               Ion Stoica and
+               Adam Wierman and
+               Minlan Yu},
+  title     = {GRASS: Trimming Stragglers in Approximation Analytics},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {289-302},
+}
+
+@inproceedings{DBLP:conf/nsdi/KelloggTG14,
+  author    = {Bryce Kellogg and
+               Vamsi Talla and
+               Shyamnath Gollakota},
+  title     = {Bringing Gesture Recognition to All Devices},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {303-316},
+}
+
+@inproceedings{DBLP:conf/nsdi/AdibKKM14,
+  author    = {Fadel Adib and
+               Zachary Kabelac and
+               Dina Katabi and
+               Robert C. Miller},
+  title     = {3D Tracking via Body Radio Reflections},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {317-329},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiHPSZ14,
+  author    = {Liqun Li and
+               Pan Hu and
+               Chunyi Peng and
+               Guobin Shen and
+               Feng Zhao},
+  title     = {Epsilon: A Visible Light Based Positioning System},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {331-343},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangG14,
+  author    = {Pengyu Zhang and
+               Deepak Ganesan},
+  title     = {Enabling {Bit-by-Bit} Backscatter Communication in Severe Energy Harvesting Environments},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {345-357},
+}
+
+@inproceedings{DBLP:conf/nsdi/BharadiaK14,
+  author    = {Dinesh Bharadia and
+               Sachin Katti},
+  title     = {Full Duplex {MIMO} Radios},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {359-372},
+}
+
+@inproceedings{DBLP:conf/nsdi/MittalSRS14,
+  author    = {Radhika Mittal and
+               Justine Sherry and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {Recursively Cautious Congestion Control},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {373-385},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangBKW14,
+  author    = {Xiao Sophia Wang and
+               Aruna Balasubramanian and
+               Arvind Krishnamurthy and
+               David Wetherall},
+  title     = {How Speedy is SPDY?},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {387-399},
+}
+
+@inproceedings{DBLP:conf/nsdi/DragojevicNCH14,
+  author    = {Aleksandar Dragojevic and
+               Dushyanth Narayanan and
+               Miguel Castro and
+               Orion Hodson},
+  title     = {FaRM: Fast Remote Memory},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {401-414},
+}
+
+@inproceedings{DBLP:conf/nsdi/KateKKNMM14,
+  author    = {Bryan Kate and
+               Eddie Kohler and
+               Michael S. Kester and
+               Neha Narula and
+               Yandong Mao and
+               Robert Morris},
+  title     = {Easy Freshness with Pequod Cache Joins},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {415-428},
+}
+
+@inproceedings{DBLP:conf/nsdi/LimHAK14,
+  author    = {Hyeontaek Lim and
+               Dongsu Han and
+               David G. Andersen and
+               Michael Kaminsky},
+  title     = {MICA: A Holistic Approach to Fast {In-Memory} {Key-Value} Storage},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {429-444},
+}
+
+@inproceedings{DBLP:conf/nsdi/HwangRW14,
+  author    = {Jinho Hwang and
+               K. K. Ramakrishnan and
+               Timothy Wood},
+  title     = {NetVM: High Performance and Flexible Networking Using Virtualization on Commodity Platforms},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {445-458},
+}
+
+@inproceedings{DBLP:conf/nsdi/MartinsAROHBH14,
+  author    = {João Martins and
+               Mohamed Ahmed and
+               Costin Raiciu and
+               Vladimir Andrei Olteanu and
+               Michio Honda and
+               Roberto Bifulco and
+               Felipe Huici},
+  title     = {{ClickOS} and the Art of Network Function Virtualization},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {459-473},
+}
+
+@inproceedings{DBLP:conf/nsdi/RadhakrishnanGJKPV14,
+  author    = {Sivasankar Radhakrishnan and
+               Yilong Geng and
+               Vimalkumar Jeyakumar and
+               Abdul Kabbani and
+               George Porter and
+               Amin Vahdat},
+  title     = {SENIC: Scalable {NIC} for {End-Host} Rate Limiting},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {475-488},
+}
+
+@inproceedings{DBLP:conf/nsdi/JeongWJJIHP14,
+  author    = {Eunyoung Jeong and
+               Shinae Woo and
+               Muhammad Asim Jamshed and
+               Haewon Jeong and
+               Sunghwan Ihm and
+               Dongsu Han and
+               KyoungSoo Park},
+  title     = {mTCP: a Highly Scalable User-level {TCP} Stack for Multicore Systems},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {489-502},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuMAGM14,
+  author    = {Jed Liu and
+               Tom Magrino and
+               Owen Arden and
+               Michael D. George and
+               Andrew C. Myers},
+  title     = {Warranties for Faster Strong Consistency},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {503-517},
+}
+
+@inproceedings{DBLP:conf/nsdi/NelsonFSK14,
+  author    = {Tim Nelson and
+               Andrew D. Ferguson and
+               Michael J. G. Scheer and
+               Shriram Krishnamurthi},
+  title     = {Tierless Programming and Reasoning for {Software-Defined} Networks},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {519-531},
+}
+
+@inproceedings{DBLP:conf/nsdi/FayazbakhshCSYM14,
+  author    = {Seyed Kaveh Fayazbakhsh and
+               Luis Chiang and
+               Vyas Sekar and
+               Minlan Yu and
+               Jeffrey C. Mogul},
+  title     = {Enforcing {Network-Wide} Policies in the Presence of Dynamic Middlebox Actions using {FlowTags}},
+  booktitle = nsdi,
+  year      = 2014,
+  pages     = {543-546},
+}
+
+@inproceedings{DBLP:conf/nsdi/MonsantoRFRW13,
+  author    = {Christopher Monsanto and
+               Joshua Reich and
+               Nate Foster and
+               Jennifer Rexford and
+               David Walker},
+  title     = {Composing Software Defined Networks},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {1-13},
+}
+
+@inproceedings{DBLP:conf/nsdi/KhurshidZZCG13,
+  author    = {Ahmed Khurshid and
+               Xuan Zou and
+               Wenxuan Zhou and
+               Matthew Caesar and
+               Philip Brighten Godfrey},
+  title     = {VeriFlow: Verifying {Network-Wide} Invariants in Real Time},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {15-27},
+}
+
+@inproceedings{DBLP:conf/nsdi/YuJM13,
+  author    = {Minlan Yu and
+               Lavanya Jose and
+               Rui Miao},
+  title     = {Software Defined Traffic Measurement with {OpenSketch}},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {29-42},
+}
+
+@inproceedings{DBLP:conf/nsdi/XuLLZ13,
+  author    = {Fengyuan Xu and
+               Yunxin Liu and
+               Qun Li and
+               Yongguang Zhang},
+  title     = {V-edge: Fast Self-constructive Power Modeling of Smartphones Based on Battery Voltage Dynamics},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {43-55},
+}
+
+@inproceedings{DBLP:conf/nsdi/MaHJWPSZSV13,
+  author    = {Xiao Ma and
+               Peng Huang and
+               Xinxin Jin and
+               Pei Wang and
+               Soyeon Park and
+               Dongcai Shen and
+               Yuanyuan Zhou and
+               Lawrence K. Saul and
+               Geoffrey M. Voelker},
+  title     = {eDoctor: Automatically Diagnosing Abnormal Battery Drain Issues on Smartphones},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {57-70},
+}
+
+@inproceedings{DBLP:conf/nsdi/XiongJ13,
+  author    = {Jie Xiong and
+               Kyle Jamieson},
+  title     = {ArrayTrack: A {Fine-Grained} Indoor Location System},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {71-84},
+}
+
+@inproceedings{DBLP:conf/nsdi/ShenCZMZ13,
+  author    = {Guobin Shen and
+               Zhuo Chen and
+               Peichao Zhang and
+               Thomas Moscibroda and
+               Yongguang Zhang},
+  title     = {Walkie-Markie: Indoor Pathway Mapping Made Easy},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {85-98},
+}
+
+@inproceedings{DBLP:conf/nsdi/KazemianCZVMW13,
+  author    = {Peyman Kazemian and
+               Michael Chan and
+               Hongyi Zeng and
+               George Varghese and
+               Nick McKeown and
+               Scott Whyte},
+  title     = {Real Time Network Policy Checking Using Header Space Analysis},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {99-111},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuPSGSS13,
+  author    = {Junda Liu and
+               Aurojit Panda and
+               Ankit Singla and
+               Brighten Godfrey and
+               Michael Schapira and
+               Scott Shenker},
+  title     = {Ensuring Connectivity via Data Plane Mechanisms},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {113-126},
+}
+
+@inproceedings{DBLP:conf/nsdi/PotharajuJN13,
+  author    = {Rahul Potharaju and
+               Navendu Jain and
+               Cristina Nita-Rotaru},
+  title     = {Juggling the Jigsaw: Towards Automated Problem Inference from Network Trouble Tickets},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {127-141},
+}
+
+@inproceedings{DBLP:conf/nsdi/SinghISR13,
+  author    = {Rahul Singh and
+               David E. Irwin and
+               Prashant J. Shenoy and
+               Kadangode K. Ramakrishnan},
+  title     = {Yank: Enabling Green Data Centers to Pull the Plug},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {143-155},
+}
+
+@inproceedings{DBLP:conf/nsdi/MoshrefYSG13,
+  author    = {Masoud Moshref and
+               Minlan Yu and
+               Abhishek B. Sharma and
+               Ramesh Govindan},
+  title     = {Scalable Rule Management for Data Centers},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {157-170},
+}
+
+@inproceedings{DBLP:conf/nsdi/BallaniJKKGO13,
+  author    = {Hitesh Ballani and
+               Keon Jang and
+               Thomas Karagiannis and
+               Changhoon Kim and
+               Dinan Gunawardena and
+               Greg O'Shea},
+  title     = {Chatty Tenants and the Cloud Network Sharing Problem},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {171-184},
+}
+
+@inproceedings{DBLP:conf/nsdi/AnanthanarayananGSS13,
+  author    = {Ganesh Ananthanarayanan and
+               Ali Ghodsi and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {Effective Straggler Mitigation: Attack of the Clones},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {185-198},
+}
+
+@inproceedings{DBLP:conf/nsdi/0004ZZPD0MD0XWY13,
+  author    = {Yi Wang and
+               Yuan Zu and
+               Ting Zhang and
+               Kunyang Peng and
+               Qunfeng Dong and
+               Bin Liu and
+               Wei Meng and
+               Huichen Dai and
+               Xin Tian and
+               Zhonghu Xu and
+               Hao Wu and
+               Di Yang},
+  title     = {Wire Speed Name Lookup: A {GPU-based} Approach},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {199-212},
+}
+
+@inproceedings{DBLP:conf/nsdi/LeeWW13,
+  author    = {Ki-Suh Lee and
+               Han Wang and
+               Hakim Weatherspoon},
+  title     = {SoNIC: Precise Realtime Software Access and Control of Wired Networks},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {213-225},
+}
+
+@inproceedings{DBLP:conf/nsdi/RajagopalanWJW13,
+  author    = {Shriram Rajagopalan and
+               Dan Williams and
+               Hani Jamjoom and
+               Andrew Warfield},
+  title     = {Split/Merge: System Support for Elastic Execution in Virtual Middleboxes},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {227-240},
+}
+
+@inproceedings{DBLP:conf/nsdi/JoshiHK13,
+  author    = {Kiran Raj Joshi and
+               Steven Siying Hong and
+               Sachin Katti},
+  title     = {PinPoint: Localizing Interfering Radios},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {241-253},
+}
+
+@inproceedings{DBLP:conf/nsdi/LuVS13,
+  author    = {Feng Lu and
+               Geoffrey M. Voelker and
+               Alex C. Snoeren},
+  title     = {SloMo: Downclocking {WiFi} Communication},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {255-268},
+}
+
+@inproceedings{DBLP:conf/nsdi/DoddavenkatappaCL13,
+  author    = {Manjunath Doddavenkatappa and
+               Mun Choon Chan and
+               Ben Leong},
+  title     = {Splash: Fast Data Dissemination with Constructive Interference in Wireless Sensor Networks},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {269-282},
+}
+
+@inproceedings{DBLP:conf/nsdi/HeimerlABGB13,
+  author    = {Kurtis Heimerl and
+               Kashif Ali and
+               Joshua Evan Blumenstock and
+               Brian Gawalt and
+               Eric A. Brewer},
+  title     = {Expanding Rural Cellular Networks with Virtual Coverage},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {283-296},
+}
+
+@inproceedings{DBLP:conf/nsdi/JeyakumarAMPGK13,
+  author    = {Vimalkumar Jeyakumar and
+               Mohammad Alizadeh and
+               David Mazières and
+               Balaji Prabhakar and
+               Albert G. Greenberg and
+               Changhoon Kim},
+  title     = {EyeQ: Practical Network Performance Isolation at the Edge},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {297-311},
+}
+
+@inproceedings{DBLP:conf/nsdi/LloydFKA13,
+  author    = {Wyatt Lloyd and
+               Michael J. Freedman and
+               Michael Kaminsky and
+               David G. Andersen},
+  title     = {Stronger Semantics for {Low-Latency} {Geo-Replicated} Storage},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {313-328},
+}
+
+@inproceedings{DBLP:conf/nsdi/XuMNB13,
+  author    = {Yunjing Xu and
+               Zachary Musgrave and
+               Brian Noble and
+               Michael Bailey},
+  title     = {Bobtail: Avoiding Long Tails in the Cloud},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {329-341},
+}
+
+@inproceedings{DBLP:conf/nsdi/GkantsidisVHNDR13,
+  author    = {Christos Gkantsidis and
+               Dimitrios Vytiniotis and
+               Orion Hodson and
+               Dushyanth Narayanan and
+               Florin Dinu and
+               Antony I. T. Rowstron},
+  title     = {Rhea: Automatic Filtering for Unstructured Cloud Storage},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {343-355},
+}
+
+@inproceedings{DBLP:conf/nsdi/0009KRMKAD13,
+  author    = {Yang Wang and
+               Manos Kapritsos and
+               Zuocheng Ren and
+               Prince Mahajan and
+               Jeevitha Kirubanandam and
+               Lorenzo Alvisi and
+               Mike Dahlin},
+  title     = {Robustness in the Salus Scalable Block Store},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {357-370},
+}
+
+@inproceedings{DBLP:conf/nsdi/FanAK13,
+  author    = {Bin Fan and
+               David G. Andersen and
+               Michael Kaminsky},
+  title     = {MemC3: Compact and Concurrent {MemCache} with Dumber Caching and Smarter Hashing},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {371-384},
+}
+
+@inproceedings{DBLP:conf/nsdi/NishtalaFGKLLMPPSSTV13,
+  author    = {Rajesh Nishtala and
+               Hans Fugal and
+               Steven Grimm and
+               Marc Kwiatkowski and
+               Herman Lee and
+               Harry C. Li and
+               Ryan McElroy and
+               Mike Paleczny and
+               Daniel Peek and
+               Paul Saab and
+               David Stafford and
+               Tony Tung and
+               Venkateshwaran Venkataramani},
+  title     = {Scaling Memcache at Facebook},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {385-398},
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuHKA13,
+  author    = {Vincent Liu and
+               Daniel Halperin and
+               Arvind Krishnamurthy and
+               Thomas E. Anderson},
+  title     = {F10: A {Fault-Tolerant} Engineered Network},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {399-412},
+}
+
+@inproceedings{DBLP:conf/nsdi/GvozdievKH13,
+  author    = {Nikola Gvozdiev and
+               Brad Karp and
+               Mark Handley},
+  title     = {LOUP: The Principles and Practice of {Intra-Domain} Route Dissemination},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {413-426},
+}
+
+@inproceedings{DBLP:conf/nsdi/GuptaLAW13,
+  author    = {Trinabh Gupta and
+               Joshua B. Leners and
+               Marcos K. Aguilera and
+               Michael Walfish},
+  title     = {Improving Availability in Distributed Systems with Failure Informers},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {427-441},
+}
+
+@inproceedings{DBLP:conf/nsdi/Dawson-HaggertyKTKFKC13,
+  author    = {Stephen Dawson-Haggerty and
+               Andrew Krioukov and
+               Jay Taneja and
+               Sagar Karandikar and
+               Gabe Fierro and
+               Nikita Kitaev and
+               David E. Culler},
+  title     = {BOSS: Building Operating System Services},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {443-457},
+}
+
+@inproceedings{DBLP:conf/nsdi/WinsteinSB13,
+  author    = {Keith Winstein and
+               Anirudh Sivaraman and
+               Hari Balakrishnan},
+  title     = {Stochastic Forecasts Achieve High Throughput and Low Delay over Cellular Networks},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {459-471},
+}
+
+@inproceedings{DBLP:conf/nsdi/WangBKW13,
+  author    = {Xiao Sophia Wang and
+               Aruna Balasubramanian and
+               Arvind Krishnamurthy and
+               David Wetherall},
+  title     = {Demystifying Page Load Performance with {WProf}},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {473-485},
+}
+
+@inproceedings{DBLP:conf/nsdi/SanchezOBCBKW13,
+  author    = {Mario A. Sánchez and
+               John S. Otto and
+               Zachary S. Bischof and
+               David R. Choffnes and
+               Fabián E. Bustamante and
+               Balachander Krishnamurthy and
+               Walter Willinger},
+  title     = {Dasu: Pushing Experiments to the Internet's Edge},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {487-499},
+}
+
+@inproceedings{DBLP:conf/nsdi/LeeWGDS13,
+  author    = {Sangmin Lee and
+               Edmund L. Wong and
+               Deepak Goel and
+               Mike Dahlin and
+               Vitaly Shmatikov},
+  title     = {πBox: A Platform for {Privacy-Preserving} Apps},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {501-514},
+}
+
+@inproceedings{DBLP:conf/nsdi/RaGO13,
+  author    = {Moo-Ryong Ra and
+               Ramesh Govindan and
+               Antonio Ortega},
+  title     = {P3: Toward {Privacy-Preserving} Photo Sharing},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {515-528},
+}
+
+@inproceedings{DBLP:conf/nsdi/HowellPD13,
+  author    = {Jon Howell and
+               Bryan Parno and
+               John R. Douceur},
+  title     = {Embassies: Radically Refactoring the Web},
+  booktitle = nsdi,
+  year      = 2013,
+  pages     = {529-545},
+}
+
+@inproceedings{DBLP:conf/nsdi/BalakrishnanMPWWD12,
+  author    = {Mahesh Balakrishnan and
+               Dahlia Malkhi and
+               Vijayan Prabhakaran and
+               Ted Wobber and
+               Michael Wei and
+               John D. Davis},
+  title     = {CORFU: A Shared Log Design for Flash Clusters},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZahariaCDDMMFSS12,
+  author    = {Matei Zaharia and
+               Mosharaf Chowdhury and
+               Tathagata Das and
+               Ankur Dave and
+               Justin Ma and
+               Murphy McCauly and
+               Michael J. Franklin and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {Resilient Distributed Datasets: A {Fault-Tolerant} Abstraction for {In-Memory} Cluster Computing},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {15-28},
+}
+
+@inproceedings{DBLP:conf/nsdi/CostaDRO12,
+  author    = {Paolo Costa and
+               Austin Donnelly and
+               Antony I. T. Rowstron and
+               Greg O'Shea},
+  title     = {Camdoop: Exploiting In-network Aggregation for Big Data Applications},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {29-42},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChintalapudiRBBYNR12,
+  author    = {Krishna Chintalapudi and
+               Bozidar Radunovic and
+               Horia Vlad Balan and
+               Michael Buettener and
+               Srinivas Yerramalli and
+               Vishnu Navda and
+               Ramachandran Ramjee},
+  title     = {{WiFi-NC} : {WiFi} Over Narrow Channels},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {43-56},
+}
+
+@inproceedings{DBLP:conf/nsdi/RayanchuPB12,
+  author    = {Shravan K. Rayanchu and
+               Ashish Patro and
+               Suman Banerjee},
+  title     = {Catching Whales and Minnows Using WiFiNet: Deconstructing {Non-WiFi} Interference Using {WiFi} Hardware},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {57-70},
+}
+
+@inproceedings{DBLP:conf/nsdi/HanAAS12,
+  author    = {Dongsu Han and
+               Ashok Anand and
+               Aditya Akella and
+               Srinivasan Seshan},
+  title     = {RPT: Re-architecting Loss Protection for {Content-Aware} Networks},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {71-84},
+}
+
+@inproceedings{DBLP:conf/nsdi/NordstromSGKAKRF12,
+  author    = {Erik Nordström and
+               David Shue and
+               Prem Gopalan and
+               Robert Kiefer and
+               Matvey Arye and
+               Steven Ko and
+               Jennifer Rexford and
+               Michael J. Freedman},
+  title     = {Serval: An {End-Host} Stack for {Service-Centric} Networking},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {85-98},
+}
+
+@inproceedings{DBLP:conf/nsdi/AdityaZLHDMW12,
+  author    = {Paarijaat Aditya and
+               Mingchen Zhao and
+               Yin Lin and
+               Andreas Haeberlen and
+               Peter Druschel and
+               Bruce M. Maggs and
+               Bill Wishon},
+  title     = {Reliable Client Accounting for P2{P-Infrastructure} Hybrids},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {99-112},
+}
+
+@inproceedings{DBLP:conf/nsdi/KazemianVM12,
+  author    = {Peyman Kazemian and
+               George Varghese and
+               Nick McKeown},
+  title     = {Header Space Analysis: Static Checking for Networks},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {113-126},
+}
+
+@inproceedings{DBLP:conf/nsdi/CaniniVPKR12,
+  author    = {Marco Canini and
+               Daniele Venzano and
+               Peter Peresíni and
+               Dejan Kostic and
+               Jennifer Rexford},
+  title     = {A {NICE} Way to Test {OpenFlow} Applications},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {127-140},
+}
+
+@inproceedings{DBLP:conf/nsdi/DobrescuAR12,
+  author    = {Mihai Dobrescu and
+               Katerina J. Argyraki and
+               Sylvia Ratnasamy},
+  title     = {Toward Predictable Performance in Software {Packet-Processing} Platforms},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {141-154},
+}
+
+@inproceedings{DBLP:conf/nsdi/RoesnerKW12,
+  author    = {Franziska Roesner and
+               Tadayoshi Kohno and
+               David Wetherall},
+  title     = {Detecting and Defending Against {Third-Party} Tracking on the Web},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {155-168},
+}
+
+@inproceedings{DBLP:conf/nsdi/ChenRFG12,
+  author    = {Ruichuan Chen and
+               Alexey Reznichenko and
+               Paul Francis and
+               Johannes Gehrke},
+  title     = {Towards Statistical Queries over Distributed Private User Data},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {169-182},
+}
+
+@inproceedings{DBLP:conf/nsdi/GuhaJP12,
+  author    = {Saikat Guha and
+               Mudit Jain and
+               Venkata N. Padmanabhan},
+  title     = {Koi: A {Location-Privacy} Platform for Smartphone Apps},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {183-196},
+}
+
+@inproceedings{DBLP:conf/nsdi/CaoSYP12,
+  author    = {Qiang Cao and
+               Michael Sirivianos and
+               Xiaowei Yang and
+               Tiago Pregueiro},
+  title     = {Aiding the Detection of Fake Accounts in Large Scale Social Online Services},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {197-210},
+}
+
+@inproceedings{DBLP:conf/nsdi/SenLHSZCP12,
+  author    = {Siddhartha Sen and
+               Jacob R. Lorch and
+               Richard Hughes and
+               Carlos Garcia Jurado Suarez and
+               Brian Zill and
+               Weverton Cordeiro and
+               Jitendra Padhye},
+  title     = {Don't Lose Sleep Over Availability: The {GreenUp} Decentralized Wakeup Service},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {211-224},
+}
+
+@inproceedings{DBLP:conf/nsdi/SinglaHPG12,
+  author    = {Ankit Singla and
+               Chi-Yao Hong and
+               Lucian Popa and
+               Philip Brighten Godfrey},
+  title     = {Jellyfish: Networking Data Centers Randomly},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {225-238},
+}
+
+@inproceedings{DBLP:conf/nsdi/SinglaSC12,
+  author    = {Ankit Singla and
+               Atul Singh and
+               Yan Chen},
+  title     = {OSA: An Optical Switching Architecture for Data Center Networks with Unprecedented Flexibility},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {239-252},
+}
+
+@inproceedings{DBLP:conf/nsdi/AlizadehKEPVY12,
+  author    = {Mohammad Alizadeh and
+               Abdul Kabbani and
+               Tom Edsall and
+               Balaji Prabhakar and
+               Amin Vahdat and
+               Masato Yasuda},
+  title     = {Less Is More: Trading a Little Bandwidth for {Ultra-Low} Latency in the Data Center},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {253-266},
+}
+
+@inproceedings{DBLP:conf/nsdi/AnanthanarayananGWBKSS12,
+  author    = {Ganesh Ananthanarayanan and
+               Ali Ghodsi and
+               Andrew Warfield and
+               Dhruba Borthakur and
+               Srikanth Kandula and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {PACMan: Coordinated Memory Caching for Parallel Jobs},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {267-280},
+}
+
+@inproceedings{DBLP:conf/nsdi/AgarwalKBWSZ12,
+  author    = {Sameer Agarwal and
+               Srikanth Kandula and
+               Nicolas Bruno and
+               Ming-Chuan Wu and
+               Ion Stoica and
+               Jingren Zhou},
+  title     = {Reoptimizing Data Parallel Computing},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {281-294},
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangZCFGLLLZZ12,
+  author    = {Jiaxing Zhang and
+               Hucheng Zhou and
+               Rishan Chen and
+               Xuepeng Fan and
+               Zhenyu Guo and
+               Haoxiang Lin and
+               Jack Y. Li and
+               Wei Lin and
+               Jingren Zhou and
+               Lidong Zhou},
+  title     = {Optimizing Data Shuffling in {Data-Parallel} Computation by Understanding {User-Defined} Functions},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {295-308},
+}
+
+@inproceedings{DBLP:conf/nsdi/HanADLLMMWAABSS12,
+  author    = {Dongsu Han and
+               Ashok Anand and
+               Fahad R. Dogar and
+               Boyan Li and
+               Hyeontaek Lim and
+               Michel Machado and
+               Arvind Mukundan and
+               Wenfei Wu and
+               Aditya Akella and
+               David G. Andersen and
+               John W. Byers and
+               Srinivasan Seshan and
+               Peter Steenkiste},
+  title     = {XIA: Efficient Support for Evolvable Internetworking},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {309-322},
+}
+
+@inproceedings{DBLP:conf/nsdi/SekarERRS12,
+  author    = {Vyas Sekar and
+               Norbert Egi and
+               Sylvia Ratnasamy and
+               Michael K. Reiter and
+               Guangyu Shi},
+  title     = {Design and Implementation of a Consolidated Middlebox Architecture},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {323-336},
+}
+
+@inproceedings{DBLP:conf/nsdi/DixonMABLSB12,
+  author    = {Colin Dixon and
+               Ratul Mahajan and
+               Sharad Agarwal and
+               A. J. Bernheim Brush and
+               Bongshin Lee and
+               Stefan Saroiu and
+               Paramvir Bahl},
+  title     = {An Operating System for the Home},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {337-352},
+}
+
+@inproceedings{DBLP:conf/nsdi/NagarajKN12,
+  author    = {Karthik Nagaraj and
+               Charles Edwin Killian and
+               Jennifer Neville},
+  title     = {Structured Comparative Analysis of Systems Logs to Diagnose Performance Problems},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {353-366},
+}
+
+@inproceedings{DBLP:conf/nsdi/WiederBPR12,
+  author    = {Alexander Wieder and
+               Pramod Bhatotia and
+               Ansley Post and
+               Rodrigo Rodrigues},
+  title     = {Orchestrating the Deployment of Computations in the Cloud with Conductor},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {367-381},
+}
+
+@inproceedings{DBLP:conf/nsdi/NowlanTIAF12,
+  author    = {Michael F. Nowlan and
+               Nabin Tiwari and
+               Janardhan R. Iyengar and
+               Syed Obaid Amin and
+               Bryan Ford},
+  title     = {Fitting Square Pegs Through Round Pipes: Unordered Delivery {Wire-Compatible} with {TCP} and {TLS}},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {383-398},
+}
+
+@inproceedings{DBLP:conf/nsdi/RaiciuPBFHDBH12,
+  author    = {Costin Raiciu and
+               Christoph Paasch and
+               Sébastien Barré and
+               Alan Ford and
+               Michio Honda and
+               Fabien Duchene and
+               Olivier Bonaventure and
+               Mark Handley},
+  title     = {How Hard Can It Be? Designing and Implementing a Deployable Multipath {TCP}},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {399-412},
+}
+
+@inproceedings{DBLP:conf/nsdi/PrakashDHK12,
+  author    = {Pawan Prakash and
+               Advait Abhay Dixit and
+               Y. Charlie Hu and
+               Ramana Rao Kompella},
+  title     = {The {TCP} Outcast Problem: Exposing Unfairness in Data Center Networks},
+  booktitle = nsdi,
+  year      = 2012,
+  pages     = {413-426},
+}
+
+@inproceedings{DBLP:conf/nsdi/BadamP10,
+  author    = {Anirudh Badam and
+               Vivek S. Pai},
+  title     = {SSDAlloc: Hybrid SSD/{RAM} Memory Management Made Easy},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/BoloskyBHKL10,
+  author    = {William J. Bolosky and
+               Dexter Bradshaw and
+               Randolph B. Haagens and
+               Norbert P. Kusters and
+               Peng Li},
+  title     = {Paxos Replicated State Machines as the Basis of a {High-Performance} Data Store},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/BuettnerGW10,
+  author    = {Michael Buettner and
+               Benjamin Greenstein and
+               David Wetherall},
+  title     = {Dewdrop: An {Energy-Aware} Runtime for Computational {RFID}},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/ChintalapudiNRPM10,
+  author    = {Krishna Chintalapudi and
+               Vishnu Navda and
+               Ramachandran Ramjee and
+               Venkata N. Padmanabhan and
+               Chandra R. Murthy},
+  title     = {SpecNet: Spectrum Sensing Sans Frontières},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/DixonUBBAK10,
+  author    = {Colin Dixon and
+               Hardeep Uppal and
+               Vjekoslav Brajkovic and
+               Dane Brandon and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy},
+  title     = {ETTM: A Scalable Fault Tolerant Network Manager},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/GhodsiZHKSS10,
+  author    = {Ali Ghodsi and
+               Matei Zaharia and
+               Benjamin Hindman and
+               Andy Konwinski and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {Dominant Resource Fairness: Fair Allocation of Multiple Resource Types},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/GuerraouiY10,
+  author    = {Rachid Guerraoui and
+               Maysam Yabandeh},
+  title     = {Model Checking a Networked System Without the Network},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/GuhaCF10,
+  author    = {Saikat Guha and
+               Bin Cheng and
+               Paul Francis},
+  title     = {Privad: Practical Privacy in Online Advertising},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/GunawiDJAHAASB10,
+  author    = {Haryadi S. Gunawi and
+               Thanh Do and
+               Pallavi Joshi and
+               Peter Alvaro and
+               Joseph M. Hellerstein and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Koushik Sen and
+               Dhruba Borthakur},
+  title     = {{FATE} and DESTINI: A Framework for Cloud Recovery Testing},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/HindmanKZGJKSS10,
+  author    = {Benjamin Hindman and
+               Andy Konwinski and
+               Matei Zaharia and
+               Ali Ghodsi and
+               Anthony D. Joseph and
+               Randy H. Katz and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {Mesos: A Platform for {Fine-Grained} Resource Sharing in the Data Center},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/JangHHMP10,
+  author    = {Keon Jang and
+               Sangjin Han and
+               Seungyeop Han and
+               Sue B. Moon and
+               KyoungSoo Park},
+  title     = {SSLShader: Cheap {SSL} Acceleration with Commodity Processors},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/LiLY10,
+  author    = {Ang Li and
+               Xin Liu and
+               Xiaowei Yang},
+  title     = {Bootstrapping Accountability in the Internet We Have},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/LuGLZYWXGZ10,
+  author    = {Guohan Lu and
+               Chuanxiong Guo and
+               Yulong Li and
+               Zhiqiang Zhou and
+               Tong Yuan and
+               Haitao Wu and
+               Yongqiang Xiong and
+               Rui Gao and
+               Yongguang Zhang},
+  title     = {ServerSwitch: A Programmable and High Performance Platform for Data Center Networks},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/MurraySSSMH10,
+  author    = {Derek Gordon Murray and
+               Malte Schwarzkopf and
+               Christopher Smowton and
+               Steven Smith and
+               Anil Madhavapeddy and
+               Steven Hand},
+  title     = {CIEL: A Universal Execution Engine for Distributed {Data-Flow} Computing},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/Newport10,
+  author    = {Calvin C. Newport},
+  title     = {Improving Wireless Network Performance Using Sensor Hints},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/PostSM10,
+  author    = {Ansley Post and
+               Vijit Shah and
+               Alan Mislove},
+  title     = {Bazaar: Strengthening User Reputations in Online Marketplaces},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/RasmussenPCMMPV10,
+  author    = {Alexander Rasmussen and
+               George Porter and
+               Michael Conley and
+               Harsha V. Madhyastha and
+               Radhika Niranjan Mysore and
+               Alexander Pucher and
+               Amin Vahdat},
+  title     = {TritonSort: A Balanced {Large-Scale} Sorting System},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/SambasivanZRKWSWXG10,
+  author    = {Raja R. Sambasivan and
+               Alice X. Zheng and
+               Michael De Rosa and
+               Elie Krevat and
+               Spencer Whitman and
+               Michael Stroucken and
+               William Wang and
+               Lianghong Xu and
+               Gregory R. Ganger},
+  title     = {Diagnosing Performance Changes by Comparing Request Flows},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/ShiehKGKS10,
+  author    = {Alan Shieh and
+               Srikanth Kandula and
+               Albert G. Greenberg and
+               Changhoon Kim and
+               Bikas Saha},
+  title     = {Sharing the Data Center Network},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/ShrivastavaRBP10,
+  author    = {Vivek Shrivastava and
+               Shravan K. Rayanchu and
+               Suman Banerjee and
+               Konstantina Papagiannaki},
+  title     = {{PIE} in the Sky: Online Passive Interference Estimation for Enterprise {WLANs}},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/ThiagarajanRBMG10,
+  author    = {Arvind Thiagarajan and
+               Lenin Ravindranath and
+               Hari Balakrishnan and
+               Samuel Madden and
+               Lewis Girod},
+  title     = {Accurate, {Low-Energy} Trajectory Mapping for Mobile Devices},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/UyedaFBSV10,
+  author    = {Frank Uyeda and
+               Luca Foschini and
+               Fred Baker and
+               Subhash Suri and
+               George Varghese},
+  title     = {Efficiently Measuring Bandwidth at All Time Scales},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/ViswanathanHMSW10,
+  author    = {Arun Viswanathan and
+               Alefiya Hussain and
+               Jelena Mirkovic and
+               Stephen Schwab and
+               John Wroclawski},
+  title     = {A Semantic Framework for Data Analysis in Networked Systems},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/WangBFKH10,
+  author    = {Yong Wang and
+               Daniel Burgener and
+               Marcel Flores and
+               Aleksandar Kuzmanovic and
+               Cheng Huang},
+  title     = {Towards {Street-Level} {Client-Independent} {IP} Geolocation},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/WeingartnerSLHW10,
+  author    = {Elias Weingärtner and
+               Florian Schmidt and
+               Hendrik vom Lehn and
+               Tobias Heer and
+               Klaus Wehrle},
+  title     = {SliceTime: A Platform for Scalable and Accurate Network Emulation},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/WischikRGH10,
+  author    = {Damon Wischik and
+               Costin Raiciu and
+               Adam Greenhalgh and
+               Mark Handley},
+  title     = {Design, Implementation and Evaluation of Congestion Control for Multipath {TCP}},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/nsdi/YuGMRYKK10,
+  author    = {Minlan Yu and
+               Albert G. Greenberg and
+               David A. Maltz and
+               Jennifer Rexford and
+               Lihua Yuan and
+               Srikanth Kandula and
+               Changhoon Kim},
+  title     = {Profiling Network Performance for Multi-tier Data Center Applications},
+  booktitle = nsdi,
+  year      = 2011,
+}
+
 @inproceedings{DBLP:conf/nsdi/AdyaDW10,
   author    = {Atul Adya and
                John Dunagan and
@@ -1076,7 +3192,7 @@
 }
 
 @inproceedings{DBLP:conf/nsdi/CasadoF07,
-  author    = {Martin Casado and
+  author    = {Martín Casado and
                Michael J. Freedman},
   title     = {Peering Through the Shroud: The Effect of Edge Opacity on {IP-Based} Client Identification},
   booktitle = nsdi,

@@ -1,5 +1,1326 @@
 @include journals-cs
 
+@article{DBLP:journals/expert/Zeng15,
+  author    = {Daniel Zeng},
+  title     = {Crystal Balls, Statistics, Big Data, and Psychohistory: Predictive Analytics and Beyond},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {2},
+  year      = 2015,
+  pages     = {2-4},
+}
+
+@article{DBLP:journals/expert/KaganSS15,
+  author    = {Vadim Kagan and
+               Andrew Stevens and
+               V. S. Subrahmanian},
+  title     = {Using Twitter Sentiment to Forecast the 2013 Pakistani Election and the 2014 Indian Election},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {2-5},
+}
+
+@article{DBLP:journals/expert/Zeng15a,
+  author    = {Daniel Zeng},
+  title     = {{AI} Ethics: Science Fiction Meets Technological Reality},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {2-5},
+}
+
+@article{DBLP:journals/expert/BrownAL15,
+  author    = {Donald E. Brown and
+               Ahmed Abbasi and
+               Raymond Y. K. Lau},
+  title     = {Predictive [Guest editors' introduction]},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {2},
+  year      = 2015,
+  pages     = {6-8},
+}
+
+@article{DBLP:journals/expert/BrownAL15a,
+  author    = {Donald E. Brown and
+               Ahmed Abbasi and
+               Raymond Y. K. Lau},
+  title     = {Predictive Analytics: Predictive Modeling at the Micro Level},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {6-8},
+}
+
+@article{DBLP:journals/expert/WangQZZWZW15,
+  author    = {Yueming Wang and
+               Yu Qi and
+               Junming Zhu and
+               Jian-Min Zhang and
+               Yiwen Wang and
+               Xiaoxiang Zheng and
+               Zhaohui Wu},
+  title     = {A {Cauchy-Based} {State-Space} Model for Seizure Detection in {EEG} Monitoring Systems},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {6-12},
+}
+
+@article{DBLP:journals/expert/TsakalidisPCK15,
+  author    = {Adam Tsakalidis and
+               Symeon Papadopoulos and
+               Alexandra I. Cristea and
+               Yiannis Kompatsiaris},
+  title     = {Predicting Elections for Multiple Countries Using Twitter and Polls},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {2},
+  year      = 2015,
+  pages     = {10-17},
+}
+
+@article{DBLP:journals/expert/WangR15,
+  author    = {Yun Wang and
+               Sudha Ram},
+  title     = {Predicting {Location-Based} Sequential Purchasing Events by Using Spatial, Temporal, and Social Patterns},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {10-17},
+}
+
+@article{DBLP:journals/expert/OteroP15,
+  author    = {Carlos E. Otero and
+               Adrian Peter},
+  title     = {Research Directions for Engineering Big Data Analytics Software},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {13-19},
+}
+
+@article{DBLP:journals/expert/CaoC15,
+  author    = {Wei Cao and
+               Longbing Cao},
+  title     = {Financial Crisis Forecasting via Coupled Market State Analysis},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {2},
+  year      = 2015,
+  pages     = {18-25},
+}
+
+@article{DBLP:journals/expert/LuL15,
+  author    = {Hsin-Min Lu and
+               Chien-Hua Lee},
+  title     = {A Twitter Hashtag Recommendation Model that Accommodates for Temporal Clustering Effects},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {18-25},
+}
+
+@article{DBLP:journals/expert/GatziouraS15,
+  author    = {Anna Gatzioura and
+               Miquel Sànchez-Marrè},
+  title     = {A {Case-Based} Recommendation Approach for Market Basket Data},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {20-27},
+}
+
+@article{DBLP:journals/expert/ZhangLYLN15,
+  author    = {Wenping Zhang and
+               Chunping Li and
+               Yunming Ye and
+               Wenjie Li and
+               Eric W. T. Ngai},
+  title     = {Dynamic Business Network Analysis for Correlated Stock Price Movement Prediction},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {2},
+  year      = 2015,
+  pages     = {26-33},
+}
+
+@article{DBLP:journals/expert/LiXSZLW15,
+  author    = {Xiaodong Li and
+               Haoran Xie and
+               Yangqiu Song and
+               Shanfeng Zhu and
+               Qing Li and
+               Fu Lee Wang},
+  title     = {Does Summarization Help Stock Prediction? A News Impact Analysis},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {26-34},
+}
+
+@article{DBLP:journals/expert/KawamuraO15,
+  author    = {Takahiro Kawamura and
+               Akihiko Ohsuga},
+  title     = {Applying Linked Open Data to Green Design},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {28-35},
+}
+
+@article{DBLP:journals/expert/AbbasiLB15,
+  author    = {Ahmed Abbasi and
+               Raymond Y. K. Lau and
+               Donald E. Brown},
+  title     = {Predicting Behavior},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {35-43},
+}
+
+@article{DBLP:journals/expert/ZhaoQL15,
+  author    = {Yanyan Zhao and
+               Bing Qin and
+               Ting Liu},
+  title     = {Creating a {Fine-Grained} Corpus for Chinese Sentiment Analysis},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {36-43},
+}
+
+@article{DBLP:journals/expert/KholyEBQD15,
+  author    = {Warda El Kholy and
+               Mohamed El-Menshawy and
+               Jamal Bentahar and
+               Hongyang Qu and
+               Rachida Dssouli},
+  title     = {Formal Specification and Automatic Verification of Conditional Commitments},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {2},
+  year      = 2015,
+  pages     = {36-44},
+}
+
+@article{DBLP:journals/expert/LiuC15,
+  author    = {Xiao Liu and
+               Hsinchun Chen},
+  title     = {Identifying Adverse Drug Events from Patient Social Media: A Case Study for Diabetes},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {44-51},
+}
+
+@article{DBLP:journals/expert/MengGCQH15,
+  author    = {Rongqing Meng and
+               Yuanzheng Ge and
+               Zhidong Cao and
+               Xiaogang Qiu and
+               Kedi Huang},
+  title     = {A Framework for Generating Geospatial Social Computing Environments},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {44-52},
+}
+
+@article{DBLP:journals/expert/WangYYZG15,
+  author    = {Xuan Wang and
+               Tengfei Yang and
+               Yao Yu and
+               Ruixin Zhang and
+               Fang-xia Guo},
+  title     = {{Footstep-Identification} System Based on Walking Interval},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {2},
+  year      = 2015,
+  pages     = {46-52},
+}
+
+@article{DBLP:journals/expert/SharmaSC15,
+  author    = {Ankush Sharma and
+               Suresh Chandra Srivastava and
+               Saikat Chakrabarti},
+  title     = {A {Multi-Agent-Based} Power System Hybrid Dynamic State Estimator},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {52-59},
+}
+
+@article{DBLP:journals/expert/MichalakRSW15,
+  author    = {Tomasz P. Michalak and
+               Talal Rahwan and
+               Oskar Skibski and
+               Michael Wooldridge},
+  title     = {Defeating Terrorist Networks with Game Theory},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {53-61},
+}
+
+@article{DBLP:journals/expert/LiLLYD15,
+  author    = {Lefei Li and
+               Chen Lyu and
+               Jun Luo and
+               Shu Yun Yang and
+               Chenxu Dai},
+  title     = {Parallel Service Management Framework and Application to Railway Station Layout Planning},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {2},
+  year      = 2015,
+  pages     = {54-61},
+}
+
+@article{DBLP:journals/expert/SpanoudakisM15,
+  author    = {Nikolaos I. Spanoudakis and
+               Pavlos Moraitis},
+  title     = {Engineering Ambient Intelligence Systems Using Agent Technology},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {60-67},
+}
+
+@article{DBLP:journals/expert/HancockH15,
+  author    = {Peter A. Hancock and
+               Robert R. Hoffman},
+  title     = {Keeping Up with Intelligent Technology},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {62-65},
+}
+
+@article{DBLP:journals/expert/Wooldridge15,
+  author    = {Michael Wooldridge},
+  title     = {Thinking Backward with Professor Zermelo},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {2},
+  year      = 2015,
+  pages     = {62-67},
+}
+
+@article{DBLP:journals/expert/QuWSCY15,
+  author    = {Fengzhong Qu and
+               Zhenduo Wang and
+               Hong Song and
+               Ying Chen and
+               Liuqing Yang},
+  title     = {A Study on a Cabled Seafloor Observatory},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {66-69},
+}
+
+@article{DBLP:journals/expert/BunchBHJ15,
+  author    = {Larry Bunch and
+               Jeffrey M. Bradshaw and
+               Robert R. Hoffman and
+               Matthew Johnson},
+  title     = {Principles for {Human-Centered} Interaction Design, Part 2: Can Humans and Machines Think Together?},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {68-75},
+}
+
+@article{DBLP:journals/expert/ZhangPWPTX15,
+  author    = {Yiye Zhang and
+               Rema Padman and
+               Larry A. Wasserman and
+               Nirav Patel and
+               Pradip Teredesai and
+               Qizhi Xie},
+  title     = {On Clinical Pathway Discovery from Electronic Health Record Data},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {1},
+  year      = 2015,
+  pages     = {70-75},
+}
+
+@article{DBLP:journals/expert/ChenLZ15,
+  author    = {Weiyun Chen and
+               Xin Li and
+               Daniel Dajun Zeng},
+  title     = {Simple Is Beautiful: Toward Light Prediction Markets},
+  journal   = ieeeis,
+  volume    = {30},
+  number    = {3},
+  year      = 2015,
+  pages     = {76-80},
+}
+
+@article{DBLP:journals/expert/Furbach14,
+  author    = {Ulrich Furbach},
+  title     = {Representation and Reasoning [Guest editor's introduction]},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {2-3},
+}
+
+@article{DBLP:journals/expert/WuPPC14,
+  author    = {Zhaohui Wu and
+               Gang Pan and
+               José Carlos Príncipe and
+               Andrzej Cichocki},
+  title     = {Cyborg Intelligence: Towards {Bio-Machine} Intelligent Systems},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {2-4},
+}
+
+@article{DBLP:journals/expert/ZengM14,
+  author    = {Daniel Zeng and
+               Wenji Mao},
+  title     = {Supporting Global Collective Intelligence via Artificial Intelligence},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {2-4},
+}
+
+@article{DBLP:journals/expert/ZengW14,
+  author    = {Daniel Zeng and
+               Zhaohui Wu},
+  title     = {From Artificial Intelligence to Cyborg Intelligence},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {2-4},
+}
+
+@article{DBLP:journals/expert/LeroyCR14,
+  author    = {Gondy Leroy and
+               Hsinchun Chen and
+               Thomas C. Rindflesch},
+  title     = {Smart and Connected Health [Guest editors' introduction]},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {2-5},
+}
+
+@article{DBLP:journals/expert/XuSCPC14,
+  author    = {Congfu Xu and
+               Baojun Su and
+               Yunbiao Cheng and
+               Weike Pan and
+               Li Chen},
+  title     = {An Adaptive Fusion Algorithm for Spam Detection},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {2-8},
+}
+
+@article{DBLP:journals/expert/Baumgartner14,
+  author    = {Peter Baumgartner},
+  title     = {Model {Evolution-Based} Theorem Proving},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {4-10},
+}
+
+@article{DBLP:journals/expert/YangYL14,
+  author    = {Christopher C. Yang and
+               John Yen and
+               Jiming Liu},
+  title     = {Social Intelligence and Technology},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {5-8},
+}
+
+@article{DBLP:journals/expert/ChenZL14,
+  author    = {Xi Chen and
+               Lan Zhang and
+               Wei Li},
+  title     = {A Network Evolution Model for Chinese Traditional Acquaintance Networks},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {5-13},
+}
+
+@article{DBLP:journals/expert/SuZYW14,
+  author    = {Li-juan Su and
+               Nenggan Zhang and
+               Min Yao and
+               Zhaohui Wu},
+  title     = {A Computational Model of the Hybrid {Bio-Machine} {MPMS} for Ratbots Navigation},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {5-13},
+}
+
+@article{DBLP:journals/expert/JihanS14,
+  author    = {Satria Hutomo Jihan and
+               Aviv Segev},
+  title     = {Humanitarian Assistance Ontology for Emergency Disaster Response},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {6-13},
+}
+
+@article{DBLP:journals/expert/MiddletonMM14,
+  author    = {Stuart E. Middleton and
+               Lee Middleton and
+               Stefano Modafferi},
+  title     = {{Real-Time} Crisis Mapping of Natural Disasters Using Social Media},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {9-17},
+}
+
+@article{DBLP:journals/expert/ZhouTPLWSWL0Y14,
+  author    = {Yuanchun Zhou and
+               MingJie Tang and
+               Weike Pan and
+               Jinyan Li and
+               Weihang Wang and
+               Jing Shao and
+               Liang Wu and
+               Jianhui Li and
+               Qiang Yang and
+               Baoping Yan},
+  title     = {Bird Flu Outbreak Prediction via Satellite Tracking},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {10-17},
+}
+
+@article{DBLP:journals/expert/KrotzschSH14,
+  author    = {Markus Krötzsch and
+               Frantisek Simancik and
+               Ian Horrocks},
+  title     = {Description Logics},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {12-19},
+}
+
+@article{DBLP:journals/expert/LinCBLY14,
+  author    = {Yu-Kai Lin and
+               Hsinchun Chen and
+               Randall A. Brown and
+               Shu-Hsing Li and
+               Hung-Jen Yang},
+  title     = {{Time-to-Event} Predictive Modeling for Chronic Conditions Using Electronic Health Records},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {14-20},
+}
+
+@article{DBLP:journals/expert/HeCZWW14,
+  author    = {Daojing He and
+               Sammy Chan and
+               Yan Zhang and
+               Chunming Wu and
+               Bing Wang},
+  title     = {How Effective Are the Prevailing {Attack-Defense} Models for Cybersecurity Anyway?},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {14-21},
+}
+
+@article{DBLP:journals/expert/WengL14,
+  author    = {Juyang Weng and
+               Matthew D. Luciw},
+  title     = {{Brain-Inspired} Concept Networks: Learning Concepts from Cluttered Scenes},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {14-22},
+}
+
+@article{DBLP:journals/expert/BurnettNSO14,
+  author    = {Chris Burnett and
+               Timothy J. Norman and
+               Katia P. Sycara and
+               Nir Oren},
+  title     = {Supporting Trust Assessment and Decision Making in Coalitions},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {18-24},
+}
+
+@article{DBLP:journals/expert/SongKJ14,
+  author    = {Min Song and
+               Meen Chul Kim and
+               Yoo Kyung Jeong},
+  title     = {Analyzing the Political Landscape of 2012 Korean Presidential Election in Twitter},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {18-26},
+}
+
+@article{DBLP:journals/expert/BeckertH14,
+  author    = {Bernhard Beckert and
+               Reiner Hähnle},
+  title     = {Reasoning and Verification: State of the Art and Current Trends},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {20-29},
+}
+
+@article{DBLP:journals/expert/HuangLYCRXHS14,
+  author    = {Ming-Chun Huang and
+               Si-Huei Lee and
+               Shih-Ching Yeh and
+               Rai-Chi Chan and
+               Albert A. Rizzo and
+               Wenyao Xu and
+               Wu Han-Lin and
+               Lin Shan-Hui},
+  title     = {Intelligent Frozen Shoulder Rehabilitation},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {22-28},
+}
+
+@article{DBLP:journals/expert/Das14,
+  author    = {Sumanta Kumar Das},
+  title     = {Modeling Intelligent {Decision-Making} Command and Control Agents: An Application to Air Defense},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {22-29},
+}
+
+@article{DBLP:journals/expert/ShiZYMQY14,
+  author    = {Zhongzhi Shi and
+               Jianhua Zhang and
+               Xi Yang and
+               Gang Ma and
+               Baoyuan Qi and
+               Jinpeng Yue},
+  title     = {Computational Cognitive Models for {Brain-Machine} Collaborations},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {24-31},
+}
+
+@article{DBLP:journals/expert/WuNY14,
+  author    = {Qingyao Wu and
+               Michael K. Ng and
+               Yunming Ye},
+  title     = {Cotransfer Learning Using Coupled Markov Chains with Restart},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {26-33},
+}
+
+@article{DBLP:journals/expert/ZhaoWYG14,
+  author    = {Kang Zhao and
+               Xi Wang and
+               Mo Yu and
+               Bo Gao},
+  title     = {User Recommendations in Reciprocal and Bipartite Social {Networks-An} Online Dating Case Study},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {27-35},
+}
+
+@article{DBLP:journals/expert/SuryadevaraM14,
+  author    = {Nagender K. Suryadevara and
+               Subhas C. Mukhopadhyay},
+  title     = {Determining Wellness through an Ambient Assisted Living Environment},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {30-37},
+}
+
+@article{DBLP:journals/expert/BrewkaPW14,
+  author    = {Gerhard Brewka and
+               Sylwia Polberg and
+               Stefan Woltran},
+  title     = {Generalizations of Dung Frameworks and Their Role in Formal Argumentation},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {30-38},
+}
+
+@article{DBLP:journals/expert/GaoTHMZ14,
+  author    = {Wen Gao and
+               YongHong Tian and
+               Tiejun Huang and
+               Siwei Ma and
+               Xianguo Zhang},
+  title     = {The {IEEE} 1857 Standard: Empowering Smart Video Surveillance Systems},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {30-39},
+}
+
+@article{DBLP:journals/expert/BozkurtRSBMMYL14,
+  author    = {Alper Bozkurt and
+               David L. Roberts and
+               Barbara L. Sherman and
+               Rita Brugarolas and
+               Sean Mealin and
+               John Majikes and
+               Pu Yang and
+               Robert Tyler Loftin},
+  title     = {Toward {Cyber-Enhanced} Working Dogs for Search and Rescue},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {32-39},
+}
+
+@article{DBLP:journals/expert/XieCZCHAC14,
+  author    = {Yusheng Xie and
+               Zhengzhang Chen and
+               Kunpeng Zhang and
+               Yu Cheng and
+               Daniel Honbo and
+               Ankit Agrawal and
+               Alok N. Choudhary},
+  title     = {MuSES: Multilingual Sentiment Elicitation System for Social Media Data},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {34-42},
+}
+
+@article{DBLP:journals/expert/YangFDO14,
+  author    = {Yinping Yang and
+               Horacio Falcao and
+               Nuno Delicado and
+               Andrew Ortony},
+  title     = {Reducing Mistrust in {Agent-Human} Negotiations},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {36-43},
+}
+
+@article{DBLP:journals/expert/LiuZWW14,
+  author    = {Wenli Liu and
+               Xiaolong Zheng and
+               Tao Wang and
+               Hui Wang},
+  title     = {Collaboration Pattern and Topic Analysis on Intelligence and Security Informatics Research},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {39-46},
+}
+
+@article{DBLP:journals/expert/KlaholdUAF14,
+  author    = {André Klahold and
+               Patrick Uhr and
+               Fazel Ansari and
+               Madjid Fathi},
+  title     = {Using Word Association to Detect Multitopic Structures in Text Documents},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {40-46},
+}
+
+@article{DBLP:journals/expert/LiX14,
+  author    = {Dong-Xu Li and
+               Rui Xu},
+  title     = {Optimal Design and Control of Smart Space Structures: A Memetic Evolution Approach},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {40-46},
+}
+
+@article{DBLP:journals/expert/ChenMZYLHLHGC14,
+  author    = {Jianhui Chen and
+               Jianhua Ma and
+               Ning Zhong and
+               Yiyu Yao and
+               Jiming Liu and
+               Runhe Huang and
+               Wenbin Li and
+               Zhisheng Huang and
+               Yang Gao and
+               Jianping Cao},
+  title     = {WaaS: Wisdom as a Service},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {40-47},
+}
+
+@article{DBLP:journals/expert/CambriaSWH14,
+  author    = {Erik Cambria and
+               Yangqiu Song and
+               Haixun Wang and
+               Newton Howard},
+  title     = {Semantic Multidimensional Scaling for {Open-Domain} Sentiment Analysis},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {44-51},
+}
+
+@article{DBLP:journals/expert/KimLLLMJ14,
+  author    = {Dohyun Kim and
+               Bangrae Lee and
+               Hyuck Jai Lee and
+               Sang Pil Lee and
+               Yeongho Moon and
+               Myong Kee Jeong},
+  title     = {A Graph Kernel Approach for Detecting Core Patents and Patent Groups},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {44-51},
+}
+
+@article{DBLP:journals/expert/HuWL14,
+  author    = {Yuling Hu and
+               Fei-Yue Wang and
+               Xiwei Liu},
+  title     = {A {CPSS} Approach for Emergency Evacuation in Building Fires},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {48-52},
+}
+
+@article{DBLP:journals/expert/PanM14,
+  author    = {Weike Pan and
+               Zhong Ming},
+  title     = {{Interaction-Rich} Transfer Learning for Collaborative Filtering with Heterogeneous User Feedback},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {48-54},
+}
+
+@article{DBLP:journals/expert/ThompsonBDMPTWW14,
+  author    = {David R. Thompson and
+               Sarah Burke-Spolaor and
+               Adam Deller and
+               Walid A. Majid and
+               Divya Palaniswamy and
+               Steven J. Tingay and
+               Kiri L. Wagstaff and
+               Randall B. Wayth},
+  title     = {{Real-Time} Adaptive Event Detection in Astronomical Data Streams},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {48-55},
+}
+
+@article{DBLP:journals/expert/WangLXMZ14,
+  author    = {Tao Wang and
+               Zhong Liu and
+               Baoxin Xiu and
+               Hong Mo and
+               Qingpeng Zhang},
+  title     = {Characterizing the Evolution of Social Computing Research},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {48-56},
+}
+
+@article{DBLP:journals/expert/SimGPC14,
+  author    = {Kelvin Sim and
+               Vivekanand Gopalkrishnan and
+               Clifton Phua and
+               Gao Cong},
+  title     = {3D Subspace Clustering for Value Investing},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {52-59},
+}
+
+@article{DBLP:journals/expert/PanZWLYLS14,
+  author    = {Gang Pan and
+               Li Zhang and
+               Zhaohui Wu and
+               Shijian Li and
+               Laurence T. Yang and
+               Man Lin and
+               Yuanchun Shi},
+  title     = {Pervasive Service Bus: Smart {SOA} Infrastructure for Ambient Intelligence},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {52-60},
+}
+
+@article{DBLP:journals/expert/YangKLWMHPHSZTABCPCSWMWBGSLWT14,
+  author    = {Hui Yang and
+               O. Erhun Kundakcioglu and
+               Jing Li and
+               Teresa Wu and
+               J. Ross Mitchell and
+               Amy K. Hara and
+               William Pavlicek and
+               Leland S. Hu and
+               Alvin C. Silva and
+               Christine M. Zwart and
+               Sait Tunc and
+               Oguzhan Alagöz and
+               Elizabeth S. Burnside and
+               W. Art Chaovalitwongse and
+               Georgiy Presnyakov and
+               Yulian Cao and
+               Sirirat Sujitnapitsatham and
+               Daehan Won and
+               Tara M. Madhyastha and
+               Kurt E. Weaver and
+               Paul R. Borghesani and
+               Thomas J. Grabowski and
+               Lianjie Shu and
+               Man Ho Ling and
+               Shui Yee Wong and
+               Kwok-Leung Tsui},
+  title     = {Healthcare Intelligence: Turning Data into Knowledge},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {54-68},
+}
+
+@article{DBLP:journals/expert/LehmanCR14,
+  author    = {Joel Lehman and
+               Jeff Clune and
+               Sebastian Risi},
+  title     = {An Anarchy of Methods: Current Trends in How Intelligence Is Abstracted in {AI}},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {56-62},
+}
+
+@article{DBLP:journals/expert/GomesFMVR14,
+  author    = {Luís Gomes and
+               Pedro Faria and
+               Hugo Morais and
+               Zita Vale and
+               Carlos Ramos},
+  title     = {Distributed, {Agent-Based} Intelligent System for Demand Response Program Simulation in Smart Grids},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {56-65},
+}
+
+@article{DBLP:journals/expert/FatimaKW14,
+  author    = {Shaheen Fatima and
+               Sarit Kraus and
+               Michael Wooldridge},
+  title     = {The Negotiation Game},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {57-61},
+}
+
+@article{DBLP:journals/expert/AbbasiADPZZWJSSHBZAR14,
+  author    = {Ahmed Abbasi and
+               Donald A. Adjeroh and
+               Mark Dredze and
+               Michael J. Paul and
+               Fatemeh "Mariam" Zahedi and
+               Huimin Zhao and
+               Nitin Walia and
+               Hemant K. Jain and
+               Patrick Sanvanson and
+               Reza Shaker and
+               Marco D. Huesch and
+               Richard Beal and
+               Wanhong Zheng and
+               Marie Abate and
+               Arun Ross},
+  title     = {Social Media Analytics for Smart Health},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {60-80},
+}
+
+@article{DBLP:journals/expert/Cummings14,
+  author    = {Mary Missy Cummings},
+  title     = {Man versus Machine or Man + Machine?},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {62-69},
+}
+
+@article{DBLP:journals/expert/CaoJWGLOLZLXWPZYZSS14,
+  author    = {Longbing Cao and
+               Thorsten Joachims and
+               Can Wang and
+               Éric Gaussier and
+               Jinjiu Li and
+               Yuming Ou and
+               Dan Luo and
+               Reza Zafarani and
+               Huan Liu and
+               Guandong Xu and
+               Zhiang Wu and
+               Gabriella Pasi and
+               Ya Zhang and
+               Xiaokang Yang and
+               Hongyuan Zha and
+               Edoardo Serra and
+               V. S. Subrahmanian},
+  title     = {Behavior Informatics: A New Perspective},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {62-80},
+}
+
+@article{DBLP:journals/expert/AiCYZDS14,
+  author    = {Bo Ai and
+               Xiang Cheng and
+               Liuqing Yang and
+               Zhangdui Zhong and
+               Jianwen Ding and
+               Hua Song},
+  title     = {Social Network Services for Rail Traffic Applications},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {63-69},
+}
+
+@article{DBLP:journals/expert/ShinHZ14,
+  author    = {Dong-Hoon Shin and
+               Shibo He and
+               Junshan Zhang},
+  title     = {Robust, Secure, and {Cost-Effective} Design for {Cyber-Physical} Systems},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {66-69},
+}
+
+@article{DBLP:journals/expert/Hepp14,
+  author    = {Martin Hepp},
+  title     = {Internet Communication Beyond the Barrier of Death: Messaging with the Lost Ones},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {70-73},
+}
+
+@article{DBLP:journals/expert/OLeary14,
+  author    = {Daniel E. O'Leary},
+  title     = {Embedding {AI} and Crowdsourcing in the Big Data Lake},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {70-73},
+}
+
+@article{DBLP:journals/expert/DominguedSM14,
+  author    = {John Domingue and
+               Mathieu d'Aquin and
+               Elena Simperl and
+               Alexander Mikroyannidis},
+  title     = {The Web of Data: Bridging the Skills Gap},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {70-74},
+}
+
+@article{DBLP:journals/expert/BillhardtFLLOOS14,
+  author    = {Holger Billhardt and
+               Alberto Fernández and
+               Lissette Lemus and
+               Marin Lujak and
+               Nardine Osman and
+               Sascha Ossowski and
+               Carles Sierra},
+  title     = {Dynamic Coordination in Fleet Management Systems: Toward Smart Cyber Fleets},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {70-76},
+}
+
+@article{DBLP:journals/expert/WangLDYC14,
+  author    = {Yong Wang and
+               Changle Li and
+               Yulong Duan and
+               Jin Yang and
+               Xiang Cheng},
+  title     = {An {Energy-Efficient} and Swarm {Intelligence-Based} Routing Protocol for {Next-Generation} Sensor Networks},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {74-77},
+}
+
+@article{DBLP:journals/expert/JohnsonBHFW14,
+  author    = {Matthew Johnson and
+               Jeffrey M. Bradshaw and
+               Robert R. Hoffman and
+               Paul J. Feltovich and
+               David D. Woods},
+  title     = {Seven Cardinal Virtues of {Human-Machine} Teamwork: Examples from the {DARPA} Robotic Challenge},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {6},
+  year      = 2014,
+  pages     = {74-80},
+}
+
+@article{DBLP:journals/expert/PereiraBB14,
+  author    = {Francisco C. Pereira and
+               Ana L. C. Bazzan and
+               Moshe E. Ben-Akiva},
+  title     = {The Role of Context in Transport Prediction},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {1},
+  year      = 2014,
+  pages     = {76-80},
+}
+
+@article{DBLP:journals/expert/Baker14,
+  author    = {Ryan S. Baker},
+  title     = {Educational Data Mining: An Advance for Intelligent Systems in Education},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {78-82},
+}
+
+@article{DBLP:journals/expert/SassiZ14,
+  author    = {Andrea Sassi and
+               Franco Zambonelli},
+  title     = {Coordination Infrastructures for Future Smart Social Mobility Services},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {78-82},
+}
+
+@article{DBLP:journals/expert/HoffmanHB14,
+  author    = {Robert R. Hoffman and
+               John K. Hawley and
+               Jeffrey M. Bradshaw},
+  title     = {Myths of Automation, Part 2: Some Very Human Consequences},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {82-85},
+}
+
+@article{DBLP:journals/expert/Saria14,
+  author    = {Suchi Saria},
+  title     = {A $3 Trillion Challenge to Computational Scientists: Transforming Healthcare Delivery},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {82-87},
+}
+
+@article{DBLP:journals/expert/GernandC14,
+  author    = {Jeremy M. Gernand and
+               Elizabeth A. Casman},
+  title     = {Machine Learning for Nanomaterial Toxicity Risk Assessment},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {3},
+  year      = 2014,
+  pages     = {84-88},
+}
+
+@article{DBLP:journals/expert/StrohmaierW14,
+  author    = {Markus Strohmaier and
+               Claudia Wagner},
+  title     = {Computational Social Science for the World Wide Web},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {5},
+  year      = 2014,
+  pages     = {84-88},
+}
+
+@article{DBLP:journals/expert/DuanYCWC14,
+  author    = {Dongliang Duan and
+               Liuqing Yang and
+               Yang Cao and
+               Jiaolong Wei and
+               Xiang Cheng},
+  title     = {{Self-Organizing} Networks: From {Bio-Inspired} to {Social-Driven}},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {86-90},
+}
+
+@article{DBLP:journals/expert/EskridgeSH14,
+  author    = {Thomas C. Eskridge and
+               David Still and
+               Robert R. Hoffman},
+  title     = {Principles for {Human-Centered} Interaction Design, Part 1: Performative Systems},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {88-94},
+}
+
+@article{DBLP:journals/expert/AmolochitisCT14,
+  author    = {Emmanouil Amolochitis and
+               Ioannis T. Christou and
+               Zheng-Hua Tan},
+  title     = {Implementing a {Commercial-Strength} Parallel Hybrid Movie Recommendation Engine},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {2},
+  year      = 2014,
+  pages     = {92-96},
+}
+
+@article{DBLP:journals/expert/ClaesH14,
+  author    = {Rutger Claes and
+               Tom Holvoet},
+  title     = {Traffic Coordination Using {Aggregation-Based} Traffic Predictions},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {96-100},
+}
+
+@article{DBLP:journals/expert/LyuLP14,
+  author    = {Chen Lyu and
+               Lefei Li and
+               Tao Pan},
+  title     = {A Smart B2C {e-Commerce} System Based on {ACP} Approach},
+  journal   = ieeeis,
+  volume    = {29},
+  number    = {4},
+  year      = 2014,
+  pages     = {102-104},
+}
+
 @article{DBLP:journals/expert/Zeng13c,
   author    = {Daniel Zeng},
   title     = {Contributing to {IEEE} Intelligent Systems},
@@ -32,7 +1353,7 @@
 
 @article{DBLP:journals/expert/ZengL13,
   author    = {Daniel Zeng and
-               Robert Lusch},
+               Robert F. Lusch},
   title     = {Big Data Analytics: Perspective Shifting from Transactions to Ecosystems},
   journal   = ieeeis,
   volume    = {28},
@@ -79,7 +1400,7 @@
 
 @article{DBLP:journals/expert/CambriaSLWH13a,
   author    = {Erik Cambria and
-               Björn Schuller and
+               Björn W. Schuller and
                Bing Liu and
                Haixun Wang and
                Catherine Havasi},
@@ -162,7 +1483,7 @@
 
 @article{DBLP:journals/expert/CambriaSLWH13,
   author    = {Erik Cambria and
-               Björn Schuller and
+               Björn W. Schuller and
                Bing Liu and
                Haixun Wang and
                Catherine Havasi},
@@ -207,7 +1528,7 @@
 
 @article{DBLP:journals/expert/CambriaSXH13,
   author    = {Erik Cambria and
-               Björn Schuller and
+               Björn W. Schuller and
                Yunqing Xia and
                Catherine Havasi},
   title     = {New Avenues in Opinion Mining and Sentiment Analysis},
@@ -514,7 +1835,7 @@
 }
 
 @article{DBLP:journals/expert/Groth13,
-  author    = {Paul Groth},
+  author    = {Paul T. Groth},
   title     = {The {Knowledge-Remixing} Bottleneck},
   journal   = ieeeis,
   volume    = {28},
@@ -527,7 +1848,7 @@
   author    = {Martin Wöllmer and
                Felix Weninger and
                Tobias Knaup and
-               Björn Schuller and
+               Björn W. Schuller and
                Congkai Sun and
                Kenji Sagae and
                Louis-Philippe Morency},
@@ -1057,7 +2378,7 @@
 
 @article{DBLP:journals/expert/MoraisPVP12,
   author    = {Hugo Morais and
-               Tiago William Pinto and
+               Tiago Pinto and
                Zita A. Vale and
                Isabel Praça},
   title     = {Multilevel Negotiation in Smart Grids for {VPP} Management of Distributed Resources},
@@ -1921,7 +3242,7 @@
 
 @article{DBLP:journals/expert/ValePPM11,
   author    = {Zita A. Vale and
-               Tiago William Pinto and
+               Tiago Pinto and
                Isabel Praça and
                Hugo Morais},
   title     = {MASCEM: Electricity Markets Simulation with Strategic Agents},
@@ -2869,7 +4190,7 @@
 @article{DBLP:journals/expert/ZengCLL10,
   author    = {Daniel Zeng and
                Hsinchun Chen and
-               Robert Lusch and
+               Robert F. Lusch and
                Shu-Hsing Li},
   title     = {Social Media Analytics and Intelligence},
   journal   = ieeeis,
@@ -3024,10 +4345,10 @@
 }
 
 @article{DBLP:journals/expert/MackeyBCS10,
-  author    = {R. Mackey and
-               L. Brownston and
-               J. P. Castle and
-               A. Sweet},
+  author    = {Ryan Mackey and
+               Lee Brownston and
+               Joseph Patrick Castle and
+               Adam Sweet},
   title     = {Getting Diagnostic Reasoning off the Ground: Maturing Technology with TacSat-3},
   journal   = ieeeis,
   volume    = {25},
@@ -4846,10 +6167,10 @@
 }
 
 @article{DBLP:journals/expert/GaoOSLYLSHWCL08,
-  author    = {Xiao-shan Gao and
+  author    = {Xiao-Shan Gao and
                Dan-tong Ouyang and
                Ji-gui Sun and
-               San-jiang Li and
+               Sanjiang Li and
                Tian-shun Yao and
                Ruzhan Lu and
                Chun-yi Shi and
@@ -5643,7 +6964,7 @@
 }
 
 @article{DBLP:journals/expert/MartinDSBSF07,
-  author    = {David Martin and
+  author    = {David B. Martin and
                John Domingue and
                Amit P. Sheth and
                Steven Battle and
@@ -5718,7 +7039,7 @@
 }
 
 @article{DBLP:journals/expert/MartinDBL07,
-  author    = {David Martin and
+  author    = {David B. Martin and
                John Domingue and
                Michael L. Brodie and
                Frank Leymann},
@@ -7503,7 +8824,7 @@
 }
 
 @article{DBLP:journals/expert/Hales06,
-  author    = {Colin Hales},
+  author    = {Colin G. Hales},
   title     = {{AI} and Science's Lost Realm},
   journal   = ieeeis,
   volume    = {21},
@@ -8025,19 +9346,6 @@
   pages     = {19-25},
 }
 
-@article{DBLP:journals/expert/DullaertVRW05,
-  author    = {Wout Dullaert and
-               Bert Vernimmen and
-               Birger Raa and
-               Frank Witlox},
-  title     = {A Hybrid Approach to Designing {Inbound-Resupply} Strategies},
-  journal   = ieeeis,
-  volume    = {20},
-  number    = {4},
-  year      = 2005,
-  pages     = {19-25},
-}
-
 @article{DBLP:journals/expert/MartinGR05,
   author    = {Juliette Martin and
                Jean-François Gibrat and
@@ -8089,17 +9397,6 @@
 }
 
 @article{DBLP:journals/expert/CaricatoG05,
-  author    = {Pierpaolo Caricato and
-               Antonio Grieco},
-  title     = {Using Simulated Annealing to Design a {Material-Handling} System},
-  journal   = ieeeis,
-  volume    = {20},
-  number    = {4},
-  year      = 2005,
-  pages     = {26-30},
-}
-
-@article{DBLP:journals/expert/CaricatoG05a,
   author    = {Pierpaolo Caricato and
                Antonio Grieco},
   title     = {Using Simulated Annealing to Design a {Material-Handling} System},
@@ -8623,7 +9920,7 @@
 
 @article{DBLP:journals/expert/StaabDMGDFJNV05,
   author    = {Steffen Staab and
-               Pedro Domingos and
+               Pedro M. Domingos and
                Peter Mika and
                Jennifer Golbeck and
                Li Ding and
@@ -9959,7 +11256,7 @@
 
 @article{DBLP:journals/expert/KolodkoV03,
   author    = {Julian Kolodko and
-               Ljubo Vlacic},
+               Ljubo B. Vlacic},
   title     = {Cooperative Autonomous Driving at the Intelligent Control Systems Laboratory},
   journal   = ieeeis,
   volume    = {18},
@@ -11330,7 +12627,7 @@
 @article{DBLP:journals/expert/HarteminkGJY02,
   author    = {Alexander J. Hartemink and
                David K. Gifford and
-               Tommi Jaakkola and
+               Tommi S. Jaakkola and
                Richard A. Young},
   title     = {Bayesian Methods for Elucidating Genetic Regulatory Networks},
   journal   = ieeeis,
@@ -12833,7 +14130,7 @@
 }
 
 @article{DBLP:journals/expert/MacleanD01,
-  author    = {Stuart D. Maclean and
+  author    = {Stuart D. MacLean and
                Daniel J. Dailey},
   title     = {MyBus: Helping Bus Riders Make Informed Decisions},
   journal   = ieeeis,

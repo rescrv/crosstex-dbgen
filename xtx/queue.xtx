@@ -1,5 +1,171 @@
 @include journals-cs
 
+@article{DBLP:journals/queue/Neville-Neil15a,
+  author    = {George Neville-Neil},
+  title     = {Lazarus Code},
+  journal   = queue,
+  volume    = {13},
+  number    = {5},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Rathbun15,
+  author    = {Spencer Rathbun},
+  title     = {Parallel Processing with Promises},
+  journal   = queue,
+  volume    = {13},
+  number    = {3},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Wang15,
+  author    = {Daniel C. Wang},
+  title     = {From the {EDVAC} to {WEBVACs}},
+  journal   = queue,
+  volume    = {13},
+  number    = {4},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Kamp15,
+  author    = {Poul-Henning Kamp},
+  title     = {HTTP/2.0 - The {IETF} is Phoning It In},
+  journal   = queue,
+  volume    = {13},
+  number    = {2},
+  year      = 2015,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/queue/DowlingM15,
+  author    = {Phelim Dowling and
+               Kevin McGrath},
+  title     = {Using Free and Open Source Tools to Manage Software Quality},
+  journal   = queue,
+  volume    = {13},
+  number    = {4},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/GuntherPT15,
+  author    = {Neil J. Gunther and
+               Paul Puglia and
+               Kristofer Tomasette},
+  title     = {Hadoop Superlinear Scalability},
+  journal   = queue,
+  volume    = {13},
+  number    = {5},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Sheehy15,
+  author    = {Justin Sheehy},
+  title     = {There is No Now},
+  journal   = queue,
+  volume    = {13},
+  number    = {3},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Neville-Neil15,
+  author    = {George Neville-Neil},
+  title     = {Raw Networking},
+  journal   = queue,
+  volume    = {13},
+  number    = {2},
+  year      = 2015,
+  pages     = {20-22},
+}
+
+@article{DBLP:journals/queue/DavidoviG15,
+  author    = {Stepán Davidovic and
+               Kavita Guliani},
+  title     = {Reliable Cron across the Planet},
+  journal   = queue,
+  volume    = {13},
+  number    = {3},
+  year      = 2015,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Harris15,
+  author    = {Rich Harris},
+  title     = {Dismantling the Barriers to Entry},
+  journal   = queue,
+  volume    = {13},
+  number    = {5},
+  year      = 2015,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Matsudaira15,
+  author    = {Kate Matsudaira},
+  title     = {The Science of Managing Data Science},
+  journal   = queue,
+  volume    = {13},
+  number    = {4},
+  year      = 2015,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Vixie15,
+  author    = {Paul Vixie},
+  title     = {Go Static or Go Home},
+  journal   = queue,
+  volume    = {13},
+  number    = {2},
+  year      = 2015,
+  pages     = {30-33},
+}
+
+@article{DBLP:journals/queue/Brook15,
+  author    = {Andrew Brook},
+  title     = {Evolution and Practice: Low-latency Distributed Applications in Finance},
+  journal   = queue,
+  volume    = {13},
+  number    = {4},
+  year      = 2015,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/MeijerMB15,
+  author    = {Erik Meijer and
+               Kevin Millikin and
+               Gilad Bracha},
+  title     = {Spicing Up Dart with Side Effects},
+  journal   = queue,
+  volume    = {13},
+  number    = {3},
+  year      = 2015,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Cerf14,
+  author    = {Vinton G. Cerf},
+  title     = {{ACM} and the Professional Programmer},
+  journal   = queue,
+  volume    = {12},
+  number    = {7},
+  year      = 2014,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Kamp14a,
+  author    = {Poul-Henning Kamp},
+  title     = {Quality Software Costs Money - Heartbleed Was Free},
+  journal   = queue,
+  volume    = {12},
+  number    = {6},
+  year      = 2014,
+  pages     = {10},
+}
+
 @article{DBLP:journals/queue/SproullW14,
   author    = {Robert F. Sproull and
                Jim Waldo},
@@ -21,6 +187,95 @@
   pages     = {10},
 }
 
+@article{DBLP:journals/queue/Neville-Neil14,
+  author    = {George Neville-Neil},
+  title     = {Forked Over},
+  journal   = queue,
+  volume    = {12},
+  number    = {4},
+  year      = 2014,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/queue/Neville-Neil14b,
+  author    = {George Neville-Neil},
+  title     = {Port Squatting},
+  journal   = queue,
+  volume    = {12},
+  number    = {9},
+  year      = 2014,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/queue/Neville-Neil14c,
+  author    = {George Neville-Neil},
+  title     = {Too Big to Fail},
+  journal   = queue,
+  volume    = {12},
+  number    = {11},
+  year      = 2014,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/queue/MeijerK14,
+  author    = {Erik Meijer and
+               Vikram Kapoor},
+  title     = {The Responsive Enterprise: Embracing the Hacker Way},
+  journal   = queue,
+  volume    = {12},
+  number    = {10},
+  year      = 2014,
+  pages     = {10-18},
+}
+
+@article{DBLP:journals/queue/Laurie14,
+  author    = {Ben Laurie},
+  title     = {Certificate Transparency},
+  journal   = queue,
+  volume    = {12},
+  number    = {8},
+  year      = 2014,
+  pages     = {10-19},
+}
+
+@article{DBLP:journals/queue/Bland14,
+  author    = {Mike Bland},
+  title     = {Finding More Than One Worm in the Apple},
+  journal   = queue,
+  volume    = {12},
+  number    = {5},
+  year      = 2014,
+  pages     = {10-21},
+}
+
+@article{DBLP:journals/queue/CarataABBSSH14,
+  author    = {Lucian Carata and
+               Sherif Akoush and
+               Nikilesh Balakrishnan and
+               Thomas Bytheway and
+               Ripduman Sohan and
+               Margo Seltzer and
+               Andy Hopper},
+  title     = {A Primer on Provenance},
+  journal   = queue,
+  volume    = {12},
+  number    = {3},
+  year      = 2014,
+  pages     = {10-23},
+}
+
+@article{DBLP:journals/queue/CoattaDH14,
+  author    = {Terry Coatta and
+               Michael Donat and
+               Jafar Husain},
+  title     = {Automated {QA} Testing at EA: Driven by Events},
+  journal   = queue,
+  volume    = {12},
+  number    = {5},
+  year      = 2014,
+  pages     = {20-10},
+}
+
 @article{DBLP:journals/queue/Kleen14,
   author    = {Andi Kleen},
   title     = {Scaling Existing Lock-based Applications with Lock Elision},
@@ -29,6 +284,151 @@
   number    = {1},
   year      = 2014,
   pages     = {20},
+}
+
+@article{DBLP:journals/queue/Neville-Neil14a,
+  author    = {George Neville-Neil},
+  title     = {Outsourcing Responsibility},
+  journal   = queue,
+  volume    = {12},
+  number    = {6},
+  year      = 2014,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Kamp14,
+  author    = {Poul-Henning Kamp},
+  title     = {Please Put {OpenSSL} Out of Its Misery},
+  journal   = queue,
+  volume    = {12},
+  number    = {3},
+  year      = 2014,
+  pages     = {20-23},
+}
+
+@article{DBLP:journals/queue/Chisnall14,
+  author    = {David Chisnall},
+  title     = {There's No Such Thing as a General-purpose Processor},
+  journal   = queue,
+  volume    = {12},
+  number    = {10},
+  year      = 2014,
+  pages     = {20-25},
+}
+
+@article{DBLP:journals/queue/Stenn14,
+  author    = {Harlan Stenn},
+  title     = {Securing the Network Time Protocol},
+  journal   = queue,
+  volume    = {13},
+  number    = {1},
+  year      = 2014,
+  pages     = {20-25},
+}
+
+@article{DBLP:journals/queue/Meijer14,
+  author    = {Erik Meijer},
+  title     = {The Curse of the Excluded Middle},
+  journal   = queue,
+  volume    = {12},
+  number    = {4},
+  year      = 2014,
+  pages     = {20-29},
+}
+
+@article{DBLP:journals/queue/Richardson14,
+  author    = {Rick Richardson},
+  title     = {Disambiguating Databases},
+  journal   = queue,
+  volume    = {12},
+  number    = {11},
+  year      = 2014,
+  pages     = {20-31},
+}
+
+@article{DBLP:journals/queue/Sampemane14,
+  author    = {Geetanjali Sampemane},
+  title     = {Internal Access Controls},
+  journal   = queue,
+  volume    = {12},
+  number    = {11},
+  year      = 2014,
+  pages     = {30-34},
+}
+
+@article{DBLP:journals/queue/JacobsonS14,
+  author    = {Ivar Jacobson and
+               Ed Seidewitz},
+  title     = {A New Software Engineering},
+  journal   = queue,
+  volume    = {12},
+  number    = {10},
+  year      = 2014,
+  pages     = {30-38},
+}
+
+@article{DBLP:journals/queue/Gill14,
+  author    = {Andy Gill},
+  title     = {Domain-specific Languages and Code Synthesis Using Haskell},
+  journal   = queue,
+  volume    = {12},
+  number    = {4},
+  year      = 2014,
+  pages     = {30-43},
+}
+
+@article{DBLP:journals/queue/Wadlow14,
+  author    = {Thomas Wadlow},
+  title     = {Who Must You Trust?},
+  journal   = queue,
+  volume    = {12},
+  number    = {5},
+  year      = 2014,
+  pages     = {30-43},
+}
+
+@article{DBLP:journals/queue/BinderLK14,
+  author    = {Robert V. Binder and
+               Bruno Legeard and
+               Anne Kramer},
+  title     = {Model-based Testing: Where Does It Stand?},
+  journal   = queue,
+  volume    = {13},
+  number    = {1},
+  year      = 2014,
+  pages     = {40-48},
+}
+
+@article{DBLP:journals/queue/SvenssonSN14,
+  author    = {Bo Joel Svensson and
+               Mary Sheeran and
+               Ryan R. Newton},
+  title     = {Design Exploration through Code-generating {DSLs}},
+  journal   = queue,
+  volume    = {12},
+  number    = {4},
+  year      = 2014,
+  pages     = {40-52},
+}
+
+@article{DBLP:journals/queue/Bueso14,
+  author    = {Davidlohr Bueso},
+  title     = {Scalability Techniques for Practical Synchronization Primitives},
+  journal   = queue,
+  volume    = {12},
+  number    = {11},
+  year      = 2014,
+  pages     = {40-53},
+}
+
+@article{DBLP:journals/queue/Long14,
+  author    = {Dave Long},
+  title     = {{META} II: Digital Vellum in the Digital Scriptorium},
+  journal   = queue,
+  volume    = {13},
+  number    = {1},
+  year      = 2014,
+  pages     = {50-60},
 }
 
 @article{DBLP:journals/queue/BeckmanM13,
@@ -1275,17 +1675,6 @@
   pages     = {21},
 }
 
-@article{DBLP:journals/queue/BrownR10,
-  author    = {David J. Brown and
-               Charles Reams},
-  title     = {Toward {Energy-Efficient} Computing},
-  journal   = queue,
-  volume    = {8},
-  number    = {2},
-  year      = 2010,
-  pages     = {30},
-}
-
 @article{DBLP:journals/queue/Gregg10,
   author    = {Brendan Gregg},
   title     = {Visualizing System Latency},
@@ -1356,14 +1745,15 @@
   pages     = {30},
 }
 
-@article{DBLP:journals/queue/Creeger10,
-  author    = {Mache Creeger},
-  title     = {{CTO} Roundtable: Malware Defense},
+@article{DBLP:journals/queue/BrownR10,
+  author    = {David J. Brown and
+               Charles Reams},
+  title     = {Toward {Energy-Efficient} Computing},
   journal   = queue,
   volume    = {8},
   number    = {2},
   year      = 2010,
-  pages     = {40},
+  pages     = {30-43},
 }
 
 @article{DBLP:journals/queue/Creeger10b,
@@ -1404,6 +1794,16 @@
   number    = {3},
   year      = 2010,
   pages     = {40},
+}
+
+@article{DBLP:journals/queue/Creeger10,
+  author    = {Mache Creeger},
+  title     = {{CTO} Roundtable: Malware Defense},
+  journal   = queue,
+  volume    = {8},
+  number    = {2},
+  year      = 2010,
+  pages     = {40-51},
 }
 
 @article{DBLP:journals/queue/BeelerP09,

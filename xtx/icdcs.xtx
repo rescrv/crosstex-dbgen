@@ -1,5 +1,759 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/icdcs/BoutsisK14,
+  author    = {Ioannis Boutsis and
+               Vana Kalogeraki},
+  title     = {On Task Assignment for {Real-Time} Reliable Crowdsourcing},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhuZZYCN14,
+  author    = {Yanmin Zhu and
+               Qian Zhang and
+               Hongzi Zhu and
+               Jiadi Yu and
+               Jian Cao and
+               Lionel M. Ni},
+  title     = {Towards Truthful Mechanisms for Mobile Crowdsourcing with Dynamic Smartphones},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {11-20},
+}
+
+@inproceedings{DBLP:conf/icdcs/BahriCF14,
+  author    = {Leila Bahri and
+               Barbara Carminati and
+               Elena Ferrari},
+  title     = {{Community-Based} Identity Validation on Online Social Networks},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {21-30},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhangC14,
+  author    = {Xiaomei Zhang and
+               Guohong Cao},
+  title     = {Efficient Data Forwarding in Mobile Social Networks with Diverse Connectivity Characteristics},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {31-40},
+}
+
+@inproceedings{DBLP:conf/icdcs/SunSZK14,
+  author    = {Li Sun and
+               Ramanujan K. Sheshadri and
+               Wei Zheng and
+               Dimitrios Koutsonikolas},
+  title     = {Modeling {WiFi} Active Power/Energy Consumption in Smartphones},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {41-51},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhouLLLJZL14,
+  author    = {Zhi Zhou and
+               Fangming Liu and
+               Bo Li and
+               Baochun Li and
+               Hai Jin and
+               Ruolan Zou and
+               Zhiyong Liu},
+  title     = {Fuel Cell Generation in {Geo-Distributed} Cloud Services: A Quantitative Study},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {52-61},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiaoLSLP14,
+  author    = {Weixian Liao and
+               Ming Li and
+               Sergio Salinas and
+               Pan Li and
+               Miao Pan},
+  title     = {Optimal Energy Cost for Strongly Stable Multi-hop Green Cellular Networks},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {62-72},
+}
+
+@inproceedings{DBLP:conf/icdcs/FuSWKLLGWDCB14,
+  author    = {Yong Fu and
+               Mo Sha and
+               Chengjie Wu and
+               Andrew Kutta and
+               Anna Leavey and
+               Chenyang Lu and
+               Humberto Gonzalez and
+               Weining Wang and
+               Bill Drake and
+               Yixin Chen and
+               Pratim Biswas},
+  title     = {Thermal Modeling for a {HVAC} Controlled {Real-Life} Auditorium},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {73-82},
+}
+
+@inproceedings{DBLP:conf/icdcs/DingTLN14,
+  author    = {Ye Ding and
+               Haoyu Tan and
+               Wuman Luo and
+               Lionel M. Ni},
+  title     = {Exploring the Use of Diverse Replicas for Big Location Tracking Data},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {83-92},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiHWSAGP14,
+  author    = {Shen Li and
+               Shaohan Hu and
+               Shiguang Wang and
+               Lu Su and
+               Tarek F. Abdelzaher and
+               Indranil Gupta and
+               Richard Pace},
+  title     = {WOHA: {Deadline-Aware} {Map-Reduce} Workflow Scheduling Framework over Hadoop Clusters},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {93-103},
+}
+
+@inproceedings{DBLP:conf/icdcs/DieguesR14,
+  author    = {Nuno Diegues and
+               Paolo Romano},
+  title     = {STI-BT: A Scalable Transactional Index},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {104-113},
+}
+
+@inproceedings{DBLP:conf/icdcs/ShengTWGX14,
+  author    = {Xiang Sheng and
+               Jian Tang and
+               Jing Wang and
+               Chenfei Gao and
+               Guoliang Xue},
+  title     = {SOR: An Objective Ranking System Based on Mobile Phone Sensing},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {114-123},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangWCHB14,
+  author    = {Shengling Wang and
+               Xia Wang and
+               Xiuzhen Cheng and
+               Jian-Hui Huang and
+               Rongfang Bie},
+  title     = {The {Tempo-Spatial} Information Dissemination Properties of Mobile Opportunistic Networks with Levy Mobility},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {124-133},
+}
+
+@inproceedings{DBLP:conf/icdcs/HuaRLF14,
+  author    = {Yu Hua and
+               Lei Rao and
+               Xue Liu and
+               Dan Feng},
+  title     = {Cooperative and Efficient {Real-Time} Scheduling for Automotive Communications},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {134-143},
+}
+
+@inproceedings{DBLP:conf/icdcs/VaqueroCLM14,
+  author    = {Luis M. Vaquero and
+               Félix Cuadrado and
+               Dionysios Logothetis and
+               Claudio Martella},
+  title     = {Adaptive Partitioning for {Large-Scale} Dynamic Graphs},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {144-153},
+}
+
+@inproceedings{DBLP:conf/icdcs/YanE14,
+  author    = {Guanhua Yan and
+               Stephan Eidenbenz},
+  title     = {Sim-Watchdog: Leveraging Temporal Similarity for Anomaly Detection in Dynamic Graphs},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {154-165},
+}
+
+@inproceedings{DBLP:conf/icdcs/GantiSA14,
+  author    = {Raghu K. Ganti and
+               Mudhakar Srivatsa and
+               Tarek F. Abdelzaher},
+  title     = {On Limits of Travel Time Predictions: Insights from a New York City Case Study},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {166-175},
+}
+
+@inproceedings{DBLP:conf/icdcs/XieW0WX14,
+  author    = {Kun Xie and
+               Lele Wang and
+               Xin Wang and
+               Jigang Wen and
+               Gaogang Xie},
+  title     = {Learning from the Past: Intelligent {On-Line} Weather Monitoring Based on Matrix Completion},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {176-185},
+}
+
+@inproceedings{DBLP:conf/icdcs/TangLILZ14,
+  author    = {Yuzhe Tang and
+               Ling Liu and
+               Arun Iyengar and
+               Kisung Lee and
+               Qi Zhang},
+  title     = {e-PPI: Locator Service in Information Networks with Personalized Privacy Preservation},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {186-197},
+}
+
+@inproceedings{DBLP:conf/icdcs/YuanWWSR14,
+  author    = {Xingliang Yuan and
+               Xinyu Wang and
+               Cong Wang and
+               Anna Cinzia Squicciarini and
+               Kui Ren},
+  title     = {Enabling {Privacy-Preserving} {Image-Centric} Social Discovery},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {198-207},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiC14,
+  author    = {Qinghua Li and
+               Guohong Cao},
+  title     = {Providing Efficient {Privacy-Aware} Incentives for Mobile Sensing},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {208-217},
+}
+
+@inproceedings{DBLP:conf/icdcs/VerdeAGMS14,
+  author    = {Nino Vincenzo Verde and
+               Giuseppe Ateniese and
+               Emanuele Gabrielli and
+               Luigi Vincenzo Mancini and
+               Angelo Spognardi},
+  title     = {No NAT'd User Left Behind: Fingerprinting Users behind {NAT} from {NetFlow} Records Alone},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {218-227},
+}
+
+@inproceedings{DBLP:conf/icdcs/SuhKDFC14,
+  author    = {Junho Suh and
+               Ted Taekyoung Kwon and
+               Colin Dixon and
+               Wes Felter and
+               John B. Carter},
+  title     = {OpenSample: A Low-Latency, {Sampling-Based} Measurement Platform for Commodity {SDN}},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {228-237},
+}
+
+@inproceedings{DBLP:conf/icdcs/TsoOKP14,
+  author    = {Fung Po Tso and
+               Konstantinos Oikonomou and
+               Eleni Kavvadia and
+               Dimitrios P. Pezaros},
+  title     = {Scalable {Traffic-Aware} Virtual Machine Management for Cloud Data Centers},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {238-247},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangZZVRL14,
+  author    = {Lin Wang and
+               Fa Zhang and
+               Kai Zheng and
+               Athanasios V. Vasilakos and
+               Shaolei Ren and
+               Zhiyong Liu},
+  title     = {{Energy-Efficient} Flow Scheduling and Routing with Hard Deadlines in Data Center Networks},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {248-257},
+}
+
+@inproceedings{DBLP:conf/icdcs/YuS14,
+  author    = {Lei Yu and
+               Haiying Shen},
+  title     = {Bandwidth Guarantee under Demand Uncertainty in Multi-tenant Clouds},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {258-267},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiuSC014,
+  author    = {Guoxin Liu and
+               Haiying Shen and
+               Harrison Chandler and
+               Jin Li},
+  title     = {Measuring and Evaluating Live Content Consistency in a {Large-Scale} {CDN}},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {268-277},
+}
+
+@inproceedings{DBLP:conf/icdcs/FriedmanLV14,
+  author    = {Roy Friedman and
+               Alexander Libov and
+               Ymir Vigfusson},
+  title     = {MOLStream: A Modular Rapid Development and Evaluation Framework for Live P2P Streaming},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {278-287},
+}
+
+@inproceedings{DBLP:conf/icdcs/BougetKKT14,
+  author    = {Simon Bouget and
+               Hoel Kervadec and
+               Anne-Marie Kermarrec and
+               François Taïani},
+  title     = {Polystyrene: the Decentralized Data Shape That Never Dies},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {288-297},
+}
+
+@inproceedings{DBLP:conf/icdcs/ShenLC14,
+  author    = {Haiying Shen and
+               Yuhua Lin and
+               Harrison Chandler},
+  title     = {An {Interest-Based} {Per-Community} P2P Hierarchical Structure for Short Video Sharing in the {YouTube} Social Network},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {298-307},
+}
+
+@inproceedings{DBLP:conf/icdcs/MoQC14,
+  author    = {Zhen Mo and
+               Yan Qiao and
+               Shigang Chen},
+  title     = {{Two-Party} {Fine-Grained} Assured Deletion of Outsourced Data in Cloud Systems},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {308-317},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhuHZL14,
+  author    = {Jieming Zhu and
+               Pinjia He and
+               Zibin Zheng and
+               Michael R. Lyu},
+  title     = {Towards Online, Accurate, and Scalable {QoS} Prediction for Runtime Service Adaptation},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {318-327},
+}
+
+@inproceedings{DBLP:conf/icdcs/BalaniJBV14,
+  author    = {Rahul Balani and
+               Deepak Jeswani and
+               Dipyaman Banerjee and
+               Akshat Verma},
+  title     = {Columbus: Configuration Discovery for Clouds},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {328-337},
+}
+
+@inproceedings{DBLP:conf/icdcs/LunaBBC14,
+  author    = {Giuseppe Antonio Di Luna and
+               Roberto Baldoni and
+               Silvia Bonomi and
+               Ioannis Chatzigiannakis},
+  title     = {Counting in Anonymous Dynamic Networks under {Worst-Case} Adversary},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {338-347},
+}
+
+@inproceedings{DBLP:conf/icdcs/AlistarhKMS14,
+  author    = {Dan Alistarh and
+               Justin Kopinsky and
+               Alexander Matveev and
+               Nir Shavit},
+  title     = {The LevelArray: A Fast, Practical {Long-Lived} Renaming Algorithm},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {348-357},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChenRSS14,
+  author    = {Sixia Chen and
+               Alexander Russell and
+               Abhishek Samanta and
+               Ravi Sundaram},
+  title     = {Deterministic Blind Rendezvous in Cognitive Radio Networks},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {358-367},
+}
+
+@inproceedings{DBLP:conf/icdcs/MarandiBP14,
+  author    = {Parisa Jalili Marandi and
+               Carlos Eduardo Benevides Bezerra and
+               Fernando Pedone},
+  title     = {Rethinking {State-Machine} Replication for Parallelism},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {368-377},
+}
+
+@inproceedings{DBLP:conf/icdcs/XuJTH14,
+  author    = {Lei Xu and
+               Hong Jiang and
+               Lei Tian and
+               Ziling Huang},
+  title     = {Propeller: A Scalable {Real-Time} {File-Search} Service in Distributed Systems},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {378-388},
+}
+
+@inproceedings{DBLP:conf/icdcs/GadSB14,
+  author    = {Ramy Gad and
+               Tim Süß and
+               André Brinkmann},
+  title     = {Compiler Driven Automatic Kernel Context Migration for Heterogeneous Computing},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {389-398},
+}
+
+@inproceedings{DBLP:conf/icdcs/MaLZGL14,
+  author    = {Qiang Ma and
+               Kebin Liu and
+               Tong Zhu and
+               Wei Gong and
+               Yunhao Liu},
+  title     = {BOND: Exploring Hidden Bottleneck Nodes in {Large-Scale} Wireless Sensor Networks},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {399-408},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiMCLL14,
+  author    = {Xiaoxu Li and
+               Qiang Ma and
+               Zhichao Cao and
+               Kebin Liu and
+               Yunhao Liu},
+  title     = {Enhancing Visibility of Network Performance in {Large-Scale} Sensor Networks},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {409-418},
+}
+
+@inproceedings{DBLP:conf/icdcs/GaoDCBCXLX14,
+  author    = {Yi Gao and
+               Wei Dong and
+               Chun Chen and
+               Jiajun Bu and
+               Tianyu Chen and
+               Mingyuan Xia and
+               Xue Liu and
+               Xianghua Xu},
+  title     = {Domo: Passive {Per-Packet} Delay Tomography in Wireless Ad-hoc Networks},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {419-428},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiLLMSL14,
+  author    = {Cheng Li and
+               Zhenjiang Li and
+               Mo Li and
+               Forrest Meggers and
+               Arno Schlueter and
+               Hock Beng Lim},
+  title     = {Energy Efficient {HVAC} System with Distributed Sensing and Control},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {429-438},
+}
+
+@inproceedings{DBLP:conf/icdcs/DaiLCWH14,
+  author    = {Haipeng Dai and
+               Yunhuai Liu and
+               Guihai Chen and
+               Xiaobing Wu and
+               Tian He},
+  title     = {SCAPE: Safe Charging with Adjustable Power},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {439-448},
+}
+
+@inproceedings{DBLP:conf/icdcs/BerralGNGTB14,
+  author    = {Josep Lluis Berral and
+               Iñigo Goiri and
+               Thu D. Nguyen and
+               Ricard Gavaldà and
+               Jordi Torres and
+               Ricardo Bianchini},
+  title     = {Building Green Cloud Services at Low Cost},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {449-460},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhouHLLLLY14,
+  author    = {Yaqin Zhou and
+               Qiuyuan Huang and
+               Fan Li and
+               Xiang-Yang Li and
+               Min Liu and
+               Zhongcheng Li and
+               Zhiyuan Yin},
+  title     = {Almost Optimal Channel Access in {Multi-Hop} Networks with Unknown Channel Variables},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {461-470},
+}
+
+@inproceedings{DBLP:conf/icdcs/EugsterKNS14,
+  author    = {Patrick Th. Eugster and
+               Kirill Kogan and
+               Sergey I. Nikolenko and
+               Alexander Sirotkin},
+  title     = {Shared Memory Buffer Management for Heterogeneous Packet Processing},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {471-480},
+}
+
+@inproceedings{DBLP:conf/icdcs/TatiSHP14,
+  author    = {Srikar Tati and
+               Simone Silvestri and
+               T. He and
+               Thomas F. La Porta},
+  title     = {Robust Network Tomography in the Presence of Failures},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {481-492},
+}
+
+@inproceedings{DBLP:conf/icdcs/GolabRAKG14,
+  author    = {Wojciech M. Golab and
+               Muntasir Raihan Rahman and
+               Alvin AuYoung and
+               Kimberly Keeton and
+               Indranil Gupta},
+  title     = {{Client-Centric} Benchmarking of Eventual Consistency for Cloud Storage Systems},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {493-502},
+}
+
+@inproceedings{DBLP:conf/icdcs/SinghCCWD14,
+  author    = {Akshay K. Singh and
+               Xu Cui and
+               Benjamin Cassell and
+               Bernard Wong and
+               Khuzaima Daudjee},
+  title     = {MicroFuge: A Middleware Approach to Providing Performance Isolation in Cloud Storage Systems},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {503-513},
+}
+
+@inproceedings{DBLP:conf/icdcs/HeSF14,
+  author    = {Shuibing He and
+               Xian-He Sun and
+               Bo Feng},
+  title     = {S4D-Cache: Smart Selective {SSD} Cache for Parallel I/O Systems},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {514-523},
+}
+
+@inproceedings{DBLP:conf/icdcs/WilsonKG14,
+  author    = {Ellis Herbert Wilson and
+               Mahmut T. Kandemir and
+               Garth Gibson},
+  title     = {Will They Blend?: Exploring Big Data Computation Atop Traditional {HPC} {NAS} Storage},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {524-534},
+}
+
+@inproceedings{DBLP:conf/icdcs/XuCTS14,
+  author    = {Jielong Xu and
+               Zhenhua Chen and
+               Jian Tang and
+               Sen Su},
+  title     = {T-Storm: {Traffic-Aware} Online Scheduling in Storm},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {535-544},
+}
+
+@inproceedings{DBLP:conf/icdcs/UrbaniMJVB14,
+  author    = {Jacopo Urbani and
+               Alessandro Margara and
+               Ceriel J. H. Jacobs and
+               Spyros Voulgaris and
+               Henri E. Bal},
+  title     = {AJIRA: A Lightweight Distributed Middleware for {MapReduce} and Stream Processing},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {545-554},
+}
+
+@inproceedings{DBLP:conf/icdcs/SettyVKUS14,
+  author    = {Vinay Setty and
+               Roman Vitenberg and
+               Gunnar Kreitz and
+               Guido Urdaneta and
+               Maarten van Steen},
+  title     = {{Cost-Effective} Resource Allocation for Deploying Pub/Sub on Cloud},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {555-566},
+}
+
+@inproceedings{DBLP:conf/icdcs/BarazzuttiHMOFFJPR14,
+  author    = {Raphaël Barazzutti and
+               Thomas Heinze and
+               Andre Martin and
+               Emanuel Onica and
+               Pascal Felber and
+               Christof Fetzer and
+               Zbigniew Jerzak and
+               Marcelo Pasin and
+               Etienne Riviere},
+  title     = {Elastic Scaling of a {High-Throughput} {Content-Based} Publish/Subscribe Engine},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {567-576},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangZWZN14,
+  author    = {Guanhua Wang and
+               Shanfeng Zhang and
+               Kaishun Wu and
+               Qian Zhang and
+               Lionel M. Ni},
+  title     = {TiM: {Fine-Grained} Rate Adaptation in {WLANs}},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {577-586},
+}
+
+@inproceedings{DBLP:conf/icdcs/XiaoYWLZWN14,
+  author    = {Jiang Xiao and
+               Youwen Yi and
+               Lu Wang and
+               Haochao Li and
+               Zimu Zhou and
+               Kaishun Wu and
+               Lionel M. Ni},
+  title     = {NomLoc: {Calibration-Free} Indoor Localization with Nomadic Access Points},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {587-596},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiuG0HLL14,
+  author    = {Haoxiang Liu and
+               Wei Gong and
+               Lei Chen and
+               Wenbo He and
+               Kebin Liu and
+               Yunhao Liu},
+  title     = {Generic Composite Counting in {RFID} Systems},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {597-606},
+}
+
+@inproceedings{DBLP:conf/icdcs/BienkowskiSSU14,
+  author    = {Marcin Bienkowski and
+               Nadi Sarrar and
+               Stefan Schmid and
+               Steve Uhlig},
+  title     = {Competitive {FIB} Aggregation without Update Churn},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {607-616},
+}
+
+@inproceedings{DBLP:conf/icdcs/KhabbazianN14,
+  author    = {Majid Khabbazian and
+               Di Niu},
+  title     = {Achieving Absolutely Optimal Block Pipelining in Organized Network Coded Gossip},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {617-626},
+}
+
+@inproceedings{DBLP:conf/icdcs/NguyenT14,
+  author    = {Nhan Nguyen and
+               Philippas Tsigas},
+  title     = {{Lock-Free} Cuckoo Hashing},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {627-636},
+}
+
+@inproceedings{DBLP:conf/icdcs/AndroulakiSMC14,
+  author    = {Elli Androulaki and
+               Claudio Soriente and
+               Luka Malisa and
+               Srdjan Capkun},
+  title     = {Enforcing Location and {Time-Based} Access Control on {Cloud-Stored} Data},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {637-648},
+}
+
+@inproceedings{DBLP:conf/icdcs/RahmanAK14,
+  author    = {Mohammad Ashiqur Rahman and
+               Ehab Al-Shaer and
+               Rajesh G. Kavasseri},
+  title     = {Impact Analysis of Topology Poisoning Attacks on Economic Operation of the Smart Power Grid},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {649-659},
+}
+
+@inproceedings{DBLP:conf/icdcs/LeeSHKN14,
+  author    = {Hyojeong Lee and
+               Jeff Seibert and
+               Md. Endadul Hoque and
+               Charles Edwin Killian and
+               Cristina Nita-Rotaru},
+  title     = {Turret: A Platform for Automated Attack Finding in Unmodified Distributed System Implementations},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {660-669},
+}
+
+@inproceedings{DBLP:conf/icdcs/GerschMP14,
+  author    = {Joseph Gersch and
+               Daniel Massey and
+               Christos Papadopoulos},
+  title     = {Incremental Deployment Strategies for Effective Detection and Prevention of {BGP} Origin Hijacks},
+  booktitle = icdcs,
+  year      = 2014,
+  pages     = {670-679},
+}
+
 @inproceedings{DBLP:conf/icdcs/MengIRL13,
   author    = {Shicong Meng and
                Arun Iyengar and
@@ -306,7 +1060,7 @@
 
 @inproceedings{DBLP:conf/icdcs/DenysyukR13,
   author    = {Oksana Denysyuk and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {{Order-Preserving} Renaming in Synchronous Systems with Byzantine Faults},
   booktitle = icdcs,
   year      = 2013,
@@ -1168,7 +1922,7 @@
                Pedro Ruivo and
                Paolo Romano and
                Francesco Quaglia and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {When Scalability Meets Consistency: Genuine Multiversion {Update-Serializable} Partial Data Replication},
   booktitle = icdcs,
   year      = 2012,
@@ -1282,7 +2036,7 @@
   author    = {Feng Li and
                Jun Luo and
                Shi-Qing Xin and
-               Wen-Ping Wang and
+               Wenping Wang and
                Ying He},
   title     = {LAACAD: Load Balancing {k-Area} Coverage through Autonomous Deployment in Wireless Sensor Networks},
   booktitle = icdcs,
@@ -1943,7 +2697,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/TangLSZDD11,
-  author    = {ShaoJie Tang and
+  author    = {Shaojie Tang and
                Xiang-Yang Li and
                Xingfa Shen and
                Jianhui Zhang and
@@ -2908,7 +3662,7 @@
 
 @inproceedings{DBLP:conf/icdcs/XuTML10,
   author    = {XiaoHua Xu and
-               ShaoJie Tang and
+               Shaojie Tang and
                XuFei Mao and
                Xiang-Yang Li},
   title     = {Distributed Gateway Placement for Cost Minimization in Wireless Mesh Networks},
@@ -3423,7 +4177,7 @@
 
 @inproceedings{DBLP:conf/icdcs/WangTLJL09,
   author    = {Cheng Wang and
-               ShaoJie Tang and
+               Shaojie Tang and
                Xiang-Yang Li and
                Changjun Jiang and
                Yunhao Liu},
@@ -8076,7 +8830,7 @@
                Qing Cao and
                Yong Chen and
                David Evans and
-               J. George and
+               Jemin George and
                Selvin George and
                Lin Gu and
                Tian He and
@@ -10592,7 +11346,7 @@
 @inproceedings{DBLP:conf/icdcs/MirandaPR01,
   author    = {Hugo Miranda and
                Alexandre S. Pinto and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Appia: A Flexible Protocol Kernel Supporting Multiple Coordinated Channels},
   booktitle = icdcs,
   year      = 2001,
@@ -10727,7 +11481,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/RodriguesG00,
-  author    = {Luís Rodrigues and
+  author    = {Luís E. T. Rodrigues and
                Katherine Guo},
   title     = {Partitionable {Light-Weight} Groups},
   booktitle = icdcs,
@@ -10987,7 +11741,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/RodriguesR00,
-  author    = {Luís Rodrigues and
+  author    = {Luís E. T. Rodrigues and
                Michel Raynal},
   title     = {Atomic Broadcast in Asynchronous {Crash-Recovery} Distributed Systems},
   booktitle = icdcs,
@@ -12702,7 +13456,7 @@
 
 @inproceedings{DBLP:conf/icdcs/GuoR97,
   author    = {Katherine Guo and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Dynamic {Light-Weight} Groups},
   booktitle = icdcs,
   year      = 1997,
@@ -13538,7 +14292,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/ChangM96,
-  author    = {Chung-yen Chang and
+  author    = {Chung-Yen Chang and
                Prasant Mohapatra},
   title     = {An Adaptive Job Allocation Method for {Directly-Connected} Multicomputer Systems},
   booktitle = icdcs,
@@ -13830,7 +14584,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/RodriguesFV96,
-  author    = {Luís Rodrigues and
+  author    = {Luís E. T. Rodrigues and
                Henrique Fonseca and
                Paulo Veríssimo},
   title     = {Totally Ordered Multicast in {Large-Scale} Systems},
@@ -14228,7 +14982,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/RodriguesV95,
-  author    = {Luís Rodrigues and
+  author    = {Luís E. T. Rodrigues and
                Paulo Veríssimo},
   title     = {Causal Separators for {Large-Scale} Multicast Communication},
   booktitle = icdcs,
@@ -16013,7 +16767,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/RodriguesVR93,
-  author    = {Luís Rodrigues and
+  author    = {Luís E. T. Rodrigues and
                Paulo Veríssimo and
                José Rufino},
   title     = {A Low-level Processor Group Membership Protocol for {LANS}},
@@ -20223,7 +20977,7 @@
 
 @inproceedings{DBLP:conf/icdcs/BrockOP86,
   author    = {J. Dean Brock and
-               Amos Omondi and
+               Amos R. Omondi and
                David A. Plaisted},
   title     = {A Multiprocessor Architecture for {Medium-Grain} Parallelism},
   booktitle = icdcs,
@@ -21030,7 +21784,7 @@
 
 @inproceedings{DBLP:conf/icdcs/ArmstrongM85,
   author    = {William Ward Armstrong and
-               A. S. Mohamed},
+               Ahmed S. Mohamed},
   title     = {A {Mixed-Flow} Query Processing Strategy for a Multiprocessor Database System},
   booktitle = icdcs,
   year      = 1985,
@@ -22895,7 +23649,7 @@
 
 @inproceedings{DBLP:conf/icdcs/MamrakAGL82,
   author    = {Sandra A. Mamrak and
-               W. E. Ayen and
+               William E. Ayen and
                Fawzi F. Gherfal and
                Dennis W. Leinbaugh},
   title     = {Performance Measurement and Exception Handling in Desperanto's Distributed Environment},
@@ -23238,7 +23992,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/BryantF81,
-  author    = {R. M. Bryant and
+  author    = {Raymond M. Bryant and
                Raphael A. Finkel},
   title     = {A Stable Distributed Scheduling Algorithm},
   booktitle = icdcs,

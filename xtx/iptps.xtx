@@ -67,7 +67,7 @@
 @inproceedings{DBLP:conf/iptps/LeitaoRR10,
   author    = {João Leitão and
                Robbert van Renesse and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Balancing gossip exchanges in networks with firewalls},
   booktitle = iptps,
   year      = 2010,
@@ -525,7 +525,7 @@
                Rodrigo Rodrigues and
                Carlos Ribeiro and
                Paulo Ferreira and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Verme: Worm Containment in {Peer-to-Peer} Overlays},
   booktitle = iptps,
   year      = 2007,
@@ -1106,7 +1106,7 @@
 }
 
 @inproceedings{DBLP:conf/iptps/Le-BlondGL05,
-  author    = {Stevens Le-Blond and
+  author    = {Stevens Le Blond and
                Jean-Loup Guillaume and
                Matthieu Latapy},
   title     = {Clustering in P2P Exchanges and Consequences on Performances},

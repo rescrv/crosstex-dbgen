@@ -1239,7 +1239,7 @@
 
 @inproceedings{DBLP:conf/sigopsE/MirandaR00,
   author    = {Hugo Miranda and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Balancing configurability and efficiency in network support tools},
   booktitle = esigops,
   year      = 2000,
@@ -2308,7 +2308,7 @@
 }
 
 @inproceedings{DBLP:conf/sigopsE/RodriguesV94,
-  author    = {Luís Rodrigues and
+  author    = {Luís E. T. Rodrigues and
                Paulo Veríssimo},
   title     = {How to avoid cost of causal communication in large-scale Systems},
   booktitle = esigops,
@@ -2849,7 +2849,7 @@
 
 @inproceedings{DBLP:conf/sigopsE/VerissimoR92,
   author    = {Paulo Veríssimo and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Group orientation: a paradigm for modern distributed systems},
   booktitle = esigops,
   year      = 1992,
@@ -2858,7 +2858,7 @@
 @inproceedings{DBLP:conf/sigopsE/VogelsVR92,
   author    = {Werner Vogels and
                Paulo Veríssimo and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Requirements for high performance group support in distributed systems},
   booktitle = esigops,
   year      = 1992,
@@ -3703,8 +3703,7 @@
 
 @inproceedings{DBLP:conf/sigopsE/BerbersVL86,
   author    = {Yolande Berbers and
-               Pierre Verbaeten and
-               K. U. Leuven},
+               Pierre Verbaeten},
   title     = {Project: the structure of the {HERMIX} distributed operating system},
   booktitle = esigops,
   year      = 1986,

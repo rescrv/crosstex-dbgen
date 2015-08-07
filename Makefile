@@ -17,10 +17,10 @@ pre-wipe:
 	rm -f xtx/*
 
 xtx/TIMESTAMP: dblp.xml dblp.dtd dblpparse.py latex.py pre-wipe xtx/locations.xtx  overrides.py  parentheticals.py
-	python dblpparse.py
+	python2 dblpparse.py
 
 xtx/locations.xtx: locations.py
-	python locations.py
+	python2 locations.py
 
 dblp.dtd:
 	wget -Nq http://dblp.uni-trier.de/xml/dblp.dtd

@@ -4262,10 +4262,10 @@
 }
 
 @inproceedings{DBLP:conf/saint/NamikiHMWI08,
-  author    = {S. Namiki and
+  author    = {Shu Namiki and
                Toshifumi Hasama and
-               M. Mori and
-               M. Watanabe and
+               Masahiko Mori and
+               Masanobu Watanabe and
                Hiroshi Ishikawa},
   title     = {Dynamic Optical Path Switching for {Ultra-Low} Energy Consumption and Its Enabling Device Technologies},
   booktitle = saint,
@@ -6458,7 +6458,7 @@
 }
 
 @inproceedings{DBLP:conf/saint/SchneiderLB06,
-  author    = {Joerg Schneider and
+  author    = {Jörg Schneider and
                Barry Linnert and
                Lars-Olof Burchard},
   title     = {Distributed Workflow Management for {Large-Scale} Grid Environments},

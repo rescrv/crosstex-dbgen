@@ -1,11 +1,1136 @@
 @include journals-cs
 
+@article{DBLP:journals/computer/Conte15,
+  author    = {Tom Conte},
+  title     = {A Time of Change},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {4-6},
+}
+
+@article{DBLP:journals/computer/Bertino15,
+  author    = {Elisa Bertino},
+  title     = {{Denial-of-Service} Attacks to {UMTS}},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {6},
+}
+
+@article{DBLP:journals/computer/Forsyth15,
+  author    = {David Forsyth},
+  title     = {Representation Learning},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {6},
+}
+
+@article{DBLP:journals/computer/Liu15,
+  author    = {Ling Liu},
+  title     = {Enhancing Cloud Services through Multitier Workload Analysis},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {6},
+}
+
+@article{DBLP:journals/computer/Mohapatra15,
+  author    = {Prasant Mohapatra},
+  title     = {Distributed Optimal Channel Access in Cognitive Radio Networks},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {6},
+}
+
+@article{DBLP:journals/computer/Schuller15,
+  author    = {Björn W. Schuller},
+  title     = {Do Computers Have Personality?},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {6-7},
+}
+
+@article{DBLP:journals/computer/Severance15c,
+  author    = {Charles Severance},
+  title     = {John Resig: Building {JQuery}},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {7-8},
+}
+
+@article{DBLP:journals/computer/Gaff15b,
+  author    = {Brian M. Gaff},
+  title     = {Important {IP} Cases in 2015, Part One},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {7-9},
+}
+
+@article{DBLP:journals/computer/Helal15,
+  author    = {Sumi Helal},
+  title     = {Sustaining Computer's Impact and Adapting to Change},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {7-9},
+}
+
+@article{DBLP:journals/computer/Severance15a,
+  author    = {Charles Severance},
+  title     = {Guido van Rossum: The Early Years of Python},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {7-9},
+}
+
+@article{DBLP:journals/computer/Severance15d,
+  author    = {Charles Severance},
+  title     = {Roy T. Fielding: Understanding the {REST} Style},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {7-9},
+}
+
+@article{DBLP:journals/computer/Severance15b,
+  author    = {Charles Severance},
+  title     = {Guido van Rossum: The Modern Era of Python},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {8-10},
+}
+
+@article{DBLP:journals/computer/Gaff15c,
+  author    = {Brian M. Gaff},
+  title     = {Important {IP} Cases in 2015, Part Two},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {9-11},
+}
+
+@article{DBLP:journals/computer/Gaff15a,
+  author    = {Brian M. Gaff},
+  title     = {BYOD? OMG!},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {10-11},
+}
+
+@article{DBLP:journals/computer/Xu15,
+  author    = {Ying Xu},
+  title     = {Carrying out Phylogenetic Analyses through Computational Model Checking},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {12},
+}
+
+@article{DBLP:journals/computer/HsuMV15,
+  author    = {D. Frank Hsu and
+               Dorothy Marinucci and
+               Jeffrey M. Voas},
+  title     = {Cybersecurity: Toward a Secure and Sustainable Cyber Ecosystem},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {12-14},
+}
+
+@article{DBLP:journals/computer/StarnerM15,
+  author    = {Thad Starner and
+               Tom Martin},
+  title     = {Wearable Computing: The New Dress Code [Guest editors' introduction]},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {12-15},
+}
+
+@article{DBLP:journals/computer/Garber15,
+  author    = {Lee Garber},
+  title     = {News},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {13-19},
+}
+
+@article{DBLP:journals/computer/Severance15,
+  author    = {Charles Severance},
+  title     = {Khan Academy and Computer Science},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {14-15},
+}
+
+@article{DBLP:journals/computer/VetterM15,
+  author    = {Ron Vetter and
+               San Murugesan},
+  title     = {The Web: The Next 25 Years},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {14-17},
+}
+
+@article{DBLP:journals/computer/Gaff15,
+  author    = {Brian M. Gaff},
+  title     = {{IP} Issues for Start-ups},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {16-18},
+}
+
+@article{DBLP:journals/computer/GuoWSSBG15,
+  author    = {Anhong Guo and
+               Xiaolong Wu and
+               Zhengyang Shen and
+               Thad Starner and
+               Hannes Baumann and
+               Scott M. Gilliland},
+  title     = {Order Picking with {Head-Up} Displays},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {16-24},
+}
+
+@article{DBLP:journals/computer/Lee15,
+  author    = {Ruby B. Lee},
+  title     = {Rethinking Computers for Cybersecurity},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {16-25},
+}
+
+@article{DBLP:journals/computer/PendyalaSB15,
+  author    = {Vishnu S. Pendyala and
+               Simon S. Y. Shim and
+               Christoph Bussler},
+  title     = {The Web That Extends beyond the World},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {18-25},
+}
+
+@article{DBLP:journals/computer/GudivadaBR15,
+  author    = {Venkat N. Gudivada and
+               Ricardo A. Baeza-Yates and
+               Vijay V. Raghavan},
+  title     = {Big Data: Promises and Problems},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {20-23},
+}
+
+@article{DBLP:journals/computer/WeaverB15,
+  author    = {Alf Weaver and
+               Renée C. Bryce},
+  title     = {Technological Advances in Medicine: It's Personal [Guest editors' introduction]},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {21-23},
+}
+
+@article{DBLP:journals/computer/Li15,
+  author    = {Jingquan Li},
+  title     = {Ensuring Privacy in a Personal Health Record System},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {24-31},
+}
+
+@article{DBLP:journals/computer/CastellanaMWTHV15,
+  author    = {Vito Giovanni Castellana and
+               Alessandro Morari and
+               Jesse Weaver and
+               Antonino Tumeo and
+               David Haglin and
+               Oreste Villa and
+               John Feo},
+  title     = {{In-Memory} Graph Databases for {Web-Scale} Data},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {24-35},
+}
+
+@article{DBLP:journals/computer/Kirkham15,
+  author    = {Reuben Kirkham},
+  title     = {Can Disability Discrimination Law Expand the Availability of Wearable Computers?},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {25-33},
+}
+
+@article{DBLP:journals/computer/Raggett15,
+  author    = {Dave Raggett},
+  title     = {The Web of Things: Challenges and Opportunities},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {26-32},
+}
+
+@article{DBLP:journals/computer/GillmanLMS15,
+  author    = {David Gillman and
+               Yin Lin and
+               Bruce M. Maggs and
+               Ramesh K. Sitaraman},
+  title     = {Protecting Websites from Attack with Secure Delivery Networks},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {26-34},
+}
+
+@article{DBLP:journals/computer/WantSJ15,
+  author    = {Roy Want and
+               Bill N. Schilit and
+               Scott Jenson},
+  title     = {Enabling the Internet of Things},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {28-35},
+}
+
+@article{DBLP:journals/computer/VelikovaLH15,
+  author    = {Marina Velikova and
+               Peter J. F. Lucas and
+               Maarten van der Heijden},
+  title     = {Intelligent Disease {Self-Management} with Mobile Technology},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {32-39},
+}
+
+@article{DBLP:journals/computer/HammerY15,
+  author    = {Jon C. Hammer and
+               Tingxin Yan},
+  title     = {Inferring Mobile User Status with Usage Cues},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {34-40},
+}
+
+@article{DBLP:journals/computer/HeuerHP15,
+  author    = {Jörg Heuer and
+               Johannes Hund and
+               Oliver Pfaff},
+  title     = {Toward the Web of Things: Applying Web Technologies to the Physical World},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {34-42},
+}
+
+@article{DBLP:journals/computer/GebaraHN15,
+  author    = {Fadi H. Gebara and
+               H. Peter Hofstee and
+               Kevin J. Nowka},
+  title     = {{Second-Generation} Big Data Systems},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {36-41},
+}
+
+@article{DBLP:journals/computer/ZhuangRX15,
+  author    = {Zhenyun Zhuang and
+               Haricharan Ramachandra and
+               Chaoyue Xiong},
+  title     = {Taming Replication Latency of Big Data Events with Capacity Planning},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {36-41},
+}
+
+@article{DBLP:journals/computer/HeckmanSST15,
+  author    = {Kristin E. Heckman and
+               Frank J. Stech and
+               Ben S. Schmoker and
+               Roshan K. Thomas},
+  title     = {Denial and Deception in Cyber Defense},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {36-44},
+}
+
+@article{DBLP:journals/computer/RosalesSB15,
+  author    = {Andrea Rosales and
+               Sergio Sayago and
+               Josep Blat},
+  title     = {Beeping Socks and Chirping Arm Bands: Wearables That Foster Free Play},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {41-48},
+}
+
+@article{DBLP:journals/computer/KangWHPS15,
+  author    = {Kyungtae Kang and
+               Qixin Wang and
+               Junbeom Hur and
+               Kyung-Joon Park and
+               Lui Sha},
+  title     = {{Medical-Grade} Quality of Service for {Real-Time} Mobile Healthcare},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {41-49},
+}
+
+@article{DBLP:journals/computer/BansalK15,
+  author    = {Srividya K. Bansal and
+               Sebastian Kagemann},
+  title     = {Integrating Big Data: A Semantic {Extract-Transform-Load} Framework},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {42-50},
+}
+
+@article{DBLP:journals/computer/FonashS15,
+  author    = {Peter Fonash and
+               Phyllis Schneck},
+  title     = {Cybersecurity: From Months to Milliseconds},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {42-50},
+}
+
+@article{DBLP:journals/computer/VetterM15a,
+  author    = {Ron Vetter and
+               San Murugesan},
+  title     = {Roundtable Discussion: The Web We Look Forward To},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {44-50},
+}
+
+@article{DBLP:journals/computer/VagounS15,
+  author    = {Tomas Vagoun and
+               George O. Strawn},
+  title     = {Implementing the Federal Cybersecurity R&D Strategy},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {45-55},
+}
+
+@article{DBLP:journals/computer/BahgaM15,
+  author    = {Arshdeep Bahga and
+               Vijay Krishna Madisetti},
+  title     = {Healthcare Data Integration and Informatics in the Cloud},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {50-57},
+}
+
+@article{DBLP:journals/computer/UllahMV15,
+  author    = {Najeeb Ullah and
+               Maurizio Morisio and
+               Antonio Vetro},
+  title     = {Selecting the Best Reliability Model to Predict Residual Defects in Open Source Software},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {50-58},
+}
+
+@article{DBLP:journals/computer/Riehle15,
+  author    = {Dirk Riehle},
+  title     = {How Open Source Is Changing the Software Developer's Career},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {51-57},
+}
+
+@article{DBLP:journals/computer/PatsakisLCBS15,
+  author    = {Constantinos Patsakis and
+               Paul Laird and
+               Michael Clear and
+               Mélanie Bouroche and
+               Agusti Solanas},
+  title     = {Interoperable {Privacy-Aware} {E-Participation} within Smart Cities},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {52-58},
+}
+
+@article{DBLP:journals/computer/KaurR15,
+  author    = {Karamjit Kaur and
+               Rinkle Rani},
+  title     = {Managing Data in Healthcare Information Systems: Many Models, One Solution},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {52-59},
+}
+
+@article{DBLP:journals/computer/Chai15,
+  author    = {Sek Chai},
+  title     = {Enabling Smart Camera Networks with Smartphone Processors},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {56-63},
+}
+
+@article{DBLP:journals/computer/SchlessmanW15,
+  author    = {Jason Schlessman and
+               Marilyn Wolf},
+  title     = {Tailoring Design for Embedded Computer Vision Applications},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {58-62},
+}
+
+@article{DBLP:journals/computer/AydayCHT15,
+  author    = {Erman Ayday and
+               Emiliano De Cristofaro and
+               Jean-Pierre Hubaux and
+               Gene Tsudik},
+  title     = {Whole Genome Sequencing: Revolutionary Medicine or Privacy Nightmare?},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {58-66},
+}
+
+@article{DBLP:journals/computer/CragoW15,
+  author    = {Stephen P. Crago and
+               John Paul Walters},
+  title     = {Heterogeneous Cloud Computing: The Way Forward},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {59-61},
+}
+
+@article{DBLP:journals/computer/Byrd15b,
+  author    = {Greg Byrd},
+  title     = {Tracking Cows Wirelessly},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {60-63},
+}
+
+@article{DBLP:journals/computer/GieseSVWHJLRXOR15,
+  author    = {Martin Giese and
+               Ahmet Soylu and
+               Guillermo Vega-Gorgojo and
+               Arild Waaler and
+               Peter Haase and
+               Ernesto Jiménez-Ruiz and
+               Davide Lanti and
+               Martín Rezk and
+               Guohui Xiao and
+               Özgür L. Özçep and
+               Riccardo Rosati},
+  title     = {Optique: Zooming in on Big Data},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {60-67},
+}
+
+@article{DBLP:journals/computer/CaviglioneM15,
+  author    = {Luca Caviglione and
+               Wojciech Mazurczyk},
+  title     = {Understanding Information Hiding in {iOS}},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {62-65},
+}
+
+@article{DBLP:journals/computer/Berghel15e,
+  author    = {Hal Berghel},
+  title     = {A Farewell to Air Gaps, Part 1},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {64-68},
+}
+
+@article{DBLP:journals/computer/LucaL15,
+  author    = {Alexander De Luca and
+               Janne Lindqvist},
+  title     = {Is Secure and Usable Smartphone Authentication Asking Too Much?},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {64-68},
+}
+
+@article{DBLP:journals/computer/HagarWKK15,
+  author    = {Jon D. Hagar and
+               Thomas L. Wissink and
+               D. Richard Kuhn and
+               Raghu Kacker},
+  title     = {Introducing Combinatorial Testing in a Large Organization},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {64-72},
+}
+
+@article{DBLP:journals/computer/Daniels15,
+  author    = {Mitchell E. Daniels},
+  title     = {Measuring Great Jobs and Great Lives: The {Gallup-Purdue} Index},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {66-69},
+}
+
+@article{DBLP:journals/computer/Spring15,
+  author    = {Adam P. Spring},
+  title     = {Creating Substance from a Cloud: {Low-Cost} Product Generation},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {67-74},
+}
+
+@article{DBLP:journals/computer/AlkhatibFFKLLMM15,
+  author    = {Hasan Alkhatib and
+               Paolo Faraboschi and
+               Eitan Frachtenberg and
+               Hironori Kasahara and
+               Danny B. Lange and
+               Phil Laplante and
+               Arif Merchant and
+               Dejan S. Milojicic and
+               Karsten Schwan},
+  title     = {What Will 2022 Look Like? The {IEEE} {CS} 2022 Report},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {68-76},
+}
+
+@article{DBLP:journals/computer/DraudtHHMSW15,
+  author    = {Alida Draudt and
+               Jonjozuf Hadley and
+               Ryan Hogan and
+               Leticia Murray and
+               Gregory Stock and
+               Julia Rose West},
+  title     = {Six Insights about Science Fiction Prototyping},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {69-71},
+}
+
+@article{DBLP:journals/computer/Voas15,
+  author    = {Jeffrey M. Voas},
+  title     = {Vetting Mobile App Vendors},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {69-71},
+}
+
+@article{DBLP:journals/computer/Popper15,
+  author    = {Ari Popper},
+  title     = {Transforming Business through Science Fiction Prototyping},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {70-72},
+}
+
+@article{DBLP:journals/computer/HahnleJ15,
+  author    = {Reiner Hähnle and
+               Einar Broch Johnsen},
+  title     = {Rethinking Nonfunctional Software Requirements},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {72-75},
+}
+
+@article{DBLP:journals/computer/ZhouL15,
+  author    = {Wenqi Zhou and
+               Yuhong Liu},
+  title     = {Online Product Rating Manipulation and Market Performance},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {72-75},
+}
+
+@article{DBLP:journals/computer/Costley15,
+  author    = {Jennifer Costley},
+  title     = {Leveraging the Standards Life Cycle for Green {IT}},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {73-75},
+}
+
+@article{DBLP:journals/computer/Byrd15a,
+  author    = {Greg Byrd},
+  title     = {A Little Ingenuity Solves an {Elephant-Sized} Problem},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {74-77},
+}
+
+@article{DBLP:journals/computer/Byrd15,
+  author    = {Greg Byrd},
+  title     = {Spotlighting Student Innovation},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {75-76},
+}
+
+@article{DBLP:journals/computer/Berghel15,
+  author    = {Hal Berghel},
+  title     = {A Paperless Gamble},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {76-78},
+}
+
+@article{DBLP:journals/computer/HambruschL15,
+  author    = {Susanne E. Hambrusch and
+               Ran Libeskind-Hadas},
+  title     = {The {PhD} Pipeline},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {76-79},
+}
+
+@article{DBLP:journals/computer/Berghel15a,
+  author    = {Hal Berghel},
+  title     = {Cyber Chutzpah: The Sony Hack and the Celebration of Hyperbole},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {77-80},
+}
+
+@article{DBLP:journals/computer/ShenVCV15,
+  author    = {Emily Shen and
+               Mayank Varia and
+               Robert K. Cunningham and
+               W. Konrad Vesey},
+  title     = {Cryptographically Secure Computation},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {78-81},
+}
+
+@article{DBLP:journals/computer/ThakoorABSM15,
+  author    = {Ninad S. Thakoor and
+               Le An and
+               Bir Bhanu and
+               Santhoshkumar Sunderrajan and
+               B. S. Manjunath},
+  title     = {People Tracking in Camera Networks: Three Open Questions},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {78-86},
+}
+
+@article{DBLP:journals/computer/Zhanikeev15,
+  author    = {Marat Zhanikeev},
+  title     = {A Cloud Visitation Platform to Facilitate Cloud Federation and Fog Computing},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {80-83},
+}
+
+@article{DBLP:journals/computer/VassevH15,
+  author    = {Emil Vassev and
+               Mike Hinchey},
+  title     = {KnowLang: Knowledge Representation for {Self-Adaptive} Systems},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {81-84},
+}
+
+@article{DBLP:journals/computer/Berghel15c,
+  author    = {Hal Berghel},
+  title     = {Borderline Executive Disorder},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {82-86},
+}
+
+@article{DBLP:journals/computer/Berghel15d,
+  author    = {Hal Berghel},
+  title     = {What Makes a Good Column},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {84-87},
+}
+
+@article{DBLP:journals/computer/HuKF15,
+  author    = {Vincent C. Hu and
+               D. Richard Kuhn and
+               David F. Ferraiolo},
+  title     = {{Attribute-Based} Access Control},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {85-88},
+}
+
+@article{DBLP:journals/computer/TruongD15,
+  author    = {Hong Linh Truong and
+               Schahram Dustdar},
+  title     = {Programming Elasticity in the Cloud},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {87-90},
+}
+
+@article{DBLP:journals/computer/Hurlburt15,
+  author    = {George F. Hurlburt},
+  title     = {Cyberhuman Security},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {88-91},
+}
+
+@article{DBLP:journals/computer/Grier15,
+  author    = {David Alan Grier},
+  title     = {State Transitions},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {1},
+  year      = 2015,
+  pages     = {92},
+}
+
+@article{DBLP:journals/computer/Gundy-Burlet15,
+  author    = {Karen Gundy-Burlet},
+  title     = {The Use of Standards on the {LADEE} Mission},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {92-95},
+}
+
+@article{DBLP:journals/computer/Hornbaek15,
+  author    = {Kasper Hornbæk},
+  title     = {Flexible Displays, Rigid Designs?},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {92-96},
+}
+
+@article{DBLP:journals/computer/Broy15,
+  author    = {Manfred Broy},
+  title     = {Rethinking Nonfunctional Software Requirements},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {96-99},
+}
+
+@article{DBLP:journals/computer/Schlieski15,
+  author    = {Tawny Schlieski},
+  title     = {Virtual Dystopia},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {97-98},
+}
+
+@article{DBLP:journals/computer/Michael15,
+  author    = {James Bret Michael},
+  title     = {Trusted Computing: An Elusive Goal},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {99-101},
+}
+
+@article{DBLP:journals/computer/Grier15a,
+  author    = {David Alan Grier},
+  title     = {The Tyranny of Geography},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {2},
+  year      = 2015,
+  pages     = {100},
+}
+
+@article{DBLP:journals/computer/Grier15e,
+  author    = {David Alan Grier},
+  title     = {Disruptive Computing},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {6},
+  year      = 2015,
+  pages     = {100},
+}
+
+@article{DBLP:journals/computer/Berghel15b,
+  author    = {Hal Berghel},
+  title     = {Noirware},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {102-107},
+}
+
+@article{DBLP:journals/computer/Grier15c,
+  author    = {David Alan Grier},
+  title     = {Accidents Will Happen},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {4},
+  year      = 2015,
+  pages     = {104},
+}
+
+@article{DBLP:journals/computer/TimmererE015,
+  author    = {Christian Timmerer and
+               Touradj Ebrahimi and
+               Fernando Pereira},
+  title     = {Toward a New Assessment of Quality},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {108-110},
+}
+
+@article{DBLP:journals/computer/Aiello15,
+  author    = {Bob Aiello},
+  title     = {Managing the {High-Performance} Computer Society Standards Working Group},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {111-113},
+}
+
+@article{DBLP:journals/computer/RoachS15,
+  author    = {Steve Roach and
+               Mehran Sahami},
+  title     = {CS2013: Computer Science Curricula 2013},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {114-116},
+}
+
+@article{DBLP:journals/computer/Grier15d,
+  author    = {David Alan Grier},
+  title     = {The {GitHub} Effect},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {5},
+  year      = 2015,
+  pages     = {116},
+}
+
+@article{DBLP:journals/computer/Grier15b,
+  author    = {David Alan Grier},
+  title     = {Building Trust},
+  journal   = ieeecomputer,
+  volume    = {48},
+  number    = {3},
+  year      = 2015,
+  pages     = {136},
+}
+
 @article{DBLP:journals/computer/Brusilovsky14,
   author    = {Peter Brusilovsky},
   title     = {Collective Class Wisdom: Collaborative Lecture Annotation},
   journal   = ieeecomputer,
   volume    = {47},
   number    = {3},
+  year      = 2014,
+  pages     = {6},
+}
+
+@article{DBLP:journals/computer/Grundy14,
+  author    = {John Grundy},
+  title     = {Determining the Cause of Design Model Inconsistencies},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {6},
+}
+
+@article{DBLP:journals/computer/Guo14,
+  author    = {Song Guo},
+  title     = {{On-Time} Warning Delivery for Vehicular Ad Hoc Networks},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {6},
+}
+
+@article{DBLP:journals/computer/Liu14,
+  author    = {Ling Liu},
+  title     = {Service Selection and Recommendation through Collective Intelligence},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {6},
+}
+
+@article{DBLP:journals/computer/Mohapatra14,
+  author    = {Prasant Mohapatra},
+  title     = {Channel Bonding in Evolving Wireless {LANs}},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {6},
+}
+
+@article{DBLP:journals/computer/Pei14,
+  author    = {Jian Pei},
+  title     = {Managing {Data-Intensive} Applications in the Cloud},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
   year      = 2014,
   pages     = {6},
 }
@@ -20,6 +1145,16 @@
   pages     = {6-7},
 }
 
+@article{DBLP:journals/computer/Zomaya14,
+  author    = {Albert Y. Zomaya},
+  title     = {{Power-Performance} Tradeoff in a Federated Cloud},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {6-7},
+}
+
 @article{DBLP:journals/computer/Milojicic14,
   author    = {Dejan S. Milojicic},
   title     = {Reinventing Relevance},
@@ -28,6 +1163,89 @@
   number    = {1},
   year      = 2014,
   pages     = {6-8},
+}
+
+@article{DBLP:journals/computer/Severance14e,
+  author    = {Charles Severance},
+  title     = {Andrew S. Tanenbaum: The Impact of {MINIX}},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {7-8},
+}
+
+@article{DBLP:journals/computer/Severance14f,
+  author    = {Charles Severance},
+  title     = {Elizabeth Fong: Creating the {SQL} Database Standards},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {7-8},
+}
+
+@article{DBLP:journals/computer/GaffSG14,
+  author    = {Brian M. Gaff and
+               Heather Egan Sussman and
+               Jennifer Geetter},
+  title     = {Privacy and Big Data},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {7-9},
+}
+
+@article{DBLP:journals/computer/Severance14c,
+  author    = {Charles Severance},
+  title     = {Doug Van Houweling: Building the {NSFNet}},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {7-9},
+}
+
+@article{DBLP:journals/computer/Severance14g,
+  author    = {Charles Severance},
+  title     = {Nii Quaynor: Bringing the Internet to Africa},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {7-9},
+}
+
+@article{DBLP:journals/computer/Heilig14,
+  author    = {Leonard Heilig},
+  title     = {A View on Cloud Computing from above the Clouds},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {8},
+}
+
+@article{DBLP:journals/computer/Jin14,
+  author    = {Hai Jin},
+  title     = {When Data Grows Big},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {8},
+}
+
+@article{DBLP:journals/computer/KlatzkyC14,
+  author    = {Roberta L. Klatzky and
+               J. Edward Colgate},
+  title     = {Rendering Tactile Features on Touchscreens},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {8},
 }
 
 @article{DBLP:journals/computer/Severance14a,
@@ -50,6 +1268,47 @@
   pages     = {9},
 }
 
+@article{DBLP:journals/computer/Gaff14e,
+  author    = {Brian M. Gaff},
+  title     = {3D {IP}},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {9-11},
+}
+
+@article{DBLP:journals/computer/GaffR14,
+  author    = {Brian M. Gaff and
+               Bruce Rubinger},
+  title     = {The Significance of Prior Art},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {9-11},
+}
+
+@article{DBLP:journals/computer/Severance14d,
+  author    = {Charles Severance},
+  title     = {Nathaniel Borenstein: Multipurpose Internet Mail Extensions (MIME)},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {9-11},
+}
+
+@article{DBLP:journals/computer/Gaff14d,
+  author    = {Brian M. Gaff},
+  title     = {Supreme Court {IP} Update},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {9-12},
+}
+
 @article{DBLP:journals/computer/Severance14b,
   author    = {Charles Severance},
   title     = {Len Kleinrock: The First Two Packets on the Internet},
@@ -58,6 +1317,36 @@
   number    = {3},
   year      = 2014,
   pages     = {10-11},
+}
+
+@article{DBLP:journals/computer/Severance14h,
+  author    = {Charles Severance},
+  title     = {Ian Foster and the Globus Project},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {10-11},
+}
+
+@article{DBLP:journals/computer/Gaff14c,
+  author    = {Brian M. Gaff},
+  title     = {Readers' Choice [Intellectual Property laws]},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/computer/Milojicic14a,
+  author    = {Dejan S. Milojicic},
+  title     = {Revitalization},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {10-13},
 }
 
 @article{DBLP:journals/computer/Severance14,
@@ -90,6 +1379,16 @@
   pages     = {12-15},
 }
 
+@article{DBLP:journals/computer/Garber14b,
+  author    = {Lee Garber},
+  title     = {News Briefs},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {12-17},
+}
+
 @article{DBLP:journals/computer/Gaff14,
   author    = {Brian M. Gaff},
   title     = {Corporate Risks from Social Media},
@@ -108,6 +1407,16 @@
   number    = {2},
   year      = 2014,
   pages     = {14-15},
+}
+
+@article{DBLP:journals/computer/Garber14c,
+  author    = {Lee Garber},
+  title     = {News Briefs},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {14-18},
 }
 
 @article{DBLP:journals/computer/Garber14,
@@ -130,8 +1439,43 @@
   pages     = {18-21},
 }
 
+@article{DBLP:journals/computer/LinPHJL14,
+  author    = {Ying-Dar Lin and
+               Dan Pitt and
+               David Hausheer and
+               Erica Johnson and
+               Yi-Bing Lin},
+  title     = {{Software-Defined} Networking: Standardization for Cloud Computing's Second Wave},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {19-21},
+}
+
+@article{DBLP:journals/computer/ChangS14,
+  author    = {Carl K. Chang and
+               Bill N. Schilit},
+  title     = {Aware Computing [Guest editors' introduction]},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {20-21},
+}
+
+@article{DBLP:journals/computer/Vetter14a,
+  author    = {Ron Vetter},
+  title     = {Technology Commercialization in the Innovation Economy [Guest editor's introduction]},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {20-21},
+}
+
 @article{DBLP:journals/computer/BryceK14,
-  author    = {Renee Bryce and
+  author    = {Renée C. Bryce and
                Rick Kuhn},
   title     = {Software Testing},
   journal   = ieeecomputer,
@@ -139,6 +1483,39 @@
   number    = {2},
   year      = 2014,
   pages     = {21-22},
+}
+
+@article{DBLP:journals/computer/LinHWK14,
+  author    = {Ying-Dar Lin and
+               Chun-Ying Huang and
+               Matthew K. Wright and
+               Georgios Kambourakis},
+  title     = {Mobile Application Security},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {21-23},
+}
+
+@article{DBLP:journals/computer/Bimber14,
+  author    = {Oliver Bimber},
+  title     = {Thinking Virtual},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {22-23},
+}
+
+@article{DBLP:journals/computer/Johnson14e,
+  author    = {Brian David Johnson},
+  title     = {Making in the 21st Century},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {22-23},
 }
 
 @article{DBLP:journals/computer/Vetter14,
@@ -151,6 +1528,18 @@
   pages     = {22-23},
 }
 
+@article{DBLP:journals/computer/JimenezSF14,
+  author    = {Carlos E. Jimenez and
+               Agusti Solanas and
+               Francisco Falcone},
+  title     = {{E-Government} Interoperability: Linking Open and Smart Government},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {22-24},
+}
+
 @article{DBLP:journals/computer/ShahCH14,
   author    = {Chirag Shah and
                Robert Capra and
@@ -161,6 +1550,64 @@
   number    = {3},
   year      = 2014,
   pages     = {22-25},
+}
+
+@article{DBLP:journals/computer/MillerH14,
+  author    = {Gary L. Miller and
+               Robert R. Hoon},
+  title     = {The Role of Public Comprehensive Universities in Closing the Innovation Deficit},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {22-27},
+}
+
+@article{DBLP:journals/computer/ViewegH14,
+  author    = {Sarah Vieweg and
+               Adam Hodges},
+  title     = {Rethinking Context: Leveraging Human and Machine Computation in Disaster Response},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {22-27},
+}
+
+@article{DBLP:journals/computer/TourrilhesSBP14,
+  author    = {Jean Tourrilhes and
+               Puneet Sharma and
+               Sujata Banerjee and
+               Justin Pettit},
+  title     = {{SDN} and {OpenFlow} Evolution: A Standards Perspective},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {22-29},
+}
+
+@article{DBLP:journals/computer/PankratiusM14,
+  author    = {Victor Pankratius and
+               Chris Mattmann},
+  title     = {Computing in Astronomy: To See the Unseen},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {23-25},
+}
+
+@article{DBLP:journals/computer/ReissleinRR14,
+  author    = {Martin Reisslein and
+               Bernhard Rinner and
+               Amit K. Roy-Chowdhury},
+  title     = {Smart Camera Networks [Guest editors' introduction]},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {23-25},
 }
 
 @article{DBLP:journals/computer/AliAFBAP14,
@@ -178,6 +1625,17 @@
   pages     = {23-29},
 }
 
+@article{DBLP:journals/computer/SlaterS14,
+  author    = {Mel Slater and
+               Maria V. Sanchez-Vives},
+  title     = {Transcending the Self in Immersive Virtual Reality},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {24-30},
+}
+
 @article{DBLP:journals/computer/StraussB14,
   author    = {Karin Strauss and
                Doug Burger},
@@ -187,6 +1645,56 @@
   number    = {1},
   year      = 2014,
   pages     = {24-31},
+}
+
+@article{DBLP:journals/computer/Suarez-TangilTLP14,
+  author    = {Guillermo Suarez-Tangil and
+               Juan E. Tapiador and
+               Flavio Lombardi and
+               Roberto Di Pietro},
+  title     = {Thwarting Obfuscated Malware via Differential Fault Analysis},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {24-31},
+}
+
+@article{DBLP:journals/computer/AxupTWFOLPGJ14,
+  author    = {Jun Axup and
+               AnnMarie Thomas and
+               Ariel Waldman and
+               Susan Faulkner and
+               Carolina Odman-Govender and
+               Jim St. Leger and
+               Jessica Polka and
+               Melissa Gregg and
+               Brian David Johnson},
+  title     = {The World of Making},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {24-40},
+}
+
+@article{DBLP:journals/computer/BovalisPAARGKSSW14,
+  author    = {Konstantinos Bovalis and
+               Vassilios Peristeras and
+               Margarida Abecasis and
+               Raul-Mario Abril-Jimenez and
+               Miguel Alvarez Rodriguez and
+               Corinne Gattegno and
+               Athanasios Karalopoulos and
+               Ioannis Sagias and
+               Szabolcs Szekacs and
+               Suzanne Wigard},
+  title     = {Promoting Interoperability in Europe's {E-Government}},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {25-33},
 }
 
 @article{DBLP:journals/computer/XuRR14,
@@ -201,6 +1709,56 @@
   pages     = {26-31},
 }
 
+@article{DBLP:journals/computer/JenneBKD14,
+  author    = {Mark Jenne and
+               Owen Boberg and
+               Hasan Kurban and
+               Mehmet M. Dalkilic},
+  title     = {Studying the Milky Way Galaxy Using {ParaHeap-k}},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {26-33},
+}
+
+@article{DBLP:journals/computer/ChenFKABC14,
+  author    = {Ching-Hui Chen and
+               Julien Favre and
+               Gregorij Kurillo and
+               Thomas P. Andriacchi and
+               Ruzena Bajcsy and
+               Rama Chellappa},
+  title     = {Camera Networks for Healthcare, Teleimmersion, and Surveillance},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {26-36},
+}
+
+@article{DBLP:journals/computer/HoqueP14,
+  author    = {Mohammed (Ehsan) Hoque and
+               Rosalind W. Picard},
+  title     = {Rich Nonverbal Sensing Technology for Automated Social Skills Training},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {28-35},
+}
+
+@article{DBLP:journals/computer/BallP14,
+  author    = {Elyse N. Ball and
+               Kenneth G. Preston},
+  title     = {University Commercialization Models: The University of Akron},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {28-36},
+}
+
 @article{DBLP:journals/computer/AntunesV14,
   author    = {Nuno Antunes and
                Marco Vieira},
@@ -210,6 +1768,32 @@
   number    = {2},
   year      = 2014,
   pages     = {30-36},
+}
+
+@article{DBLP:journals/computer/BauerMZ14,
+  author    = {Rick Bauer and
+               Ron Milford and
+               Li Zhen},
+  title     = {Aligning Technology and Market Drivers in an Open Source Standards Testing Program},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {30-36},
+}
+
+@article{DBLP:journals/computer/RizzoHGLL14,
+  author    = {Albert A. Rizzo and
+               Arno Hartholt and
+               Mario Grimani and
+               Andrew Leeds and
+               Matt Liewer},
+  title     = {Virtual Reality Exposure Therapy for {Combat-Related} Posttraumatic Stress Disorder},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {31-37},
 }
 
 @article{DBLP:journals/computer/BohmKH14,
@@ -237,6 +1821,75 @@
   pages     = {32-39},
 }
 
+@article{DBLP:journals/computer/ShaoLQ14,
+  author    = {Yuru Shao and
+               Xiapu Luo and
+               Chenxiong Qian},
+  title     = {RootGuard: Protecting Rooted Android Phones},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {32-40},
+}
+
+@article{DBLP:journals/computer/FrascarelliNT14,
+  author    = {Daniel Frascarelli and
+               Sergio Nesmachnow and
+               Gonzalo Tancredi},
+  title     = {{High-Performance} Computing of {Self-Gravity} for Small Solar System Bodies},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {34-39},
+}
+
+@article{DBLP:journals/computer/Kovac14,
+  author    = {Mario Kovac},
+  title     = {{E-Health} Demystified: An {E-Government} Showcase},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {34-42},
+}
+
+@article{DBLP:journals/computer/MatthewsAGC14,
+  author    = {Mark Matthews and
+               Saeed Abdullah and
+               Geri Gay and
+               Tanzeem Choudhury},
+  title     = {Tracking Mental Well-Being: Balancing Rich Sensing and Patient Needs},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {36-43},
+}
+
+@article{DBLP:journals/computer/Speicher14,
+  author    = {Audrey Speicher},
+  title     = {tekMountain: A {Community-Driven} Corporate Incubator},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {37-39},
+}
+
+@article{DBLP:journals/computer/AbasPO14,
+  author    = {Kevin Abas and
+               Caio Porto and
+               Katia Obraczka},
+  title     = {Wireless Smart Camera Networks for the Surveillance of Public Spaces},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {37-44},
+}
+
 @article{DBLP:journals/computer/YilmazFCPDK14,
   author    = {Cemal Yilmaz and
                Sandro Fouché and
@@ -250,6 +1903,33 @@
   number    = {2},
   year      = 2014,
   pages     = {37-45},
+}
+
+@article{DBLP:journals/computer/QuinnG14,
+  author    = {Paul Quinn and
+               Jim Guichard},
+  title     = {Service Function Chaining: Creating a Service Plane via Network Service Headers},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {38-44},
+}
+
+@article{DBLP:journals/computer/StowersFHSSDS14,
+  author    = {John R. Stowers and
+               Anton L. Fuhrmann and
+               Maximilian Hofbauer and
+               Martin Streinzer and
+               Axel Schmid and
+               Michael H. Dickinson and
+               Andrew D. Straw},
+  title     = {Reverse Engineering Animal Vision with Virtual Reality and Genetics},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {38-45},
 }
 
 @article{DBLP:journals/computer/TaoT14,
@@ -275,6 +1955,109 @@
   pages     = {40-47},
 }
 
+@article{DBLP:journals/computer/SrinivasanBGS14,
+  author    = {Savitha Srinivasan and
+               Isaac Barchas and
+               Mark Gorenberg and
+               Evangelos Simoudis},
+  title     = {Venture Capital: Fueling the Innovation Economy},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {40-47},
+}
+
+@article{DBLP:journals/computer/MullerAC14,
+  author    = {Stefan C. Müller and
+               Gustavo Alonso and
+               André Csillaghy},
+  title     = {Scaling Astroinformatics: Python + Automatic Parallelization},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {41-47},
+}
+
+@article{DBLP:journals/computer/MarmolRSLK14,
+  author    = {Félix Gómez Mármol and
+               Gregor Rozinaj and
+               Sebastian Schumann and
+               Ondrej Labaj and
+               Juraj Kacur},
+  title     = {Smart AppStore: Expanding the Frontiers of Smartphone Ecosystems},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {42-47},
+}
+
+@article{DBLP:journals/computer/BeasleyPPBNBSDNS14,
+  author    = {Crystal Beasley and
+               Emmeline Parsons and
+               Melissa Pierce and
+               Sam Baumgarten and
+               Andrius Neviera and
+               Shubham Banerjee and
+               Tyesha Snow and
+               Carla Diana and
+               Nicholas Nakadate and
+               Shruti Satsangi},
+  title     = {Passionate Projects: This Is What I Made},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {42-54},
+}
+
+@article{DBLP:journals/computer/JanssenEJ14,
+  author    = {Marijn Janssen and
+               Elsa Estevez and
+               Tomasz Janowski},
+  title     = {Interoperability in Big, Open, and Linked {Data-Organizational} Maturity, Capabilities, and Data Portfolios},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {44-49},
+}
+
+@article{DBLP:journals/computer/Beroggi14,
+  author    = {Giampiero E. G. Beroggi},
+  title     = {Internet Voting: An Empirical Evaluation},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {44-50},
+}
+
+@article{DBLP:journals/computer/PratiQ14,
+  author    = {Andrea Prati and
+               Faisal Z. Qureshi},
+  title     = {Integrating Consumer Smart Cameras into Camera Networks: Opportunities and Obstacles},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {45-51},
+}
+
+@article{DBLP:journals/computer/FuchsSB14,
+  author    = {Henry Fuchs and
+               Andrei State and
+               Jean Charles Bazin},
+  title     = {Immersive 3D Telepresence},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {46-52},
+}
+
 @article{DBLP:journals/computer/YueHHJ14,
   author    = {Zhen Yue and
                Shuguang Han and
@@ -286,6 +2069,23 @@
   number    = {3},
   year      = 2014,
   pages     = {46-53},
+}
+
+@article{DBLP:journals/computer/RothenbergCBWCLSN14,
+  author    = {Christian Esteve Rothenberg and
+               Roy Chua and
+               Josh Bailey and
+               Martin Winter and
+               Carlos N. A. Corrêa and
+               Sidney C. de Lucena and
+               Marcos Rogério Salvador and
+               Thomas D. Nadeau},
+  title     = {When Open Source Meets Network Control Planes},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {46-54},
 }
 
 @article{DBLP:journals/computer/GaoBTU14,
@@ -301,6 +2101,19 @@
   pages     = {46-55},
 }
 
+@article{DBLP:journals/computer/JongeriusWNC14,
+  author    = {Rik Jongerius and
+               Stefan J. Wijnholds and
+               Ronald Nijboer and
+               Henk Corporaal},
+  title     = {An {End-to-End} Computing Model for the Square Kilometre Array},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {48-54},
+}
+
 @article{DBLP:journals/computer/Murphy-Hill14,
   author    = {Emerson R. Murphy-Hill},
   title     = {The Future of Social Learning in Software Engineering},
@@ -309,6 +2122,83 @@
   number    = {1},
   year      = 2014,
   pages     = {48-54},
+}
+
+@article{DBLP:journals/computer/Gorton14,
+  author    = {Ian Gorton},
+  title     = {Cyberinfrastructures: Bridging the Divide between Scientific Research and Software Engineering},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {48-55},
+}
+
+@article{DBLP:journals/computer/ArmandoCVM14,
+  author    = {Alessandro Armando and
+               Gabriele Costa and
+               Luca Verderame and
+               Alessio Merlo},
+  title     = {Securing the "Bring Your Own Device" Paradigm},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {48-56},
+}
+
+@article{DBLP:journals/computer/ColpaertCVDSVMM14,
+  author    = {Pieter Colpaert and
+               Mathias Van Compernolle and
+               Laurens De Vocht and
+               Anastasia Dimou and
+               Miel Vander Sande and
+               Ruben Verborgh and
+               Peter Mechant and
+               Erik Mannens},
+  title     = {Quantifying the Interoperability of Open Government Datasets},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {50-56},
+}
+
+@article{DBLP:journals/computer/TervenSR14,
+  author    = {Juan R. Terven and
+               Joaquin Salas and
+               Bogdan Raducanu},
+  title     = {New Opportunities for Computer {Vision-Based} Assistive Technology Systems for the Visually Impaired},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {52-58},
+}
+
+@article{DBLP:journals/computer/MitraVSB14,
+  author    = {Kaushik Mitra and
+               Ashok Veeraraghavan and
+               Aswin C. Sankaranarayanan and
+               Richard G. Baraniuk},
+  title     = {Toward Compressive Camera Networks},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {52-59},
+}
+
+@article{DBLP:journals/computer/YangSA14,
+  author    = {Xia Yang and
+               Nan Sang and
+               Jim Alves-Foss},
+  title     = {Shortening the Boot Time of Android {OS}},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {53-58},
 }
 
 @article{DBLP:journals/computer/TeevanMA14,
@@ -323,6 +2213,34 @@
   pages     = {54-57},
 }
 
+@article{DBLP:journals/computer/BoringGVDM14,
+  author    = {Sebastian Boring and
+               Saul Greenberg and
+               Jo Vermeulen and
+               Jakub Dostal and
+               Nicolai Marquardt},
+  title     = {The Dark Patterns of Proxemic Sensing},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {56-60},
+}
+
+@article{DBLP:journals/computer/CaniniFLSS14,
+  author    = {Marco Canini and
+               Anja Feldmann and
+               Dan Levin and
+               Fabian Schaffert and
+               Stefan Schmid},
+  title     = {{Software-Defined} Networks: Incremental Deployment with Panopticon},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {56-60},
+}
+
 @article{DBLP:journals/computer/DahnC14,
   author    = {Andreas Dähn and
                Clemens H. Cap},
@@ -330,6 +2248,18 @@
   journal   = ieeecomputer,
   volume    = {47},
   number    = {2},
+  year      = 2014,
+  pages     = {56-61},
+}
+
+@article{DBLP:journals/computer/GerhardtVK14,
+  author    = {Lisa Gerhardt and
+               Juan Carlos Diaz Velez and
+               Spencer R. Klein},
+  title     = {Adventures in Antarctic Computing, or How I Learned to Stop Worrying and Love the Neutrino},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
   year      = 2014,
   pages     = {56-61},
 }
@@ -347,6 +2277,48 @@
   pages     = {56-63},
 }
 
+@article{DBLP:journals/computer/SheriLEKGE14,
+  author    = {Yasaman Sheri and
+               Enrique Gabriel Legaspi and
+               Cynthia Erenas and
+               Brian Kessler and
+               Eri Gentry and
+               Ruben Estrada},
+  title     = {The Future of Making},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {56-63},
+}
+
+@article{DBLP:journals/computer/GadyatskayaMZ14,
+  author    = {Olga Gadyatskaya and
+               Fabio Massacci and
+               Yury Zhauniarovich},
+  title     = {Security in the Firefox {OS} and Tizen Mobile Platforms},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {57-63},
+}
+
+@article{DBLP:journals/computer/VrangPPFVS14,
+  author    = {Martin le Vrang and
+               Agis Papantoniou and
+               Erika Pauwels and
+               Pieter Fannes and
+               Dominique Vandensteen and
+               Johan De Smedt},
+  title     = {ESCO: Boosting Job Matching in Europe with Semantic Interoperability},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {57-64},
+}
+
 @article{DBLP:journals/computer/Hearst14,
   author    = {Marti A. Hearst},
   title     = {What's Missing from Collaborative Search?},
@@ -355,6 +2327,56 @@
   number    = {3},
   year      = 2014,
   pages     = {58-61},
+}
+
+@article{DBLP:journals/computer/KimKCK14,
+  author    = {Minyong Kim and
+               Young Geun Kim and
+               Sung Woo Chung and
+               Cheol Hong Kim},
+  title     = {Measuring Variance between Smartphone Energy Consumption and Battery Life},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {59-65},
+}
+
+@article{DBLP:journals/computer/LinLWHWT14,
+  author    = {Ying-Dar Lin and
+               Chia-Yin Lee and
+               Yu-Sung Wu and
+               Pei-Hsiu Ho and
+               Fu-Yu Wang and
+               Yi-Lang Tsai},
+  title     = {Active versus Passive Malware Collection},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {59-65},
+}
+
+@article{DBLP:journals/computer/GuanM14,
+  author    = {Zhangyu Guan and
+               Tommaso Melodia},
+  title     = {{Cloud-Assisted} Smart Camera Networks for {Energy-Efficient} 3D Video Streaming},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {60-66},
+}
+
+@article{DBLP:journals/computer/DillonW14,
+  author    = {Marion Dillon and
+               Timothy Winters},
+  title     = {Virtualization of Home Network Gateways},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {62-65},
 }
 
 @article{DBLP:journals/computer/ChenSH14,
@@ -369,6 +2391,40 @@
   pages     = {62-66},
 }
 
+@article{DBLP:journals/computer/Mendonca14,
+  author    = {Nabor C. Mendonca},
+  title     = {Architectural Options for Cloud Migration},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {62-66},
+}
+
+@article{DBLP:journals/computer/BogertSHJHCKTMWLJAST14,
+  author    = {F. Alexander Bogert and
+               Nicholas Smith and
+               John Holdener and
+               Eric M. De Jong and
+               Andrew F. Hart and
+               Luca Cinquini and
+               Shakeh E. Khudikyan and
+               David R. Thompson and
+               Chris A. Mattmann and
+               Kiri Wagstaff and
+               Joseph Lazio and
+               Dayton L. Jones and
+               Alice Allen and
+               Lior Shamir and
+               Peter J. Teuben},
+  title     = {Computing in Astronomy: Applications and Examples},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {62-69},
+}
+
 @article{DBLP:journals/computer/ChimiakPJ14,
   author    = {William J. Chimiak and
                Samuel T. Patton and
@@ -379,6 +2435,28 @@
   number    = {2},
   year      = 2014,
   pages     = {62-69},
+}
+
+@article{DBLP:journals/computer/Berghel14e,
+  author    = {Hal Berghel},
+  title     = {Leadership Failures in the National Security Complex},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {64-67},
+}
+
+@article{DBLP:journals/computer/EdwardsGR14,
+  author    = {William Edwards and
+               Judith Gebauer and
+               Bryan Reinicke},
+  title     = {White Space Networks: Architecture, Application, and Opportunity},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {64-71},
 }
 
 @article{DBLP:journals/computer/MontuschiB14,
@@ -392,6 +2470,63 @@
   pages     = {64-74},
 }
 
+@article{DBLP:journals/computer/CanoHR14,
+  author    = {Jesús Cano and
+               Roberto Hernández and
+               Salvador Ros},
+  title     = {Distributed Framework for Electronic Democracy in Smart Cities},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {65-71},
+}
+
+@article{DBLP:journals/computer/Lowther14,
+  author    = {Lindsey Lowther},
+  title     = {Defensive Biometrics},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {66-69},
+}
+
+@article{DBLP:journals/computer/Berghel14c,
+  author    = {Hal Berghel},
+  title     = {Mr. Snowden's Legacy},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {66-70},
+}
+
+@article{DBLP:journals/computer/AhnLCLA14,
+  author    = {Youngjung Ahn and
+               Yongsuk Lee and
+               Jin-Young Choi and
+               Gyungho Lee and
+               Dongkyun Ahn},
+  title     = {Monitoring Translation Lookahead Buffers to Detect Code Injection Attacks},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {66-72},
+}
+
+@article{DBLP:journals/computer/McDuffieP14,
+  author    = {Ernest L. McDuffie and
+               Victor P. Piotrowski},
+  title     = {The Future of Cybersecurity Education},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {67-69},
+}
+
 @article{DBLP:journals/computer/TimmererR14,
   author    = {Christian Timmerer and
                Benjamin Rainer},
@@ -401,6 +2536,35 @@
   number    = {3},
   year      = 2014,
   pages     = {67-69},
+}
+
+@article{DBLP:journals/computer/SanMiguelMSFC14,
+  author    = {Juan C. SanMiguel and
+               Christian Micheloni and
+               Karen Shoop and
+               Gian Luca Foresti and
+               Andrea Cavallaro},
+  title     = {{Self-Reconfigurable} Smart Camera Networks},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {67-73},
+}
+
+@article{DBLP:journals/computer/CombemaleDBFJG14,
+  author    = {Benoît Combemale and
+               Julien DeAntoni and
+               Benoit Baudry and
+               Robert B. France and
+               Jean-Marc Jézéquel and
+               Jeff Gray},
+  title     = {Globalizing Modeling Languages},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {68-71},
 }
 
 @article{DBLP:journals/computer/BroyS14,
@@ -414,6 +2578,17 @@
   pages     = {70-72},
 }
 
+@article{DBLP:journals/computer/schraefelC14,
+  author    = {m. c. schraefel and
+               Elizabeth F. Churchill},
+  title     = {Wellth Creation: Using Computer Science to Support Proactive Health},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {70-72},
+}
+
 @article{DBLP:journals/computer/Berghel14b,
   author    = {Hal Berghel},
   title     = {STEM, Revisited},
@@ -422,6 +2597,89 @@
   number    = {3},
   year      = 2014,
   pages     = {70-73},
+}
+
+@article{DBLP:journals/computer/Berghel14g,
+  author    = {Hal Berghel},
+  title     = {The Future of Digital Money Laundering},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {70-75},
+}
+
+@article{DBLP:journals/computer/CollierDWTLL14,
+  author    = {Zachary A. Collier and
+               Daniel DiMase and
+               Steve Walters and
+               Mark Mohammad Tehranipoor and
+               James H. Lambert and
+               Igor Linkov},
+  title     = {Cybersecurity Standards: Managing Risk and Creating Resilience},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {70-76},
+}
+
+@article{DBLP:journals/computer/VegaF14,
+  author    = {Katia Vega and
+               Hugo Fuks},
+  title     = {Beauty Technology: Body Surface Computing},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {71-75},
+}
+
+@article{DBLP:journals/computer/BojanovaHV14,
+  author    = {Irena Bojanova and
+               George F. Hurlburt and
+               Jeffrey M. Voas},
+  title     = {Imagineering an Internet of Anything},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {72-77},
+}
+
+@article{DBLP:journals/computer/BartoliDLMS14,
+  author    = {Alberto Bartoli and
+               Giorgio Davanzo and
+               Andrea De Lorenzo and
+               Eric Medvet and
+               Enrico Sorio},
+  title     = {Automatic Synthesis of Regular Expressions from Examples},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {72-80},
+}
+
+@article{DBLP:journals/computer/LiuP14,
+  author    = {Pu Liu and
+               Zhenghong Peng},
+  title     = {China's Smart City Pilots: A Progress Report},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {72-81},
+}
+
+@article{DBLP:journals/computer/Johnson14c,
+  author    = {Brian David Johnson},
+  title     = {Talking to the Future},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {73-75},
 }
 
 @article{DBLP:journals/computer/Berghel14a,
@@ -445,6 +2703,33 @@
   pages     = {74-77},
 }
 
+@article{DBLP:journals/computer/FaghmousBSSKGS14,
+  author    = {James H. Faghmous and
+               Arindam Banerjee and
+               Shashi Shekhar and
+               Michael Steinbach and
+               Vipin Kumar and
+               Auroop R. Ganguly and
+               Nagiza F. Samatova},
+  title     = {{Theory-Guided} Data Science for Climate Change},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {74-78},
+}
+
+@article{DBLP:journals/computer/SunW14,
+  author    = {Xian-He Sun and
+               Dawei Wang},
+  title     = {Concurrent Average Memory Access Time},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {74-80},
+}
+
 @article{DBLP:journals/computer/TilevichK14,
   author    = {Eli Tilevich and
                Young-Woo Kwon},
@@ -456,12 +2741,61 @@
   pages     = {75-77},
 }
 
+@article{DBLP:journals/computer/BastenH14,
+  author    = {Dirk Basten and
+               Thomas Hoerstrup},
+  title     = {Organizational Effort Estimation},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {76-79},
+}
+
+@article{DBLP:journals/computer/MoonSPDKSKLK14,
+  author    = {Young Lae Moon and
+               Kazuomi Sugamoto and
+               Alberto Paoluzzi and
+               Antonio DiCarlo and
+               Jaekeun Kwak and
+               Dong Sun Shin and
+               Dae Ok Kim and
+               Dae Hyun Lee and
+               Jooyoung Kim},
+  title     = {Standardizing 3D Medical Imaging},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {76-79},
+}
+
+@article{DBLP:journals/computer/Berghel14f,
+  author    = {Hal Berghel},
+  title     = {Robert David Steele on {OSINT}},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {76-81},
+}
+
 @article{DBLP:journals/computer/Cameron14,
-  author    = {Kirk Cameron},
+  author    = {Kirk W. Cameron},
   title     = {The Evolution of Power Measurement},
   journal   = ieeecomputer,
   volume    = {47},
   number    = {3},
+  year      = 2014,
+  pages     = {78-80},
+}
+
+@article{DBLP:journals/computer/Pace14,
+  author    = {Jason Pace},
+  title     = {Working with Students Where Theory and Practice Intersect},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
   year      = 2014,
   pages     = {78-80},
 }
@@ -487,6 +2821,66 @@
   pages     = {78-82},
 }
 
+@article{DBLP:journals/computer/HunterLB14,
+  author    = {Hillery Hunter and
+               Luis Alfonso Lastras-Montaño and
+               Bishwaranjan Bhattacharjee},
+  title     = {Adapting Server Systems for New Memory Technologies},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {78-84},
+}
+
+@article{DBLP:journals/computer/Johnson14d,
+  author    = {Brian David Johnson},
+  title     = {Imagining and Building Robots (in Capes!)},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {79-81},
+}
+
+@article{DBLP:journals/computer/BeechamOBRN14,
+  author    = {Sarah Beecham and
+               Pádraig O'Leary and
+               Seán Baker and
+               Ita Richardson and
+               John Noll},
+  title     = {Making Software Engineering Research Relevant},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {80-83},
+}
+
+@article{DBLP:journals/computer/Wheeler14,
+  author    = {David A. Wheeler},
+  title     = {Preventing Heartbleed},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {80-83},
+}
+
+@article{DBLP:journals/computer/GaoHRDC14,
+  author    = {Wen Gao and
+               Tiejun Huang and
+               Cliff Reader and
+               Weibei Dou and
+               Xilin Chen},
+  title     = {{IEEE} Standards for Advanced Audio and Video Coding in Emerging Applications},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {81-83},
+}
+
 @article{DBLP:journals/computer/McGraw14,
   author    = {Gary McGraw},
   title     = {Security Fatigue? Shift Your Paradigm},
@@ -505,6 +2899,65 @@
   number    = {2},
   year      = 2014,
   pages     = {82-84},
+}
+
+@article{DBLP:journals/computer/Reisman14a,
+  author    = {Sorel Reisman},
+  title     = {The Future of Online Instruction, Part 2},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {82-84},
+}
+
+@article{DBLP:journals/computer/Berghel14j,
+  author    = {Hal Berghel},
+  title     = {Why Clouds Give Me a Case of the Vapors},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {82-85},
+}
+
+@article{DBLP:journals/computer/JungK14,
+  author    = {Eun-Sung Jung and
+               Rajkumar Kettimuthu},
+  title     = {Challenges and Opportunities for {Data-Intensive} Computing in the Cloud},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {82-85},
+}
+
+@article{DBLP:journals/computer/NikolopoulosVBALKBN14,
+  author    = {Dimitrios S. Nikolopoulos and
+               Hans Vandierendonck and
+               Nikolaos Bellas and
+               Christos D. Antonopoulos and
+               Spyros Lalis and
+               Georgios Karakonstantis and
+               Andreas Burg and
+               Uwe Naumann},
+  title     = {Energy Efficiency through {Significance-Based} Computing},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {82-85},
+}
+
+@article{DBLP:journals/computer/SecciM14,
+  author    = {Stefano Secci and
+               San Murugesan},
+  title     = {Cloud Networks: Enhancing Performance and Resiliency},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {82-85},
 }
 
 @article{DBLP:journals/computer/Kshetri14,
@@ -527,6 +2980,49 @@
   pages     = {84-86},
 }
 
+@article{DBLP:journals/computer/HurlburtV14,
+  author    = {George F. Hurlburt and
+               Jeffrey M. Voas},
+  title     = {Big Data, Networked Worlds},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {84-87},
+}
+
+@article{DBLP:journals/computer/PapadopoulosK14,
+  author    = {Symeon Papadopoulos and
+               Yiannis Kompatsiaris},
+  title     = {Social Multimedia Crawling for Mining and Search},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {84-87},
+}
+
+@article{DBLP:journals/computer/WangenheimW14,
+  author    = {Christiane Gresse von Wangenheim and
+               Aldo von Wangenheim},
+  title     = {Teaching Game Programming in Family Workshops},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {84-87},
+}
+
+@article{DBLP:journals/computer/Hubschman14,
+  author    = {Julie Hubschman},
+  title     = {My Summer with a Robot},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {85-86},
+}
+
 @article{DBLP:journals/computer/CapillaOH14,
   author    = {Rafael Capilla and
                Óscar Ortiz and
@@ -539,12 +3035,84 @@
   pages     = {85-87},
 }
 
+@article{DBLP:journals/computer/SturrusK14,
+  author    = {Edwin Sturrus and
+               Olga Kulikova},
+  title     = {Orchestrating Hybrid Cloud Deployment: An Overview},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {85-87},
+}
+
+@article{DBLP:journals/computer/Jain14,
+  author    = {Ramesh Jain},
+  title     = {Toward Social Life Networks},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {86-88},
+}
+
+@article{DBLP:journals/computer/ArditoBCCLD14,
+  author    = {Carmelo Ardito and
+               Paolo Buono and
+               Danilo Caivano and
+               Maria Francesca Costabile and
+               Rosa Lanzilotti and
+               Yvonne Dittrich},
+  title     = {{Human-Centered} Design in Industry: Lessons from the Trenches},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {86-89},
+}
+
+@article{DBLP:journals/computer/BowenHJWZ14,
+  author    = {Jonathan P. Bowen and
+               Mike Hinchey and
+               Helge Janicke and
+               Martin P. Ward and
+               Hussein Zedan},
+  title     = {Formality, Agility, Security, and Evolution in Software Development},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {86-89},
+}
+
+@article{DBLP:journals/computer/CesarKU14,
+  author    = {Pablo César and
+               Rene Kaiser and
+               Marian Florin Ursu},
+  title     = {Toward Connected Shared Experiences},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {86-89},
+}
+
 @article{DBLP:journals/computer/Johnson14,
   author    = {Brian David Johnson},
   title     = {Utopia Rising},
   journal   = ieeecomputer,
   volume    = {47},
   number    = {1},
+  year      = 2014,
+  pages     = {87-89},
+}
+
+@article{DBLP:journals/computer/Ricanek14,
+  author    = {Karl Ricanek},
+  title     = {Beyond Recognition: The Promise of Biometric Analytics},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
   year      = 2014,
   pages     = {87-89},
 }
@@ -559,6 +3127,244 @@
   pages     = {88-90},
 }
 
+@article{DBLP:journals/computer/ArnezPS14,
+  author    = {Fernando Arnez and
+               Jason Pace and
+               Kelvin Sung},
+  title     = {Learning while Building Games for Teaching},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {88-91},
+}
+
+@article{DBLP:journals/computer/ChoCS14,
+  author    = {Michael Cheng Yi Cho and
+               Pokai Chen and
+               Shiuhpyng Winston Shieh},
+  title     = {Dmail: A Globally Authenticated Email Service},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {88-91},
+}
+
+@article{DBLP:journals/computer/Cameron14a,
+  author    = {Kirk W. Cameron},
+  title     = {Energy Efficiency in the Wild: Why Datacenters Fear Power Management},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {89-92},
+}
+
+@article{DBLP:journals/computer/WangWHS14,
+  author    = {Chi-Wei Wang and
+               Chia-Wei Wang and
+               Chu-An Hsieh and
+               Shiuhpyng Winston Shieh},
+  title     = {Cloudebug: A Programmable Online Malware Testbed},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {90-92},
+}
+
+@article{DBLP:journals/computer/Berghel14h,
+  author    = {Hal Berghel},
+  title     = {Sticky Wikis},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {90-93},
+}
+
+@article{DBLP:journals/computer/DuBow14,
+  author    = {Wendy M. DuBow},
+  title     = {Attracting and Retaining Women in Computing},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {90-93},
+}
+
+@article{DBLP:journals/computer/JinWZDCLR14,
+  author    = {Fang Jin and
+               Wei Wang and
+               Liang Zhao and
+               Edward R. Dougherty and
+               Yang Cao and
+               Chang-Tien Lu and
+               Naren Ramakrishnan},
+  title     = {Misinformation Propagation in the Age of Twitter},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {90-94},
+}
+
+@article{DBLP:journals/computer/Reisman14,
+  author    = {Sorel Reisman},
+  title     = {The Future of Online Instruction, Part 1},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {92-93},
+}
+
+@article{DBLP:journals/computer/PreistSSWH14,
+  author    = {Chris Preist and
+               Daniel Schien and
+               Paul Shabajee and
+               Stephen G. Wood and
+               Christopher Hodgson},
+  title     = {Analyzing {End-to-End} Energy Consumption for Digital Services},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {92-95},
+}
+
+@article{DBLP:journals/computer/Nikolich14,
+  author    = {Paul Nikolich},
+  title     = {802 LAN/{MAN} Standards: High Quality and Market Relevant},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {93-95},
+}
+
+@article{DBLP:journals/computer/ButlerRNB14,
+  author    = {Patrick Butler and
+               Naren Ramakrishnan and
+               Elaine O. Nsoesie and
+               John S. Brownstein},
+  title     = {Satellite Imagery Analysis: What Can Hospital Parking Lots Tell Us about a Disease Outbreak?},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {94-97},
+}
+
+@article{DBLP:journals/computer/Wack14,
+  author    = {John Wack},
+  title     = {{IEEE} VSSC/1622: Voting System Standards},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {94-97},
+}
+
+@article{DBLP:journals/computer/Berghel14i,
+  author    = {Hal Berghel},
+  title     = {Defending against Big Dada: Defensive Tactics for Weapons of Mass Deception},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {94-98},
+}
+
+@article{DBLP:journals/computer/HurlburtBSC14,
+  author    = {George F. Hurlburt and
+               Irena Bojanova and
+               Ann E. Kelley Sobel and
+               Keesha Crosby},
+  title     = {Security or Privacy? A Matter of Perspective},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {94-98},
+}
+
+@article{DBLP:journals/computer/Berghel14k,
+  author    = {Hal Berghel},
+  title     = {Judson Rosebush on Computer Graphics and Animation},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {95-99},
+}
+
+@article{DBLP:journals/computer/BowyerD14,
+  author    = {Kevin W. Bowyer and
+               James S. Doyle Jr.},
+  title     = {Cosmetic Contact Lenses and Iris Recognition Spoofing},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {96-98},
+}
+
+@article{DBLP:journals/computer/PingaliM14,
+  author    = {Gopal Pingali and
+               T. S. Mohan},
+  title     = {The Cloud Ascends in Emerging Markets: Highlights of {IEEE} {CCEM} 2013},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {98-101},
+}
+
+@article{DBLP:journals/computer/HossfeldKT14,
+  author    = {Tobias Hoßfeld and
+               Christian Keimel and
+               Christian Timmerer},
+  title     = {Crowdsourcing {Quality-of-Experience} Assessments},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {98-102},
+}
+
+@article{DBLP:journals/computer/Bay14,
+  author    = {Jason W. Bay},
+  title     = {Turning Video Gamers into Software Developers},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {99-101},
+}
+
+@article{DBLP:journals/computer/JoannouW14,
+  author    = {Paul Joannou and
+               Alan Wassyng},
+  title     = {Understanding Integrity Level Concepts},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {99-101},
+}
+
+@article{DBLP:journals/computer/Johnson14b,
+  author    = {Brian David Johnson},
+  title     = {A New Doorway into Time},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {99-101},
+}
+
 @article{DBLP:journals/computer/Grier14b,
   author    = {David Alan Grier},
   title     = {Assets to the Table},
@@ -567,6 +3373,54 @@
   number    = {3},
   year      = 2014,
   pages     = {100},
+}
+
+@article{DBLP:journals/computer/ChauRPNS14,
+  author    = {Brian Chau and
+               Adam Robinson and
+               Jason Pace and
+               Rob Nash and
+               Kelvin Sung},
+  title     = {Corrupted: A Game to Teach Programming Concepts},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {100-103},
+}
+
+@article{DBLP:journals/computer/Berghel14d,
+  author    = {Hal Berghel},
+  title     = {PII, the FTC, Car Dealers, and You},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {102-106},
+}
+
+@article{DBLP:journals/computer/VassilevC14,
+  author    = {Apostol Vassilev and
+               Christopher Celi},
+  title     = {Avoiding Cyberspace Catastrophes through Smarter Testing},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {102-106},
+}
+
+@article{DBLP:journals/computer/GandhiCSM14,
+  author    = {Robin A. Gandhi and
+               Keesha Crosby and
+               Harvey P. Siy and
+               Sayonnha Mandal},
+  title     = {Gauging the Impact of {FISMA} on Software Security},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {103-107},
 }
 
 @article{DBLP:journals/computer/Grier14,
@@ -587,6 +3441,108 @@
   number    = {2},
   year      = 2014,
   pages     = {104},
+}
+
+@article{DBLP:journals/computer/Grier14e,
+  author    = {David Alan Grier},
+  title     = {Peace in Our Time},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {6},
+  year      = 2014,
+  pages     = {104},
+}
+
+@article{DBLP:journals/computer/KottSM14,
+  author    = {Alexander Kott and
+               Ananthram Swami and
+               Patrick Drew McDaniel},
+  title     = {Security Outlook: Six Cyber Game Changers for the Next 15 Years},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {104-106},
+}
+
+@article{DBLP:journals/computer/Grier14f,
+  author    = {David Alan Grier},
+  title     = {The {Half-Told} Lie},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {7},
+  year      = 2014,
+  pages     = {108},
+}
+
+@article{DBLP:journals/computer/Grier14c,
+  author    = {David Alan Grier},
+  title     = {All That Glitters Is Not Gold},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {4},
+  year      = 2014,
+  pages     = {116},
+}
+
+@article{DBLP:journals/computer/Grier14g,
+  author    = {David Alan Grier},
+  title     = {The Guest at the Feast},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {8},
+  year      = 2014,
+  pages     = {116},
+}
+
+@article{DBLP:journals/computer/Grier14d,
+  author    = {David Alan Grier},
+  title     = {The Real Change [The Errant Hashtag]},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {5},
+  year      = 2014,
+  pages     = {120},
+}
+
+@article{DBLP:journals/computer/Grier14h,
+  author    = {David Alan Grier},
+  title     = {The Point of Recognition},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {9},
+  year      = 2014,
+  pages     = {120},
+}
+
+@article{DBLP:journals/computer/Grier14j,
+  author    = {David Alan Grier},
+  title     = {The External Environment},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {11},
+  year      = 2014,
+  pages     = {124},
+}
+
+@article{DBLP:journals/computer/Grier14i,
+  author    = {David Alan Grier},
+  title     = {Lying to the Future},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {10},
+  year      = 2014,
+  pages     = {128},
+}
+
+@article{DBLP:journals/computer/Grier14k,
+  author    = {David Alan Grier},
+  title     = {State Secrets},
+  journal   = ieeecomputer,
+  volume    = {47},
+  number    = {12},
+  year      = 2014,
+  pages     = {128},
 }
 
 @article{DBLP:journals/computer/Garber13a,
@@ -1397,7 +4353,7 @@
   author    = {Santosh Kumar and
                Wendy Nilsen and
                Misha Pavel and
-               Mani Srivastava},
+               Mani B. Srivastava},
   title     = {Mobile Health: Revolutionizing Healthcare Through Transdisciplinary Research},
   journal   = ieeecomputer,
   volume    = {46},
@@ -1568,7 +4524,7 @@
 @article{DBLP:journals/computer/SchirnerECP13,
   author    = {Gunar Schirner and
                Deniz Erdogmus and
-               Kaushik Chowdhury and
+               Kaushik R. Chowdhury and
                Taskin Padir},
   title     = {The Future of {Human-in-the-Loop} {Cyber-Physical} Systems},
   journal   = ieeecomputer,
@@ -2235,7 +5191,7 @@
                Galen M. Shipman and
                Ross Miller and
                David Pugmire and
-               Brian Smith and
+               Brian E. Smith and
                Chad A. Steed and
                E. Wes Bethel and
                Hank Childs and
@@ -7097,7 +10053,7 @@
 }
 
 @article{DBLP:journals/computer/Phillips11,
-  author    = {P. J. Phillips},
+  author    = {P. Jonathon Phillips},
   title     = {Improving Face Recognition Technology},
   journal   = ieeecomputer,
   volume    = {44},
@@ -7264,7 +10220,7 @@
 }
 
 @article{DBLP:journals/computer/Ferguson11,
-  author    = {Neil Ferguson},
+  author    = {Neil M. Ferguson},
   title     = {Achieving Synergy in the {Industry-Academia} Relationship},
   journal   = ieeecomputer,
   volume    = {44},
@@ -9267,7 +12223,7 @@
 }
 
 @article{DBLP:journals/computer/Robinson10,
-  author    = {William Robinson},
+  author    = {William N. Robinson},
   title     = {A Roadmap for Comprehensive Requirements Modeling},
   journal   = ieeecomputer,
   volume    = {43},
@@ -9783,7 +12739,7 @@
 
 @article{DBLP:journals/computer/BroyR10,
   author    = {Manfred Broy and
-               Ralf Reussner},
+               Ralf H. Reussner},
   title     = {Architectural Concepts in Programming Languages},
   journal   = ieeecomputer,
   volume    = {43},
@@ -16250,7 +19206,7 @@
                Pallavi Galgali and
                Amit Shah and
                Nikhil Shah and
-               Venkatesh Srinivasan and
+               Srinivasan Venkatesh and
                Lokesh Bhatia},
   title     = {Marking Technique to Isolate Boundary Router and Attacker},
   journal   = ieeecomputer,
@@ -18504,7 +21460,7 @@
 }
 
 @article{DBLP:journals/computer/MurrayBMN06,
-  author    = {Janet Murray and
+  author    = {Janet H. Murray and
                Ian Bogost and
                Michael Mateas and
                Michael Nitsche},
@@ -18676,7 +21632,7 @@
                Rafael Fajardo and
                Sarah Gjertson and
                Scott T. Leutenegger and
-               Mario A. Lopez and
+               Mario A. López and
                Jeff Rutenbeck},
   title     = {Building a Game Development Program},
   journal   = ieeecomputer,
@@ -19538,7 +22494,7 @@
 
 @article{DBLP:journals/computer/HasselbringR06,
   author    = {Wilhelm Hasselbring and
-               Ralf Reussner},
+               Ralf H. Reussner},
   title     = {Toward Trustworthy Software Systems},
   journal   = ieeecomputer,
   volume    = {39},
@@ -35248,7 +38204,7 @@
 @article{DBLP:journals/computer/ThomasAG99,
   author    = {Spencer W. Thomas and
                Ken Alexander and
-               Kevin Guthrie},
+               Kevin M. Guthrie},
   title     = {Technology Choices for the {JSTOR} Online Archive},
   journal   = ieeecomputer,
   volume    = {32},
@@ -36917,7 +39873,7 @@
 @article{DBLP:journals/computer/BreretonBH98,
   author    = {Pearl Brereton and
                David Budgen and
-               Geoff Hamilton},
+               Geoff W. Hamilton},
   title     = {Hypertext: The Next Maintenance Mountain},
   journal   = ieeecomputer,
   volume    = {31},
@@ -40890,7 +43846,7 @@
 
 @article{DBLP:journals/computer/TanQT96,
   author    = {Chew Lim Tan and
-               Tong Seng Quah and
+               Tong-Seng Quah and
                Hoon heng Teh},
   title     = {An Artificial Neural Network that Models Human Decision Making},
   journal   = ieeecomputer,
@@ -41108,7 +44064,7 @@
 
 @article{DBLP:journals/computer/KarpHG96,
   author    = {Alan H. Karp and
-               Michael Heath and
+               Michael T. Heath and
                Al Geist},
   title     = {1995 Gordon Bell Prize Winners},
   journal   = ieeecomputer,
@@ -42704,7 +45660,7 @@
 
 @article{DBLP:journals/computer/KarpHHS95,
   author    = {Alan H. Karp and
-               Michael Heath and
+               Michael T. Heath and
                Don Heller and
                Horst D. Simon},
   title     = {1994 Gordon Bell Prize Winners: Judges' Summary},
@@ -47299,7 +50255,7 @@
 
 @article{DBLP:journals/computer/VinZSR91,
   author    = {Harrick M. Vin and
-               Polle Zellweger and
+               Polle T. Zellweger and
                Daniel C. Swinehart and
                P. Venkat Rangan},
   title     = {Multimedia Conferencing in the Etherphone Environment},
@@ -53087,7 +56043,7 @@
   author    = {Stephen S. Yau and
                Robert W. Ritchie and
                Warren Semon and
-               J. F. Traub and
+               Joseph F. Traub and
                Andries van Dam and
                Stanley Winkler},
   title     = {Meeting the Crisis in Computer Science},
@@ -53441,7 +56397,7 @@
 @article{DBLP:journals/computer/DemetrovicsKR82,
   author    = {János Demetrovics and
                Elöd Knuth and
-               Péter Rádo},
+               Péter Radó},
   title     = {Specification Meta Systems},
   journal   = ieeecomputer,
   volume    = {15},

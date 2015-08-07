@@ -1,5 +1,4188 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sigmod/Milo15,
+  author    = {Tova Milo},
+  title     = {From Good Research to Good Papers: A Personal Journey},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Patel15,
+  author    = {Jignesh M. Patel},
+  title     = {From Data to Insights @ Bare Metal Speed},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Fang15,
+  author    = {Xiu Susie Fang},
+  title     = {Generating Actionable Knowledge from Big Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {3-8},
+}
+
+@inproceedings{DBLP:conf/sigmod/YanZHSMZM15,
+  author    = {Ying Yan and
+               Jiaxing Zhang and
+               Bojun Huang and
+               Xuzhan Sun and
+               Jiaqi Mu and
+               Zheng Zhang and
+               Thomas Moscibroda},
+  title     = {Distributed Outlier Detection using Compressive Sensing},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {3-16},
+}
+
+@inproceedings{DBLP:conf/sigmod/Dorok15,
+  author    = {Sebastian Dorok},
+  title     = {The Relational Way To Dam The Flood Of Genome Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {9-13},
+}
+
+@inproceedings{DBLP:conf/sigmod/FanT15,
+  author    = {Qi Fan and
+               Kian-Lee Tan},
+  title     = {Towards Window Analytics over Large-scale Graphs},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {15-19},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZamanianBS15,
+  author    = {Erfan Zamanian and
+               Carsten Binnig and
+               Abdallah Salama},
+  title     = {Locality-aware Partitioning in Parallel Database Systems},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {17-30},
+}
+
+@inproceedings{DBLP:conf/sigmod/Li15,
+  author    = {Yuhong Li},
+  title     = {Efficient Query Processing in Time Series},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {21-26},
+}
+
+@inproceedings{DBLP:conf/sigmod/Maccioni15,
+  author    = {Antonio Maccioni},
+  title     = {Flexible Query Answering over Graph-modeled Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {27-32},
+}
+
+@inproceedings{DBLP:conf/sigmod/FengLKX15,
+  author    = {Ziqiang Feng and
+               Eric Lo and
+               Ben Kao and
+               Wenjian Xu},
+  title     = {ByteSlice: Pushing the Envelop of Main Memory Data Processing with a New Storage Layout},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {31-46},
+}
+
+@inproceedings{DBLP:conf/sigmod/Lim15,
+  author    = {Kwan Hui Lim},
+  title     = {Recommending Tours and {Places-of-Interest} based on User Interests from Geo-tagged Photos},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {33-38},
+}
+
+@inproceedings{DBLP:conf/sigmod/Amarilli15,
+  author    = {Antoine Amarilli},
+  title     = {Structurally Tractable Uncertain Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {39-44},
+}
+
+@inproceedings{DBLP:conf/sigmod/Song15,
+  author    = {Tianhong Song},
+  title     = {{Provenance-Driven} Data Curation Workflow Analysis},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {45-50},
+}
+
+@inproceedings{DBLP:conf/sigmod/AlexandrovKKSTK15,
+  author    = {Alexander Alexandrov and
+               Andreas Kunft and
+               Asterios Katsifodimos and
+               Felix Schüler and
+               Lauritz Thamsen and
+               Odej Kao and
+               Tobias Herb and
+               Volker Markl},
+  title     = {Implicit Parallelism through Deep Language Embedding},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {47-61},
+}
+
+@inproceedings{DBLP:conf/sigmod/Broneske15,
+  author    = {David Broneske},
+  title     = {Adaptive Reprogramming for Databases on Heterogeneous Processors},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {51-55},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChuBS15,
+  author    = {Shumo Chu and
+               Magdalena Balazinska and
+               Dan Suciu},
+  title     = {From Theory to Practice: Efficient Join Query Evaluation in a Parallel Database System},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {63-78},
+}
+
+@inproceedings{DBLP:conf/sigmod/ElgamalYAMH15,
+  author    = {Tarek Elgamal and
+               Maysam Yabandeh and
+               Ashraf Aboulnaga and
+               Waleed Mustafa and
+               Mohamed Hefeeda},
+  title     = {sPCA: Scalable Principal Component Analysis for Big Data on Distributed Platforms},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {79-91},
+}
+
+@inproceedings{DBLP:conf/sigmod/YuSC15,
+  author    = {Lele Yu and
+               Yingxia Shao and
+               Bin Cui},
+  title     = {Exploiting Matrix Dependency for Efficient Distributed Matrix Computation},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {93-105},
+}
+
+@inproceedings{DBLP:conf/sigmod/TeflioudiGM15,
+  author    = {Christina Teflioudi and
+               Rainer Gemulla and
+               Olga Mykytiuk},
+  title     = {LEMP: Fast Retrieval of Large Entries in a Matrix Product},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {107-122},
+}
+
+@inproceedings{DBLP:conf/sigmod/DugganPBS15,
+  author    = {Jennie Duggan and
+               Olga Papaemmanouil and
+               Leilani Battle and
+               Michael Stonebraker},
+  title     = {{Skew-Aware} Join Optimization for Array Databases},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {123-135},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuangBTRTR15,
+  author    = {Botong Huang and
+               Matthias Boehm and
+               Yuanyuan Tian and
+               Berthold Reinwald and
+               Shirish Tatikonda and
+               Frederick R. Reiss},
+  title     = {Resource Elasticity for {Large-Scale} Machine Learning},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {137-152},
+}
+
+@inproceedings{DBLP:conf/sigmod/OktayMKK15,
+  author    = {Kerim Yasin Oktay and
+               Sharad Mehrotra and
+               Vaibhav Khadilkar and
+               Murat Kantarcioglu},
+  title     = {SEMROD: Secure and Efficient {MapReduce} Over {HybriD} Clouds},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {153-166},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenHX15,
+  author    = {Qian Chen and
+               Haibo Hu and
+               Jianliang Xu},
+  title     = {Authenticated Online Data Integration Services},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {167-181},
+}
+
+@inproceedings{DBLP:conf/sigmod/HangKD15,
+  author    = {Isabelle Hang and
+               Florian Kerschbaum and
+               Ernesto Damiani},
+  title     = {ENKI: Access Control for Encrypted Query Processing},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {183-196},
+}
+
+@inproceedings{DBLP:conf/sigmod/MoffittSAM15,
+  author    = {Vera Zaychik Moffitt and
+               Julia Stoyanovich and
+               Serge Abiteboul and
+               Gerome Miklau},
+  title     = {Collaborative Access Control in {WebdamLog}},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {197-211},
+}
+
+@inproceedings{DBLP:conf/sigmod/UpadhyayaBS15,
+  author    = {Prasang Upadhyaya and
+               Magdalena Balazinska and
+               Dan Suciu},
+  title     = {Automatic Enforcement of Data Use Policies with {DataLawyer}},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {213-225},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuangCZJX15,
+  author    = {Yanxiang Huang and
+               Bin Cui and
+               Wenyu Zhang and
+               Jie Jiang and
+               Ying Xu},
+  title     = {TencentRec: Real-time Stream Recommendation in Practice},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {227-238},
+}
+
+@inproceedings{DBLP:conf/sigmod/KulkarniBFKKMPR15,
+  author    = {Sanjeev Kulkarni and
+               Nikunj Bhagat and
+               Maosong Fu and
+               Vikas Kedigehalli and
+               Christopher Kellogg and
+               Sailesh Mittal and
+               Jignesh M. Patel and
+               Karthik Ramasamy and
+               Siddarth Taneja},
+  title     = {Twitter Heron: Stream Processing at Scale},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {239-250},
+}
+
+@inproceedings{DBLP:conf/sigmod/BraunEGKKWAILL15,
+  author    = {Lucas Braun and
+               Thomas Etter and
+               Georgios Gasparis and
+               Martin Kaufmann and
+               Donald Kossmann and
+               Daniel Widmer and
+               Aharon Avitzur and
+               Anthony Iliopoulos and
+               Eliezer Levy and
+               Ning Liang},
+  title     = {Analytics in Motion: High Performance {Event-Processing} {AND} {Real-Time} Analytics in the Same Database},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {251-264},
+}
+
+@inproceedings{DBLP:conf/sigmod/CSKZYRPAKDRD15,
+  author    = {Paul Suganthan G. C. and
+               Chong Sun and
+               Krishna Gayatri K. and
+               Haojun Zhang and
+               Frank Yang and
+               Narasimhan Rampalli and
+               Shishir Prasad and
+               Esteban Arcaute and
+               Ganesh Krishnan and
+               Rohit Deep and
+               Vijay Raghavendra and
+               AnHai Doan},
+  title     = {Why Big Data Industrial Systems Need Rules and What We Can Do About It},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {265-276},
+}
+
+@inproceedings{DBLP:conf/sigmod/IdreosPC15,
+  author    = {Stratos Idreos and
+               Olga Papaemmanouil and
+               Surajit Chaudhuri},
+  title     = {Overview of Data Exploration Techniques},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {277-281},
+}
+
+@inproceedings{DBLP:conf/sigmod/ReABCJKR15,
+  author    = {Christopher Ré and
+               Divy Agrawal and
+               Magdalena Balazinska and
+               Michael I. Cafarella and
+               Michael I. Jordan and
+               Tim Kraska and
+               Raghu Ramakrishnan},
+  title     = {Machine Learning and Databases: The Sound of Things to Come or a Cacophony of Hype?},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {283-284},
+}
+
+@inproceedings{DBLP:conf/sigmod/SalamaBKZ15,
+  author    = {Abdallah Salama and
+               Carsten Binnig and
+               Tim Kraska and
+               Erfan Zamanian},
+  title     = {Cost-based Fault-tolerance for Parallel Data Processing},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {285-297},
+}
+
+@inproceedings{DBLP:conf/sigmod/ElmoreATPAA15,
+  author    = {Aaron J. Elmore and
+               Vaibhav Arora and
+               Rebecca Taft and
+               Andrew Pavlo and
+               Divyakant Agrawal and
+               Amr El Abbadi},
+  title     = {Squall: {Fine-Grained} Live Reconfiguration for Partitioned Main Memory Databases},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {299-313},
+}
+
+@inproceedings{DBLP:conf/sigmod/MishimaF15,
+  author    = {Takeshi Mishima and
+               Yasuhiro Fujiwara},
+  title     = {Madeus: Database Live Migration Middleware under Heavy Workloads for Cloud Environment},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {315-329},
+}
+
+@inproceedings{DBLP:conf/sigmod/AlvaroRH15,
+  author    = {Peter Alvaro and
+               Joshua Rosen and
+               Joseph M. Hellerstein},
+  title     = {Lineage-driven Fault Injection},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {331-346},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenC15,
+  author    = {Lisi Chen and
+               Gao Cong},
+  title     = {{Diversity-Aware} Top-k Publish/Subscribe for Text Stream},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {347-362},
+}
+
+@inproceedings{DBLP:conf/sigmod/FakasCM15,
+  author    = {Georgios John Fakas and
+               Zhi Cai and
+               Nikos Mamoulis},
+  title     = {Diverse and Proportional Size-l Object Summaries for Keyword Search},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {363-375},
+}
+
+@inproceedings{DBLP:conf/sigmod/YangWWW15,
+  author    = {Xiaochun Yang and
+               Yaoshu Wang and
+               Bin Wang and
+               Wei Wang},
+  title     = {Local Filtering: Improving the Performance of Approximate Queries on String Collections},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {377-392},
+}
+
+@inproceedings{DBLP:conf/sigmod/JiangFW15,
+  author    = {Minhao Jiang and
+               Ada Wai-Chee Fu and
+               Raymond Chi-Wing Wong},
+  title     = {Exact Top-k Nearest Keyword Search in Large Networks},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {393-404},
+}
+
+@inproceedings{DBLP:conf/sigmod/GuoCC15,
+  author    = {Tao Guo and
+               Xin Cao and
+               Gao Cong},
+  title     = {Efficient Algorithms for Answering the {m-Closest} Keywords Query},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {405-418},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuangFL15,
+  author    = {Silu Huang and
+               Ada Wai-Chee Fu and
+               Ruifeng Liu},
+  title     = {Minimum Spanning Trees in Temporal Graphs},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {419-430},
+}
+
+@inproceedings{DBLP:conf/sigmod/BerlowitzCK15,
+  author    = {Devora Berlowitz and
+               Sara Cohen and
+               Benny Kimelfeld},
+  title     = {Efficient Enumeration of Maximal {k-Plexes}},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {431-444},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangYQS15,
+  author    = {Zhiwei Zhang and
+               Jeffrey Xu Yu and
+               Lu Qin and
+               Zechao Shang},
+  title     = {Divide & Conquer: I/O Efficient {Depth-First} Search},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {445-458},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChangLQYZ15,
+  author    = {Lijun Chang and
+               Xuemin Lin and
+               Lu Qin and
+               Jeffrey Xu Yu and
+               Wenjie Zhang},
+  title     = {Index-based Optimal Algorithms for Computing Steiner Components with Maximum Connectivity},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {459-474},
+}
+
+@inproceedings{DBLP:conf/sigmod/GurukarRR15,
+  author    = {Saket Gurukar and
+               Sayan Ranu and
+               Balaraman Ravindran},
+  title     = {COMMIT: A Scalable Approach to Mining Communication Motifs from Dynamic Networks},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {475-489},
+}
+
+@inproceedings{DBLP:conf/sigmod/BeedkarG15,
+  author    = {Kaustubh Beedkar and
+               Rainer Gemulla},
+  title     = {LASH: {Large-Scale} Sequence Mining with Hierarchies},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {491-503},
+}
+
+@inproceedings{DBLP:conf/sigmod/CochezM15,
+  author    = {Michael Cochez and
+               Hao Mou},
+  title     = {Twister Tries: Approximate Hierarchical Agglomerative Clustering for Average Distance in Linear Time},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {505-517},
+}
+
+@inproceedings{DBLP:conf/sigmod/GanT15,
+  author    = {Junhao Gan and
+               Yufei Tao},
+  title     = {{DBSCAN} Revisited: Mis-Claim, Un-Fixability, and Approximation},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {519-530},
+}
+
+@inproceedings{DBLP:conf/sigmod/NaziDD15,
+  author    = {Azade Nazi and
+               Mahashweta Das and
+               Gautam Das},
+  title     = {The TagAdvisor: Luring the Lurkers to Review Web Items},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {531-543},
+}
+
+@inproceedings{DBLP:conf/sigmod/PengD15,
+  author    = {Liping Peng and
+               Yanlei Diao},
+  title     = {Supporting Data Uncertainty in Array Databases},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {545-560},
+}
+
+@inproceedings{DBLP:conf/sigmod/RazniewskiKNS15,
+  author    = {Simon Razniewski and
+               Flip Korn and
+               Werner Nutt and
+               Divesh Srivastava},
+  title     = {Identifying the Extent of Completeness of Query Answers over Partially Complete Databases},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {561-576},
+}
+
+@inproceedings{DBLP:conf/sigmod/PengW15,
+  author    = {Peng Peng and
+               Raymong Chi-Wing Wong},
+  title     = {{k-Hit} Query: Top-k Query with Probabilistic Utility Function},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {577-592},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiLHT15,
+  author    = {Furong Li and
+               Mong-Li Lee and
+               Wynne Hsu and
+               Wang-Chiew Tan},
+  title     = {Linking Temporal Records for Profiling Entities},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {593-605},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuangZYDLND0Z15,
+  author    = {Yiqing Huang and
+               Fangzhou Zhu and
+               Mingxuan Yuan and
+               Ke Deng and
+               Yanhua Li and
+               Bing Ni and
+               Wenyuan Dai and
+               Qiang Yang and
+               Jia Zeng},
+  title     = {Telco Churn Prediction with Big Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {607-618},
+}
+
+@inproceedings{DBLP:conf/sigmod/ErlingALCGPPB15,
+  author    = {Orri Erling and
+               Alex Averbuch and
+               Josep-Lluis Larriba-Pey and
+               Hassan Chafi and
+               Andrey Gubichev and
+               Arnau Prat-Pérez and
+               Minh-Duc Pham and
+               Peter A. Boncz},
+  title     = {The {LDBC} Social Network Benchmark: Interactive Workload},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {619-630},
+}
+
+@inproceedings{DBLP:conf/sigmod/NothaftMDZLYKAH15,
+  author    = {Frank Austin Nothaft and
+               Matt Massie and
+               Timothy Danford and
+               Zhao Zhang and
+               Uri Laserson and
+               Carl Yeksigian and
+               Jey Kottalam and
+               Arun Ahuja and
+               Jeff Hammerbacher and
+               Michael Linderman and
+               Michael J. Franklin and
+               Anthony D. Joseph and
+               David A. Patterson},
+  title     = {Rethinking {Data-Intensive} Science Using Scalable Analytics Systems},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {631-646},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangXLCH15,
+  author    = {Yue Wang and
+               Yingzhong Xu and
+               Yue Liu and
+               Jian Chen and
+               Songlin Hu},
+  title     = {{QMapper} for Smart Grid: Migrating {SQL-based} Application to Hive},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {647-658},
+}
+
+@inproceedings{DBLP:conf/sigmod/Widom15,
+  author    = {Jennifer Widom},
+  title     = {Three Favorite Results},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {659},
+}
+
+@inproceedings{DBLP:conf/sigmod/Haas15,
+  author    = {Laura M. Haas},
+  title     = {The Power Behind the Throne: Information Integration in the Age of {Data-Driven} Discovery},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {661},
+}
+
+@inproceedings{DBLP:conf/sigmod/LoesingPEK15,
+  author    = {Simon Loesing and
+               Markus Pilman and
+               Thomas Etter and
+               Donald Kossmann},
+  title     = {On the Design and Scalability of Distributed {Shared-Data} Databases},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {663-676},
+}
+
+@inproceedings{DBLP:conf/sigmod/0001MK15,
+  author    = {Thomas Neumann and
+               Tobias Mühlbauer and
+               Alfons Kemper},
+  title     = {Fast Serializable {Multi-Version} Concurrency Control for {Main-Memory} Database Systems},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {677-689},
+}
+
+@inproceedings{DBLP:conf/sigmod/Kimura15,
+  author    = {Hideaki Kimura},
+  title     = {FOEDUS: {OLTP} Engine for a Thousand Cores and {NVRAM}},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {691-706},
+}
+
+@inproceedings{DBLP:conf/sigmod/ArulrajPD15,
+  author    = {Joy Arulraj and
+               Andrew Pavlo and
+               Subramanya Dulloor},
+  title     = {Let's Talk About Storage & Recovery Methods for {Non-Volatile} Memory Database Systems},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {707-722},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangCPSX15,
+  author    = {Jun Zhang and
+               Graham Cormode and
+               Cecilia M. Procopiuc and
+               Divesh Srivastava and
+               Xiaokui Xiao},
+  title     = {Private Release of Graph Statistics using Ladder Functions},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {731-745},
+}
+
+@inproceedings{DBLP:conf/sigmod/YangSN15,
+  author    = {Bin Yang and
+               Issei Sato and
+               Hiroshi Nakagawa},
+  title     = {Bayesian Differential Privacy on Correlated Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {747-762},
+}
+
+@inproceedings{DBLP:conf/sigmod/MavroforakisCOK15,
+  author    = {Charalampos Mavroforakis and
+               Nathan Chenette and
+               Adam O'Neill and
+               George Kollios and
+               Ran Canetti},
+  title     = {Modular {Order-Preserving} Encryption, Revisited},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {763-777},
+}
+
+@inproceedings{DBLP:conf/sigmod/AllardHMP15,
+  author    = {Tristan Allard and
+               Georges Hébrail and
+               Florent Masseglia and
+               Esther Pacitti},
+  title     = {Chiaroscuro: Transparency and Privacy for Massive Personal {Time-Series} Clustering},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {779-794},
+}
+
+@inproceedings{DBLP:conf/sigmod/WeiLYDW15,
+  author    = {Zhewei Wei and
+               Ge Luo and
+               Ke Yi and
+               Xiaoyong Du and
+               Ji-Rong Wen},
+  title     = {Persistent Data Sketching},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {795-810},
+}
+
+@inproceedings{DBLP:conf/sigmod/LinOWY15,
+  author    = {Qian Lin and
+               Beng Chin Ooi and
+               Zhengkui Wang and
+               Cui Yu},
+  title     = {Scalable Distributed Stream Join Processing},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {811-825},
+}
+
+@inproceedings{DBLP:conf/sigmod/SongZWY15,
+  author    = {Shaoxu Song and
+               Aoqian Zhang and
+               Jianmin Wang and
+               Philip S. Yu},
+  title     = {SCREEN: Stream Data Cleaning under Speed Constraints},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {827-841},
+}
+
+@inproceedings{DBLP:conf/sigmod/GuoZLTB15,
+  author    = {Long Guo and
+               Dongxiang Zhang and
+               Guoliang Li and
+               Kian-Lee Tan and
+               Zhifeng Bao},
+  title     = {{Location-Aware} Pub/Sub System: When Continuous Moving Queries Meet Dynamic Event Streams},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {843-857},
+}
+
+@inproceedings{DBLP:conf/sigmod/KatsipoulakisTG15,
+  author    = {Nick R. Katsipoulakis and
+               Cory Thoma and
+               Eric A. Gratta and
+               Alexandros Labrinidis and
+               Adam J. Lee and
+               Panos K. Chrysanthis},
+  title     = {CE-Storm: Confidential Elastic Processing of Data Streams},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {859-864},
+}
+
+@inproceedings{DBLP:conf/sigmod/DietrichG15,
+  author    = {Benjamin Dietrich and
+               Torsten Grust},
+  title     = {A {SQL} Debugger Built from Spare Parts: Turning a SQL: 1999 Database System into Its Own Debugger},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {865-870},
+}
+
+@inproceedings{DBLP:conf/sigmod/BaoZJL15,
+  author    = {Zhifeng Bao and
+               Yong Zeng and
+               H. V. Jagadish and
+               Tok Wang Ling},
+  title     = {Exploratory Keyword Search with Interactive Input},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {871-876},
+}
+
+@inproceedings{DBLP:conf/sigmod/ScheibliDB15,
+  author    = {Daniel Scheibli and
+               Christian Dinse and
+               Alexander Boehm},
+  title     = {QE3D: Interactive Visualization and Exploration of Complex, Distributed Query Plans},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {877-881},
+}
+
+@inproceedings{DBLP:conf/sigmod/MorcosAIOPS15,
+  author    = {John Morcos and
+               Ziawasch Abedjan and
+               Ihab Francis Ilyas and
+               Mourad Ouzzani and
+               Paolo Papotti and
+               Michael Stonebraker},
+  title     = {DataXFormer: An Interactive Data Transformation Tool},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {883-888},
+}
+
+@inproceedings{DBLP:conf/sigmod/JiZJNHF15,
+  author    = {Yuanzhen Ji and
+               Hongjin Zhou and
+               Zbigniew Jerzak and
+               Anisoara Nica and
+               Gregor Hackenbroich and
+               Christof Fetzer},
+  title     = {{Quality-Driven} Continuous Query Execution over {Out-of-Order} Data Streams},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {889-894},
+}
+
+@inproceedings{DBLP:conf/sigmod/MytilinisGKDTTG15,
+  author    = {Ioannis Mytilinis and
+               Ioannis Giannakopoulos and
+               Ioannis Konstantinou and
+               Katerina Doka and
+               Dimitrios Tsitsigkos and
+               Manolis Terrovitis and
+               Lampros Giampouras and
+               Nectarios Koziris},
+  title     = {MoDisSENSE: A Distributed {Spatio-Temporal} and Textual Processing Platform for Social Networking Services},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {895-900},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuLWTGY15,
+  author    = {Qiang Hu and
+               Qi Liu and
+               Xiaoli Wang and
+               Anthony K. H. Tung and
+               Shubham Goyal and
+               Jisong Yang},
+  title     = {DocRicher: An Automatic Annotation System for Text Documents Using Social Media},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {901-906},
+}
+
+@inproceedings{DBLP:conf/sigmod/YuanWYC15,
+  author    = {Li-Yan Yuan and
+               Lengdong Wu and
+               Jia-Huai You and
+               Yan Chi},
+  title     = {A Demonstration of Rubato DB: A Highly Scalable {NewSQL} Database System for {OLTP} and Big Data Applications},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {907-912},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZengADAS15,
+  author    = {Kai Zeng and
+               Sameer Agarwal and
+               Ankur Dave and
+               Michael Armbrust and
+               Ion Stoica},
+  title     = {G-OLA: Generalized {On-Line} Aggregation for Interactive Analysis on Big Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {913-918},
+}
+
+@inproceedings{DBLP:conf/sigmod/SakuraiMF15,
+  author    = {Yasushi Sakurai and
+               Yasuko Matsubara and
+               Christos Faloutsos},
+  title     = {Mining and Forecasting of Big Time-series Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {919-922},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangZZLC15,
+  author    = {Xiaoyang Wang and
+               Ying Zhang and
+               Wenjie Zhang and
+               Xuemin Lin and
+               Muhammad Aamir Cheema},
+  title     = {Optimal Spatial Dominance: An Effective Search of Nearest Neighbor Candidates},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {923-938},
+}
+
+@inproceedings{DBLP:conf/sigmod/TauheedHA15,
+  author    = {Farhan Tauheed and
+               Thomas Heinis and
+               Anastasia Ailamaki},
+  title     = {THERMAL-JOIN: A Scalable Spatial Join for Dynamic Workloads},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {939-950},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenGLJCZ15,
+  author    = {Lu Chen and
+               Yunjun Gao and
+               Xinhan Li and
+               Christian S. Jensen and
+               Gang Chen and
+               Baihua Zheng},
+  title     = {Indexing Metric Uncertain Data for Range Queries},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {951-965},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangLYXZ15,
+  author    = {Sibo Wang and
+               Wenqing Lin and
+               Yi Yang and
+               Xiaokui Xiao and
+               Shuigeng Zhou},
+  title     = {Efficient Route Planning on Public Transportation Networks: A Labelling Approach},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {967-982},
+}
+
+@inproceedings{DBLP:conf/sigmod/Anagnostopoulos15,
+  author    = {Aris Anagnostopoulos and
+               Luca Becchetti and
+               Adriano Fazzone and
+               Ida Mele and
+               Matteo Riondato},
+  title     = {The Importance of Being Expert: Efficient {Max-Finding} in Crowdsourcing},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {983-998},
+}
+
+@inproceedings{DBLP:conf/sigmod/HungTWA15,
+  author    = {Nguyen Quoc Viet Hung and
+               Duong Chi Thang and
+               Matthias Weidlich and
+               Karl Aberer},
+  title     = {Minimizing Efforts in Validating Crowd Answers},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {999-1014},
+}
+
+@inproceedings{DBLP:conf/sigmod/FanLOTF15,
+  author    = {Ju Fan and
+               Guoliang Li and
+               Beng Chin Ooi and
+               Kian-Lee Tan and
+               Jianhua Feng},
+  title     = {iCrowd: An Adaptive Crowdsourcing Framework},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1015-1030},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhengWLCF15,
+  author    = {Yudian Zheng and
+               Jiannan Wang and
+               Guoliang Li and
+               Reynold Cheng and
+               Jianhua Feng},
+  title     = {QASCA: A {Quality-Aware} Task Assignment System for Crowdsourcing Applications},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1031-1046},
+}
+
+@inproceedings{DBLP:conf/sigmod/VerroiosLG15,
+  author    = {Vasilis Verroios and
+               Peter Lofgren and
+               Hector Garcia-Molina},
+  title     = {tDP: An {Optimal-Latency} Budget Allocation Strategy for Crowdsourced {MAXIMUM} Operations},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1047-1062},
+}
+
+@inproceedings{DBLP:conf/sigmod/WongHFXL15,
+  author    = {Petrie Wong and
+               Zhian He and
+               Ziqiang Feng and
+               Wenjian Xu and
+               Eric Lo},
+  title     = {Thrifty: Offering Parallel Database as a Service using the {Shared-Process} Approach},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1063-1068},
+}
+
+@inproceedings{DBLP:conf/sigmod/AkenDPCC15,
+  author    = {Dana Van Aken and
+               Djellel Eddine Difallah and
+               Andrew Pavlo and
+               Carlo Curino and
+               Philippe Cudré-Mauroux},
+  title     = {BenchPress: Dynamic Workload Control in the {OLTP-Bench} Testbed},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1069-1073},
+}
+
+@inproceedings{DBLP:conf/sigmod/MeglerM15,
+  author    = {V. M. Megler and
+               David Maier},
+  title     = {Demonstrating "Data Near Here": Scientific Data Search},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1075-1080},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChevalierSGL15,
+  author    = {Jules Chevalier and
+               Julien Subercaze and
+               Christophe Gravier and
+               Frédérique Laforest},
+  title     = {Slider: An Efficient Incremental Reasoner},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1081-1086},
+}
+
+@inproceedings{DBLP:conf/sigmod/VulimiriCGJKPV15,
+  author    = {Ashish Vulimiri and
+               Carlo Curino and
+               Philip Brighten Godfrey and
+               Thomas Jungblut and
+               Konstantinos Karanasos and
+               Jitendra Padhye and
+               George Varghese},
+  title     = {WANalytics: {Geo-Distributed} Analytics for a Data Intensive World},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1087-1092},
+}
+
+@inproceedings{DBLP:conf/sigmod/WuTNX015,
+  author    = {Huayu Wu and
+               Jo-Anne Tan and
+               Wee Siong Ng and
+               Mingqiang Xue and
+               Wei Chen},
+  title     = {FTT: A System for Finding and Tracking Tourists in Public Transport Services},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1093-1098},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangZZS15,
+  author    = {Haozhou Wang and
+               Kai Zheng and
+               Xiaofang Zhou and
+               Shazia Wasim Sadiq},
+  title     = {SharkDB: An {In-Memory} Storage System for Massive Trajectory Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1099-1104},
+}
+
+@inproceedings{DBLP:conf/sigmod/PerezSBPRSL15,
+  author    = {Yonathan Perez and
+               Rok Sosic and
+               Arijit Banerjee and
+               Rohan Puttagunta and
+               Martin Raison and
+               Pararth Shah and
+               Jure Leskovec},
+  title     = {Ringo: Interactive Graph Analytics on {Big-Memory} Machines},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1105-1110},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChristensenWLYT15,
+  author    = {Robert Christensen and
+               Lu Wang and
+               Feifei Li and
+               Ke Yi and
+               Jun Tang and
+               Natalee Villa},
+  title     = {STORM: {Spatio-Temporal} Online Reasoning and Management of Large {Spatio-Temporal} Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1111-1116},
+}
+
+@inproceedings{DBLP:conf/sigmod/Camacho-Rodriguez15,
+  author    = {Jesús Camacho-Rodríguez and
+               Dario Colazzo and
+               Ioana Manolescu and
+               Juan A. M. Naranjo},
+  title     = {PAXQuery: Parallel Analytical {XML} Processing},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1117-1122},
+}
+
+@inproceedings{DBLP:conf/sigmod/0002SLLF15,
+  author    = {Ingo Müller and
+               Peter Sanders and
+               Arnaud Lacurie and
+               Wolfgang Lehner and
+               Franz Färber},
+  title     = {{Cache-Efficient} Aggregation: Hashing Is Sorting},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1123-1136},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiHDL15,
+  author    = {Guoliang Li and
+               Jian He and
+               Dong Deng and
+               Jian Li},
+  title     = {Efficient Similarity Join and Search on {Multi-Attribute} Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1137-1151},
+}
+
+@inproceedings{DBLP:conf/sigmod/PetrakiIM15,
+  author    = {Eleni Petraki and
+               Stratos Idreos and
+               Stefan Manegold},
+  title     = {Holistic Indexing in Main-memory Column-stores},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1153-1166},
+}
+
+@inproceedings{DBLP:conf/sigmod/MozafariGY15,
+  author    = {Barzan Mozafari and
+               Eugene Zhen Ye Goh and
+               Dong Young Yoon},
+  title     = {CliffGuard: A Principled Framework for Finding Robust Database Designs},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1167-1182},
+}
+
+@inproceedings{DBLP:conf/sigmod/JoglekarGPR15,
+  author    = {Manas Joglekar and
+               Hector Garcia-Molina and
+               Aditya G. Parameswaran and
+               Christopher Re},
+  title     = {Exploiting Correlations for Expensive Predicate Evaluation},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1183-1198},
+}
+
+@inproceedings{DBLP:conf/sigmod/BergmanMNT15,
+  author    = {Moria Bergman and
+               Tova Milo and
+               Slava Novgorodov and
+               Wang Chiew Tan},
+  title     = {{Query-Oriented} Data Cleaning with Oracles},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1199-1214},
+}
+
+@inproceedings{DBLP:conf/sigmod/KhayyatIJMOPQ0Y15,
+  author    = {Zuhair Khayyat and
+               Ihab F. Ilyas and
+               Alekh Jindal and
+               Samuel Madden and
+               Mourad Ouzzani and
+               Paolo Papotti and
+               Jorge-Arnulfo Quiané-Ruiz and
+               Nan Tang and
+               Si Yin},
+  title     = {BigDansing: A System for Big Data Cleansing},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1215-1230},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangDM15,
+  author    = {Xiaolan Wang and
+               Xin Luna Dong and
+               Alexandra Meliou},
+  title     = {Data X-Ray: A Diagnostic Tool for Data Errors},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1231-1245},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChuMIOP0Y15,
+  author    = {Xu Chu and
+               John Morcos and
+               Ihab F. Ilyas and
+               Mourad Ouzzani and
+               Paolo Papotti and
+               Nan Tang and
+               Yin Ye},
+  title     = {KATARA: A Data Cleaning System Powered by Knowledge Bases and Crowdsourcing},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1247-1261},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangXL15,
+  author    = {Sibo Wang and
+               Xiaokui Xiao and
+               Chun-Hee Lee},
+  title     = {{Crowd-Based} Deduplication: An Adaptive Approach},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1263-1277},
+}
+
+@inproceedings{DBLP:conf/sigmod/NawabAAA15,
+  author    = {Faisal Nawab and
+               Vaibhav Arora and
+               Divyakant Agrawal and
+               Amr El Abbadi},
+  title     = {Minimizing Commit Latency of Transactions in {Geo-Replicated} Data Stores},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1279-1294},
+}
+
+@inproceedings{DBLP:conf/sigmod/BernsteinDDP15,
+  author    = {Philip A. Bernstein and
+               Sudipto Das and
+               Bailu Ding and
+               Markus Pilman},
+  title     = {Optimizing Optimistic Concurrency Control for Tree-Structured, {Log-Structured} Databases},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1295-1309},
+}
+
+@inproceedings{DBLP:conf/sigmod/0002KBDHKFG15,
+  author    = {Sudip Roy and
+               Lucja Kot and
+               Gabriel Bender and
+               Bailu Ding and
+               Hossein Hojjat and
+               Christoph Koch and
+               Nate Foster and
+               Johannes Gehrke},
+  title     = {The Homeostasis Protocol: Avoiding Transaction Coordination Through Program Analysis},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1311-1326},
+}
+
+@inproceedings{DBLP:conf/sigmod/BailisFFGHS15,
+  author    = {Peter Bailis and
+               Alan Fekete and
+               Michael J. Franklin and
+               Ali Ghodsi and
+               Joseph M. Hellerstein and
+               Ion Stoica},
+  title     = {Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1327-1342},
+}
+
+@inproceedings{DBLP:conf/sigmod/WeimerCCCCDLMMM15,
+  author    = {Markus Weimer and
+               Yingda Chen and
+               Byung-Gon Chun and
+               Tyson Condie and
+               Carlo Curino and
+               Chris Douglas and
+               Yunseong Lee and
+               Tony Majestro and
+               Dahlia Malkhi and
+               Sergiy Matusevych and
+               Brandon Myers and
+               Shravan Narayanamurthy and
+               Raghu Ramakrishnan and
+               Sriram Rao and
+               Russell Sears and
+               Beysim Sezgin and
+               Julia Wang},
+  title     = {REEF: Retainable Evaluator Execution Framework},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1343-1355},
+}
+
+@inproceedings{DBLP:conf/sigmod/SahaSSVMC15,
+  author    = {Bikas Saha and
+               Hitesh Shah and
+               Siddharth Seth and
+               Gopal Vijayaraghavan and
+               Arun C. Murthy and
+               Carlo Curino},
+  title     = {Apache Tez: A Unifying Framework for Modeling and Building Data Processing Applications},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1357-1369},
+}
+
+@inproceedings{DBLP:conf/sigmod/ArefCGKOPVW15,
+  author    = {Molham Aref and
+               Balder ten Cate and
+               Todd J. Green and
+               Benny Kimelfeld and
+               Dan Olteanu and
+               Emir Pasalic and
+               Todd L. Veldhuizen and
+               Geoffrey Washburn},
+  title     = {Design and Implementation of the {LogicBlox} System},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1371-1382},
+}
+
+@inproceedings{DBLP:conf/sigmod/ArmbrustXLHLBMK15,
+  author    = {Michael Armbrust and
+               Reynold S. Xin and
+               Cheng Lian and
+               Yin Huai and
+               Davies Liu and
+               Joseph K. Bradley and
+               Xiangrui Meng and
+               Tomer Kaftan and
+               Michael J. Franklin and
+               Ali Ghodsi and
+               Matei Zaharia},
+  title     = {Spark SQL: Relational Data Processing in Spark},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1383-1394},
+}
+
+@inproceedings{DBLP:conf/sigmod/SalihogluSKTW15,
+  author    = {Semih Salihoglu and
+               Jaeho Shin and
+               Vikesh Khanna and
+               Ba Quan Truong and
+               Jennifer Widom},
+  title     = {Graft: A Debugging Tool For Apache Giraph},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1403-1408},
+}
+
+@inproceedings{DBLP:conf/sigmod/XiaoBME15,
+  author    = {Dongqing Xiao and
+               Armir Bashllari and
+               Tyler Menard and
+               Mohamed Y. Eltabakh},
+  title     = {Even Metadata is Getting Big: Annotation Summarization using {InsightNotes}},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1409-1414},
+}
+
+@inproceedings{DBLP:conf/sigmod/GruenheidKRS15,
+  author    = {Anja Gruenheid and
+               Donald Kossmann and
+               Theodoros Rekatsinas and
+               Divesh Srivastava},
+  title     = {StoryPivot: Comparing and Contrasting Story Evolution},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1415-1420},
+}
+
+@inproceedings{DBLP:conf/sigmod/UlrichG15,
+  author    = {Alexander Ulrich and
+               Torsten Grust},
+  title     = {The Flatter, the Better: Query Compilation Based on the Flattening Transformation},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1421-1426},
+}
+
+@inproceedings{DBLP:conf/sigmod/JerglerSJ15,
+  author    = {Martin Jergler and
+               Mohammad Sadoghi and
+               Hans-Arno Jacobsen},
+  title     = {D2WORM: A Management Infrastructure for Distributed Data-centric Workflows},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1427-1432},
+}
+
+@inproceedings{DBLP:conf/sigmod/AmsterdamerKM15,
+  author    = {Yael Amsterdamer and
+               Anna Kukliansky and
+               Tova Milo},
+  title     = {NL2CM: A Natural Language Interface to Crowd Mining},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1433-1438},
+}
+
+@inproceedings{DBLP:conf/sigmod/DudoladovXSKETM15,
+  author    = {Sergey Dudoladov and
+               Chen Xu and
+               Sebastian Schelter and
+               Asterios Katsifodimos and
+               Stephan Ewen and
+               Kostas Tzoumas and
+               Volker Markl},
+  title     = {Optimistic Recovery for Iterative Dataflows in Action},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1439-1443},
+}
+
+@inproceedings{DBLP:conf/sigmod/LallaliAPP15,
+  author    = {Saliha Lallali and
+               Nicolas Anciaux and
+               Iulian Sandu Popa and
+               Philippe Pucheral},
+  title     = {A Secure Search Engine for the Personal Cloud},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1445-1450},
+}
+
+@inproceedings{DBLP:conf/sigmod/DokaPTMK15,
+  author    = {Katerina Doka and
+               Nikolaos Papailiou and
+               Dimitrios Tsoumakos and
+               Christos Mantas and
+               Nectarios Koziris},
+  title     = {IReS: Intelligent, {Multi-Engine} Resource Scheduler for Big Data Analytics Workflows},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1451-1456},
+}
+
+@inproceedings{DBLP:conf/sigmod/RablDFSJ15,
+  author    = {Tilmann Rabl and
+               Manuel Danisch and
+               Michael Frank and
+               Sebastian Schindler and
+               Hans-Arno Jacobsen},
+  title     = {Just can't get enough: Synthesizing Big Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1457-1462},
+}
+
+@inproceedings{DBLP:conf/sigmod/BarthelsLAK15,
+  author    = {Claude Barthels and
+               Simon Loesing and
+               Gustavo Alonso and
+               Donald Kossmann},
+  title     = {{Rack-Scale} {In-Memory} Join Processing using {RDMA}},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1463-1475},
+}
+
+@inproceedings{DBLP:conf/sigmod/HeimelKM15,
+  author    = {Max Heimel and
+               Martin Kiefer and
+               Volker Markl},
+  title     = {Self-Tuning, {GPU-Accelerated} Kernel Density Models for Multidimensional Selectivity Estimation},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1477-1492},
+}
+
+@inproceedings{DBLP:conf/sigmod/PolychroniouRR15,
+  author    = {Orestis Polychroniou and
+               Arun Raghavan and
+               Kenneth A. Ross},
+  title     = {Rethinking {SIMD} Vectorization for {In-Memory} Databases},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1493-1508},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiCP15,
+  author    = {Yinan Li and
+               Craig Chasseur and
+               Jignesh M. Patel},
+  title     = {A Padded Encoding Scheme to Accelerate Scans by Leveraging Skew},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1509-1524},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiBCGM15,
+  author    = {Hui Li and
+               Sourav S. Bhowmick and
+               Jiangtao Cui and
+               Yunjun Gao and
+               Jianfeng Ma},
+  title     = {GetReal: Towards Realistic Selection of Influence Maximization Strategies in Competitive Networks},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1525-1537},
+}
+
+@inproceedings{DBLP:conf/sigmod/TangSX15,
+  author    = {Youze Tang and
+               Yanchen Shi and
+               Xiaokui Xiao},
+  title     = {Influence Maximization in {Near-Linear} Time: A Martingale Approach},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1539-1554},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuYCX15,
+  author    = {Zhiting Hu and
+               Junjie Yao and
+               Bin Cui and
+               Eric P. Xing},
+  title     = {Community Level Diffusion Extraction},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1555-1569},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShinJSK15,
+  author    = {Kijung Shin and
+               Jinhong Jung and
+               Lee Sael and
+               U. Kang},
+  title     = {BEAR: Block Elimination Approach for Random Walk with Restart on Large Graphs},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1571-1585},
+}
+
+@inproceedings{DBLP:conf/sigmod/RuchanskyBGGK15,
+  author    = {Natali Ruchansky and
+               Francesco Bonchi and
+               David García-Soriano and
+               Francesco Gullo and
+               Nicolas Kourtellis},
+  title     = {The Minimum Wiener Connector Problem},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1587-1602},
+}
+
+@inproceedings{DBLP:conf/sigmod/RoyLL15,
+  author    = {Senjuti Basu Roy and
+               Laks V. S. Lakshmanan and
+               Rui Liu},
+  title     = {From Group Recommendations to Group Formation},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1603-1616},
+}
+
+@inproceedings{DBLP:conf/sigmod/ArmenatzoglouPN15,
+  author    = {Nikos Armenatzoglou and
+               Huy Pham and
+               Vasilis Ntranos and
+               Dimitris Papadias and
+               Cyrus Shahabi},
+  title     = {{Real-Time} {Multi-Criteria} Social Graph Partitioning: A Game Theoretic Approach},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1617-1628},
+}
+
+@inproceedings{DBLP:conf/sigmod/SheT015,
+  author    = {Jieying She and
+               Yongxin Tong and
+               Lei Chen},
+  title     = {{Utility-Aware} Social {Event-Participant} Planning},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1629-1643},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhouCZCHW15,
+  author    = {Xiangmin Zhou and
+               Lei Chen and
+               Yanchun Zhang and
+               Longbing Cao and
+               Guangyan Huang and
+               Chen Wang},
+  title     = {Online Video Recommendation in Sharing Community},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1645-1656},
+}
+
+@inproceedings{DBLP:conf/sigmod/PrasadFGMLXHR15,
+  author    = {Shreya Prasad and
+               Arash Fard and
+               Vishrut Gupta and
+               Jorge Martinez and
+               Jeff LeFevre and
+               Vincent Xu and
+               Meichun Hsu and
+               Indrajit Roy},
+  title     = {Large-scale Predictive Analytics in Vertica: Fast Data Transfer, Distributed Model Creation, and In-database Prediction},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1657-1668},
+}
+
+@inproceedings{DBLP:conf/sigmod/TranMP15,
+  author    = {Quoc Trung Tran and
+               Konstantinos Morfonios and
+               Neoklis Polyzotis},
+  title     = {Oracle Workload Intelligence},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1669-1681},
+}
+
+@inproceedings{DBLP:conf/sigmod/ColgroveDHMSSTV15,
+  author    = {John Colgrove and
+               John D. Davis and
+               John Hayes and
+               Ethan L. Miller and
+               Cary Sandvig and
+               Russell Sears and
+               Ari Tamches and
+               Neil Vachharajani and
+               Feng Wang},
+  title     = {Purity: Building Fast, {Highly-Available} Enterprise Flash Storage from Commodity Components},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1683-1694},
+}
+
+@inproceedings{DBLP:conf/sigmod/TerleckiXSKW15,
+  author    = {Pawel Terlecki and
+               Fei Xu and
+               Marianne Shaw and
+               Valeri Kim and
+               Richard Michael Grantham Wesley},
+  title     = {On Improving User Response Times in Tableau},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1695-1706},
+}
+
+@inproceedings{DBLP:conf/sigmod/Viglas15,
+  author    = {Stratis D. Viglas},
+  title     = {Data Management in {Non-Volatile} Memory},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1707-1711},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChuHCG15,
+  author    = {Xu Chu and
+               Yeye He and
+               Kaushik Chakrabarti and
+               Kris Ganjam},
+  title     = {TEGRA: Table Extraction by Global Record Alignment},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1713-1728},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiuSWRH15,
+  author    = {Jialu Liu and
+               Jingbo Shang and
+               Chi Wang and
+               Xiang Ren and
+               Jiawei Han},
+  title     = {Mining Quality Phrases from Massive Text Corpora},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1729-1744},
+}
+
+@inproceedings{DBLP:conf/sigmod/TrummerHLSG15,
+  author    = {Immanuel Trummer and
+               Alon Y. Halevy and
+               Hongrae Lee and
+               Sunita Sarawagi and
+               Rahul Gupta},
+  title     = {Mining Subjective Properties on the Web},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1745-1760},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuaZZ15,
+  author    = {Wen Hua and
+               Kai Zheng and
+               Xiaofang Zhou},
+  title     = {Microblog Entity Linking with Social Temporal Context},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1761-1775},
+}
+
+@inproceedings{DBLP:conf/sigmod/PapailiouTKK15,
+  author    = {Nikolaos Papailiou and
+               Dimitrios Tsoumakos and
+               Panagiotis Karras and
+               Nectarios Koziris},
+  title     = {Graph-Aware, {Workload-Adaptive} {SPARQL} Query Caching},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1777-1792},
+}
+
+@inproceedings{DBLP:conf/sigmod/Atre15,
+  author    = {Medha Atre},
+  title     = {Left Bit Right: For {SPARQL} Join Queries with {OPTIONAL} Patterns (Left-outer-joins)},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1793-1808},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhengZLYSZ15,
+  author    = {Weiguo Zheng and
+               Lei Zou and
+               Xiang Lian and
+               Jeffrey Xu Yu and
+               Shaoxu Song and
+               Dongyan Zhao},
+  title     = {How to Build Templates for {RDF} Question/Answering: An Uncertain Graph Similarity Join Approach},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1809-1824},
+}
+
+@inproceedings{DBLP:conf/sigmod/QiaoO15,
+  author    = {Shi Qiao and
+               Z. Meral Özsoyoglu},
+  title     = {RBench: {Application-Specific} {RDF} Benchmarking},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1825-1838},
+}
+
+@inproceedings{DBLP:conf/sigmod/El-RobyA15,
+  author    = {Ahmed El-Roby and
+               Ashraf Aboulnaga},
+  title     = {ALEX: Automatic Link Exploration in Linked Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1839-1853},
+}
+
+@inproceedings{DBLP:conf/sigmod/PaparrizosG15,
+  author    = {John Paparrizos and
+               Luis Gravano},
+  title     = {k-Shape: Efficient and Accurate Clustering of Time Series},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1855-1870},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhouT15,
+  author    = {Jingbo Zhou and
+               Anthony K. H. Tung},
+  title     = {SMiLer: A {Semi-Lazy} Time Series Prediction System for Sensors},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1871-1886},
+}
+
+@inproceedings{DBLP:conf/sigmod/SunFSKHX15,
+  author    = {Wen Sun and
+               Achille Fokoue and
+               Kavitha Srinivas and
+               Anastasios Kementsietsidis and
+               Gang Hu and
+               Guo Tong Xie},
+  title     = {SQLGraph: An Efficient {Relational-Based} Property Graph Store},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1887-1901},
+}
+
+@inproceedings{DBLP:conf/sigmod/YuanMYG15,
+  author    = {Dayu Yuan and
+               Prasenjit Mitra and
+               Huiwen Yu and
+               C. Lee Giles},
+  title     = {Updating Graph Indices with a {One-Pass} Algorithm},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1903-1916},
+}
+
+@inproceedings{DBLP:conf/sigmod/GuptaATKPSS15,
+  author    = {Anurag Gupta and
+               Deepak Agarwal and
+               Derek Tan and
+               Jakub Kulesza and
+               Rahul Pathak and
+               Stefano Stefani and
+               Vidhya Srinivasan},
+  title     = {Amazon Redshift and the Case for Simpler Data Warehouses},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1917-1923},
+}
+
+@inproceedings{DBLP:conf/sigmod/DeshpandeRDA15,
+  author    = {Mukund Deshpande and
+               Dhruva Ray and
+               Sameer Dixit and
+               Avadhoot Agasti},
+  title     = {ShareInsights: An Unified Approach to Full-stack Data Processing},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1925-1940},
+}
+
+@inproceedings{DBLP:conf/sigmod/TrummerK15,
+  author    = {Immanuel Trummer and
+               Christoph Koch},
+  title     = {An Incremental Anytime Algorithm for {Multi-Objective} Query Optimization},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1941-1953},
+}
+
+@inproceedings{DBLP:conf/sigmod/MeneghettiMCC15,
+  author    = {Niccolo' Meneghetti and
+               Denis Mindolin and
+               Paolo Ciaccia and
+               Jan Chomicki},
+  title     = {Output-sensitive Evaluation of Prioritized Skyline Queries},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1955-1967},
+}
+
+@inproceedings{DBLP:conf/sigmod/KumarNP15,
+  author    = {Arun Kumar and
+               Jeffrey F. Naughton and
+               Jignesh M. Patel},
+  title     = {Learning Generalized Linear Models Over Normalized Data},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1969-1984},
+}
+
+@inproceedings{DBLP:conf/sigmod/KatsisOPZ15,
+  author    = {Yannis Katsis and
+               Kian Win Ong and
+               Yannis Papakonstantinou and
+               Kevin Keliang Zhao},
+  title     = {Utilizing {IDs} to Accelerate Incremental View Maintenance},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {1985-2000},
+}
+
+@inproceedings{DBLP:conf/sigmod/PsallidasDCC15,
+  author    = {Fotis Psallidas and
+               Bolin Ding and
+               Kaushik Chakrabarti and
+               Surajit Chaudhuri},
+  title     = {S4: Top-k {Spreadsheet-Style} Search for Query Discovery},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2001-2016},
+}
+
+@inproceedings{DBLP:conf/sigmod/IbrahimDE15,
+  author    = {Karim Ibrahim and
+               Xiao Du and
+               Mohamed Y. Eltabakh},
+  title     = {Proactive Annotation Management in Relational Databases},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2017-2030},
+}
+
+@inproceedings{DBLP:conf/sigmod/KouUMG15,
+  author    = {Ngai Meng Kou and
+               Leong Hou U and
+               Nikos Mamoulis and
+               Zhiguo Gong},
+  title     = {Weighted Coverage based Reviewer Assignment},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2031-2046},
+}
+
+@inproceedings{DBLP:conf/sigmod/TangLT15,
+  author    = {Mingwang Tang and
+               Feifei Li and
+               Yufei Tao},
+  title     = {Distributed Online Tracking},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2047-2061},
+}
+
+@inproceedings{DBLP:conf/sigmod/DongS15,
+  author    = {Xin Luna Dong and
+               Divesh Srivastava},
+  title     = {Knowledge Curation and Knowledge Fusion: Challenges, Models and Applications},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2063-2066},
+}
+
+@inproceedings{DBLP:conf/sigmod/YangM15,
+  author    = {Mansheng Yang and
+               Richard T. B. Ma},
+  title     = {Smooth Task Migration in Apache Storm},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2067-2068},
+}
+
+@inproceedings{DBLP:conf/sigmod/BabarinsaI15,
+  author    = {Oreoluwatomiwa O. Babarinsa and
+               Stratos Idreos},
+  title     = {JAFAR: {Near-Data} Processing for Databases},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2069-2070},
+}
+
+@inproceedings{DBLP:conf/sigmod/ClinkenbeardN15,
+  author    = {Trevor Clinkenbeard and
+               Anisoara Nica},
+  title     = {Job Scheduling with Minimizing Data Communication Costs},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2071-2072},
+}
+
+@inproceedings{DBLP:conf/sigmod/PantelaI15,
+  author    = {Styliani Pantela and
+               Stratos Idreos},
+  title     = {One Loop Does Not Fit All},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2073-2074},
+}
+
+@inproceedings{DBLP:conf/sigmod/PerelmanR15,
+  author    = {Adam Perelman and
+               Christopher Ré},
+  title     = {DunceCap: Compiling {Worst-Case} Optimal Query Plans},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2075-2076},
+}
+
+@inproceedings{DBLP:conf/sigmod/TuR15,
+  author    = {Susan Tu and
+               Christopher Ré},
+  title     = {DunceCap: Query Plans Using Generalized Hypertree Decompositions},
+  booktitle = sigmod,
+  year      = 2015,
+  pages     = {2077-2078},
+}
+
+@inproceedings{DBLP:conf/sigmod/AyalaPHSL14,
+  author    = {Victor Anthony Arrascue Ayala and
+               Martin Przyjaciel-Zablocki and
+               Thomas Hornung and
+               Alexander Schätzle and
+               Georg Lausen},
+  title     = {Extending {SPARQL} for Recommendations},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Ma0J14,
+  author    = {Yu Ma and
+               Bin Yang and
+               Christian S. Jensen},
+  title     = {Enabling {Time-Dependent} Uncertain {Eco-Weights} For Road Networks},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Sedlar14,
+  author    = {Eric Sedlar},
+  title     = {How i learned to stop worrying and love compilers},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/sigmod/Michelsen14,
+  author    = {Timo Michelsen},
+  title     = {Data stream processing in dynamic and decentralized peer-to-peer networks},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1-5},
+}
+
+@inproceedings{DBLP:conf/sigmod/0001GMM14,
+  author    = {Amr Magdy and
+               Thanaa M. Ghanem and
+               Mashaal Musleh and
+               Mohamed F. Mokbel},
+  title     = {Exploiting Geo-tagged Tweets to Understand Localized Language Diversity},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/AggarwalCD14,
+  author    = {Dippy Aggarwal and
+               Edward Curry and
+               Karen C. Davis},
+  title     = {Employing Virtual Power Analytics and Linked Data for Enterprise {IT} Energy Informatics},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Grabovitch-ZuyevKKP14,
+  author    = {Irena Grabovitch-Zuyev and
+               Yaron Kanza and
+               Elad Kravi and
+               Barak Pat},
+  title     = {On the Correlation Between Textual Content and Geospatial Locations in Microblogs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/PangKFF14,
+  author    = {Gene Pang and
+               Tim Kraska and
+               Michael J. Franklin and
+               Alan Fekete},
+  title     = {PLANET: making progress with commit processing in unpredictable environments},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiebermanCHPHPCMS14,
+  author    = {Michael D. Lieberman and
+               Sutanay Choudhury and
+               Marisa Hughes and
+               Dennis Patrone and
+               Robert T. Hider Jr. and
+               Christine D. Piatko and
+               Matthew Chapman and
+               J. P. Marple and
+               David Silberberg},
+  title     = {Parasol: An Architecture for {Cross-Cloud} Federated Graph Querying},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/WiegandGWK14,
+  author    = {Nancy Wiegand and
+               Ralph Grove and
+               James Wilson and
+               Dave Kolas},
+  title     = {Querying Geospatial Data over the Web: a {GeoSPARQL} Interface},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/TripathiDE14,
+  author    = {Praveen Kumar Tripathi and
+               Madhuri Debnath and
+               Ramez Elmasri},
+  title     = {Extracting Dense Regions From Hurricane Trajectory Data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Camacho-RodriguezCM14,
+  author    = {Jesús Camacho-Rodríguez and
+               Dario Colazzo and
+               Ioana Manolescu},
+  title     = {PAXQuery: A Massively Parallel {XQuery} Processor},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangCE14,
+  author    = {Sujing Wang and
+               Tianxing Cai and
+               Christoph F. Eick},
+  title     = {New Clustering and Analyzing Technique for Mining Multi-source Enriched Geo-spatial Data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Prakash14,
+  author    = {Ved Prakash},
+  title     = {Efficient delegation protocols for data streams},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {6-10},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChatziantoniouT14,
+  author    = {Damianos Chatziantoniou and
+               Florents Tselai},
+  title     = {Introducing Data Connectivity in a Big Data Web},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/HirotaSIY14,
+  author    = {Masaharu Hirota and
+               Motohiro Shirai and
+               Hiroshi Ishikawa and
+               Shohei Yokoyama},
+  title     = {Detecting Relations of Hotspots using Geo-tagged Photographs in Social Media Sites},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/WenzelK14,
+  author    = {Florian Wenzel and
+               Werner Kießling},
+  title     = {Aggregation and Analysis of Enriched Spatial User Models from {Location-Based} Social Networks},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/LoebmanOCOAHBQG14,
+  author    = {Sarah Loebman and
+               Jennifer Ortiz and
+               Lee Lee Choo and
+               Laurel Orr and
+               Lauren Anderson and
+               Daniel Halperin and
+               Magdalena Balazinska and
+               Thomas Quinn and
+               Fabio Governato},
+  title     = {{Big-Data} Management Use-Case: A Cloud Service for Creating and Analyzing Galactic Merger Trees},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/DumitruMB14,
+  author    = {Alex Mircea Dumitru and
+               Vlad Merticariu and
+               Peter Baumann},
+  title     = {Exploring Cloud Opportunities from an Array Database Perspective},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Schelter14,
+  author    = {Sebastian Schelter},
+  title     = {Scaling data mining in massively parallel dataflow systems},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {11-15},
+}
+
+@inproceedings{DBLP:conf/sigmod/SmithSRKGMSE14,
+  author    = {Kenneth P. Smith and
+               Leonard J. Seligman and
+               Arnon Rosenthal and
+               Chris Kurcz and
+               Mary Greer and
+               Catherine Macheret and
+               Michael Sexton and
+               Adric Eckstein},
+  title     = {"Big Metadata": The Need for Principled Metadata Management in Big Data Ecosystems},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/FaleiroTA14,
+  author    = {Jose M. Faleiro and
+               Alexander Thomson and
+               Daniel J. Abadi},
+  title     = {Lazy evaluation of transactions in database systems},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/sigmod/Mahdiraji14,
+  author    = {Alireza Rezaei Mahdiraji},
+  title     = {Toward unstructured mesh algebra and query language},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {16-20},
+}
+
+@inproceedings{DBLP:conf/sigmod/Moten14,
+  author    = {Rod Moten},
+  title     = {Modelling the Semantic Web using a Type System},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {21-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Wevers14,
+  author    = {Lesley Wevers},
+  title     = {Persistent functional languages: toward functional relational databases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {21-25},
+}
+
+@inproceedings{DBLP:conf/sigmod/Armstrong14,
+  author    = {Timothy J. Armstrong},
+  title     = {Enhancing {Object-Oriented} Technologies with Semantic Web Technologies},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {22-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Sherkhonov14,
+  author    = {Evgeny Sherkhonov},
+  title     = {Data exchange for document-centric {XML}},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {26-30},
+}
+
+@inproceedings{DBLP:conf/sigmod/BailisFHGS14,
+  author    = {Peter Bailis and
+               Alan Fekete and
+               Joseph M. Hellerstein and
+               Ali Ghodsi and
+               Ion Stoica},
+  title     = {Scalable atomic visibility with {RAMP} transactions},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {27-38},
+}
+
+@inproceedings{DBLP:conf/sigmod/Nargesian14,
+  author    = {Fatemeh Nargesian},
+  title     = {Data-driven recommendations for exploratory query formulation},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {31-35},
+}
+
+@inproceedings{DBLP:conf/sigmod/Civili14,
+  author    = {Cristina Civili},
+  title     = {Query answering over ontologies specified via database dependencies},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {36-40},
+}
+
+@inproceedings{DBLP:conf/sigmod/PapailiouTKKK14a,
+  author    = {Nikolaos Papailiou and
+               Dimitrios Tsoumakos and
+               Ioannis Konstantinou and
+               Panagiotis Karras and
+               Nectarios Koziris},
+  title     = {Scalable Indexing and Adaptive Querying of {RDF} Data in the cloud},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {39-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/TranNST14,
+  author    = {Khai Q. Tran and
+               Jeffrey F. Naughton and
+               Bruhathi Sundarmurthy and
+               Dimitris Tsirogiannis},
+  title     = {JECB: a join-extension, code-based approach to {OLTP} data partitioning},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {39-50},
+}
+
+@inproceedings{DBLP:conf/sigmod/RanuHS14a,
+  author    = {Sayan Ranu and
+               Minh X. Hoang and
+               Ambuj K. Singh},
+  title     = {Applications of Top-k Representative Queries},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {40-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/GurajadaSMT14a,
+  author    = {Sairam Gurajada and
+               Stephan Seufert and
+               Iris Miliaraki and
+               Martin Theobald},
+  title     = {Using Graph Summarization for {Join-Ahead} Pruning in a Distributed {RDF} Engine},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {41-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Mior14,
+  author    = {Michael J. Mior},
+  title     = {Automated schema design for {NoSQL} databases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {41-45},
+}
+
+@inproceedings{DBLP:conf/sigmod/HeZZ14,
+  author    = {Binbin He and
+               Lei Zou and
+               Dongyan Zhao},
+  title     = {Using Conditional Functional Dependency to Discover Abnormal Data in {RDF} Graphs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {43-1},
+}
+
+@inproceedings{DBLP:conf/sigmod/Eldawy14,
+  author    = {Ahmed Eldawy},
+  title     = {SpatialHadoop: towards flexible and scalable spatial processing using mapreduce},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {46-50},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiuWZZK14,
+  author    = {Siyuan Liu and
+               Shuhui Wang and
+               Feida Zhu and
+               Jinbo Zhang and
+               Ramayya Krishnan},
+  title     = {HYDRA: large-scale social identity linkage via heterogeneous behavior modeling},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {51-62},
+}
+
+@inproceedings{DBLP:conf/sigmod/FengCBM14,
+  author    = {Kaiyu Feng and
+               Gao Cong and
+               Sourav S. Bhowmick and
+               Shuai Ma},
+  title     = {In search of influential event organizers in online social networks},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {63-74},
+}
+
+@inproceedings{DBLP:conf/sigmod/TangXS14,
+  author    = {Youze Tang and
+               Xiaokui Xiao and
+               Yanchen Shi},
+  title     = {Influence maximization: near-optimal time complexity meets practical efficiency},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {75-86},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiCFTL14,
+  author    = {Guoliang Li and
+               Shuo Chen and
+               Jianhua Feng and
+               Kian-Lee Tan and
+               Wen-Syan Li},
+  title     = {Efficient location-aware influence maximization},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {87-98},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShiMWC14,
+  author    = {Jieming Shi and
+               Nikos Mamoulis and
+               Dingming Wu and
+               David W. Cheung},
+  title     = {Density-based place clustering in geo-social networks},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {99-110},
+}
+
+@inproceedings{DBLP:conf/sigmod/LongWZX14,
+  author    = {Cheng Long and
+               Raymond Chi-Wing Wong and
+               Bin Zhang and
+               Min Xie},
+  title     = {Hypersphere dominance: an optimal approach},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {111-122},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenLWXML14,
+  author    = {Zhitong Chen and
+               Yubao Liu and
+               Raymond Chi-Wing Wong and
+               Jiamin Xiong and
+               Ganglin Mai and
+               Cheng Long},
+  title     = {Efficient algorithms for optimal location queries in road networks},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {123-134},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenKYYZ14,
+  author    = {Di Chen and
+               Christian Konrad and
+               Ke Yi and
+               Wei Yu and
+               Qin Zhang},
+  title     = {Robust set reconciliation},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {135-146},
+}
+
+@inproceedings{DBLP:conf/sigmod/ToshniwalTSRPKJGFDBMR14,
+  author    = {Ankit Toshniwal and
+               Siddarth Taneja and
+               Amit Shukla and
+               Karthikeyan Ramasamy and
+               Jignesh M. Patel and
+               Sanjeev Kulkarni and
+               Jason Jackson and
+               Krishna Gade and
+               Maosong Fu and
+               Jake Donham and
+               Nikunj Bhagat and
+               Sailesh Mittal and
+               Dmitriy V. Ryaboy},
+  title     = {Storm@twitter},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {147-156},
+}
+
+@inproceedings{DBLP:conf/sigmod/YangTLRMG14,
+  author    = {Fangjin Yang and
+               Eric Tschetter and
+               Xavier Léauté and
+               Nelson Ray and
+               Gian Merlino and
+               Deep Ganguli},
+  title     = {Druid: a real-time analytical data store},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {157-168},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuangCCLXWBH14,
+  author    = {Sheng Huang and
+               Yaoliang Chen and
+               Xiaoyan Chen and
+               Kai Liu and
+               Xiaomin Xu and
+               Chen Wang and
+               Kevin Brown and
+               Inge Halilovic},
+  title     = {The next generation operational data historian for {IoT} based on informix},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {169-176},
+}
+
+@inproceedings{DBLP:conf/sigmod/TaftVSSMS14,
+  author    = {Rebecca Taft and
+               Manasi Vartak and
+               Nadathur Rajagopalan Satish and
+               Narayanan Sundaram and
+               Samuel Madden and
+               Michael Stonebraker},
+  title     = {GenBase: a complex analytics genomics benchmark},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {177-188},
+}
+
+@inproceedings{DBLP:conf/sigmod/AilamakiLTPP14,
+  author    = {Anastasia Ailamaki and
+               Erietta Liarou and
+               Pinar Tözün and
+               Danica Porobic and
+               Iraklis Psaroudakis},
+  title     = {How to stop under-utilization and love multicores},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {189-192},
+}
+
+@inproceedings{DBLP:conf/sigmod/MatsubaraSF14,
+  author    = {Yasuko Matsubara and
+               Yasushi Sakurai and
+               Christos Faloutsos},
+  title     = {AutoPlait: automatic mining of co-evolving time sequences},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {193-204},
+}
+
+@inproceedings{DBLP:conf/sigmod/YamamotoIF14,
+  author    = {Yoshitaka Yamamoto and
+               Koji Iwanuma and
+               Shoshi Fukuda},
+  title     = {Resource-oriented approximation for frequent itemset mining from bursty data streams},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {205-216},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangDI14,
+  author    = {Haopeng Zhang and
+               Yanlei Diao and
+               Neil Immerman},
+  title     = {On complexity and optimization of expensive queries in complex event processing},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {217-228},
+}
+
+@inproceedings{DBLP:conf/sigmod/QiCRR14,
+  author    = {Yingmei Qi and
+               Lei Cao and
+               Medhabi Ray and
+               Elke A. Rundensteiner},
+  title     = {Complex event analytics: online aggregation of stream sequence patterns},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {229-240},
+}
+
+@inproceedings{DBLP:conf/sigmod/KhanYDK14,
+  author    = {Arijit Khan and
+               Pouya Yanki and
+               Bojana Dimcheva and
+               Donald Kossmann},
+  title     = {Towards indexing functions: answering scalar product queries},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {241-252},
+}
+
+@inproceedings{DBLP:conf/sigmod/NikolicEK14,
+  author    = {Milos Nikolic and
+               Mohammed Elseidy and
+               Christoph Koch},
+  title     = {LINVIEW: incremental view maintenance for complex analytical queries},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {253-264},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangKR14,
+  author    = {Ce Zhang and
+               Arun Kumar and
+               Christopher Ré},
+  title     = {Materialization optimizations for feature selection workloads},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {265-276},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZengGMZ14,
+  author    = {Kai Zeng and
+               Shi Gao and
+               Barzan Mozafari and
+               Carlo Zaniolo},
+  title     = {The analytical bootstrap: a new method for fast error estimation in approximate query processing},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {277-288},
+}
+
+@inproceedings{DBLP:conf/sigmod/GurajadaSMT14,
+  author    = {Sairam Gurajada and
+               Stephan Seufert and
+               Iris Miliaraki and
+               Martin Theobald},
+  title     = {TriAD: a distributed shared-nothing {RDF} engine based on asynchronous message passing},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {289-300},
+}
+
+@inproceedings{DBLP:conf/sigmod/FanWW14,
+  author    = {Wenfei Fan and
+               Xin Wang and
+               Yinghui Wu},
+  title     = {Querying big graphs within bounded resources},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {301-312},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZouHWYHZ14,
+  author    = {Lei Zou and
+               Ruizhe Huang and
+               Haixun Wang and
+               Jeffrey Xu Yu and
+               Wenqiang He and
+               Dongyan Zhao},
+  title     = {Natural language question answering over RDF: a graph data driven approach},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {313-324},
+}
+
+@inproceedings{DBLP:conf/sigmod/KusumotoMK14,
+  author    = {Mitsuru Kusumoto and
+               Takanori Maehara and
+               Ken-ichi Kawarabayashi},
+  title     = {Scalable similarity search for {SimRank}},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {325-336},
+}
+
+@inproceedings{DBLP:conf/sigmod/SolimanAREGSCGRPWNKB14,
+  author    = {Mohamed A. Soliman and
+               Lyublena Antova and
+               Venkatesh Raghavan and
+               Amr El-Helw and
+               Zhongxian Gu and
+               Entong Shen and
+               George C. Caragea and
+               Carlos Garcia-Alvarado and
+               Foyzur Rahman and
+               Michalis Petropoulos and
+               Florian Waas and
+               Sivaramakrishnan Narayanan and
+               Konstantinos Krikellas and
+               Rhonda Baldwin},
+  title     = {Orca: a modular query optimizer architecture for big data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {337-348},
+}
+
+@inproceedings{DBLP:conf/sigmod/GhodsniaBN14,
+  author    = {Pedram Ghodsnia and
+               Ivan T. Bowman and
+               Anisoara Nica},
+  title     = {Parallel I/O aware query optimization},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {349-360},
+}
+
+@inproceedings{DBLP:conf/sigmod/MoerkotteDMNB14,
+  author    = {Guido Moerkotte and
+               David DeHaan and
+               Norman May and
+               Anisoara Nica and
+               Alexander Böhm},
+  title     = {Exploiting ordered dictionaries to efficiently construct histograms with q-error guarantees in {SAP} {HANA}},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {361-372},
+}
+
+@inproceedings{DBLP:conf/sigmod/AntovaESGPW14,
+  author    = {Lyublena Antova and
+               Amr El-Helw and
+               Mohamed A. Soliman and
+               Zhongxian Gu and
+               Michalis Petropoulos and
+               Florian Waas},
+  title     = {Optimizing queries over partitioned tables in {MPP} systems},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {373-384},
+}
+
+@inproceedings{DBLP:conf/sigmod/BlanasWBDS14,
+  author    = {Spyros Blanas and
+               Kesheng Wu and
+               Surendra Byna and
+               Bin Dong and
+               Arie Shoshani},
+  title     = {Parallel data analysis directly on scientific file formats},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {385-396},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZaschkeZN14,
+  author    = {Tilmann Zäschke and
+               Christoph Zimmerli and
+               Moira C. Norrie},
+  title     = {The PH-tree: a space-efficient storage structure and multi-dimensional index},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {397-408},
+}
+
+@inproceedings{DBLP:conf/sigmod/DugganS14,
+  author    = {Jennie Duggan and
+               Michael Stonebraker},
+  title     = {Incremental elasticity for array databases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {409-420},
+}
+
+@inproceedings{DBLP:conf/sigmod/XuKM14,
+  author    = {Jie Xu and
+               Dmitri V. Kalashnikov and
+               Sharad Mehrotra},
+  title     = {Efficient summarization framework for multi-attribute uncertain data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {421-432},
+}
+
+@inproceedings{DBLP:conf/sigmod/PochampallySDMS14,
+  author    = {Ravali Pochampally and
+               Anish Das Sarma and
+               Xin Luna Dong and
+               Alexandra Meliou and
+               Divesh Srivastava},
+  title     = {Fusing data with correlations},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {433-444},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChalamallaIOP14,
+  author    = {Anup Chalamalla and
+               Ihab F. Ilyas and
+               Mourad Ouzzani and
+               Paolo Papotti},
+  title     = {Descriptive and prescriptive data cleaning},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {445-456},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangT14,
+  author    = {Jiannan Wang and
+               Nan Tang},
+  title     = {Towards dependable data repairing with fixing rules},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {457-468},
+}
+
+@inproceedings{DBLP:conf/sigmod/WangKFGKM14,
+  author    = {Jiannan Wang and
+               Sanjay Krishnan and
+               Michael J. Franklin and
+               Ken Goldberg and
+               Tim Kraska and
+               Tova Milo},
+  title     = {A sample-and-clean framework for fast and accurate query processing on dirty data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {469-480},
+}
+
+@inproceedings{DBLP:conf/sigmod/AgarwalMKTJMMS14,
+  author    = {Sameer Agarwal and
+               Henry Milner and
+               Ariel Kleiner and
+               Ameet Talwalkar and
+               Michael I. Jordan and
+               Samuel Madden and
+               Barzan Mozafari and
+               Ion Stoica},
+  title     = {Knowing when you're wrong: building fast and reliable approximate query processing systems},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {481-492},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShenCCDN14,
+  author    = {Yanyan Shen and
+               Kaushik Chakrabarti and
+               Surajit Chaudhuri and
+               Bolin Ding and
+               Lev Novik},
+  title     = {Discovering queries based on example tuples},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {493-504},
+}
+
+@inproceedings{DBLP:conf/sigmod/KalininCZ14,
+  author    = {Alexander Kalinin and
+               Ugur Çetintemel and
+               Stanley B. Zdonik},
+  title     = {Interactive data exploration using semantic windows},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {505-516},
+}
+
+@inproceedings{DBLP:conf/sigmod/DimitriadouPD14,
+  author    = {Kyriaki Dimitriadou and
+               Olga Papaemmanouil and
+               Yanlei Diao},
+  title     = {Explore-by-example: an automatic query steering framework for interactive data exploration},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {517-528},
+}
+
+@inproceedings{DBLP:conf/sigmod/KangLMKO14,
+  author    = {Woon-Hak Kang and
+               Sang-Won Lee and
+               Bongki Moon and
+               Yang-Suk Kee and
+               Moonwook Oh},
+  title     = {Durable write cache in flash memory {SSD} for relational and {NoSQL} databases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {529-540},
+}
+
+@inproceedings{DBLP:conf/sigmod/GoelCGMMHW14,
+  author    = {Aakash Goel and
+               Bhuwan Chopra and
+               Ciprian Gerea and
+               Dhruv Mátáni and
+               Josh Metzler and
+               Fahim Ul Haq and
+               Janet L. Wiener},
+  title     = {Fast database restarts at facebook},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {541-549},
+}
+
+@inproceedings{DBLP:conf/sigmod/ElmeleegyOR14,
+  author    = {Khaled Elmeleegy and
+               Christopher Olston and
+               Benjamin Reed},
+  title     = {SpongeFiles: mitigating data skew in mapreduce using distributed memory},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {551-562},
+}
+
+@inproceedings{DBLP:conf/sigmod/WesleyT14,
+  author    = {Richard Michael Grantham Wesley and
+               Pawel Terlecki},
+  title     = {Leveraging compression in the tableau data engine},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {563-573},
+}
+
+@inproceedings{DBLP:conf/sigmod/Herlihy14,
+  author    = {Maurice Herlihy},
+  title     = {Fun with hardware transactional memory},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {575},
+}
+
+@inproceedings{DBLP:conf/sigmod/ParkW14,
+  author    = {Hyunjung Park and
+               Jennifer Widom},
+  title     = {CrowdFill: collecting structured data from the crowd},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {577-588},
+}
+
+@inproceedings{DBLP:conf/sigmod/AmsterdamerDMNS14,
+  author    = {Yael Amsterdamer and
+               Susan B. Davidson and
+               Tova Milo and
+               Slava Novgorodov and
+               Amit Somech},
+  title     = {OASSIS: query driven crowd mining},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {589-600},
+}
+
+@inproceedings{DBLP:conf/sigmod/GokhaleDDNRSZ14,
+  author    = {Chaitanya Gokhale and
+               Sanjib Das and
+               AnHai Doan and
+               Jeffrey F. Naughton and
+               Narasimhan Rampalli and
+               Jude W. Shavlik and
+               Xiaojin Zhu},
+  title     = {Corleone: hands-off crowdsourcing for entity matching},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {601-612},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShaoCC14,
+  author    = {Yingxia Shao and
+               Lei Chen and
+               Bin Cui},
+  title     = {Efficient cohesive subgraphs detection in parallel},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {613-624},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShaoCCMYX14,
+  author    = {Yingxia Shao and
+               Bin Cui and
+               Lei Chen and
+               Lin Ma and
+               Junjie Yao and
+               Ning Xu},
+  title     = {Parallel subgraph listing in a large-scale graph},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {625-636},
+}
+
+@inproceedings{DBLP:conf/sigmod/KimHLPY14,
+  author    = {Jinha Kim and
+               Wook-Shin Han and
+               Sangyeon Lee and
+               Kyungyeol Park and
+               Hwanjo Yu},
+  title     = {OPT: a new framework for overlapped and parallel triangulation in large-scale graphs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {637-648},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenW14,
+  author    = {Yang Chen and
+               Daisy Zhe Wang},
+  title     = {Knowledge expansion over probabilistic knowledge bases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {649-660},
+}
+
+@inproceedings{DBLP:conf/sigmod/XiaoE14,
+  author    = {Dongqing Xiao and
+               Mohamed Y. Eltabakh},
+  title     = {InsightNotes: summary-based annotation management in relational databases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {661-672},
+}
+
+@inproceedings{DBLP:conf/sigmod/DengLF14,
+  author    = {Dong Deng and
+               Guoliang Li and
+               Jianhua Feng},
+  title     = {A pivotal prefix based filtering algorithm for string similarity search},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {673-684},
+}
+
+@inproceedings{DBLP:conf/sigmod/RheinlanderBKHSL14,
+  author    = {Astrid Rheinländer and
+               Martin Beckmann and
+               Anja Kunkel and
+               Arvid Heise and
+               Thomas Stoltmann and
+               Ulf Leser},
+  title     = {Versatile optimization of {UDF-heavy} data flows with sofa},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {685-688},
+}
+
+@inproceedings{DBLP:conf/sigmod/KieferKSHML14,
+  author    = {Tim Kiefer and
+               Thomas Kissinger and
+               Benjamin Schlegel and
+               Dirk Habich and
+               Daniel Molka and
+               Wolfgang Lehner},
+  title     = {{ERIS} live: a {NUMA-aware} in-memory storage engine for tera-scale multiprocessor systems},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {689-692},
+}
+
+@inproceedings{DBLP:conf/sigmod/KarnagelHLHLHM14,
+  author    = {Tomas Karnagel and
+               Matthias Hille and
+               Mario Ludwig and
+               Dirk Habich and
+               Wolfgang Lehner and
+               Max Heimel and
+               Volker Markl},
+  title     = {Demonstrating efficient query processing in heterogeneous environments},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {693-696},
+}
+
+@inproceedings{DBLP:conf/sigmod/MuhlbauerRSRK014,
+  author    = {Tobias Mühlbauer and
+               Wolf Rödiger and
+               Robert Seilbeck and
+               Angelika Reiser and
+               Alfons Kemper and
+               Thomas Neumann},
+  title     = {One {DBMS} for all: the brawny few and the wimpy crowd},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {697-700},
+}
+
+@inproceedings{DBLP:conf/sigmod/SimitsisWBW14,
+  author    = {Alkis Simitsis and
+               Kevin Wilkinson and
+               Jason Blais and
+               Joe Walsh},
+  title     = {VQA: vertica query analyzer},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {701-704},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChenGLMPVK14,
+  author    = {Fei Chen and
+               Tere Gonzalez and
+               Jun Li and
+               Manish Marwah and
+               Jim Pruyne and
+               Krishnamurthy Viswanathan and
+               Mijung Kim},
+  title     = {Palette: enabling scalable analytics for big-memory, multicore machines},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {705-708},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiJ14,
+  author    = {Fei Li and
+               Hosagrahar V. Jagadish},
+  title     = {NaLIR: an interactive natural language interface for querying relational databases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {709-712},
+}
+
+@inproceedings{DBLP:conf/sigmod/0001SW14,
+  author    = {Petar Jovanovic and
+               Alkis Simitsis and
+               Kevin Wilkinson},
+  title     = {BabbleFlow: a translator for analytic data flow programs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {713-716},
+}
+
+@inproceedings{DBLP:conf/sigmod/LevandoskiLSBD14,
+  author    = {Justin J. Levandoski and
+               David B. Lomet and
+               Sudipta Sengupta and
+               Adrian Birka and
+               Cristian Diaconu},
+  title     = {Indexing on modern hardware: hekaton and beyond},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {717-720},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangZCJC14,
+  author    = {Chen Jason Zhang and
+               Ziyuan Zhao and
+               Lei Chen and
+               H. V. Jagadish and
+               Caleb Chen Cao},
+  title     = {CrowdMatcher: crowd-assisted schema matching},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {721-724},
+}
+
+@inproceedings{DBLP:conf/sigmod/KaoudiM14,
+  author    = {Zoi Kaoudi and
+               Ioana Manolescu},
+  title     = {Cloud-based {RDF} data management},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {725-729},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChandramouliG14,
+  author    = {Badrish Chandramouli and
+               Jonathan Goldstein},
+  title     = {Patience is a virtue: revisiting merge and sort on modern processors},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {731-742},
+}
+
+@inproceedings{DBLP:conf/sigmod/LeisBK014,
+  author    = {Viktor Leis and
+               Peter A. Boncz and
+               Alfons Kemper and
+               Thomas Neumann},
+  title     = {Morsel-driven parallelism: a {NUMA-aware} query evaluation framework for the many-core age},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {743-754},
+}
+
+@inproceedings{DBLP:conf/sigmod/PolychroniouR14,
+  author    = {Orestis Polychroniou and
+               Kenneth A. Ross},
+  title     = {A comprehensive study of main-memory partitioning and its application to large-scale comparison- and radix-sort},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {755-766},
+}
+
+@inproceedings{DBLP:conf/sigmod/ArnoldHFSKL14,
+  author    = {Oliver Arnold and
+               Sebastian Haas and
+               Gerhard Fettweis and
+               Benjamin Schlegel and
+               Thomas Kissinger and
+               Wolfgang Lehner},
+  title     = {An application-specific instruction set for accelerating set-oriented database primitives},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {767-778},
+}
+
+@inproceedings{DBLP:conf/sigmod/TermehchyVCW14,
+  author    = {Arash Termehchy and
+               Ali Vakilian and
+               Yodsawalai Chodpathumwan and
+               Marianne Winslett},
+  title     = {Which concepts are worth extracting?},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {779-790},
+}
+
+@inproceedings{DBLP:conf/sigmod/DyresonBG14,
+  author    = {Curtis E. Dyreson and
+               Sourav S. Bhowmick and
+               Ryan Grapp},
+  title     = {Querying virtual hierarchies using virtual prefix-based numbers},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {791-802},
+}
+
+@inproceedings{DBLP:conf/sigmod/GulwaniM14,
+  author    = {Sumit Gulwani and
+               Mark Marron},
+  title     = {NLyze: interactive programming by natural language for spreadsheet data analysis and manipulation},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {803-814},
+}
+
+@inproceedings{DBLP:conf/sigmod/TaharaDA14,
+  author    = {Daniel Tahara and
+               Thaddeus Diamond and
+               Daniel J. Abadi},
+  title     = {Sinew: a {SQL} system for multi-structured data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {815-826},
+}
+
+@inproceedings{DBLP:conf/sigmod/QinYCCZL14,
+  author    = {Lu Qin and
+               Jeffrey Xu Yu and
+               Lijun Chang and
+               Hong Cheng and
+               Chengqi Zhang and
+               Xuemin Lin},
+  title     = {Scalable big graph processing in {MapReduce}},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {827-838},
+}
+
+@inproceedings{DBLP:conf/sigmod/OkcanR14,
+  author    = {Alper Okcan and
+               Mirek Riedewald},
+  title     = {Anti-combining for {MapReduce}},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {839-850},
+}
+
+@inproceedings{DBLP:conf/sigmod/LeFevreSHTPC14,
+  author    = {Jeff LeFevre and
+               Jagan Sankaranarayanan and
+               Hakan Hacigümüs and
+               Jun'ichi Tatemura and
+               Neoklis Polyzotis and
+               Michael J. Carey},
+  title     = {Opportunistic physical design for big data analytics},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {851-862},
+}
+
+@inproceedings{DBLP:conf/sigmod/LevinK14,
+  author    = {Roy Levin and
+               Yaron Kanza},
+  title     = {Stratified-sampling over social networks using mapreduce},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {863-874},
+}
+
+@inproceedings{DBLP:conf/sigmod/HalperinACCKMORWWXBHS14,
+  author    = {Daniel Halperin and
+               Victor Teixeira de Almeida and
+               Lee Lee Choo and
+               Shumo Chu and
+               Paraschos Koutris and
+               Dominik Moritz and
+               Jennifer Ortiz and
+               Vaspol Ruamviboonsuk and
+               Jingjing Wang and
+               Andrew Whitaker and
+               Shengliang Xu and
+               Magdalena Balazinska and
+               Bill Howe and
+               Dan Suciu},
+  title     = {Demonstration of the Myria big data management service},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {881-884},
+}
+
+@inproceedings{DBLP:conf/sigmod/ParameswaranTGW14,
+  author    = {Aditya G. Parameswaran and
+               Ming Han Teh and
+               Hector Garcia-Molina and
+               Jennifer Widom},
+  title     = {DataSift: a crowd-powered search toolkit},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {885-888},
+}
+
+@inproceedings{DBLP:conf/sigmod/PsaroudakisAOA14,
+  author    = {Iraklis Psaroudakis and
+               Manos Athanassoulis and
+               Matthaios Olma and
+               Anastasia Ailamaki},
+  title     = {Reactive and proactive sharing across concurrent analytical queries},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {889-892},
+}
+
+@inproceedings{DBLP:conf/sigmod/YangXWWSWY14,
+  author    = {Shengqi Yang and
+               Yanan Xie and
+               Yinghui Wu and
+               Tianyi Wu and
+               Huan Sun and
+               Jian Wu and
+               Xifeng Yan},
+  title     = {SLQ: a user-friendly graph querying system},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {893-896},
+}
+
+@inproceedings{DBLP:conf/sigmod/AlarabiEAM14,
+  author    = {Louai Alarabi and
+               Ahmed Eldawy and
+               Rami Alghamdi and
+               Mohamed F. Mokbel},
+  title     = {TAREEG: a {MapReduce-based} web service for extracting spatial data from {OpenStreetMap}},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {897-900},
+}
+
+@inproceedings{DBLP:conf/sigmod/MottinLVP14,
+  author    = {Davide Mottin and
+               Matteo Lissandrini and
+               Yannis Velegrakis and
+               Themis Palpanas},
+  title     = {Searching with XQ: the exemplar query search engine},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {901-904},
+}
+
+@inproceedings{DBLP:conf/sigmod/KargarACGSY14,
+  author    = {Mehdi Kargar and
+               Aijun An and
+               Nick Cercone and
+               Parke Godfrey and
+               Jaroslaw Szlichta and
+               Xiaohui Yu},
+  title     = {MeanKS: meaningful keyword search in relational databases with complex schema},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {905-908},
+}
+
+@inproceedings{DBLP:conf/sigmod/PapailiouTKKK14,
+  author    = {Nikolaos Papailiou and
+               Dimitrios Tsoumakos and
+               Ioannis Konstantinou and
+               Panagiotis Karras and
+               Nectarios Koziris},
+  title     = {H2RDF+: an efficient data management system for big {RDF} graphs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {909-912},
+}
+
+@inproceedings{DBLP:conf/sigmod/BinnigSZ14,
+  author    = {Carsten Binnig and
+               Abdallah Salama and
+               Erfan Zamanian},
+  title     = {DoomDB: kill the query},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {913-916},
+}
+
+@inproceedings{DBLP:conf/sigmod/HoweFFFKR14,
+  author    = {Bill Howe and
+               Michael J. Franklin and
+               Juliana Freire and
+               James Frew and
+               Tim Kraska and
+               Raghu Ramakrishnan},
+  title     = {Should we all be teaching "intro to data science" instead of "intro to databases"?},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {917-918},
+}
+
+@inproceedings{DBLP:conf/sigmod/RekatsinasDS14,
+  author    = {Theodoros Rekatsinas and
+               Xin Luna Dong and
+               Divesh Srivastava},
+  title     = {Characterizing and selecting fresh data sources},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {919-930},
+}
+
+@inproceedings{DBLP:conf/sigmod/CheungMS14,
+  author    = {Alvin Cheung and
+               Samuel Madden and
+               Armando Solar-Lezama},
+  title     = {Sloth: being lazy is a virtue (when issuing database queries)},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {931-942},
+}
+
+@inproceedings{DBLP:conf/sigmod/KaranasosBKOEXJ14,
+  author    = {Konstantinos Karanasos and
+               Andrey Balmin and
+               Marcel Kutsch and
+               Fatma Ozcan and
+               Vuk Ercegovac and
+               Chunyang Xia and
+               Jesse Jackson},
+  title     = {Dynamically optimizing queries over large scale data platforms},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {943-954},
+}
+
+@inproceedings{DBLP:conf/sigmod/XiongHN14,
+  author    = {PengCheng Xiong and
+               Hakan Hacigümüs and
+               Jeffrey F. Naughton},
+  title     = {A software-defined networking based approach for performance management of analytical queries on distributed data stores},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {955-966},
+}
+
+@inproceedings{DBLP:conf/sigmod/ParchasGPB14,
+  author    = {Panos Parchas and
+               Francesco Gullo and
+               Dimitris Papadias and
+               Francesco Bonchi},
+  title     = {The pursuit of a good possible world: extracting representative instances of uncertain graphs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {967-978},
+}
+
+@inproceedings{DBLP:conf/sigmod/SatishSPSPHSYD14,
+  author    = {Nadathur Satish and
+               Narayanan Sundaram and
+               Md. Mostofa Ali Patwary and
+               Jiwon Seo and
+               Jongsoo Park and
+               M. Amber Hassaan and
+               Shubho Sengupta and
+               Zhaoming Yin and
+               Pradeep Dubey},
+  title     = {Navigating the maze of graph analytics frameworks using massive graph datasets},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {979-990},
+}
+
+@inproceedings{DBLP:conf/sigmod/CuiXWW14,
+  author    = {Wanyun Cui and
+               Yanghua Xiao and
+               Haixun Wang and
+               Wei Wang},
+  title     = {Local search of communities in large graphs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {991-1002},
+}
+
+@inproceedings{DBLP:conf/sigmod/AroraSB14,
+  author    = {Akhil Arora and
+               Mayank Sachan and
+               Arnab Bhattacharya},
+  title     = {Mining statistically significant connected subgraphs in vertex labeled graphs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1003-1014},
+}
+
+@inproceedings{DBLP:conf/sigmod/IleanaCDK14,
+  author    = {Ioana Ileana and
+               Bogdan Cautis and
+               Alin Deutsch and
+               Yannis Katsis},
+  title     = {Complete yet practical search for minimal query reformulations under constraints},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1015-1026},
+}
+
+@inproceedings{DBLP:conf/sigmod/CheneyLW14,
+  author    = {James Cheney and
+               Sam Lindley and
+               Philip Wadler},
+  title     = {Query shredding: efficient relational evaluation of queries over nested multisets},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1027-1038},
+}
+
+@inproceedings{DBLP:conf/sigmod/DuttH14,
+  author    = {Anshuman Dutt and
+               Jayant R. Haritsa},
+  title     = {Plan bouquets: query processing without selectivity estimation},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1039-1050},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiPJ14,
+  author    = {Fei Li and
+               Tianyin Pan and
+               Hosagrahar V. Jagadish},
+  title     = {Schema-free {SQL}},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1051-1062},
+}
+
+@inproceedings{DBLP:conf/sigmod/WuWLSSALYY14,
+  author    = {You Wu and
+               Brett Walenz and
+               Peggy Li and
+               Andrew Shim and
+               Emre Sonmez and
+               Pankaj K. Agarwal and
+               Chengkai Li and
+               Jun Yang and
+               Cong Yu},
+  title     = {iCheck: computationally combating "lies, d-ned lies, and statistics"},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1063-1066},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZengGGMZ14,
+  author    = {Kai Zeng and
+               Shi Gao and
+               Jiaqi Gu and
+               Barzan Mozafari and
+               Carlo Zaniolo},
+  title     = {ABS: a system for scalable approximate queries with accuracy guarantees},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1067-1070},
+}
+
+@inproceedings{DBLP:conf/sigmod/ElmagarmidIOQ0Y14,
+  author    = {Ahmed K. Elmagarmid and
+               Ihab F. Ilyas and
+               Mourad Ouzzani and
+               Jorge-Arnulfo Quiané-Ruiz and
+               Nan Tang and
+               Si Yin},
+  title     = {NADEEF/ER: generic and interactive entity resolution},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1071-1074},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChengMZK14,
+  author    = {Alex Cheng and
+               Mary Malit and
+               Chuanxi Zhang and
+               Nick Koudas},
+  title     = {SerpentTI: flexible analytics of users, boards and domains for pinterest},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1075-1078},
+}
+
+@inproceedings{DBLP:conf/sigmod/GalbrunM14,
+  author    = {Esther Galbrun and
+               Pauli Miettinen},
+  title     = {Interactive redescription mining},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1079-1082},
+}
+
+@inproceedings{DBLP:conf/sigmod/Garcia-AlvaradoO14,
+  author    = {Carlos Garcia-Alvarado and
+               Carlos Ordonez},
+  title     = {ONTOCUBO: cube-based ontology construction and exploration},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1083-1086},
+}
+
+@inproceedings{DBLP:conf/sigmod/EmrichFKNRZ14,
+  author    = {Tobias Emrich and
+               Maximilian Franzke and
+               Hans-Peter Kriegel and
+               Johannes Niedermayer and
+               Matthias Renz and
+               Andreas Züfle},
+  title     = {An extendable framework for managing uncertain spatio-temporal data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1087-1090},
+}
+
+@inproceedings{DBLP:conf/sigmod/TaoBHJWNELRS14,
+  author    = {Fangbo Tao and
+               George Brova and
+               Jiawei Han and
+               Heng Ji and
+               Chi Wang and
+               Brandon Norick and
+               Ahmed El-Kishky and
+               Jialu Liu and
+               Xiang Ren and
+               Yizhou Sun},
+  title     = {NewsNetExplorer: automatic construction and exploration of news information networks},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1091-1094},
+}
+
+@inproceedings{DBLP:conf/sigmod/MottinMRDPV14,
+  author    = {Davide Mottin and
+               Alice Marascu and
+               Senjuti Basu Roy and
+               Gautam Das and
+               Themis Palpanas and
+               Yannis Velegrakis},
+  title     = {IQR: an interactive query relaxation system for the empty-answer problem},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1095-1098},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangYFLY14,
+  author    = {Shiming Zhang and
+               Yin Yang and
+               Wei Fan and
+               Liang Lan and
+               Mingxuan Yuan},
+  title     = {OceanRT: real-time analytics over large temporal data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1099-1102},
+}
+
+@inproceedings{DBLP:conf/sigmod/AlagiannisIA14,
+  author    = {Ioannis Alagiannis and
+               Stratos Idreos and
+               Anastasia Ailamaki},
+  title     = {H2O: a hands-free adaptive store},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1103-1114},
+}
+
+@inproceedings{DBLP:conf/sigmod/SunFKX14,
+  author    = {Liwen Sun and
+               Michael J. Franklin and
+               Sanjay Krishnan and
+               Reynold S. Xin},
+  title     = {Fine-grained partitioning for aggressive data skipping},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1115-1126},
+}
+
+@inproceedings{DBLP:conf/sigmod/GaoJLO14,
+  author    = {Jinyang Gao and
+               Hosagrahar Visvesvaraya Jagadish and
+               Wei Lu and
+               Beng Chin Ooi},
+  title     = {DSH: data sensitive hashing for high-dimensional k-nnsearch},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1127-1138},
+}
+
+@inproceedings{DBLP:conf/sigmod/WuJZ14,
+  author    = {Yubao Wu and
+               Ruoming Jin and
+               Xiang Zhang},
+  title     = {Fast and unified local search for random walk based k-nearest-neighbor query in large graphs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1139-1150},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangMP14,
+  author    = {Jilian Zhang and
+               Kyriakos Mouratidis and
+               HweeHwa Pang},
+  title     = {Global immutable region computation},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1151-1162},
+}
+
+@inproceedings{DBLP:conf/sigmod/RanuHS14,
+  author    = {Sayan Ranu and
+               Minh X. Hoang and
+               Ambuj K. Singh},
+  title     = {Answering top-k representative queries on graph databases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1163-1174},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChiangDN14,
+  author    = {Yueh-Hsuan Chiang and
+               AnHai Doan and
+               Jeffrey F. Naughton},
+  title     = {Modeling entity evolution for temporal record matching},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1175-1186},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiLGZFH14,
+  author    = {Qi Li and
+               Yaliang Li and
+               Jing Gao and
+               Bo Zhao and
+               Wei Fan and
+               Jiawei Han},
+  title     = {Resolving conflicts in heterogeneous data by truth discovery and source reliability estimation},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1187-1198},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShenHW14,
+  author    = {Wei Shen and
+               Jiawei Han and
+               Jianyong Wang},
+  title     = {A probabilistic model for linking named entities in web text with heterogeneous information networks},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1199-1210},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhuSL0Z14,
+  author    = {Xiaochen Zhu and
+               Shaoxu Song and
+               Xiang Lian and
+               Jianmin Wang and
+               Lei Zou},
+  title     = {Matching heterogeneous event data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1211-1222},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChangWMJMGLCWSB14,
+  author    = {Lei Chang and
+               Zhanwei Wang and
+               Tao Ma and
+               Lirong Jian and
+               Lili Ma and
+               Alon Goldshuv and
+               Luke Lonergan and
+               Jeffrey Cohen and
+               Caleb Welton and
+               Gavin Sherry and
+               Milind Bhandarkar},
+  title     = {HAWQ: a massively parallel processing {SQL} engine in hadoop},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1223-1234},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuaiCGHHOPYL014,
+  author    = {Yin Huai and
+               Ashutosh Chauhan and
+               Alan Gates and
+               Günther Hagleitner and
+               Eric N. Hanson and
+               Owen O'Malley and
+               Jitendra Pandey and
+               Yuan Yuan and
+               Rubao Lee and
+               Xiaodong Zhang},
+  title     = {Major technical advancements in apache hive},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1235-1246},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiuHM14,
+  author    = {Zhen Hua Liu and
+               Beda Christoph Hammerschmidt and
+               Doug McMahon},
+  title     = {{JSON} data management: supporting schema-less development in {RDBMS}},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1247-1258},
+}
+
+@inproceedings{DBLP:conf/sigmod/ArasuEKR14,
+  author    = {Arvind Arasu and
+               Ken Eguro and
+               Raghav Kaushik and
+               Ravishankar Ramamurthy},
+  title     = {Querying encrypted data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1259-1261},
+}
+
+@inproceedings{DBLP:conf/sigmod/ShiCDO14,
+  author    = {Xiaogang Shi and
+               Bin Cui and
+               Gillian Dobbie and
+               Beng Chin Ooi},
+  title     = {Towards unified ad-hoc data processing},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1263-1274},
+}
+
+@inproceedings{DBLP:conf/sigmod/LangNRN14,
+  author    = {Willis Lang and
+               Rimma V. Nehme and
+               Eric Robinson and
+               Jeffrey F. Naughton},
+  title     = {Partial results in database systems},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1275-1286},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChengR14,
+  author    = {Yu Cheng and
+               Florin Rusu},
+  title     = {Parallel in-situ data processing with speculative loading},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1287-1298},
+}
+
+@inproceedings{DBLP:conf/sigmod/TrummerK14,
+  author    = {Immanuel Trummer and
+               Christoph Koch},
+  title     = {Approximation schemes for many-objective query optimization},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1299-1310},
+}
+
+@inproceedings{DBLP:conf/sigmod/HuangCQTY14,
+  author    = {Xin Huang and
+               Hong Cheng and
+               Lu Qin and
+               Wentao Tian and
+               Jeffrey Xu Yu},
+  title     = {Querying k-truss community in large and dynamic graphs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1311-1322},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhuLWX14,
+  author    = {Andy Diwen Zhu and
+               Wenqing Lin and
+               Sibo Wang and
+               Xiaokui Xiao},
+  title     = {Reachability queries on large dynamic graphs: a total order approach},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1323-1334},
+}
+
+@inproceedings{DBLP:conf/sigmod/MondalD14,
+  author    = {Jayanta Mondal and
+               Amol Deshpande},
+  title     = {EAGr: supporting continuous ego-centric aggregate queries over large dynamic graphs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1335-1346},
+}
+
+@inproceedings{DBLP:conf/sigmod/SricharanD14,
+  author    = {Kumar Sricharan and
+               Kamalika Das},
+  title     = {Localizing anomalous changes in time-evolving graphs},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1347-1358},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiuH14,
+  author    = {Ziyang Liu and
+               Hakan Hacigümüs},
+  title     = {Online optimization and fair costing for dynamic data sharing in a cloud data market},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1359-1370},
+}
+
+@inproceedings{DBLP:conf/sigmod/CaiGLPVJ14,
+  author    = {Zhuhua Cai and
+               Zekai J. Gao and
+               Shangyu Luo and
+               Luis Leopoldo Perez and
+               Zografoula Vagena and
+               Christopher M. Jermaine},
+  title     = {A comparison of platforms for implementing and running very large scale machine learning algorithms},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1371-1382},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangTPH14,
+  author    = {Ning Zhang and
+               Jun'ichi Tatemura and
+               Jignesh M. Patel and
+               Hakan Hacigümüs},
+  title     = {Re-evaluating designs for multi-tenant {OLTP} workloads on SSD-basedI/O subsystems},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1383-1394},
+}
+
+@inproceedings{DBLP:conf/sigmod/WongKCLY14,
+  author    = {Wai Kit Wong and
+               Ben Kao and
+               David Wai-Lok Cheung and
+               Rongbin Li and
+               Siu-Ming Yiu},
+  title     = {Secure query processing with data interoperability in a cloud database environment},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1395-1406},
+}
+
+@inproceedings{DBLP:conf/sigmod/OzcanTAKMRW14,
+  author    = {Fatma Özcan and
+               Nesime Tatbul and
+               Daniel J. Abadi and
+               Marcel Kornacker and
+               C. Mohan and
+               Karthik Ramasamy and
+               Janet L. Wiener},
+  title     = {Are we experiencing a big data bubble?},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1407-1408},
+}
+
+@inproceedings{DBLP:conf/sigmod/HanW14,
+  author    = {Jiawei Han and
+               Chi Wang},
+  title     = {Mining latent entity structures from massive unstructured and interconnected data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1409-1410},
+}
+
+@inproceedings{DBLP:conf/sigmod/BenderKG14,
+  author    = {Gabriel Bender and
+               Lucja Kot and
+               Johannes Gehrke},
+  title     = {Explainable security for relational databases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1411-1422},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhangCPSX14,
+  author    = {Jun Zhang and
+               Graham Cormode and
+               Cecilia M. Procopiuc and
+               Divesh Srivastava and
+               Xiaokui Xiao},
+  title     = {PrivBayes: private data release via bayesian networks},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1423-1434},
+}
+
+@inproceedings{DBLP:conf/sigmod/QardajiYL14,
+  author    = {Wahbeh H. Qardaji and
+               Weining Yang and
+               Ninghui Li},
+  title     = {PriView: practical differentially private release of marginal contingency tables},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1435-1446},
+}
+
+@inproceedings{DBLP:conf/sigmod/HeMD14,
+  author    = {Xi He and
+               Ashwin Machanavajjhala and
+               Bolin Ding},
+  title     = {Blowfish privacy: tuning privacy-utility trade-offs using policies},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1447-1458},
+}
+
+@inproceedings{DBLP:conf/sigmod/DignosBG14,
+  author    = {Anton Dignös and
+               Michael H. Böhlen and
+               Johann Gamper},
+  title     = {Overlap interval partition join},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1459-1470},
+}
+
+@inproceedings{DBLP:conf/sigmod/PatilS14,
+  author    = {Manish Patil and
+               Rahul Shah},
+  title     = {Similarity joins for uncertain strings},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1471-1482},
+}
+
+@inproceedings{DBLP:conf/sigmod/PolychroniouSR14,
+  author    = {Orestis Polychroniou and
+               Rajkumar Sen and
+               Kenneth A. Ross},
+  title     = {Track join: distributed joins with minimal network traffic},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1483-1494},
+}
+
+@inproceedings{DBLP:conf/sigmod/AugstenM0K14,
+  author    = {Nikolaus Augsten and
+               Armando Miraglia and
+               Thomas Neumann and
+               Alfons Kemper},
+  title     = {On-the-fly token similarity joins in relational databases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1495-1506},
+}
+
+@inproceedings{DBLP:conf/sigmod/AlvanakiM14,
+  author    = {Foteini Alvanaki and
+               Sebastian Michel},
+  title     = {Tracking set correlations at large scale},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1507-1518},
+}
+
+@inproceedings{DBLP:conf/sigmod/Thirumuruganathan0HD14,
+  author    = {Saravanan Thirumuruganathan and
+               Nan Zhang and
+               Vagelis Hristidis and
+               Gautam Das},
+  title     = {Aggregate estimation over a microblog platform},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1519-1530},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZhuGCL14,
+  author    = {Linhong Zhu and
+               Aram Galstyan and
+               James Cheng and
+               Kristina Lerman},
+  title     = {Tripartite graph clustering for dynamic sentiment analysis on social media},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1531-1542},
+}
+
+@inproceedings{DBLP:conf/sigmod/YinCCHH14,
+  author    = {Hongzhi Yin and
+               Bin Cui and
+               Ling Chen and
+               Zhiting Hu and
+               Zi Huang},
+  title     = {A temporal context-aware model for user behavior modeling in social media systems},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1543-1554},
+}
+
+@inproceedings{DBLP:conf/sigmod/ZoumpatianosIP14,
+  author    = {Kostas Zoumpatianos and
+               Stratos Idreos and
+               Themis Palpanas},
+  title     = {Indexing for interactive exploration of big data series},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1555-1566},
+}
+
+@inproceedings{DBLP:conf/sigmod/IstvanWA14,
+  author    = {Zsolt István and
+               Louis Woods and
+               Gustavo Alonso},
+  title     = {Histograms as a side effect of data movement for big data},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1567-1578},
+}
+
+@inproceedings{DBLP:conf/sigmod/RoyS14,
+  author    = {Sudeepa Roy and
+               Dan Suciu},
+  title     = {A formal approach to finding explanations for database queries},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1579-1590},
+}
+
+@inproceedings{DBLP:conf/sigmod/LeFevreSHTPC14a,
+  author    = {Jeff LeFevre and
+               Jagan Sankaranarayanan and
+               Hakan Hacigümüs and
+               Jun'ichi Tatemura and
+               Neoklis Polyzotis and
+               Michael J. Carey},
+  title     = {MISO: souping up big data query processing with a multistore system},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1591-1602},
+}
+
+@inproceedings{DBLP:conf/sigmod/TaoL14,
+  author    = {Wenbo Tao and
+               Guoliang Li},
+  title     = {Efficient {top-K} {SimRank-based} similarity join},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1603-1604},
+}
+
+@inproceedings{DBLP:conf/sigmod/Kroetsch14,
+  author    = {Curtis Kroetsch},
+  title     = {Multi-dimensional data statistics for columnar in-memory databases},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1605-1606},
+}
+
+@inproceedings{DBLP:conf/sigmod/Dev14,
+  author    = {Himel Dev},
+  title     = {A user interaction based community detection algorithm for online social networks},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1607-1608},
+}
+
+@inproceedings{DBLP:conf/sigmod/Xie14,
+  author    = {Min Xie},
+  title     = {EDS: a segment-based distance measure for sub-trajectory similarity search},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1609-1610},
+}
+
+@inproceedings{DBLP:conf/sigmod/Musleh14,
+  author    = {Mashaal Musleh},
+  title     = {Spatio-temporal visual analysis for event-specific tweets},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1611-1612},
+}
+
+@inproceedings{DBLP:conf/sigmod/FernandesBRAM14,
+  author    = {Kevin Fernandes and
+               Matteo Brucato and
+               Rahul Ramakrishna and
+               Azza Abouzied and
+               Alexandra Meliou},
+  title     = {PackageBuilder: querying for packages of tuples},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1613-1614},
+}
+
+@inproceedings{DBLP:conf/sigmod/Dev14a,
+  author    = {Himel Dev},
+  title     = {Privacy preserving social graphs for high precision community detection},
+  booktitle = sigmod,
+  year      = 2014,
+  pages     = {1615-1616},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChoudhuryHFC13,
+  author    = {Sutanay Choudhury and
+               Lawrence B. Holder and
+               John Feo and
+               George Chin Jr.},
+  title     = {Fast search for dynamic multi-relational graphs},
+  booktitle = sigmod,
+  year      = 2013,
+  pages     = {1-8},
+}
+
 @inproceedings{DBLP:conf/sigmod/HuangB013,
   author    = {Botong Huang and
                Shivnath Babu and
@@ -8,6 +4191,17 @@
   booktitle = sigmod,
   year      = 2013,
   pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/sigmod/DeriKPM13,
+  author    = {Joya A. Deri and
+               Soummya Kar and
+               Sergio Daniel Pequito and
+               José M. F. Moura},
+  title     = {Identifying small subsets of agents for behavior tracking and abnormal event detection in dynamic networks},
+  booktitle = sigmod,
+  year      = 2013,
+  pages     = {9-16},
 }
 
 @inproceedings{DBLP:conf/sigmod/XinRZFSS13,
@@ -21,6 +4215,24 @@
   booktitle = sigmod,
   year      = 2013,
   pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/sigmod/Miettinen13,
+  author    = {Pauli Miettinen},
+  title     = {Fully dynamic quasi-biclique edge covers via Boolean matrix factorizations},
+  booktitle = sigmod,
+  year      = 2013,
+  pages     = {17-24},
+}
+
+@inproceedings{DBLP:conf/sigmod/XieCS13,
+  author    = {Jierui Xie and
+               Mingming Chen and
+               Boleslaw K. Szymanski},
+  title     = {LabelRankT: incremental community detection in dynamic networks via label propagation},
+  booktitle = sigmod,
+  year      = 2013,
+  pages     = {25-32},
 }
 
 @inproceedings{DBLP:conf/sigmod/WongHL13,
@@ -56,7 +4268,7 @@
   author    = {Marcelo Arenas and
                Jonny Daenen and
                Frank Neven and
-               Martin Ugarte and
+               Martín Ugarte and
                Jan Van den Bussche and
                Stijn Vansummeren},
   title     = {Discovering {XSD} keys from {XML} data},
@@ -4083,7 +8295,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/WesleyET11,
-  author    = {Richard Wesley and
+  author    = {Richard Michael Grantham Wesley and
                Matthew Eldridge and
                Pawel Terlecki},
   title     = {An analytic data engine for visualization in tableau},
@@ -4901,7 +9113,7 @@
 @inproceedings{DBLP:conf/sigmod/TalukdarIP10,
   author    = {Partha Pratim Talukdar and
                Zachary G. Ives and
-               Fernando Pereira},
+               Fernando C. N. Pereira},
   title     = {Automatically incorporating new sources in keyword search-based data integration},
   booktitle = sigmod,
   year      = 2010,
@@ -12923,7 +17135,7 @@
                Yoonkyong Lee and
                AnHai Doan and
                Alon Y. Halevy and
-               Pedro Domingos},
+               Pedro M. Domingos},
   title     = {iMAP: Discovering Complex Mappings between Database Schemas},
   booktitle = sigmod,
   year      = 2004,
@@ -16114,7 +20326,7 @@
 
 @inproceedings{DBLP:conf/sigmod/DoanDH01,
   author    = {AnHai Doan and
-               Pedro Domingos and
+               Pedro M. Domingos and
                Alon Y. Halevy},
   title     = {Reconciling Schemas of Disparate Data Sources: A {Machine-Learning} Approach},
   booktitle = sigmod,
@@ -16126,7 +20338,7 @@
   author    = {Felipe Cariño and
                Pekka Kostamaa and
                Art Kaufmann and
-               John Burgess},
+               John G. Burgess},
   title     = {{StorHouse} Metanoia - New Applications for Database, Storage & Data Warehousing},
   booktitle = sigmod,
   year      = 2001,
@@ -16815,7 +21027,7 @@
   author    = {Simonas Saltenis and
                Christian S. Jensen and
                Scott T. Leutenegger and
-               Mario A. Lopez},
+               Mario A. López},
   title     = {Indexing the Positions of Continuously Moving Objects},
   booktitle = sigmod,
   year      = 2000,
@@ -22788,7 +27000,7 @@
 @inproceedings{DBLP:conf/sigmod/KupperSR93,
   author    = {Detlef Küpper and
                M. Strobel and
-               Dietmar Rösner},
+               Dietmar F. Rösner},
   title     = {{NAUDA} - A Cooperative, Natural Language Interface to Relational Databases},
   booktitle = sigmod,
   year      = 1993,
@@ -27395,7 +31607,7 @@
 
 @inproceedings{DBLP:conf/sigmod/ChiuH80,
   author    = {D. M. Chiu and
-               Y. C. Ho},
+               Yu-Chi Ho},
   title     = {A Methodology for Interpreting Tree Queries Into Optimal {Semi-Join} Expressions},
   booktitle = sigmod,
   year      = 1980,
